@@ -1,5 +1,6 @@
 package org.ulpgc.query_engine;
 
+import com.hazelcast.config.Config;
 import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.map.IMap;
@@ -11,14 +12,22 @@ import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 
+
 public class HazelQueryEngine implements SearchEngineInterface {
 
     private final HazelcastInstance hazelcastInstance;
     private final IMap<String, Object> map;
+    private Config config;
 
     public HazelQueryEngine() {
-        this.hazelcastInstance = Hazelcast.newHazelcastInstance();
+        this.config = new Config();
+        config.getNetworkConfig().getInterfaces()
+                        .setEnabled(true)
+                .addInterface("192.168.200.217"); // check your IP add yours! todo: make this work for lab computers
+        config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(true);
+        this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);
         this.map = hazelcastInstance.getMap("datamart-map");
+
     }
 
     /* Load the data from datamart2 into Hazelcast */

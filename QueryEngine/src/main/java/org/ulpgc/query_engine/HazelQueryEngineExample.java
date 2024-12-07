@@ -12,12 +12,15 @@ public class HazelQueryEngineExample {
         String datamartDirectory = "datamart2";
 
         // Load data into Hazelcast
+        /* todo: temporary solution only first computer should do this,
+             make only first computer in the network load data
+             */
         System.out.println("Loading data from " + datamartDirectory + " into Hazelcast...");
         queryEngine.loadData(datamartDirectory);
         System.out.println("Data loading complete.");
 
         // Define search criteria
-        String[] searchWords = {"summer", "winter"}; // Replace with actual words present in your datamart
+        String[] searchWords = {"winter"}; // Replace with actual words present in your datamart
         String indexer = ""; // Currently unused
         String title = null; // Placeholder
         String author = null; // Placeholder
