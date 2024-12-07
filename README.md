@@ -3,7 +3,7 @@
 if you have time.... there is stuff that needs to be done 😇:
 - [ ] download 2000 books check if you can upload to github/ zip file
 - [ ] Optimize the filePerWordInvertedIndex by using threads (Eduardo will take that part)
-- [ ] index those 2000 books (Eduardo will take that part once he have the books)
+- [ ] index those 2000 books (Eduardo will take that part once he has the books)
 - [ ] figure out git compose
 - [ ] connnect hazelcast with API
 - [ ] setup nginx (Eduardo will take that. Note: it should not take too much but it depends on the IP of the computers' lab and the port in which the API will be operating)
