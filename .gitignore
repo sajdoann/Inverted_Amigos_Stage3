@@ -1,0 +1,6 @@
+datamart2/
+datamart/
+trie_index_by_prefix/
+QueryEngine/target/
+InvertedIndex/target/
+Crawler/target/
