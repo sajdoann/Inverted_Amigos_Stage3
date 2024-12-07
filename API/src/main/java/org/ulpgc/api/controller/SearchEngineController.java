@@ -4,17 +4,17 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.ulpgc.query_engine.HazelQueryEngine;
 import org.ulpgc.query_engine.MultipleWordsResponseList;
-import org.ulpgc.query_engine.SearchEngine;
 import org.ulpgc.query_engine.TextFragment;
 
 @RestController
 public class SearchEngineController implements SearchEngineControllerInterface {
 
-    private final SearchEngine searchEngine;
+    private final HazelQueryEngine searchEngine;
 
     public SearchEngineController() {
-        this.searchEngine = new SearchEngine();
+        this.searchEngine = new HazelQueryEngine();
     }
 
     @Override

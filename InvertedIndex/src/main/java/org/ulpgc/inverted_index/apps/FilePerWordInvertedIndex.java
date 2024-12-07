@@ -100,9 +100,21 @@ public class FilePerWordInvertedIndex implements InvertedIndex {
 
     public static void main(String[] args) {
         String books_path = "gutenberg_books";
-        String datamart = "datamart2/%s.txt";
+        String datamart_path = "datamart2";
+        String datamart = String.format("%s/%s.txt", datamart_path, "%s");
         String books_indexed = "InvertedIndex/indexed_docs2.txt";
         String stopwords = "InvertedIndex/stopwords.txt";
+
+        // create datamart2 if not already exists
+        File directory = new File(datamart_path);
+        if (!directory.exists()) {
+            if (directory.mkdir()) {
+                System.out.println("Directory 'datamart2' created successfully.");
+            } else {
+                System.out.println("Failed to create directory 'datamart2'.");
+            }
+        }
+
         GutenbergTokenizer gutenbergTokenizer = new GutenbergTokenizer(stopwords);
         FilePerWordInvertedIndex filePerWordInvertedIndex = new FilePerWordInvertedIndex(books_path, datamart, books_indexed, gutenbergTokenizer);
         //filePerWordInvertedIndex.index("gutenberg_books/84.txt");

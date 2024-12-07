@@ -1,27 +1,18 @@
 package org.ulpgc.query_engine;
 
 public class TextFragment {
-    private String line;
-    private int position;
+    private final String content;
 
-    public TextFragment(String line, int position) {
-        this.line = line;
-        this.position = position;
+    public TextFragment(String content) {
+        this.content = content;
     }
 
-    public String getLine() {
-        return line;
+    public String getContent() {
+        return content;
     }
 
-    public void setLine(String line) {
-        this.line = line;
-    }
-
-    public int getPosition() {
-        return position;
-    }
-
-    public void setPosition(int position) {
-        this.position = position;
+    public String getText() {
+        return content;
     }
 }
+
