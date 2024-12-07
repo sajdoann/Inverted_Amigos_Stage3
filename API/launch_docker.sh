@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # run with ./launch_docker.sh in Inverted_Amigos_Stage2/API
 
