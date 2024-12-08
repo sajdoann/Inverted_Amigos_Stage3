@@ -42,8 +42,6 @@ public class PlainTextDatamartWriter implements DatamartWriter {
                 boolean newFile = file.createNewFile();
             } catch (IOException e) {
                 throw new RuntimeException(e);
-            } finally {
-                System.out.println(word);
             }
         }
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(file, true))) {

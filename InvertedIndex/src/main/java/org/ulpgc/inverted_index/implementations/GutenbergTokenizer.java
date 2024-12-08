@@ -43,7 +43,7 @@ public class GutenbergTokenizer implements Tokenizer {
                 .collect(Collectors.toList());
 
         for (String line : lines) {
-            String[] words = line.replaceAll("[\\[\\]\\\\,.;:º\\dª&`´\\-_()¡\"!?¿{}=+<>|^“‘/$™%—•*”]", " ").split("\\s+");
+            String[] words = line.replaceAll("[\\[\\]\\\\,.;:º\\dª&`’´\\-_()¡\"!?¿{}=+<>|^“‘/$™%—•*”]", " ").split("\\s+");
 
             for (String word : words) {
                 if (!word.isEmpty()) {

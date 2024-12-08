@@ -45,7 +45,6 @@ public class FilePerWordInvertedIndex implements InvertedIndex {
             assert files != null;
             for (File file: files){
                 if (file.isFile()){
-                    System.out.println(file);
                     books_path.add(file.getPath().replaceAll("\\\\", "/"));
                 }
             }
