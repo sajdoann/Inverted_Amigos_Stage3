@@ -14,12 +14,12 @@ public class GetTextFragmentBenchmark {
     private int word_id;
     private int text_id;
 
-    private SearchEngine searchEngine;
+    private SearchEngineInterface searchEngine;
 
     @Setup(Level.Trial)
     public void setup() {
         text_id = 100;
-        searchEngine = new SearchEngine();
+        searchEngine = new HazelQueryEngine();
     }
 
     @Benchmark

@@ -13,13 +13,13 @@ public class SearchEngineBenchmark {
     @Param({"hashed", "trie", "directory"})
     private String indexer;
 
-    private SearchEngine searchEngine;
+    private SearchEngineInterface searchEngine;
     private String[] words1, words2;
     private String author, language;
 
     @Setup(Level.Trial)
     public void setup() {
-        searchEngine = new SearchEngine();
+        searchEngine = new HazelQueryEngine();
         words1 = new String[1];
         words1[0] = "love";
         words2 = new String[2];
