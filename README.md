@@ -7,7 +7,7 @@ if you have time.... there is stuff that needs to be done 😇:
 - [ ] figure out git compose
 - [ ] connnect hazelcast with API
 - [ ] setup nginx (Eduardo will take that. Note: it should not take too much but it depends on the IP of the computers' lab and the port in which the API will be operating)
-- [ ] figure out automatic changing of IP adresses so computers would connect at the same network (fe parameter for docker image)
+- [x] figure out automatic changing of IP adresses so computers would connect at the same network (fe parameter for docker image) <- wildcard works 192.168.186.*
 - [ ] check if hazelcast handels 2000 books (should, but?)
 - [ ] images for crawler, indexer
 - [ ] imaage for API with Hazel
