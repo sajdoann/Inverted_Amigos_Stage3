@@ -122,26 +122,59 @@ public class CrawlerThread implements ICrawler {
 
     @Override
     public void fetchBooks(int n) {
+        int count = 0;
+        int startIndex = 1;
+        String nextPage = baseUrl + "/ebooks/search/?sort_order=title&start_index=" + startIndex;
+        CompletionService<Void> completionService = new ExecutorCompletionService<>(executor);
+
         try {
-            Document searchPage = Jsoup.connect(baseUrl + "/ebooks/search/?sort_order=downloads").get();
-            Elements bookLinks = searchPage.select("li.booklink a");
+            while (count < n && nextPage != null) {
+                System.out.println("Fetching from: " + nextPage);  // Debugging
+                Document searchPage = Jsoup.connect(nextPage).timeout(10000).get();
 
-            int count = 0;
-            for (Element link : bookLinks) {
-                if (count >= n) break;
+                // Select book links on the current page
+                Elements bookLinks = searchPage.select("li.booklink a[href^='/ebooks/']");
+                System.out.println("Books found on page: " + bookLinks.size());  // Debugging
 
-                // Ejecutar cada descarga en un hilo del pool
-                String bookLink = link.attr("href");
-                executor.submit(() -> downloadBook(bookLink));
+                if (bookLinks.isEmpty()) {
+                    System.err.println("No books found on page, stopping...");
+                    break;
+                }
 
-                count++;
+                // Submit download tasks until reaching the limit
+                for (Element link : bookLinks) {
+                    if (count >= n) break;
+
+                    String bookLink = link.attr("href");
+                    System.out.println("Submitting book: " + bookLink);  // Debugging
+
+                    completionService.submit(() -> {
+                        downloadBook(bookLink);
+                        return null;
+                    });
+                    count++;
+                }
+
+                // Update next page link by incrementing the start index
+                startIndex += 25;
+                nextPage = baseUrl + "/ebooks/search/?sort_order=title&start_index=" + startIndex;
+                System.out.println("Next page: " + nextPage);  // Debugging
             }
-        } catch (IOException e) {
+
+            // Wait for all tasks to complete
+            for (int i = 0; i < count; i++) {
+                completionService.take();  // Wait for each task to finish
+            }
+
+            System.out.println("Total books downloaded: " + count);
+        } catch (IOException | InterruptedException e) {
             System.err.println("Error fetching book list: " + e.getMessage());
+            Thread.currentThread().interrupt();
         } finally {
             shutdownExecutor();
         }
     }
+
 
     private void shutdownExecutor() {
         executor.shutdown();
