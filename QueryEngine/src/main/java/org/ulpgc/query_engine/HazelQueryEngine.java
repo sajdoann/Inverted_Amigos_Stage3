@@ -23,7 +23,7 @@ public class HazelQueryEngine implements SearchEngineInterface {
         this.config = new Config();
         config.getNetworkConfig().getInterfaces()
                         .setEnabled(true)
-                .addInterface("192.168.200.217"); // check your IP add yours! todo: make this work for lab computers
+                .addInterface("192.168.186.*"); // check your IP add yours! todo: make this work for lab computers
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(true);
         this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);
         this.map = hazelcastInstance.getMap("datamart-map");

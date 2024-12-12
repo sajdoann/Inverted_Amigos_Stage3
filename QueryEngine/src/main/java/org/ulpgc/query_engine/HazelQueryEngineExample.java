@@ -1,48 +1,48 @@
 package org.ulpgc.query_engine;
 
-import java.util.List;
+import java.util.Scanner;
 
 public class HazelQueryEngineExample {
 
     public static void main(String[] args) {
-        // Initialize HazelQueryEngine
         HazelQueryEngine queryEngine = new HazelQueryEngine();
 
-        // Specify the directory containing datamart files
         String datamartDirectory = "datamart2";
 
-        // Load data into Hazelcast
-        /* todo: temporary solution only first computer should do this,
-             make only first computer in the network load data
-             */
         System.out.println("Loading data from " + datamartDirectory + " into Hazelcast...");
         queryEngine.loadData(datamartDirectory);
         System.out.println("Data loading complete.");
 
-        // Define search criteria
-        String[] searchWords = {"winter"}; // Replace with actual words present in your datamart
-        String indexer = ""; // Currently unused
-        String title = null; // Placeholder
-        String author = null; // Placeholder
-        String date = null; // Placeholder
-        String language = null; // Placeholder
+        Scanner scanner = new Scanner(System.in);
 
-        // Perform a search
-        System.out.println("Performing search...");
-        MultipleWordsResponseList searchResults = queryEngine.searchForMultiplewithCriteria(indexer, searchWords, title, author, date, language);
+        System.out.println("Bienvenido al motor de búsqueda interactivo. Escribe 'salir' para terminar.");
 
-        // Display the search results
-        System.out.println("Search results:");
-        searchResults.getResults().forEach(result -> {
-            System.out.println("Book ID: " + result.getBookId());
-            System.out.println("Word: " + result.getWord());
-            System.out.println("Positions: " + result.getPositions());
-        });
+        while (true) {
+            System.out.print("Introduce palabras para buscar (separadas por comas): ");
+            String input = scanner.nextLine();
 
-        // Example: Get part of a book containing a specific word
-        Integer bookId = 1; // Replace with a valid book ID
-        Integer wordId = 42; // Replace with a valid word ID
-        TextFragment fragment = queryEngine.getPartOfBookWithWord(bookId, wordId);
-        System.out.println("Text fragment: " + fragment.getText());
+            if (input.equalsIgnoreCase("salir")) {
+                System.out.println("Saliendo...");
+                break;
+            }
+
+            String[] searchWords = input.split(",");
+
+            System.out.println("Buscando palabras: " + String.join(", ", searchWords));
+            MultipleWordsResponseList results = queryEngine.searchForMultiplewithCriteria("", searchWords, null, null, null, null);
+
+            if (results.getResults().isEmpty()) {
+                System.out.println("No se encontraron resultados para las palabras especificadas.");
+            } else {
+                results.getResults().forEach(result -> {
+                    System.out.println("Book ID: " + result.getBookId());
+                    System.out.println("Word: " + result.getWord());
+                    System.out.println("Positions: " + result.getPositions());
+                });
+            }
+
+            System.out.println(); // Línea en blanco para separar búsquedas
+        }
+        scanner.close();
     }
 }

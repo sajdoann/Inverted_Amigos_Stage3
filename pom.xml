@@ -19,7 +19,6 @@
         <module>Crawler</module>
         <module>InvertedIndex</module>
         <module>QueryEngine</module>
-        <module>HazelQuery</module>
     </modules>
 
     <dependencies>
