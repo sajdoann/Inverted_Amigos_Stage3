@@ -1,0 +1,2737 @@
++------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Gesperrter Text ist als _gesperrt_ dargestellt.                  |
+  | Eine Liste der Änderungen befindet sich am Ende des Buchs.       |
+  +------------------------------------------------------------------+
+
+
+
+
+Die altindische Säule.
+
+
+
+
+                        Die altindische Säule.
+
+                            Ein Beitrag zur
+                              Säulenkunde
+
+                                  von
+                        Dr.-Ing. Hans Sohrmann.
+
+                          Mit 57 Abbildungen.
+
+                            [Illustration]
+
+                               DRESDEN.
+                     Verlag von Gerhard Kühtmann.
+                                 1906.
+
+
+
+
+[Illustration]
+
+
+
+
+Inhalt.
+
+
+                                                         Seite
+
+  Einführung.
+
+      A. Einzelsäulen.
+
+          Kapitel 1. Indopersischer Typus                    7
+          Kapitel 2. Indoklassischer Typus                  27
+
+      B. Konstruktive Säulen.
+
+          Kapitel 3. Steinzaunpfeiler                       35
+          Kapitel 4. Deckentragende Säulen                  43
+          Kapitel 5. Das Polsterkapitell                    59
+          Kapitel 6. Das Vasenkapitell                      66
+
+  Schlußwort                                                75
+
+  Verzeichnis der Abbildungen mit Angabe der Quellen        77
+
+  Verzeichnis der hauptsächlich benutzten Quellenwerke      79
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+Vorwort.
+
+
+Schon beim Vorentwurfe dieser Abhandlung, welche erst nach mehrfachem
+Umarbeiten die vorliegende Gestalt annahm, entschloß ich mich, den
+ersten Abschnitt des indischen Säulenbaues -- als indisches Altertum --
+bis ins 8. Jahrhundert n. C. auszudehnen. Einmal führt eine untrennbare
+Entwicklungsreihe bis zu dieser Zeit, und zum anderen weist alsdann die
+Architekturgeschichte Indiens eine 300jährige Lücke vor, nach welcher
+unvermittelt die wesentlich verschiedene Formensprache des Mittelalters
+einsetzt.
+
+Das Anschauungsmaterial, dessen Fundstätten in der Übersichtskarte
+durch volle Punkte gekennzeichnet sind, habe ich einer selbständigen
+Bearbeitung unterzogen, wenn sich eine Quelle für hier gegebene
+Zwecke nicht ausreichend zeigte. So ist eine beträchtliche Anzahl von
+Quellenangaben im Illustrationsverzeichnisse gewissermaßen nur als
+Hauptanhaltspunkte meiner Darstellung aufzufassen, welche noch andere
+Werke zu ergänzendem Aufschlusse heranzog.
+
+                                                          Hans Sohrmann.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+Einführung.
+
+
+Auf dem Studium des Alten, auf der bauschaffenden Überlieferung als
+Grundlage kann allein eine Moderne im besten Sinne des Wortes erstehen.
+Wie aber schaute es allgemein bis vor wenigen Jahren noch mit diesem
+Quellenstudium in Wirklichkeit aus! Es fühlte und schuf der Architekt
+nach klassischem und mittelalterlichem Muster, ganz abgesehen dabei,
+mit wieviel eigenem Verdienst. Diese Vorbilder galten ihm als höchste
+Instanz, als die festen Wertungen aller vergleichenden Kritik. Unwürdig
+und überwunden aber mußte solch landläufig beschränkte Tradition
+unserer neuen Richtung erscheinen, vielmehr verlangt dieser kraftvoll
+einsetzende Pulsschlag nach ununterbrochener, sich ausgleichend
+ergänzender Säfteaufnahme aus dem gesamten historischen Formenvorrat
+des Bauschaffens. So galt es denn seit dem Auftreten der befreienden
+Strömung, stetig Umschau zu halten nach frischer Anregung, nach
+ergiebigen Fundstätten eigenartiger Formenharmonie. Die köstlichsten
+Schätze bietet altvaterländische Bauweise. Doch so recht das Kind
+seiner Zeit, die unter dem Zeichen des Verkehrs die entferntesten
+Gebiete der Forschung erschließt, schweift der Geist der Moderne auch
+weit über die Grenzen der Heimat, die Sprachen fremder Kunst intensiv
+zu erfassen und originell zu verwerten. Muten nicht beispielsweise
+manche neuzeitliche Werke in ihrer zuweilen gar übertriebenen Wucht
+an wie Schöpfungen aus Ägypten etwa oder dem Zweistromlande? -- Und
+doch ist eine der reichsten Fundgruben für ein lebenzeugendes Studium
+vergangener Architektur heute künstlerisch noch kaum erst entdeckt,
+noch völlig unausgebeutet -- die indische Formenwelt. --
+
+In Holz, das wohl bearbeitbar der Gestaltungskraft des Künstlers einen
+freien Spielraum ließ, bauten im Anfange alle Indogermanen. So wird
+unser fachliches Interesse in leicht erkennbarer Gedankenfolge von
+selbst nach der fernen Wiege des gewaltigen Völkerzweiges gewiesen, auf
+die früheste Baukunst Indiens. Nur die persische Architektur erreicht
+zu gewissem Grade das bestimmende Gepräge des Holzbauursprunges dieser
+Hindukunst. Während jedoch persische Formen im Steinbau des Westens
+zur letzten Konsequenz entwickelt und abgeschlossen wurden durch das
+Griechentum, bleibt die indische Baukunst durch natürliche Lage streng
+abgetrennt als ein Architekturkosmos für sich. Im Lande gezeugt,
+schwebt sie zur Zeit noch als lebendige Tradition dem Architekten bei
+seinen Bauten vor, nicht erstarrt zum bloßen Dekorationsapparat, wie
+in gewissem Sinne die klassische Formenwelt, die als fremdes Moment in
+fremdem Gebiete, in fremdem Volksgeiste weitergeführt wird.
+
+In dieser lokalen Abgeschiedenheit muß auch der Grund erblickt werden,
+weshalb erst in verhältnismäßig jüngster Zeit genauere Kunde über
+Indiens Bauschaffen nach Europa gedrungen ist. Dank den Aufschlüssen
+englischer und französischer Forscher haben sich nun Ausblicke in eine
+ferne Kunstblüte erschlossen, die in ihrer Herrlichkeit wie Erträumtes
+anmutet. In dem alten Märchenlande, das dem Westen auf literarischem
+Gebiete so erhabene, so reizvolle, so tiefinnige Schöpfungen schenkte,
+bietet auch die bildende Kunst in der Architektur ungeahnte Schätze.
+Darum Licht in die mystischen Vorstellungen von indischen Höhlen-
+und Pagodenzerrbildern, wie sie in unserer Mitte noch spuken. Sollte
+denn ein Volk, das in Philosophie, Dichtkunst und Ethik ebenbürtig an
+geistiger Größe der Antike zur Seite steht, in der »_Erz_kunst« versagt
+haben? Je mehr der forschende Architekt eindringt in das innerste
+Wesen jener eigenartigen, abseits stehenden Kunstentwickelung, desto
+überzeugter und begeisterter wird er dem berühmtesten Kenner indischen
+Bauschaffens, Fergusson, zu seinem Urteile beipflichten:
+
+»Whether successful or not, it seems well worth while that an attempt
+should be made to interest the public in Indian architectural art;
+first, because the artist and architect will certainly acquire broader
+and more varied views of their art by its study than they can acquire
+from any other source.«[1]
+
+Wahrhaftig, ein tüchtiges Stück Arbeit ist es allerdings,
+hindurchzudringen durch das Labyrinth indischen Bauschaffens, zumal
+ausführlichere Literatur über dieses Gebiet sehr sporadisch in der
+Kunstgeschichte auftritt. Erst 1903 half Le Bons Illustrationswerk
+»Les Monuments de l'Inde« in Frankreich dem dringendsten Bedürfnis
+einer einigermaßen Aufschluß bietenden Quelle ab. England ist
+bisher bahnbrechend der einschlägigen Forschung vorangeschritten.
+Dem deutschen Volke aber ist leider noch kein auch nur zu gewissem
+Grade erschöpfendes Werk beschieden. Sollte es dem Verfasser des
+vorliegenden bescheidenen Essays gelingen, wenigstens ein Kleines
+mitzuwirken, das Verlangen unserer baukünstlerischen Kreise nach einer
+grundlegenden Behandlung dieses vielversprechenden Abschnittes der
+Architekturgeschichte zu wecken und damit ihr Erscheinen näher zu
+rücken, so würde er sich reich belohnt schätzen. Denn Pflicht ist es
+jedes Architekten, der den Werdegang seines Faches verstehen will und
+soll, auch diese ferne Kunstblüte in ihrer glänzenden Einzelstellung
+zu studieren, zu würdigen als das künstlerische Vermächtnis eines
+hochbegabten, ästhetisch fein geschulten Völkerzweiges von gewaltiger
+Mächtigkeit.
+
+Außer diesem allgemein kunsthistorischen Werte fesselt Indiens
+Bauschaffen im besonderen durch ein tatsächlich einzig dastehendes
+Kapitel, welches dem umfassenden Studium architektonischer Tradition
+eine hochwichtige, abschließende Ergänzung zu gewähren vermag, -- das
+unübertroffene dekorative Genie des indischen Volksgeistes! Wenn wir im
+ägyptischen und mesopotamischen Altertum überwältigende Monumentalität,
+in der Antike ein bis ins Feinste durchdachtes Gesetz der Verhältnisse,
+im Mittelalter eine energische Betonung des konstruktiven
+Grundgedankens, in der Renaissance ein selbstschöpferisches
+Verschmelzen abgeschlossener Bauformen und Bauprinzipien zu
+meisterlicher Vollendung geleitet sehen, so bietet vorzüglich Indiens
+Altertum köstliche Beispiele, dem Auge des Architekten den Höhepunkt
+dekorativer Gestaltungsfreiheit und durchgebildetster Ornamentik
+vorzuführen. Und nie wird diese ungezügelte Urkraft einer unendlich
+reich befruchteten Phantasie an den alten Hinduwerken, da noch Ornament
+und konstruktiver Organismus harmonisch ineinander greifen, ihres
+eigentümlichen Zaubers entbehren.
+
+Mit gutem Rechte werden die Werke des Altertums nach jeweiliger
+Zahl ihrer Deckenstützen gekennzeichnet, denn es bot ja vor dem
+Auftreten raumbildender Wölbung die Säule allein die Möglichkeit des
+Deckenabschlusses größerer Räume. Naturgemäß sprachen sich gerade
+an diesem Konstruktionsgliede die jedem Stile eigenen Merkmale
+bedeutungsvoll aus. Auch im indischen Altertum zeigt ein Überblick
+durchweg Säulenbau. Denn abgesehen von den Stúpas, welche als gewaltige
+Steinhaufen -- wenn anders solch drastische Bezeichnung erlaubt sein
+mag -- architektonisch kaum in Betracht kommen, läßt diese Baukunst
+Láts oder Stambhas, die Einzelsäulen, und Steinbalkenzäune, Chaityas
+oder Kultuszwecken dienende Versammlungshallen und Viháras oder Klöster
+erstehen, -- also entweder selbständige Säulen- und Pfeilergebilde oder
+lediglich durch solche erzielte Raumschöpfungen. Begründet erscheint
+es so, daß die Säule zu eingehender Betrachtung herausgegriffen wird,
+um eine Kristallisation indischen Baustiles in seiner reinsten Epoche,
+im Altertum, zu bieten. Mag darum die Entwickelung der Säule in das
+Empfinden und Schaffen jenes eigenartigen Kunstgeistes einweihen, mag
+sie uns einen sicheren Weg weisen durch das weite Brachfeld einer
+neuen, unerschöpflich reichen Formenwelt!
+
+[Illustration]
+
+[Illustration: Abbildung 1.]
+
+
+
+
+[Illustration]
+
+
+
+
+A. Einzelsäulen.
+
+
+
+
+Kapitel 1.
+
+Indopersischer Typus.
+
+
+Wenn überhaupt eine der indischen Säulenarten all die Eigenheiten,
+Vorzüge wie Schwächen, der alten Kunst der Halbinsel zu verkörpern
+vermöchte, so wäre es die Einzelsäule. In ununterbrochener Folge
+von Asokas Zeit (276-240 v. C.) bis zum Eintritt in das Mittelalter
+ist die historische Entwicklung der Stambhas aufs engste verknüpft
+mit dem Ringen und Verflachen dieses fernen Kunstlebens. Zu
+Hunderten haben diese Láts Altindien kennzeichnend geschmückt,
+sei es als ragende Wahrzeichen des Glaubens auf Hügelrücken und
+vor heiligen Stätten oder als Wegrichten einer Pilgerstraße, sei
+es als Reichsgrenzen eines Monarchen oder als Siegesmale auf dem
+Schlachtfelde. -- Manches nach klassischem Schönheitsideale geschulte
+Auge freilich wird durch die schlichten Monolithe, besonders
+frühester Zeit, vielleicht nicht auf den ersten Blick gefesselt
+werden, doch ist eine künstlerische Berechtigung, ein gewisses
+Gesetz eigenartiger Harmonie diesen ehrwürdigen Resten altindischer
+Kultur keinesfalls abzusprechen. Am besten wird meines Dafürhaltens
+dem originellen Wesen der Láts Gerechtigkeit zu teil werden, wenn
+die Möglichkeit geboten wird, sich eigenes Urteil durch ein genaues
+Eingehen auf diese Werke zu bilden, an der Hand einer Auslese von
+interessanten und besterhaltenen Beispielen. --
+
+Allerorts, wo es im orientalischen Altertum galt, die Macht des
+Herren darzustellen, findet sich als typisches Symbol ein Phallus
+errichtet, der realistische Ausdruck männlicher Zeugungskraft,
+-- so in babylonisch-assyrischen Grab- und Grenzstelen oder im
+göttlich verehrten Lingam Zentralasiens. Auf gleiche Urbedeutung muß
+wahrscheinlich die buddhistische Einzelsäule zurückgeführt werden.
+Berichtet doch Cunningham in seinen Reports[2], daß gegenwärtig noch
+die Asokasäule von Navandgarh im Volksmunde »Laur«, das ist eben
+Phallus, genannt werde. Und in ganz entgegengesetzten Teilen der
+Halbinsel kehrt diese Bezeichnung wieder.
+
+[Illustration: Abbildung 2.]
+
+Im Stein zwar treten die ältesterhaltenen Láts aus dem dritten
+Jahrhundert v. C. auf, doch in ihrer Gesamtgestaltung unabweisbar an
+Holzcharakter gemahnend. Einem stolz aufstrebenden Nadelholzstamme
+gleich mutet der überschlanke Stambhaschaft an. Wie käme auch der
+Steinmetz darauf, immerhin schon vertraut mit dem neuen Material,
+Rundsäulen von mehr als 12 U.D. Höhe monolith aus dem Bruche
+herauszuarbeiten, wenn nicht Erinnerung an den Holzbau Einfluß gehabt
+hätte? Zudem tritt ja die Erscheinung ähnlicher Säulengebilde aus
+entrindeten Bäumen übereinstimmend in der architektonischen Kindheit
+der verschiedensten Völker auf. Assyrische Reliefs beispielsweise
+zeigen Zeltpfähle, die ebenso elegant wie energisch in tierischen
+Einzelfiguren ihren Abschluß finden. Und zur Zeit noch künden in
+Alaska Stämme, die von geschnitzten Tier- und Götzengestalten bekrönt
+sind, in grellen Farben den Anlaß ihrer Errichtung. Wahrscheinlich
+mit Vorbedacht wurde als Material der Láts ein feinkörniger Sandstein
+gewählt, der leicht bearbeitbar zum Übergange von Holz zu Stein
+insonderheit geeignet erschien.
+
+[Illustration: Abbildung 3.]
+
+Ohne jedwede Basis oder Gliederung weist der sorgfältig geglättete
+Schaft mit energischer Betonung zu dem wichtigsten Teile des Monoliths
+empor, zur Kapitellbildung. Ein herabhängender Kranz von Lotosblättern
+umschmiegt die Säule derart, daß sein Umriß wohl am besten als
+Glockenform charakterisiert sein dürfte. Für das naturalistische
+Urmotiv dieses Gliedes stehen sich verschiedene Deutungen gegenüber.
+Die eine läßt an den Stamm jene schilfartigen Blätter binden, die
+heruntersinkend sich überschlagen und dadurch ihren Halt verdecken.
+Eine andere, besonders von Adamy verfochtene Hypothese geht von der
+Betrachtung aus, daß ein Blumenkelch als tragendes Kapitellglied
+logische Verwendung finde, wenn der Blattkranz nicht vom Abakus
+heruntergedrückt, sondern nach Herausnahme der Blütenkrone gleichsam
+umgekehrt über den Schaft gestülpt sei. Ein vergleichender Blick auf
+persische Kapitellform läßt aber noch eine dritte Annahme aufkommen.
+Deutlich unterscheiden sich dort (Abb. 2) ein aufstrebender und ein
+überfallender Blätterkranz. Sollte vielleicht diese Anordnung als
+Rest einer Palmenkrone aufzufassen sein? Wenngleich stilisiert und
+von rechter Größe reduziert, scheint die Gesamtanlage dieser floralen
+Kapitellteile einer solchen Vermutung nicht entgegenzustehen. Um nun
+unter gleichem Gesichtspunkte den indischen Typus zu betrachten, so
+hätte dabei der Künstler, bewußt oder nicht, nur die übergebogene
+Laubkrone dargestellt. -- Nächstdem soll geprüft werden, inwieweit
+wohl persische und indische Kapitellgestaltung verwandt sind, hier
+aber genüge als vorläufige Rechtfertigung der herangezogenen Analogie,
+auf die auffällige Ähnlichkeit der Hals- und Deckplattendekoration
+hinzudeuten. Unmittelbar erinnern Eierstab, Perlstab, Lotos-,
+Geißblatt- oder Kugelornament an persische Formen, wofür Abbildung 3
+einen überzeugenden Beleg bieten mag. Je älter der Stambha, desto
+schärfer tritt dies hervor. Denn bald wird der fremde Schmuck in
+heimische Bildungen umgesetzt, wie etwa Blattgewinde, einen Schwarm
+heiliger Gänse, Tierprozessionen oder auch abstrakte Muster und
+emblematische Formen des Glaubens. Diese Symbole (Abb. 4) erscheinen
+kurzer Erwähnung wohl wert, da häufig ihre Gegenwart allein auf den
+verschlungenen Pfaden indischen Bauschaffens die Zugehörigkeit zum
+Buddhismus und damit wichtige Fingerzeige für die Altersschätzung eines
+Monumentes angibt. Der Dreizack ist einer dogmatischen Dreifaltigkeit
+entsprungen. Verquickt mit diesem sogenannten Trisúl oder selbständig
+findet sich das Rad, welches auf eine Vorstellung des göttlichen
+Gesetzes als Sinnbild der Gerechtigkeit zurückzuführen ist. Für
+Schild und Lotosblüte wurde bisher noch keine zweifellos erwiesene
+Bedeutung beigebracht. Auch als skulpturale Bekrönungen des rund,
+quadratisch und rechteckig auftretenden Abakus bildet der Architekt
+diese Glaubenssymbole aus, obgleich in den weitaus häufigsten Fällen
+Tiergestalten diesem Zwecke dienen, einzeln oder in Gruppen, in steter
+Variation.
+
+[Illustration: Abbildung 4.]
+
+[Illustration: Abbildung 5. (Nach Relief.)]
+
+[Illustration: Abbildung 6. (Nach Relief.)]
+
+Gesamt- wie Einzelgestaltung der ältesten Látkapitelle weisen
+so augenfällig auf den persischen Typus hin, daß es unerläßlich
+erscheint, diese Analogie mitsamt einer historischen Erklärung näher
+zu beleuchten. Münzenfunde und Keilinschriften stempeln den Bericht
+Herodots zu geschichtlicher Tatsache, daß ein ausgedehntes Gebiet
+Nordindiens bis weit östlich vom Indusnetze unter dem Namen Arachosien
+eine der Zwanzig Satrapien des Achmenidenreiches bildete. Etwa auf die
+Zeit vom 5. bis 3. Jahrhundert v. C. ist eine Verschmelzung beider
+Kulturen einzuschätzen. Der späte Übergang des indischen Bauschaffens
+von Holz zu Stein im 3. Jahrhundert v. C. macht sichere Aufschlüsse
+über Zeitdauer und Art des fremden Einflusses, der sich in der
+Hauptsache an der Säule kundtut, vor diesem Wendepunkte unmöglich.
+Doch von seinem Grade und seiner Ausbreitung ein klares Bild zu
+gewähren, genügen die _indopersischen_ Látreste, wie Cunningham diese
+Stilmischung bezeichnet. Zu Tausenden liefern im Indusstromgebiet
+Reliefs von Säulengebilden durch Zahl wie engstes Anlehnen an persische
+Urform das in geographischer Hinsicht nahezu selbstverständliche
+Ergebnis, daß der fremde Stil auf diesem Wege nach dem Herzen der
+Halbinsel gedrungen ist. Zu vorliegendem Punkte sei nicht unterlassen,
+Cunninghams Fund von arischen Lettern, welche nur in Nordindien
+gebräuchlich waren, an Balustern von Bhárhut in Zentralindien
+anzuführen.[3] -- Ein Repräsentant des persischen Typus (Abb. 2) und
+andrerseits einige charakteristische Säulenbeispiele nach Reliefs aus
+der Landschaft Yusufzái im äußersten Nordwesten (Abb. 5 u. 6) mögen nun
+zu einem Vergleiche zusammentreten. Da erscheint denn unabweisbar, daß
+die ältesten Säulenformen Indiens als künstlerisch zu verschiedenem
+Grade erfaßte Nachgestaltungen des persischen Musters zu deuten sind,
+-- von der fast vollzählig übernommenen Kapitellgliederfolge in roher
+Umrißlinie bis zum einfachen Blattkranz einer Asokasäule (Abb. 7). Wie
+nun ist dabei der Wegfall des aufstrebenden Laubes und der aufrechten
+Doppelvoluten zu erklären? Bekanntlich bestand zwar außer dem voll
+ausgebildeten Perserkapitell noch die schlichtere Form des unvermittelt
+dem Schafte aufgelegten Sattelholzes (Abb. 8), möglicherweise also
+auch eine Variante, welche nur der vorgenannten Teile entbehrte. Doch
+Achtung vor altindischem Kunststreben läßt mich eher annehmen, daß der
+Architekt diese einer starken Kopflast entgegenwirkenden Funktionen mit
+Fleiß bei den Einzelsäulen als überflüssig ausschaltete. Läßt doch die
+gesamte Durchbildung des Stambhakapitelles erkennen, wie vertraut der
+Künstler mit dem inneren Wesen der persischen Formen geworden, daß er
+gelernt hat, auf ihnen fußend originell weiterzuschaffen.
+
+[Illustration: Abbildung 7.]
+
+[Illustration: Abbildung 8.]
+
+Wohlerklärliche Sympathie fesselte jene ersten Steinbaumeister von
+Mathurá oder Bhárhut an die persische Architektur. Einen Vorläufer
+des eigenen Stilwerdeganges erblickten sie in dem nachbarlichen
+Säulentypus, der gleicherweise wie zur Zeit der heimische vom Holzbau
+auf den monumentalen Baustoff übertragen worden war, und zwar unter
+Beibehaltung aller kennzeichnenden Züge. Ganz abgesehen von der starken
+Glaubwürdigkeit, die ein assyrisch-persischer Einfluß in der Periode
+altindischen Holzbaues für sich hat, bot die persische Säule dem
+Hindu eine willkommene Norm während des unsicheren Übergangsstadiums.
+Zudem regte eben dieser persische Stil zu weiterem Ausbaue an, wies
+nicht völlig in Steincharakter umgesetzte, abgeschlossene Formen
+auf, wie die klassischen Ordnungen, denen sich trotz ihrer viel
+längeren Berührung mit indischer Kunst kein Interesse, keine willige
+Aufnahme bot. Ausschlaggebend stellte in Indien ein grundandrer
+künstlerischer Rassegeist der intellektuellen Harmonie des Westens die
+Herrschaft des Impulsiven, einer von paradiesischer Natur befruchteten
+Phantasie gegenüber. Findet doch diese ausgeprägte naturalistische
+Detailfreude auch die Behandlung des Perserkapitelles schematisch
+und sinnentsprechend zu wenig durchgeführt. Darum zeichnet sich
+bei Vermeidung jedweder Motivhäufung der Lát besonders durch feine
+Naturbeobachtung wie elegante Linie aus. Dort eine quastenähnliche
+Laubstilisierung, hier graziöse Blattschwellung. Dort das starre
+Einhornkragglied, hier ein lebendiger Wechsel der krönenden Skulptur,
+deren grundlegender Sattelholzgedanke an der Einzelsäule aufgegeben ist.
+
+Diese Gliederentwickelung führt uns auf ein eingehendes Befassen mit
+der eigentlichen Entstehungstheorie der Láts. Folgende Punkte sind dazu
+nach meinem Dafürhalten als besonders wichtig in Erwägung zu ziehen.
+Erst als der Buddhismus um 250 v. C. zur Staatsreligion erhoben wird,
+tritt die Steinsäule auf. Die älteste Kapitellgestalt schließt sich
+eng an den persischen Typus an, während schon nach verhältnismäßig
+kurzer Frist nur die Grundform noch übrig geblieben, alle Ornamentik
+aber durch spezifisch indische ersetzt worden ist. Nie wieder tauchen
+im Altertum fremde Schmuckformen auf, mit Ausnahme der klassischem
+Einflusse unterliegenden Grenzlandschaften. Diese Hauptdata fügen eine
+Hypothese zusammen, die wohl ein gut Teil Wahrscheinlichkeit für sich
+hat.
+
+Während der Brahmaismus allgemein die Vertreter arischer Rasse
+umfaßte, fand der Buddhismus als neuer Glaube in den Turaniern, des
+Landes geborenen Künstlern, seine begeisterten Anhänger, in Asoka an
+ihrer Spitze, dem bedeutendsten Großkönig der indischen Geschichte.
+Denn die Lehre Gautamas ist nicht asketisch finster, sie gestattet
+ihren Bekennern eine freie Betätigung künstlerischer Sinnenfreude.
+Verkehr mit den Völkern jenseits des Indus hatte ein Bild gegeben
+von der vornehmen Monumentalität des Steinbaues. So taucht der
+Gedanke auf, der neuen, erhabenen Lehre jene ihrem Charakter würdige,
+unvergängliche Bauweise zu weihen. Asoka berief darum Künstler des
+benachbarten, steinbaukundigen Volkes der Perser als Sendlinge der
+neuen Technik. Am nächsten lag es nun für den königlichen Schützer
+des jungen Glaubens, die Grundzüge der Staatsreligion in allen Teilen
+seines gewaltigen Reiches an den Symbolen seiner Herrschermacht
+kundzutun. An Stelle der alten Holzstambhas ließ er seine berühmten
+Ediktsäulen errichten. Der teilweise, auffallend enge Anschluß an
+assyrisch-persische Motive im Gliederdetail deutet auf die statthabende
+Übernahme der fremden Steintechnik hin, während die allgemeine
+Kapitellgestaltung sich vielleicht schon im früheren Holzbau zu einer
+originell indischen Abart des persischen Urbildes entwickelt hatte. Das
+rasche Verschwinden dieser bloßen Dekoration läßt darauf schließen,
+daß sofort nach grundlegender Erkenntnis der Steinbehandlung die
+hochbegabten, eingeborenen Schüler der persischen Meister aus eigner
+Kraft schufen. Lediglich Glocke und Abakusskulptur bleiben bestehen,
+deren Weiterbildung die anschließende Beispielreihe verfolgen soll.
+
+[Illustration: Abbildung 9.]
+
+Zu Lauriyá Navandgarh (Abb. 9) tritt uns eine unversehrte Asokasäule
+entgegen, schlicht im Entwurf und vornehm in ihrer Wirkung. Ein
+hochstrebender, glatter Schaft von ca. 12 m Länge, ohne Basis, doch
+mit fein abgewogenem Kapitell. Als Halsglieder vermitteln Kugelschnur
+und Perlstab zu dem frei umrissenen Laubkranz. Die einzelnen Blätter
+sind wohl unterschieden, andrerseits aber wieder im Detail entsprechend
+der Fernwirkung modelliert. Sie enden, entgegen dem geraden Abschluß
+persischer Art, in naturalistisch eingezogenen Spitzen. Wenn in der
+beigebrachten Skizze der Durchmesser der Glockenform zu groß erscheinen
+will, so frißt ja bekanntlich die Luft und bewirkt dadurch am Orte
+nach dem Urteile von Augenzeugen einen harmonischen Eindruck. Als
+eine weitere Feinheit sei bei dieser Gelegenheit die Schaftverjüngung
+gewürdigt. Während der Inder bei seinen stützenden Säulen allgemein
+ähnliche Verhältnisse wie das klassische Altertum innehält, ist bei
+dem Stambha das Schwinden des Durchmessers infolge der bedeutenden
+Säulenhöhe durch nur geringes Reduzieren des oberen Radius unterstützt.
+Eine kräftige, runde Deckplatte mit krönendem Symbol schließt den
+schlanken Monolith energisch ab. Durch die Inschrift der Säule ist
+sicher erwiesen, daß das Werk aus Asokas Regierung stammt, und
+doch hat bereits ein echt indisches Tierornament, ein Zug Gänse,
+das persische Geißblatt verdrängt. Dies läßt die Lauriyásäule mit
+Sicherheit als Schöpfung eines eingeborenen Künstlers betrachten.
+Auf den durchgebildeten Löwen hat eine zusammenhängende Untersuchung
+der Látskulpturen Bezug. Carlleyle hat am Säulenfuße mit folgendem
+Ergebnis nachgegraben[4]. Etwa 60 cm unter der Oberfläche, also
+zur Zeit der Errichtung, da man auf beiläufig 30 cm Erdschicht ein
+Jahrtausend rechnet, in Erdgleiche, war ein Ring von geringer Abmessung
+angearbeitet. Nach einiger Fortführung saß dann der Schaft unmittelbar
+auf quadratischem Unterbaue auf. Selbstredend war derartige Gründung
+nicht Regel, sondern es entschied die jeweilige Bodenbeschaffenheit.
+So ist der Lo-Lát zu Rúp-bás in Rájputána ohne Abschnitt in Felsboden
+eingelassen, während andre Stambhas wiederum in ähnlicher Weise mit
+einem Unterbaue in festgefügter Verbindung stehen. -- Obwohl im Detail
+abweichende Züge erscheinen, weist das Kapitell von Rámpurwa denselben
+typischen Charakter des letztbehandelten Beispieles auf (Abb. 7).
+
+Insgemein zeichnen sich die Bildwerke der ersten Láts durch
+Entwurfsfreiheit und tadellose Technik aus. Wie ist wohl der hohe
+Entwicklungsgrad dieser Plastik aus dem 3. Jahrhundert v. C., da
+der Steinbau im Lande eben seinen Anfang genommen, zu erklären? Die
+Möglichkeit zweier Annahmen besteht, -- eines eigenen Emporringens
+oder einer Übernahme von außen her. Die letztere dünkt mir die
+rechte. Hätte sich die altindische Skulptur allmählich entwickelt, so
+müßten Spuren vorangegangener Phasen entdeckt worden sein. Denn wenn
+vom Relief abgesehen wird, ist eine plötzliche Schwenkung etwa von
+hochentwickelter Holzschnitzerei zu der völlig wesensverschiedenen
+Freiskulptur in Stein undenkbar. Und würde nicht ein befähigtes Volk
+wie das indische, wenn es aus eigener Kraft bis zu diesem Hochstande
+aufgestiegen, weitere Fortschritte gezeitigt haben! Zumal in jener
+Epoche, da eine geistesverwandte Kunst ihm in der Behandlung des neuen
+Baustoffes umfassende Erkenntnis soeben übermittelt hatte. So bleibt
+nur das Aufpfropfen eines fremden Kunstreises anzunehmen, das im
+Folgenden Gegenstand eingehenderer Betrachtung bilden soll.
+
+[Illustration: Abbildung 10.]
+
+Wie ein selbständiges Kapitel ausführen wird, erstreckte die
+klassische Formenwelt ihre Machtsphäre bis an die Nordwestgrenze
+der Halbinsel, ohne indes im gesamten eigentlichen Indien Fuß
+fassen zu können. Es weist vielmehr die vorzügliche Arbeit der
+ältesten Látskulpturen unverkennbar auf die straffgeführte Plastik
+mesopotamischer Völker hin. Dieselbe Stilisierung des Haares, dieselbe
+sorgfältig studierte Anatomie der Muskulatur, dieselbe durchgebildete
+Behandlung, beispielsweise der Löwenpranken mit Hinterzehe und den
+einzelnen Krallen. Die dekorationsfreudige Phantasie des Inders verhält
+sich im allgemeinen abweisend gegen fremde Kunst, auch im vorliegenden
+Ausnahmefalle erscheint ihr insonderheit das schmückende Beiwerk zu
+kalt und dürftig. Jedes fremd zugeführte Motiv taucht in dem Quickborn
+heimischer Ornamentik unter, um eine neue, eigen indische Gestaltung
+anzunehmen. Bis heute hat sich die Hindukunst diese formenflüssige
+Verarbeitungsfähigkeit bewahrt. Bereits nach der dritten Kopie
+glaubt man ausgesprochen indische Formen vor sich zu sehen. Ähnliche
+Erscheinung ist am Kopfschmuck der Stambhas zu verfolgen, wie als
+Entwicklungsphase ein prächtiges Kapitell aus Sankissa (Abb. 10)
+veranschaulicht. Obwohl es in Umrißproportion und Detail noch am
+Grundcharakter der ältesten Ediktsäulen festhält, zeigt der Elefant als
+Sinnbild des Buddha schon rein indische Eigenheit.
+
+Kurz nach Asoka versperrte nun das Auftreten des klassischen Stiles
+im Nordwesten dem Zuströmen persischer Belehrung den Weg. Einer
+Kunsterscheinung ohne eigene, grundlegende Entwicklung aber mußte es
+naturgemäß schwer fallen, die fremden Elemente zu weiteren Erfolgen
+zu führen. Deutlich verraten die Látskulpturen bereits ein halbes
+Jahrhundert nach dem Eintritt in den Steinbau Spuren des Niederganges.
+Unmögliche Verhältnisse und Ausdruckslosigkeit im Entwurf greifen
+immer mehr um sich. Noch kurz vor Fertigstellung eines Lát konnte der
+Steinmetz, um nach manchen späteren Beispielen recht scharf, aber wahr
+zu urteilen, aus dem Elefanten einen Löwen oder Spaltfüßler durch
+geringe Änderung entstehen lassen. -- Auf diesen kurz beschriebenen
+Gesichtspunkt muß die Gesamtheit der Betrachtungen über altindische
+Plastik hinleiten.
+
+Durch das weite Reich Asokas wurde der Typus der steinernen Láts
+aufgenommen und vorerst völlig gleichartig entwickelt. Voran schritt
+Besnagar als eine Residenz des Großkönigs, darum ist der folgende
+Stambha (Abb. 11) von erhöhtem Interesse. Als Grundzug macht sich
+dekorative Bereicherung des Kapitells geltend. Zu dem ursprünglichen,
+langblättrigen Kranz der Glocke tritt ein zweiter, kürzerer an
+der oberen Schwellung. Ein geflochtener Rundstab leitet zu dem
+bedeutenden, gegliederten Abakus über, welcher wie aus den runden und
+quadratischen Deckplatten älterer Beispiele zusammengesetzt erscheint.
+Auf das Steinzaunband als buddhistisches Dekorationskriterion sei
+hier nur im voraus hingedeutet. Oberhalb dieses Ornamentes fällt die
+Kapitellbildung im Vergleich zu den unteren Gliedern ab. Das Polster,
+welches sich späterhin zu einem Hauptmotive der Hindukunst entwickelt,
+ist selten zur Entstehungszeit der Säule. Schlechthin als verfehlt
+zu bezeichnen ist das Magara oder Krokodil mit seiner gezwungenen
+Vereinigung von Kopf, Schwanz und den viel zu kleinen Flossen. Die
+Vermutung, daß diese abschließende Skulptur etwa einer weit späteren
+Epoche zuzuschreiben sei, wird durch den monolithen Zusammenhang des
+Látkopfes hinfällig. Auch dieses verunglückte Tierstück diene als
+Illustration zur vorentwickelten Skulpturtheorie. Es zeigt das Gebilde,
+daß die Kunst des Bildhauers, da nicht in dem Grade geschult, wie
+nur eigenes Emporstreben ermöglicht, an diesem neuartigen Vorwurfe,
+dessen Lösung kein westliches Vorbild bot, versagte. Das Alter der
+Besnagarsäule kann auf nur wenige Jahrzehnte nach Asoka eingeschätzt
+werden, wie sich aus den Maßverhältnissen der Glocke ergibt, deren Höhe
+7/10 des größten Durchmessers beträgt.
+
+[Illustration: Abbildung 11.]
+
+Diese Altersdefinition fußt auf einer Regel General Cunninghams[5],
+welche sich sorgfältigen und umfassenden Messungen zufolge noch stets
+bewährt hat. Der Forscher führt an einer ganzen Reihe von Beispielen
+aus, was hier nur kurz berührt werden kann. An der Asokasäulenglocke
+überschreitet das Verhältnis von Höhe zu Maximaldiameter nie 2:3. Bei
+den späteren Phasen jedoch wächst die Höhe, von dieser Proportion
+ausgehend, allmählich und fast gleichmäßig bis gegen Ende des 3.
+Jahrhunderts n. C., um dann weit rascher dem Höchstpunkte des doppelten
+Durchmessers im 4. Jahrhundert zuzustreben.
+
+Diese wichtige Erscheinung wird nach meiner Ansicht durch folgende
+Betrachtung erklärlich. Mit gutem Grunde hatte der erste Meister,
+welcher den schlanken Lát als selbständiges Denkmal schuf, einen
+energischen Kopfabschluß als vorteilhaft erkannt. Ein gedrungener
+Kapitellcharakter nur konnte als Gegensatz zur starken Vertikaltendenz
+des Schaftes jene stolze Ruhe des Monumentes bewirken. Unbewußt aber
+wurde der indische Künstler von seinem formalen Schönheitsgefühle dahin
+geführt, zuliebe einer graziösen Glockenlinie die gedrückte Form durch
+Vergrößern des Höhenmaßes mit feinfühlender Hand zu ändern, gleitender
+zu gestalten. Und dies allmählich so lange fort, bis der Gedanke an
+den Urzweck jener niederen, kräftigen Asokaglocken entschwunden war.
+Was lag näher, als daß der Architekt nun mit Fleiß den Blattkranz
+entsprechend der gesamten Láterscheinung langgestreckt darstellte. An
+den anschließenden Stambhabeispielen soll fernerhin auf die Theorie
+Cunninghams durch Angabe der Glockenproportion Bezug genommen werden.
+
+Wie mächtig auch der phantastisch-dekorative Trieb allgemein im
+indischen Bauschaffen zur Betätigung drängte, verharrte doch der
+Architekt gar lange bei seiner Überzeugung, daß die alte Einzelsäule
+in ihrer abgeschlossenen Eigenheit durch jede bedeutendere Änderung
+an Vornehmheit verlieren würde. Darin liegt gewiß ein gut Teil
+Wahrheit, aber leider verführte gerade solche Erwägung den Künstler
+zum anderen Extrem, zu kleinlichem Archaïsmus. Die Folgen der
+Unterdrückung architektonischen Rasseempfindens blieben nicht aus.
+Trotz aller archaïstischen Eifersüchtelei schlichen sich im Laufe
+der Zeit Verhältniswechsel und Gliederungsversuche ein, die, als
+rechtlos in ihrem vollen Ausleben gehemmt, den edlen Charakter der Láts
+beeinträchtigen mußten.
+
+[Illustration: Abbildung 12.]
+
+Als eine Phase solchen Vorganges sei der Monolith von Bhitari
+(Abb. 12), dessen Alter etwa auf 100 n. C. zu setzen ist, erwähnt. Der
+schlichte, schlanke Stambha der frühesten Epoche hat sich verkürzt
+und quadratische, hohe Basis angenommen, worauf die Inschrift von
+der Mitte des Asokaschaftes überführt ist. Deutlich verrät sich eine
+tendenziöse Einfachheit an den Übergängen zur Glocke, und doch hat die
+Behandlung der Vermittelungsglieder die ansprechende Eigenheit der
+Vorläufer eingebüßt. Der Blattkranz selbst, dessen Höhe beiläufig 9/10
+seines größten Durchmessers erreicht, steht in seiner matten Schwellung
+hinter jener kraftvollen Linienführung der ältesten Werke zurück. An
+dem Gesamturteile des Rückschrittes, das sich aus diesen Einzelheiten
+kristallisiert, vermöchte wohl ein Auffinden des fehlenden Abakus nebst
+Kopfschmuck kaum etwas zu ändern.
+
+[Illustration: Abbildung 13.]
+
+Allerdings bekundet gerade die abschließende Skulptur als einzige
+Stelle des Lát, wo sich die dekorative Schaffensfreude des Hindu frei
+und unbeschadet der altertümelnden Gesamtgestaltung geben konnte,
+entschieden einen beredten Zug des Vorwärtsstrebens. Nur durch den
+geschilderten Niedergang der Plastik wird häufig die Freude an
+diesen Schöpfungen einer hervorragenden Dispositionsgabe getrübt. --
+Das einzelne Tierbild der Ediktsäule wandelt sich in der Folge der
+Zeit zu einer Fülle stetig wechselnder Neuwerte um. Ein Tierpaar in
+geradliniger oder überschnittener Anordnung trat wohl zuerst auf. Zu
+Mathurá (Abb. 13) dann zwei Paare liegender Fabelwesen mit Löwen- und
+Ochsenleibern, deren menschliche Köpfe entsprechend den Abakusecken
+gerichtet sind. An einem Beispiele von Sánchi (Abb. 14) ist ebenfalls
+zentrale Gruppierung von vier sitzenden Löwen angewandt. Die Tiere
+pflegen gemeinsam eins der buddhistischen Symbole, meist Dharma-chakra,
+das heilige Rad, zu tragen. Zu Chaumuhá[6] fand Cunningham zwischen
+jedem Löwenpaar eine weibliche Gestalt, eine Hand auf die volle Hüfte
+gestützt, die andre mit einer Blume erhoben. Zu Benares[7] halten acht
+Löwen ein Lotospolster empor, das wiederum als Träger zweier Rücken
+an Rücken stehender Krieger dient. Zu der mannigfachen Verwendung von
+Tier- und Menschengestalten tritt noch die der Flora. Kalpa-drúm,
+der mythische Glücksbaum der Inder, oder pflanzlich stilisierte
+Buddhistenembleme sitzen oft unmittelbar auf der immer massiger
+entworfenen Deckplatte. -- Kurzum, ein unerschöpflicher Wechsel in
+Motiv und Gruppierung! Mag immerhin schematische, oft rohe Technik
+nicht zu leugnen sein, das _eine_ beweisen die indischen Künstler
+an jedem Beispiele aufs neue, -- die Meisterschaft einer großzügigen
+Dekoration. Jede Gruppe, jeder Aufbau ornamentaler Elemente ist mit
+sicherem, auf das Ganze gerichteten Blick gewählt und getroffen.
+
+[Illustration: Abbildung 14.]
+
+[Illustration: Abbildung 15.]
+
+Selbstredend mußte die einseitige Entwicklung der krönenden Funktion
+doch einmal dazu führen, mit der archaïstischen Behandlung der Säule
+selbst zu brechen. Der Architekt überträgt auch auf den Látschaft
+die indischer Kunst ureigene Gliederung durch Variation polygonalen
+Querschnittes, welche, wie in dem Kapitel von der Stütze des näheren
+ausgeführt, dem Holzbaue des Landes entstammt. Damit wird eine
+Haupteigenheit der Einzelsäule aufgegeben. Hatte doch der Stambha
+bisher, im Gegensatz zu der konstruktiven Säule mit gebrochener
+Grundrißlinie, stets streng am runden Schafte festgehalten. Ein Typus
+von Besnagar (Abb. 15) aus dem 2. Jahrhundert n. C. ist als eins der
+frühesten Beispiele dieser markanten Entwicklungsstufe beigebracht.
+Der Schaft wechselt von dem Achteck zum Sechzehneck, um sich darauf
+in das achteckige Lotosblütenglied zurückzuformen. Von dem früheren
+Kreisquerschnitt bleibt lediglich 1 m, etwa 1/5 der ganzen Säule. Die
+Höhe der ohne vermittelndes Ornamentband ansetzenden Glocke beträgt
+9/10 ihres größten Durchmessers. Der bedeutende Abakus geht aus dem
+Kreis ins Oktogon und davon ins Quadrat über. Als krönendes Motiv dient
+ein Trisúlemblem, welches über quadratischer Grundform geschmackvoll in
+Palmwedeln stilisiert ist.
+
+[Illustration: Abbildung 16.]
+
+Gleicherweise wie der berühmte Lohá-Khambha zu Delhi (Abb. 17)
+verkörpert der Guptamonolith zu Eran (Abb. 16), welcher im 4.
+Jahrhundert errichtet worden ist, eine der jüngsten Generationen
+direkter Stambhaentwicklung. Die insgesamt 13 m hohe Säule setzt
+quadratisch an, um nach 6 m in ein achteckiges Schaftstück von 2,5 m
+Länge überzufasen. Die langgestreckte Glockenform weist eine Höhe von
+1,05 m bei 0,90 m Maximaldurchmesser auf. In herkömmlicher Art ist zum
+Abakus übergeleitet, dessen lastende Funktion durch einen kubischen
+Block verstärkt wird. Glatt an der unteren Hälfte, zeigt der Würfel
+an der oberen jedseitig zwei in einer Linie, aber entgegengesetzt
+gelagerte Löwen im Relief angearbeitet. Zwei Rücken an Rücken stehende
+Kriegergestalten schließen den Säulenkopf ab. -- Zu solcher Phase
+hat sich der ursprüngliche indopersische Typus ausgebildet! Zwar ist
+auch in diesem schlanken Abkömmling noch ein Nachklang jener stolzen
+Eigenheit der Asokasäulen geblieben, doch verrät sich im übrigen so
+augenfällig das künstlich Gehaltene und unselbständig Gezwungene des
+Gebildes, daß das Ende dieser unmittelbaren Entwicklungslinie binnen
+kurzem fällig erscheint. Es bedurfte neuartiger Anregung, um den alten
+Vorwurf dem künstlerischen Weiterschreiten der Zeit anzuschließen! --
+
+[Illustration: Abbildung 17.]
+
+Weniger in stilistischer als vielmehr in technischer Hinsicht ist
+die nie rostende Eisensäule von Delhi (Abb. 17) des Interesses wert.
+Wohl wird von dem ehernen Weltwunder zu Rhodos berichtet, wohl
+haben werkfromme Buddhisten etwa seit dem 1. Jahrhundert n. C.
+gigantische Erzstatuen ihres Religionsstifters errichtet, aber alle
+diese Schöpfungen waren hohl, aus einzelnen Platten von Kupfer oder
+irgend welcher Legierung zusammengefügt. Der Delhilát indes ist massiv
+aus reinem Schmiedeeisen und bedeutet so bei seinen Abmessungen ein
+Siegesmal altindischer Technik. Eine Basis fehlt, der schlichte
+Rundschaft erreicht die Höhe von etwa 7 m bei einem unteren Durchmesser
+von 41 cm. Von der Glocke leiten außer dem Rundstab drei gerippte
+Polsterglieder zu einem fast würfelförmigen Abakus über, dessen
+krönender Schmuck nicht auffindbar ist. Für das wahrscheinliche Alter
+dieses Meisterwerkes der Schmiedekunst darf die zweite Hälfte des
+4. Jahrhunderts gelten. -- Als bedeutsames Moment dünkt es mir, daß
+der späte Nachkomme der alten Ediktsäulen in einem neuen Materiale
+erscheint, auf welches der Charakter eines ganz wesensverschiedenen
+Stoffes unmittelbar übertragen worden ist. Ein beredtes Zeichen des
+Stillstandes in der Látentwicklung! Der Künstler griff, um bei strenger
+Formentradition doch etwas Originelles zu schaffen, zu einem weit
+schwerer bildsamen Stoffe. Lediglich eine lokale Kunstlaune ist in
+der Eisensäule zu erblicken, ein letztes Aufflackern jener falschen
+archaïstischen Pietät zu einer Zeit, da gerade die volle Betätigung
+einer neubelebten Säulenausbildung einsetzte.
+
+Mit dieser Umwälzung taucht der letzte unmittelbar erhaltene Rest
+persischen Kunsterbes in heimischer Formenwelt unter. Zugleich aber
+verschwindet ein gut Teil der organischen Klarheit, welche jenen alten
+Beispielen ihre stolze Ruhe verlieh. Die Dekoration übernimmt im Laufe
+der folgenden Látentwicklung die Alleinherrschaft und durchbricht damit
+den harmonischen Zusammenklang von System und Ornamentik, welchen die
+Einzelsäule der ersten Meister verkörpert. Oft ist das Schmuckwerk,
+im einzelnen betrachtet, von höchstem Reiz und Formenreichtum, doch
+in seiner Gesamtheit bedeutet es in der Architektur den Ausfluß
+ebenderselben zügellosen Phantasie, welche die älteste Literatur
+Indiens mit ihren Schöpfungen unübertroffener poetischer Zartheit und
+ethischer Größe auf Irrwege geführt hat.
+
+Während der zweiten Hälfte des Altertums gewinnen die Láts hinsichtlich
+verschiedenartiger Verwendung stetig mehr Feld. Außer den eingangs
+dieses Kapitels erwähnten Funktionen finden sie besonders als
+Ehesäulen, als Maste farbenprächtiger Banner, als Satísäulen, d. h.
+Denkzeichen des freiwilligen Flammentodes einer Witwe, oder als
+Leuchtenträger vor heiligen Stätten Verbreitung. Dieser vielseitige
+Zweck aber, zumal bei den einzelnen Glaubensspaltungen und der immer
+stärker mitsprechenden lokalen Verschiedenheit der Halbinsel, mußte
+wesentlich dazu beitragen, fernere Einheit des Látcharakters zu
+verhindern. Ja, es kann überhaupt von einem eigentlichen Stil der
+Einzelsäule nicht mehr die Rede sein, denn die entscheidende Stimme
+in der Säulenentwicklung steht etwa seit dem 2. Jahrhundert n. C.
+der Stütze zu. So läßt denn das Zusammenwirken dieser Verhältnisse
+die Látgestaltung bald episodenhaft aussetzen, bald auf Seitenpfaden
+sprungweise vorwärts eilen; so beginnen denn auch mehrere Typen
+nebeneinander herzuschreiten. Es kann bei den engen Grenzen dieser
+Abhandlung nicht einmal der Versuch unternommen werden, einen
+Ausblick zu bieten auf die verschlungenen Wege der Stambhaformen in
+den verschiedensten Teilen des Landes, bei den Dschainas, Saivas und
+Vaischnavas samt den untergeordneten Sekten. Dies müßte der besonderen
+Aufgabe eines (beabsichtigten) Essays über die mittelalterliche
+Säulenbildung Indiens einbegriffen werden. Hier sei nur erwähnt,
+daß bereits um 700 infolge innerer Wirren der Halbinsel ein
+undurchdringlicher Schleier vor der indischen Kunstgeschichtsforschung
+niedersinkt. Erst gegen 1000 enthüllen die einzelnen Glieder des
+Säulenstammbaumes zugleich ihre Züge in abgeschlossener Eigenheit. --
+
+
+
+
+Kapitel 2.
+
+Indoklassischer Typus.
+
+
+Erst nachdem das indische Kunstschaffen dem assyrisch-persischen
+Elemente Aufnahme gewährt hatte, erweiterte die klassische
+Formensprache ihre Machtsphäre bis zur Nordwestgrenze der Halbinsel.
+Altindiens architektonische Reste erweisen diese Priorität des
+indopersischen Stiles zweifellos. Wie erwähnt, bildete der Nordwesten
+eine persische Provinz, wovon die Verbreitung einzelner Motive
+ihren Ausgang nahm. Westlich vom Indus und Satledsch verdrängt nun
+klassischer Einfluß die alte Kunstschule, ohne indessen im gesamten
+übrigen Hindulande seinen Vorgänger abzulösen. Vielmehr erhebt
+er sich lediglich als ein Damm, der weiteren Zufluß persischer
+Formenlehre abschneidet. Die indische Volksseele wies im Gegensatz
+zu der Sympathie, welche sie jenen Motiven orientalischen Ursprunges
+entgegenbrachte, klassische Stilgebung entschieden ab. Höchstens etwa
+hatte eine Art kaum indirekt erkennbaren Ausgleiches statt, ähnlich der
+neuzeitlichen Erscheinung zwischen Europas und Japans künstlerischen
+Bestrebungen. Wie aber vermochte dann überhaupt die klassische
+Kunst bis zum Herzen Asiens, bis in jenes schon durchaus indische
+Grenzgebiet vorzudringen? Wie vermochte sie hier so festen Fuß zu
+fassen, so nachhaltige Spuren zu hinterlassen, nur dem Moslemitentum
+noch vergleichbar? Es lassen sich diese Fragen nicht mit Bestimmtheit
+beantworten. Alter, Abschluß und Eigenart dieser klassischen Strömung
+bilden in maßgebenden Gelehrtenkreisen Streitfragen, die noch der
+Erledigung harren. Denn die bisherigen Architekturfunde haben zu oft
+gerade entgegengesetzten Auslegungen und Vermutungen Anlaß gegeben.
+Sei es auch mir vergönnt, meine Ansicht über die historische und
+künstlerische Entwicklung indoklassischen Stiles in aller Kürze zu
+vertreten.
+
+Das hellenistische Königreich Baktrien stand im 3. Jahrhundert v. C.
+in höchster Blüte. Erwiesenermaßen suchte die klassische Welt bereits
+damals wie in der nächsten Folge Beziehungen bis zum Indus anzuknüpfen,
+doch ohne wesentlichen Erfolg. Erst im 2. Jahrhundert v. C. leiteten
+die Yuetschi oder Skythen, aus dem Norden vorstoßend, ein neues Kapitel
+in der Geschichte des Gebietes von Baktrien bis zu den Ufern des
+Satledschs ein. Das Indusstromland, in der Hauptsache Gándhára und
+Pendschab, unterfiel der Herrschaft jenes skythischen Volkszweiges,
+welcher nach Kreuzung mit eingeborener Rasse ethnographisch
+als indoskythisch gekennzeichnet wird. In der anschließenden,
+indoskythischen Epoche der Grenzlandschaften nun unternimmt die
+klassische Formensprache den stärksten Anlauf gegen altindische
+Kunst, dessen Nachwirkungen bis ins Mittelalter angehalten haben. Das
+Indoskythentum gründet hier jene eigenartige Kolonie westlicher Kunst,
+während die späteren klassischen Strömungen, sei es nun aus Antiochia
+oder Rom oder Byzanz, in der Hauptsache wohl lediglich bewirken, dieser
+Kunstgemeinde der Diaspora frische Lebenskraft zuzuführen.
+
+[Illustration: Abbildung 18.]
+
+Ein interessantes Verhältnis ist es, in welchem diese Skythen zur
+hellenistischen Kunst stehen. In gewissem Sinne Vorläufer der
+Humanisten, erblicken sie, obwohl barbarischen Blutes, in klassischer
+Welt ihr Schönheitsideal. Wie Asoka die persische Steinarchitektur
+schützte und förderte, so findet klassische Kunst in Kanischka, dem
+bedeutendsten Indoskythenherrscher, einen eifrigen Protektor. Nun
+zwingt aber nicht etwa das Machtwort eines orientalischen Despoten
+die fremde Formensprache jenen Ländern auf, ohne Rücksicht auf freie
+Regung des Volkscharakters. Weit entfernt, daß hellenistisches Wesen
+jene Gebiete etwa völlig durchtränkt! Im Gegenteil, alle griechischen
+Elemente werden binnen kurzem von Indoskythentum und Buddhismus
+aufgesogen. Begünstigt ja naturgemäß die Abgelegenheit des klassischen
+Kunstzweiges von vornherein eine originelle Entwicklung, wie sie
+dem ureigenen Empfinden dieser Rassenkreuzung entspringt. Frei
+kann sich der barocke Geist des indischen Volkselementes in jener
+fernen Stilentfaltung geben, kann von griechischer Form ausgehend
+eine Bahn beschreiten, wie nimmer etwa -- um durch gegenteiliges
+Beispiel zu betonen -- das archaïstische, künstlerisch unproduktive
+Rom. Eingehendere Betrachtung wird erweisen, daß der ausgebildete
+indoklassische Stil in Wesenheit nur den Ursprung und einzelne
+hervorstechende Grundzüge dem Westen verdankt.
+
+[Illustration: Abbildung 19.]
+
+Indoskythische Architektur sucht ihre Betätigung allgemein in denselben
+Vorwürfen wie das eigentliche Hindutum, insbesondere an Viháras, den
+Klostergebäuden. Sie weist zwar in Kaschmir den dorischen und in
+Taxila den jonischen Säulentypus auf, doch erhellt aus diesen Fällen,
+daß der eingeborene Künstler nicht derart in die Wesenseigenheit
+der beiden Ordnungen einzudringen vermochte, um sie als Grundlage
+selbstschöpferischer Ideen zu verwerten. Einzelne Teile der schematisch
+behandelten Gebilde sind mit Ornamentfiligran überzogen, damit ist
+allgemein die weitere Ausgestaltung am Ende angelangt. Wie wäre aber
+auch ein Zusammenklang so völlig verschiedenen Rassenempfindens
+denkbar? Hier in dorischer wie jonischer Säule die reine Verkörperung
+intellektueller Kunstbegriffe, demgegenüber die dekorationsfreudige
+Phantasie des Hindu, deren Schöpfungen gewissermaßen improvisiert
+erstehen. Am ehesten mußte der korinthische Stil dem indoskythischen
+Volkscharakter zusagen. Die graziös bewegten Kurven des Akanthuslaubes,
+sein reiches Detail weckten ein verständnisvolles Interesse. So hat
+denn die _indokorinthische_ Ordnung die bei weitem stärkste Verbreitung
+zugleich mit einer originellen Durchbildung erfahren.
+
+[Illustration: Abbildung 20.]
+
+Insonderheit auf das Thema der Einzelsäule bezüglich seien zwei
+charakteristische Stambhabeispiele aus Jamálgiri in Gándhára (Abb. 18
+und 19) beigebracht. Auf den ersten Blick wird hellenistische
+Herkunft sehr wahrscheinlich. Im Gegensatz zu römischem Schematismus
+zeigen die achtblättrigen Akanthuskränze naturalistisch behandelte
+Blattgliederung. Dazu tritt als bedeutsames Moment der eigentümliche
+Abakus nach Art der bekannten epidaurischen Entwicklungsphase
+(Abb. 20) mit noch unverbrochenen Ecken, obwohl schon eleganter
+Seiteneinkurvung. -- Doch kommen wir auf die Änderungen zu, die für
+indisches Kunstempfinden bezeichnend sind! Der Drang nach dekorativem
+Detailreichtum fügt den Laubkreisen des klassischen Urbildes noch einen
+vierten in gleicher Höhe mit dem Abakus bei. Die Deckplatte erreicht
+in ihrer Breite das 2½fache der gesamten Kapitellhöhe, während der
+klassische Typus nur der 1½fachen Maßzahl gleichkommt. Vielleicht will
+diese weite Ausladung unserem Gefühle die Gándhárasäule kopfschwer
+erscheinen lassen, doch dürfte solches Urteil einer voreinnehmenden
+Gewohnheit zu Unrecht entspringen. Die Gliederfolge klassischer
+Ordnungen ist nach dem Grundsatze wechselseitigen Tragens und Lastens
+entwickelt, nicht wie bei dem indischen Lát eigens zu dem Zwecke des
+Einzelstehens, des bloßen Emporhebens einer im Verhältnis leichten
+Skulptur. Wo sich eine klassische Einzelsäule im Westen findet, ist
+sie durchgängig nach der Architravstütze kopiert. Sicher würde ein
+solches Gebilde seltsam anmuten, wäre es nicht von klassisch geschulter
+Kritik sanktioniert. -- Der Hindu hingegen betrachtet und gestaltet
+das Kapitell als das einzige Glied, welches die vertikale Tendenz
+der Einzelsäule nach oben zu durch Kontrastwirkung zu lösen vermag.
+Denn die krönende Skulptur erfüllt lediglich die Aufgabe eines rein
+dekorativen Abschlusses. Demzufolge hat die starke Ausladung der
+Akanthusblätter durchaus organische Berechtigung. Überdies verrät das
+ausbiegende Laub jedenfalls ebensoviel Naturtreue wie die klassische
+Auffassung, welche das Blattwerk um einen eigentlich tragenden Kern
+schmiegt. Selbst aber, wenn in alledem gegenteilige Meinung besteht,
+muß die künstlerische Unabhängigkeit, welche die indoskythische
+Architektur trotz ihres Ausgehens von klassischer Form in dieser
+Kapitellbildung hochhält, gerechterweise gewürdigt werden.
+
+Weiterhin ein wichtiges Zeugnis der Schaffensfreiheit kündet wohl
+die Einführung menschlicher Gestalten zwischen das Akanthuslaub.
+Diese Statuetten des Buddha und seiner Jünger haben Anlaß zu viel
+wissenschaftlicher Fehde gegeben. Fergusson will aus der Tatsache,
+daß Figurenschmuck an dem griechisch-korinthischen Kapitell überhaupt
+nicht, an dem römischen Typus aber zum ersten Male in den Bädern
+des Caracalla erscheint, auf Herkunft und Alter der Gándhárasäulen
+schließen.[8] Sollte diese Skulptur wirklich derart schwerwiegende
+Beweiskraft, welche auf Analogiebildung in Rom gegründet ist, besitzen?
+Meines Dafürhaltens ist das ornamentale Beiwerk zu Zeiten entstanden,
+da in der Weltstadt kein Architekt derart barocken Gedanken Ausdruck zu
+verleihen gewagt hätte, gesetzt den Fall, daß ihn seine Phantasie in
+solche Verlegenheit bringen konnte. Lediglich einen Ausfluß indischer
+Dekorationsfreude stellen diese Figürchen dar. Das Künstlerauge sah
+in den überhängenden Blattenden natürliche Baldachine für kleine
+Gestalten, -- wie nahe liegt doch diese einfache Erklärung!
+
+An Stelle jener vermuteten Entlehnung der Figürchen aus der Spätzeit
+römischer Kunst sei besser der tiefgehende hellenistische Einfluß
+zur Beachtung herangezogen, welchen Grünwedel[9] in der Plastik
+Gándháras nachgewiesen hat. Die Lehre des Zweigeborenen kannte in
+alter, reinster Form keine plastische Darstellung des Buddha. Erst
+indoklassische Bildnerei schuf den Buddhatypus, wie er im allgemeinen
+bis zur Gegenwart herrschend geblieben ist. Lediglich unter diesem
+Gesichtspunkte ist bei den Stambhastatuetten ein klassischer Anteil
+festzustellen.
+
+Rein technisch weicht das indoklassische Kapitell vom Urbilde dadurch
+ab, daß es aus einzelnen Teilen besteht. Die untere Hälfte des
+Akanthuslaubes wurde aus zwei, drei oder vier Stücken meist gleicher
+Größe mittels Eisenklammern zusammengefügt. Die obere Hälfte, welcher
+Voluten und Abakus einbegriffen sind, tritt stets viergliedrig auf.
+Zwei größere Stücke bilden Breitseiten mit je zwei Voluten, während die
+entstehenden Zwischenräume durch Zwickel geschlossen werden. Vermöge
+genauer Fugenarbeit wie geschickter Verklammerung erschien das ganze
+Kapitell an Ort wie aus einem Gusse. Beim Sturze der Säule allerdings
+mußte sich diese Konstruktion sofort lösen, da ein Tonschiefer
+Verwendung fand, der bruchfeucht vorzüglich bildsam, später aber
+leicht brüchig ist. Damit sind die Kapitellreste meist verloren, da die
+großen Stücke zersprangen, die kleinen als Bausteine weiter verwandt
+wurden.
+
+Die bedeutende Ausladung des Gándhárakapitelles gewährt der
+krönenden Skulptur mit einer breiten Auflagerfläche weitgehende
+Dispositionsfreiheit. Ob die übliche Tiergruppe durch eine besondere
+Plinthe herausgehoben war, ließ sich bisher an keinem Funde
+entscheiden. Immerhin macht die starke Überschneidung von Akanthuslaub
+und Kopfschmuck der Säule eine derartige Anlage wahrscheinlich. Art und
+Zahl der Tiere wechseln auch bei dem indoklassischen Stambha. Die in
+Entwurf wie Ausführung gleich vorzügliche Elefantengruppe vorliegenden
+Beispiels (Abb. 19) mag irgend welchen symbolischen Abschluß,
+vielleicht durch Vermittlung von Reitern, gefunden haben. Welche
+Höhe der unkannelierte Schaft erreichte, ist nirgends zu ermitteln.
+Die Basis zeigt trotz beträchtlich veränderter Einzelgliederung noch
+direkten Anklang an die klassische Form. Das reiche Schattenspiel und
+das energische Ausladen des Kapitelles, ein geschickter Aufbau der
+Kopfgruppe, die emporweisende Schlichtheit der unteren Säulenpartie, --
+in der Gesamtheit vergegenwärtigt, gewiß ein elegantes, vornehmes Bild!
+Wohl mit derselben sicheren, feinfühlenden Hand hat zudem der Meister
+einzelne Punkte wie Statuetten, Lotosblüten, Abakusreliefs u. a. durch
+bisweilen jetzt noch erkennbaren Gold- und Farbenschmuck hervorgehoben
+und damit die Pracht seines Werkes gesteigert.
+
+Die beiden Beispiele aus Jamálgiri genügen, das Verhältnis des
+indischen Kunstgeistes zu der Entwicklung klassischen Stiles im
+Nordwesten der Halbinsel erkennen zu lassen. Wenn auch von vornherein
+das eigentliche Indien die fremde Kunstsprache entschieden abweist,
+so bestimmt doch das indische Volkselement gar bedeutsam und
+eigenartig die von zuströmender Rasse mitgeführte Formengebung. Soll
+aber in besonderer Hinsicht auf altindische Säulenentwicklung die
+indoskythische Architektur kurz und bündig beurteilt werden, dann ist
+sie, zum mindesten insoweit klassischer Anteil in Betracht kommt, als
+episodisch zu bezeichnen. Der indoklassische Typus entbehrt jeden
+Einflusses auf den urindischen Säulencharakter! --
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+B. Konstruktive Säulen.
+
+
+
+
+Kapitel 3.
+
+Steinzaunpfeiler.
+
+
+Der Stambha muß als alleiniger Vertreter der ersten Stufe indischer
+Säulenbildung gelten. Nach der frühesten Epoche aber treten Momente
+hinzu, die allmählich zu immer höherer Wichtigkeit aufsteigen. Einmal
+werden die besonders an Steinzaunpfeilern für den monumentalen
+Baustoff entwickelten heimischen Holzformen zu bedeutsamer Verwendung
+herangezogen. Dann aber übernimmt die Deckenstütze von dem Lát
+überhaupt die Führung und leitet nach ihren Bedürfnissen und
+Eigenheiten den Werdegang der altindischen Säule auf bestimmter Bahn.
+Vorliegender Abschnitt soll diese Vorgänge des einzelnen erläutern und
+begründen.
+
+Die Literatur weit vor Asokas Zeit bezeugt ein Zusammenwohnen der
+Hindus in Dörfern und Städten, doch sind nicht die geringsten baulichen
+Reste dieser Frühzeit erhalten. Als Erklärung hierfür kommt der
+Baustoff der Siedelungen in Betracht. Die älteste Steinarchitektur
+der Halbinsel zeigt so enge Verwandtschaft mit dem Wesen des
+Holzbaues, daß dadurch unmittelbar auf vorausgehenden ausschließlichen
+Gebrauch der Zimmermannskunst hingewiesen wird. Das Land bietet
+seinen Söhnen ja auch die denkbar besten Bauhölzer, das Tékholz,
+das Bambusrohr u. a. Keine zwingende Notwendigkeit also, zu der
+weit mühevolleren Steintechnik zu greifen, wenn es nicht besonderer
+Zweck, etwa Wasserbau oder Schutz gegen Feinde, erforderlich machte.
+Der organische Kern der alten Holzbaukunst leuchtet klar aus den
+steinernen Nachbildungen hervor, -- beiläufig ein Merkmal dafür, wie
+gewichtig die Konstruktion das Gesamtbild solch eines alten, wohl
+mit orientalischem Prunke geschmückten Holzbauwerkes bestimmt haben
+mag! Lange Erfahrung wie hochgesteigerte Fertigkeit in der Behandlung
+dieses bildsamen Stoffes haben die technische Möglichkeit geboten,
+die ausgeprägte Dekorationsfreude der indischen Kunst ungehemmt zu
+entfalten. Was Wunder, wenn das Wesen dieses Holzbaues mit seinem
+wechselvollen Formenreichtum dem Künstler so ans Herz gewachsen ist,
+so sein architektonisches Fühlen und Schaffen beherrscht, daß er
+sich davon bei neuem, ganz wesensanderen Materiale nicht loszureißen
+vermag. Bis weit zum Mittelalter hinüber ist es darum möglich, den
+Spuren des Holzcharakters selbst ins Detail nachzugehen. Das indische
+Steinbauschaffen des Altertums insonderheit bildet gewissermaßen einen
+einzigen großen Nachweis der wichtigen Stellung, welche in seiner
+Entwicklung der heimische Holzbau innehatte.
+
+[Illustration: Abbildung 21.]
+
+Allgemein ist ein Bestreben des Menschen nachweisbar, den nächsten
+Umkreis seiner Sakralstätten vom Profangetriebe abzutrennen. So
+drängte es auch den Buddhisten, Tempel und Stúpas zu umfriedigen. Hier
+nun setzt jener umwälzende Einfluß der neuen Lehre auf das indische
+Bauschaffen ein; Glaubensbegeisterung sucht den heiligen Orten
+durch monumentale Kunstsprache ein würdiges Gepräge zu verleihen.
+Ein ursprünglicher Balkenzaun wird unmittelbar in Stein übertragen,
+mitsamt Ornamentik wie Konstruktion. Dabei hat Granit oder zumeist
+derselbe feinkörnige Sandstein Verwendung gefunden, welcher sich
+auch zu den Láts als vorzügliches Übergangsmaterial bot. Bevor
+der bedeutsame Zusammenhang dieser »rails« mit dem altindischen
+Säulencharakter dargelegt wird, erscheint es unerläßlich, ihr Schema
+(Abb. 21) zu entwickeln. In Vierkantpfosten sind seitlich Bohlen von
+linsenförmigem Querschnitt eingestemmt; das Rahmholz ist durch Zapfen
+in seiner Lage auf den Ständern gefestigt. Die Pfosten zu Bhílsa
+oder Buddha-Gayá aus der Mitte des 3. Jahrhunderts v. C. weisen den
+vorerst quadratischen Grundriß auf, während an späteren Beispielen
+die Pfeilertiefe auf etwa zwei Drittel der Breite vermindert wird.
+Die Abfasung zu achteckigem Querschnitt ließ als unteren und oberen
+Übergang Halbkreisflächen, in der Mitte aber eine Vollkreisscheibe
+entstehen, welche zur Dekoration ja gleichsam herausforderten. Daß
+sich in der ornamentalen Behandlung dieser Stellen ein Anlehnen an
+das Lotosblütenmotiv assyrisch-persischer Formensprache kundtun
+soll,[10] erscheint gesucht. Kaum dürfte andrerseits dem Architekten
+die Vermutung Fergussons einleuchten, wonach die Halbmedaillons im
+Urbilde Metallplatten darstellen, die als Verbindung der lot- und
+wagerechten Zaunteile dienten.[11] Wie sich der verstorbene Forscher
+auch diese Konstruktion gedacht haben mag, erscheint sie doch bei der
+logisch-werkmäßigen Zimmermannskunst der Inder wenig glaubhaft. Wenn
+einmal eine Grundbedeutung dieser Rundornamente gesucht werden soll,
+so erscheinen dekorativ behandelte Köpfe von Holznägeln, durch welche
+bei einer früheren Konstruktion die Querhölzer mit den Pfosten in
+Verband gebracht waren, als wahrscheinlichste Erklärung. Die einseitige
+Ausbildung der Halbkreisscheiben ist danach lediglich als willkommener
+Übergang vom Vierecks- zum Achtecksquerschnitt zu betrachten. Der
+Künstler war sich dann des Ursprunges nicht mehr bewußt, wofür auch die
+häufige Verschiebung der Nagelköpfe an konstruktiv unrechten Ort und
+beiläufig das Auftreten der Medaillons an den Riegeln zeugen.
+
+[Illustration: Abbildung 22.]
+
+Diese Hauptzüge der Steinzaunpfeiler waren für Gestalt und Dekoration
+der deckentragenden Säule zu bedeutsamem Grade vorbildlich.
+Vielleicht steht schon das Verhältnis 1:4½ bis 5 von Seitenlänge des
+Grundrißquadrates zur Höhe, welches während des Altertums zumeist
+an der Stütze innegehalten wird, mit den gleichen Maßzahlen beim
+Zaunpfeiler in Zusammenhang, doch dürfte manchem diese Analogie
+zufällig erscheinen. So mag denn die Schaftgestaltung an dem Beispiel
+aus Amrávatí (Abb. 22), das einem Stúparelief entnommen ist, für
+sich selbst sprechen. Der Architekt hat den ganzen, unveränderten
+Zaunpfosten als Schaft zwischen Basis und Kapitell eingeschoben und
+dadurch eine tragende Säule geschaffen. Zwischen Elementen persischen
+Ursprunges das heimische Kantholz, durch Abfasung und Kreisornamente
+typisch belebt. Die einzelnen Motive nun, welche gleicherweise am
+Zaun- wie Deckenpfeiler bleibend im indischen Bauschaffen auftreten,
+erscheinen eingehender Beachtung wert.
+
+[Illustration: Abbildung 23.]
+
+Weitaus am wichtigsten erweist sich in der Folge der
+Querschnittswechsel, wie er nach Zimmermannsbrauch durch Kantenabfasung
+entstanden war. An dem Zaunpfosten selbst hemmt die Konstruktion
+zwar bald den Fortschritt solcher Gliederung, die Stütze jedoch
+führt auf gleichem Wege zu immer reicherer Formengebung. Indische
+Freude an wechselvollem Ornamentspiele erhebt die Abfasung der Kanten
+zu einem Hauptkennzeichen des Pfeilergepräges. Und die Herrschaft
+dieser Dekoration hat sich, obgleich nach jeweiligem Zeitgeschmacke
+häufigen Verhältnisänderungen zwischen den Schaftstücken der einzelnen
+Querschnittspolygone unterworfen, während aller Epochen bis zur
+Gegenwart erhalten.
+
+[Illustration: Abbildung 24.]
+
+[Illustration: Abbildung 25.]
+
+Neben dem Motiv des ganzen Steinzaunes, welches in der buddhistischen
+Ornamentik unter anderem als Architravrelief hervorragende Rolle
+spielt, wird das Medaillon den geläufigsten Ausdrücken altindischer
+Formensprache hinzugefügt. Gern greift der Architekt, wenn es gilt,
+an Pfeilern eine einfache Grundgestalt in anderen Querschnitt
+oder sonstwelche ornamentale Bereicherung überzuführen, zu diesem
+altbewährten Kunstmittel, was einige Beispiele erläutern mögen (Abb.
+23-26). Interessant ist an der Tempelsäule von Konch (Abb. 24) der
+Übergang aus dem Schafte zum Kapitell mittels der halben Rosette,
+welche sich mit dem entsprechenden Ornamente des Kragsteines zu
+einem Ganzen vereint. Aus neo-brahmanischer Zeit schon stammt der
+Pfeiler von Nawagaon (Abb. 25), und doch erinnert er noch unmittelbar
+an Zaunpfostengepräge. In der Ausbildung der Medaillons herrscht
+reiche Abwechslung. Neben dem stilisierten Blütenmotiv weisen die
+Scheiben allgemein eine Umrahmung auf, worein Stúpas, Bäume, Tier- und
+Menschengestalten (Abb. 26), ja ganze Scenen weltlichen und religiösen
+Lebens entworfen sind. Ein freies Künstlertum konnte sich an diesen
+Pfosten entfalten, -- einzelnen frommen Schenkungen aus der Gemeinde.
+So bindet sich denn bei manchen Beispielen der Bildhauer überhaupt
+nicht an Fasung und Kreisornamente, sondern teilt, um den Spielraum
+seiner Dekoration zu erweitern, die Frontflächen des Vierkantpfeilers
+durch wagrechte Steinzaunbänder in mehrere Felder auf. Oder aber er
+beschränkt auch diese Gliederung auf ein Mindestmaß und arbeitet als
+Hauptmotiv eine einzige Figur an (Abb. 27). Auf groteskem Ungeheuer
+oder Zwerggeschöpf steht in sinnlich-anmutiger Pose eine Tänzerin.
+Deutlich verrät das Werk, wie der Künstler bestrebt war, das weibliche
+Schönheitsideal seines Volkes zu erreichen. Ein interessanter Beweis
+zudem gegen die Vermutung klassischen Einflusses auf ältestindische
+Bildnerei! Dort in griechischer Kunst reines, natürliches Ebenmaß
+aller Körperformen, hier hingegen der künstlerische Niederschlag einer
+üppigen erotischen Phantasie. -- Eine merkwürdige Ähnlichkeit dieser
+Reliefgestalten mit manchen europäischen Skulpturen des Mittelalters
+ist nicht abzuweisen, obgleich selbstredend jeder Zusammenhang
+ausgeschlossen bleibt. In gleicher Auffassung wie der Wandschmuck
+assyrisch-persischer Pylonen zeigen die Torpfeiler der Steinzäune zu
+Bhílsa und Garhwá große, hütende Gestalten. Erst gegen Ausgang des
+Altertums greift die Verwendung angearbeiteter Einzelfiguren öfter auf
+die Stütze über.
+
+[Illustration: Abbildung 26.]
+
+[Illustration: Abbildung 27.]
+
+Gerechte Anerkennung gebührt dem künstlerischen Hochstande dieser
+indischen Bildnerei in ihrer ältesten, besten Zeit, wie bei Gelegenheit
+der Láts bereits betont worden ist. Voll Leben und Naturtreue die
+scenischen Darstellungen, ausdrucksfähig und ausdrucksvoll die
+figuralen Gebilde, mustergültig im detaillierten Ornamententwurf,
+so betritt die Plastik an den buddhistischen Steinzäunen den Plan
+der Kunstgeschichte. Doch ihre zeitliche Folge bedeutet, wie
+schon erwähnt, eine einzige, nur episodenhaft unterbrochene Bahn
+des Niederganges. Wohl hat die Verquickung heimisch-orientalischer
+mit klassischer Bildhauerkunst im Indusstromgebiet auch späterhin
+vorteilhaften Zusammenklang ergeben, doch fand dieser eben keine
+Aufnahme in der skulpturellen Gesamtentwicklung Indiens, welche die
+gröbsten Mißgriffe aufweist. Verlieh man ja beispielsweise göttlich
+erhabenem Wesen durch kolossale Größe inmitten kleiner Gestalten,
+göttlicher Macht durch entsprechende Anzahl von Köpfen und Gliedmaßen
+Ausdruck. Dieser Entartung steht aber das eigentliche Bauschaffen, als
+raumbildende Kunst fußend auf praktischer Anschauung und Erkenntnis,
+ziemlich fern und leitet insonderheit die altindische Säulenbildung auf
+klar übersehbarem Wege vorwärts.
+
+[Illustration: Abbildung 28.]
+
+Stellt schon der Pfosten des Steinbalkenzaunes zu gewissem Grade eine
+Vorstufe der typischen Deckenstütze dar, so nähern sich die Säulen der
+Railtore, der _Toráns_, dem Ziele noch bedeutend mehr. Unmittelbar ist
+in solchem Toránpfeiler eine Übergangsphase der Látformensprache auf
+die konstruktive Säule erhalten. Freilich darf man dabei nicht an jenes
+bekannte Zauntor von Sánchi denken, welches gewöhnlich als Paradestück
+des Dekorationsreichtums oder des unendlich mühevollen Reliefdetails
+in kunsthistorischen Werken angeführt wird. Schon des späten Alters
+wegen (1. Jahrh. n. C.) erscheint dieses Exemplar der Toranlagen,
+deren Absenker sich bis zur Gegenwart erhalten haben in den Pailus und
+Torüs der gelben Rasse, für unsre Betrachtung nicht geeignet. Eher
+mag ein Beispiel aus Bhárhut (Abb. 28), wo sich seit der Entdeckung
+des Ortes durch Cunningham der Steinzaunforschung die ergiebigsten
+Quellen erschlossen haben, den Zusammenhang eines Toránpfeilers mit
+der Einzelsäule kundtun. Ein vergleichender Blick läßt erkennen, daß
+der Künstler gekoppelte Láts durch Verkürzung und Überführung des
+Schaftes in achteckigen Querschnitt zum Architravträger umgewandelt
+hat, ohne im übrigen die Eigenheiten des Stambha aufzugeben. Darin ist
+jene Grundregel altindischer Architektur bestimmt ausgesprochen, an
+der Einzelsäule den Querschnitt stets rund, am Konstruktionspfeiler
+hingegen polygonal zu wählen.
+
+Soll aus dem vorliegenden Kapitel ein zusammenfassendes Ergebnis
+gefolgert werden, so spielt der Zaunpfeiler in der altindischen
+Säulenentwicklung bedeutsame Rolle. An diesem Gliede fand der
+Architekt die denkbar günstigste Gelegenheit, den heimischen Holzstil
+nach seines Volkes eigenem Fühlen in Steinformen zu verwandeln.
+Ohne Rivalität fremder Kunst konnte hier aus dem phantastischen
+Sinn des Inders für wechselvolle Gliederung und Ornamentik eine
+Dekoration, welche allmählich ausschlaggebende Wichtigkeit erlangte,
+ihre Grundzüge heranbilden. Denn der Künstler behandelte ja in jedem
+Pfeiler ein für sich abgeschlossenes Stück, das nicht, wenn verfehlt,
+ein ganzes Bauwerk für immer beeinträchtigen mußte, wie etwa bei den
+Grottentempeln der Fall. Gar mancher mit den Steinzaunpfosten verwandte
+Zug gemahnt in den weiteren Kapiteln daran, daß der Entwerfende zur
+Durchbildung des altindischen Pfeilers Erfahrung und Vorstudien
+dorther geholt hat. Jedes einzelne derartige Beispiel aber wird jenes
+Urteil Fergussons über den erst von neuer Forschung recht gewürdigten
+Steinbalkenzaun bestätigen, »that this was the feature on which the
+early Buddhist architects lavished all the resources of their art, and
+from the study of which we may consequently expect to learn most.«[12]
+
+
+
+
+Kapitel 4.
+
+Deckentragende Säulen.
+
+
+Nur an einsteinigen Werken wird es zur Hauptsache möglich, die
+Entwicklung der deckentragenden Säule Altindiens aus ihren einzelnen
+Phasen zu ununterbrochener Kette zusammenzufügen. Einmal weisen die
+frei errichteten Bauten Lücken unüberbrückbarer Zeitspannen in ihrer
+Reihe auf, wie ja kein einziges Beispiel aus der Epoche vor dem 3.
+Jahrhundert n. C. vorhanden ist. Andrerseits aber können sich ihre
+Reste infolge durch Klima wie Gewalt verursachten trümmerhaften
+Zustandes als Quellen der Forschung nicht entfernt mit den unversehrten
+Grottenanlagen messen. Zwar nur die innere Raumbildung zeigen die
+unterirdischen Werke, doch genügt dies vollkommen für das Thema
+vorliegender Abhandlung. Solche Gründe mögen für den Verfasser
+sprechen, wenn er zum Stammbaumentwurf des altindischen Pfeilers
+zumeist monolithe Schöpfungen als Illustrationsmaterial beibringt.
+Immerhin leicht wird es dem architektonisch geschulten Auge gelingen,
+den Charakter eines Grottenpfeilers unter Beibehaltung aller typischen
+Züge der jeweiligen Entwicklungsstufe zum Säulengepräge freier
+Konstruktion umzuwandeln.
+
+[Illustration: Abbildung 29.]
+
+[Illustration: Abbildung 30.]
+
+Das Entstehen des monolithen Bauschaffens in Indien ist meines
+Dafürhaltens von folgendem Gesichtspunkte aus zu erklären. Bevorzugte
+heimische Architekten hatten die Monumentalität fremdvölkerischer
+Steinbauten empfunden und als Gesamtbild in der Erinnerung bewahrt,
+allerdings ohne die zugehörigen Konstruktionseinzelheiten. Dies führte
+denn darauf, Kultstätten aus dem Felsen herauszuarbeiten. Die erhabene
+Innenstimmung der vorschwebenden Monumentalwerke wurde damit in bisher
+unerprobtem Materiale erreicht, doch ohne steingerechten Organismus
+lediglich als formale Hülle. Vielmehr wurde alle Konstruktion noch
+im Sinne des Holzbaues gedacht und dargestellt. Darum in den frühen
+Grotten ein gleichsam zu Stein erstarrtes Holzgefüge, das, für
+den Neustoff an frei errichteten Bauten angewandt, versagt haben
+müßte. Hier aber im Schoße des Felsens bewirkte invornherein die
+Gesteinsstruktur den größten Teil der statischen Sicherheit. Nicht gar
+lange auch, so beginnt ja die formenflüssige Schaffensfreude indischer
+Kunst den ursprünglichen Holzcharakter zu einem Stile umzubilden, der
+konstruktiv wie ornamental dem Steine mehr und mehr entspricht.
+
+[Illustration: Abbildung 31.]
+
+Das Hauptgebiet des Grottenbaues ist vorzüglichen Materials zufolge der
+Gebirgszug der Westghats. Bevor aber eine anschließende Stufenreihe
+altindischer Pfeilerentwicklung dorthin führt, sei als Einleitung das
+älteste und einfachste Beispiel des vielgenannten Lomas Rishi-Kellers
+(Abb. 29) im Norden von Gayá erwähnt. Bei der Entstehungszeit dieser
+Grotte um die Mitte des 3. Jahrhunderts v. C. bietet ihr unmittelbares
+Konstruktionsnachbild von Holz in Stein den ersten Beleg für die bisher
+vertretene Theorie des Ursprunges raumbildender Steinarchitektur. Die
+Arbeit in Granit macht es erklärlich, warum der Hindu, welcher soeben
+noch in bildsamem Holze entwarf, an dem Pfeiler ohne jede schmückende
+Beigabe lediglich die Funktion im Aufbausysteme zum Ausdruck bringt.
+Im Zusammenhange mit der Gesamtkonstruktion zeigt die Stütze insofern
+Holzbaugepräge, als ein schlichtes Kantholz oben einwärts geneigt ist,
+um den Biegungskräften des eselsrückenförmigen Daches vorteilhaft zu
+begegnen. -- Wenige Jahrzehnte späteren Alters, weist die Grotte von
+Bhaja (Abb. 30) ähnliche Technik auf. Auch hier einwärtshängend und
+noch ohne jede Gliederung nach den Grundregeln einer Säule, erscheint
+die achteckige Stütze lediglich als ein Teil des nackten Gerüstes.
+Einige Ornamentstücke waren bezeichnenderweise aus Holz angesetzt.
+
+Es kann ja keineswegs in dem Rahmen dieses Essays liegen, eine
+beträchtliche Zahl altindischer Pfeilerbildungen beizubringen, die des
+Einzelstudiums harren, sondern nur ein Abriß ihres Werdeganges soll
+versucht werden. Besondere Gründe aber sprechen dafür, ein ungefähr
+gleichaltriges Gegenstück zur letzten Stütze nicht zu übergehen. Einmal
+mag der Ganesá Kumbha genannte Kellertempel von Cuttack (Abb. 31) ein
+Beispiel der beginnenden Pfeilerentwicklung im äußersten Osten bilden,
+dann aber trägt dieser Typus, im Gegensatz zu der Absteifung einer
+hochgestelzten Dachkurve zu Bhaja, horizontalen Deckenabschluß. Die
+daraus entspringenden Unterschiede treten deutlich hervor. Während
+dort der Pfeiler mehr als Glied des gesamten Konstruktionsgerüstes
+betrachtet erschien, neigt sich ihm zu Cuttack der Schwerpunkt der
+Durchbildung zu. Ein unbewußtes Gefühl für logische Trennung der
+Säule in Basis, Schaft und Kapitell scheint schon in dem Ganzen zu
+schlummern, doch lebte eben das unverkennbare Vorbild des Baumstammes
+noch zu sehr in dem Formensinn des Künstlers, als daß ein klares
+Aussprechen solcher Gliederung möglich gewesen wäre. Durch einbiegenden
+Kurvenanlauf ist das Gepräge sicherer Standfestigkeit erreicht, --
+eine Beobachtung wiederum, die wohl unmittelbar dem Wurzelansatze
+des Baumes entstammt. Erst in der Hälfte des Vierkantpfostens setzt
+Dekoration mit der Eckfasung an, die in drei Viertel Pfeilerhöhe zu
+quadratischem Querschnitt zurückführt. Senkrechte Stellung ist von der
+Stütze gerader Decke des Holzbaues beibehalten. Durch Ornament und
+Kurvenführung in Holzcharakter einstimmend, stellt die Kopfstrebe als
+Ganzes einen merkwürdigen Anhalt an solches Vorbild dar, weil sie als
+Steinkonstruktion logischer Berechtigung entbehrt. Seltsamer berührt
+es zudem, daß der Architekt damit nicht den Architrav, sondern die
+darüber lagernde Decke selbst zu stützen sucht. Soll man annehmen, ein
+gedankenloses Nachbilden habe derartigen Lapsus unterlaufen lassen?
+Wahrscheinlicher wohl stellt der Architrav den Unterzug einer der
+Pfeileranordnung entsprechenden Balkenlage vor, die von bewußten
+Kopfbändern verstrebt wurde. -- Dieselben Glieder sind wiederum als
+Vorläufer gewisser dem mittelalterlichen Bauschaffen eigener Gebilde zu
+betrachten, die am Schafte ansetzend in der Mitte eines Joches einander
+gegen die Decke versteifen, während die Säule selbst als eigentliche
+Stütze des Architraves weiter emporsteigt. --
+
+[Illustration: Abbildung 32.]
+
+Nach den Erstlingswerken steinerner Raumbildung setzt nun merkbar die
+architektonische Begabung des indischen Volksgeistes ein, der nach
+Adamy[13] »fähig gewesen wäre, das Vollendetste zu schaffen, seine
+Phantasie aber nicht losreißen konnte aus den Fesseln, in die der
+erschlaffende Reichtum einer allzugütigen Natur ihn geschlagen«. Ein
+halbes Jahrhundert kaum trennt die Grotten zu Bhaja und Cuttack von der
+zu Bedsá, doch welcher Unterschied! Die Bahn ist eingeschlagen, auf
+welcher die altindische Kunst Schritt vor Schritt vordringt zu eigener
+Steinformensprache. Mag ein Säulenkapitell der Vorhalle (Abb. 32)
+als Architekturtypus dieses Kellertempels gelten. Unverkennbar
+liegt eine Umbildungsphase des Lát in die tragende Säule vor. Ein
+frischer, selbstschöpferischer Zug aber durchweht die alten Formen.
+So stellt sich die Vermittlung von Glockenrund und viereckiger
+Deckplatte zwar noch als das übliche Wulstglied dar, doch wird dieses
+in wohlerwogener Absicht von einem den Abakusecken entsprechend
+gerichteten Rahmengestell umgrenzt. Die kleinen, schlichten
+Vierkantpfosten verkörpern dabei eine geschickte Ecklösung, welche
+sich günstig in die perspektive Kapitellwirkung einfügt. Konstruktiv
+wie ästhetisch einwandsfrei ist der frühere einfache Abakus der
+Ediktsäule als Unterlage des lastenden Architraves in eine Folge von
+vier einander überkragenden Platten verwandelt. Dagegen erscheinen die
+darüber lagernden Reiterskulpturen ohne Kritik ihrer konstruktiven
+Urbedeutung von dem Stambha übertragen. Obgleich der zu Grunde liegende
+Sattelholzgedanke des persischen Vorbildes dem altindischen Holzbaue
+ebenfalls geläufig war, ist er an dieser Plastik dem Künstler --
+seltsam, aber unleugbar -- nicht zur Erkenntnis gekommen. Darauf läßt
+die Anordnung der Tierleiber, welche seitlich des Architraves und in
+halber Überschneidung vorgenommen ist, schließen. Ein zweckmäßiges
+Hineinkomponieren solcher Skulptur in die Masse eines Sattelstückes
+ist nicht denkbar. Unbewußterweise hat somit eine Rückkehr des rein
+dekorativ an dem Lát weitergeführten Motives zu seiner konstruktiven
+Entstehungsstelle stattgefunden, und auch dort wird ihm erst allmählich
+wieder die Rolle einer vermittelnden Architravunterlage beigelegt.
+Ob dabei die mehr und mehr geschlossene Anlage der Figuren einem
+vorteilhaften Herausholen aus dem Steinblocke, engerer Beziehung zum
+Holzurbilde oder auch dem Zusammenwirken dieser beiden Möglichkeiten
+zuzuschreiben ist, mag bis zu späterer Untersuchung dahingestellt
+bleiben. --
+
+Die Vorhallensäule steigt regelgemäß als Träger gerader Decke lotrecht
+auf. Wie aber verhält sich das wachsende Verständnis im Steinbaue
+gegenüber den einwärts neigenden Stützen des gekurvten Daches?
+-- Konstruktiv berechtigt strebten diese Steifen dem seitlichen
+Ausdrücken der Holzrippen entgegen, doch in Stein umgesetzt beansprucht
+die hochgestelzte Eselsrückendeckung den Pfeiler lediglich auf
+Vertikaldruck. Eine interessante Erscheinung ist es nun, wie der
+Architekt immer geringere Säulenneigung annimmt, je logischer er im
+neuen Materiale urteilen und konstruieren lernt.
+
+[Illustration: Abbildung 33.]
+
+[Illustration: Abbildung 34.]
+
+Zur vollen Reife kommt diese statische Erkenntnis im Keller zu Kárli,
+wo genau senkrechte Säulenstellung eintritt. Mit dem Werke, dessen
+Beginn 78 v. C. fällt, ist ein Hochstand des altindischen Grottenbaues
+erreicht, wie er durch bisherige Funde nicht übertroffen worden ist.
+Frei und reizvoll entfaltet sich hier die Dekoration, und doch wieder
+ordnet sie sich zu rechtem Grade dem konstruktiven Organismus unter,
+welcher die Holzbaumängel der monolithen Vorläufer meidet. In dem
+gedämpften Lichte der Grotte erwecken wuchtige, enggesetzte Stützen
+mit reichem Kopfschmucke nach Schilderung Fergussons[14] wie andrer
+Augenzeugen[15] eine selten erhabene Stimmung. Der Pfeilerabstand,
+welcher der längsten Basisseite gleichkommt, bildet, gegenüber den
+beträchtlich größeren Säulenweiten der am Holzbausysteme hängenden
+früheren Beispiele, einen neuen Beleg dafür, daß der Architekt nunmehr
+im freikonstruktiven Bauschaffen das neue Material wesensgerecht zu
+verwenden weiß. Auf den ersten Blick fesselt der Pfeiler (Abb. 33)
+durch die Sicherheit der Proportion, welche sich hauptsächlich
+in der klaren Scheidung von Basis, Schaft und Kapitell sowie dem
+kraftvollen, doch keineswegs schwerfälligen Gesamtcharakter offenbart,
+und verdient so als hochwichtige Entwicklungsstufe der altindischen
+Stütze gerechte Würdigung. -- Vom Boden bis zur Scheitelhöhe der
+Reiter erreicht die Säule 5,70 m. Der Architekt hat den Druck des
+Pfeilers als eines Trägers gewaltiger Last durch vermittelnde,
+abgetreppte Unterlagsplatten gleichmäßig auf größere Grundfläche
+verteilt. Mit dieser konstruktiv-praktischen Logik ist zugleich der
+ästhetische Zweck eines Überganges aus der Erdgleiche zu der straffen
+Vertikaltendenz des Schaftes erfüllt. Nun aber setzt unmittelbar über
+den Platten ein vasenförmiges Glied an, das in klassischer Kunst kein
+Gegenstück hat und darum unserem Formengefühle seltsam erscheinen
+mag. Woher dieses eigenartige Gebilde? -- Die Analogie solcher Form
+in assyrisch-persischer Architektur dürfte ein Wegzeichen zur rechten
+Deutung bieten. Ein vergleichender Blick auf die Basis der Grottensäule
+von Iskelib (Abb. 34) beispielsweise ersieht dieselbe Grundgestaltung,
+deren Ursprungserklärung in der Kürze darzulegen versucht sei. --
+Die südliche Regenzeit bewirkte Fäulnis am Fuße der alten Holzsäule,
+deshalb wurde der Stamm durch eine Unterlagsplatte von Stein oder
+Bronze über den Boden erhoben. Um dabei die Zapfen- oder Einlaßöffnung
+gegen eindringendes Wasser zu schützen, umwickelte man die kritische
+Stelle anfangs mit Binsenseilen, daher in der alten Architektur des
+Orients oft ein oder mehrere Ringe als Basis. Fortgeschrittenere
+Technik aber hüllte den Pfostenfuß in einen Metallschuh, wie dies
+heute noch in Japan gebräuchlich. Dieser Schutz mag dem auf unsere
+Zeit überkommenen Türzapfen von Balawat (Abb. 35) geähnelt haben,
+nur wird die bronzene Hülle festen Standes wegen nicht spitz in den
+Unterbau eingelassen worden sein. Die rein formale Nachbildung des
+Schuhes in Stein hat nun die vasenförmige Basis ergeben, wobei aber
+unentschieden bleiben muß, ob dieser Grundbegriff auch dem indischen
+Holzbaue geläufig war, oder ob lediglich die Steinform aus persischer
+Kunst übernommen wurde. -- Auf derartigem Basisgliede also erhebt sich
+zu Kárli ein achteckiger Schaft, dessen Diameter etwa ein Sechstel der
+Pfeilerhöhe bis Oberkante Abakus beträgt. Während an zeitlich kurz
+vorausgehenden Kapitellen die Querschnittsfigur des Schaftes ohne
+weiteres auf die Glocke übergeführt ist, vielleicht da als letzter Rest
+an die ehemaligen Einzelblätter erinnernd, steht hier eine eigenartige,
+belebende Kannelur in ansprechenderem Einklang mit dem polygonalen
+Schafte. Nach Art des Beispieles von Bedsá hat die elegante Überleitung
+der Glocke zu den vier Deckplattengliedern statt. Als krönender Schmuck
+des Abakus tragen zwei kniende Elefanten, gleich trefflich in Anlage
+wie Ausführung, je zwei verschlungene Gestalten. Die Komposition
+der Skulptur ist sichtlich aus einem vorstehenden Stück des Blockes
+entwickelt, der als Unterlage des Architraves dient, doch wird der
+Gedanke an bewußten Sattelholzursprung durch die Anordnung rechtwinklig
+zum Architrave hinfällig. --
+
+[Illustration: Abbildung 35.]
+
+Wenn das nächste Beispiel (Abb. 36) dem gegen die Grotte von Kárli
+stark abfallenden Nahapana-Keller zu Nassick, dessen Alter um das
+Ende des 1. Jahrhunderts n. C. einzuschätzen ist, entnommen wird,
+so geschieht dies außer unter dem allgemeinen Gesichtspunkte, eine
+fortlaufende zeitliche Reihe zu verfolgen, besonders als Stichprobe der
+ferneren Skulpturanlage auf dem Abakus. Es ordnen sich die geschlossen
+behandelten Höckerochsen als interessante Gruppierungsvariante in die
+Richtung des zwischengeschobenen Architraves, was deutlich erkennen
+läßt, daß hierbei höchstens der Gedanke einer gabelförmigen Sicherung
+gegen seitliches Verschieben, keineswegs aber einer Untersattelung
+zu Grunde liegen kann. Die schematisch-rohe Technik des Pfeilers hält
+in der Folge der Säulengebilde lange hinaus an. So trägt noch die
+Stütze der Gautamiputra-Grotte zu Nassick (Abb. 37) aus dem Anfange
+des 4. Jahrhunderts dasselbe Gesamtgepräge zur Schau. Diese Zeit
+des Verfalles bildet in der Architekturgeschichte Altindiens einen
+bedeutungsvollen Abschnitt. Es zeigt das Stocken der Ausbildung
+ererbten Formenschemas, daß der Künstler solch begrenztem Gebiete
+keinen Reiz mehr abzugewinnen vermochte. Sein Schaffensdrang brauchte
+und suchte neue Anregung, um vollkundig des Steincharakters Originelles
+hervorzubringen. So deckt sich diese Episode altindischer Kunst mit
+der häufigen und wohlerklärlichen Erscheinung, daß aus einer Brachzeit
+desto kräftigere Blüte entspringt.
+
+[Illustration: Abbildung 36.]
+
+[Illustration: Abbildung 37.]
+
+Gegen Ende der Zeit zwischen der Entstehung beider Pfeiler keimt das
+neue Leben auf, wofür gerade an der Gautamiputra-Säule interessante
+Anzeichen nachzuweisen sind. Zwei Momente erscheinen hier, welche in
+der Folge rasch hervorragende Bedeutung erlangen. Einmal das Band um
+die Einkurvung der Glocke. Am vorliegenden Typus zwar entstehen dadurch
+Teilglieder, wie sie der Engländer drastisch als »pudding forms« zu
+bezeichnen pflegt, doch stellt ja allein schon der bestimmte Hinweis
+auf eine Stelle, wovon neue Formengebung des Kapitelles ihren Ausgang
+nehmen konnte und sollte, einen Markstein der Säulenentwicklung dar.
+-- Als andrer Punkt nimmt die Abakuskrönung mit dem Beispiel der
+Gautamiputra-Grotte wirklich tragendes Gepräge an, indem sich die von
+dem Lát her bekannte, zentral nach den Deckplattenecken gerichtete
+Löwengruppe dem Architrave unterlagert. Man könnte billig zweifeln,
+ob der Architekt wohl mit klarer Absicht solch organische Verwendung
+gewählt habe, wenn nicht gleichzeitige und unmittelbar folgende
+Bildungen ähnlicher Art denselben Grundbegriff aufwiesen. Tatsächlich
+ist der Urzweck dieser Skulptur nunmehr neu entdeckt. Damit soll nicht
+gesagt sein, daß etwa im Steinbau eine allmähliche Rückentwicklung der
+rein dekorativ auf die Stütze übernommenen Plastik zum ursprünglichen
+Sattelholzgedanken stattgefunden habe, welcher gerade um diese
+Zeit durch die Halbinsel allgemeine Aufnahme zu finden beginnt.
+Eher mag umgekehrt dieses unmittelbare Nachbilden der heimischen
+Holzkonstruktion zur sinngemäßen Erkenntnis der Skulptur gewichtig
+beigewirkt haben.
+
+[Illustration: Abbildung 38.]
+
+Denn zum Hauptteile erweist sich der Holzbau Altindiens als Quickborn
+der Neugestaltung, die an den nächsten Beispielen das archaïstisch
+erstarrte Traditionsschema der Säule durchbricht. Grundzüge derselben
+Herkunft hatten im Vereine mit indopersischer Látformensprache die
+altindische Stütze als ausgesprochenen Typus erstehen lassen; jetzt
+wieder knüpft ein frischer Aufschwung der Säulenentwicklung engere
+Beziehungen zu diesem heimischen Kunstzweige an, im eigenartigen
+Umschaffen früherer wie Übernehmen neuer Motive. Als kennzeichnendste
+Neuform aber des Pfeilerbildes tritt eben das Sattelholz -- oder, wenn
+man will, das Kragsteinglied -- heraus, dessen Geschichte ein kurzer
+Überblick verfolgen mag.
+
+[Illustration: Abbildung 39.]
+
+Bekanntlich stellt das untergelegte Balkenstück ein zentralasiatisches
+Urmotiv dar, das sich nach Dieulafoy[16] an Blockbauten von Ghilan
+und Mazendéran (Abb. 38) bis zur Gegenwart erhalten hat. Als Beleg
+dafür, daß diese Konstruktion auch dem altindischen Holzbaue eigen war,
+mag ein interessantes Steinzaunrelief von Bhárhut aus der Mitte des
+3. Jahrhunderts v. C. dienen (Abb. 38). Auf Steinbau überführt, bewahrt
+sich das Sattelholz als Kragsteinanlage, welche die freitragende Länge
+des Architraves verkürzt, konstruktive Berechtigung. Aus diesem Grunde
+hat es an frühesten, rein konstruktiv behandelten Granitbauten der
+Hindus Verwendung gefunden. Der sogenannte »große Kachahri« in Dhamnár
+(Abb. 39), um hierzu nur ein Beispiel unter mehreren herauszugreifen,
+zeigt auf dem schlichten Vierkantpfeiler allein das Kragsteinkapitell.
+Etwa vom 3. Jahrhundert n. C. ab prägte eine umfassende Verbreitung
+dieses Motiv allmählich zu einem Hauptzuge der stützenden Säule aus.
+Kaum absehbar erscheint der Wechsel der Durchbildung, welche das Glied
+dann insgesamt erfahren hat. Naturgemäß mußte der Kragstein stets
+unmittelbar unter dem Architrav bleiben, ganz unabhängig von Anlage
+und Ausgestaltung des eigentlichen Kapitelles. Vorerst folgt die
+Auskragung in ihrer Aufgabe, die Durchbruchsgefahr des Steinbalkens
+zu verringern, lediglich dessen Richtung. Hat die einer Überblattung
+zweier Hölzer entsprechende Architravkreuzung statt, so werden vier
+Kragstücke erforderlich. Mit der Zeit aber findet diese Form teilweise
+zu rein dekorativen Zwecken Verwendung. Endlich begnügt man sich
+auch mit der Vierzahl nicht mehr, wie ja eine Regel des altindischen
+Architekturlehrbuches von Mánará[17] besagt, daß die Kragsteinanlage
+aus ein bis acht Strahlen bestehen kann, je nachdem Konstruktion oder
+Dekoration es beanspruchen. -- Nach Einschaltung dieses Überblickes
+mag nun dem Kragsteinmotiv weitere Würdigung in der fortgeführten
+Beispielreihe altindischer Pfeilerentwicklung zu teil werden.
+
+[Illustration: Abbildung 40.]
+
+Nassick, dessen Säulen jene Periode des Niederganges vertraten, mag
+zu interessantem Vergleiche auch ein Beispiel der neuen Strömung
+beibringen. Der Yádnya Srí-Vihára, dem die Stütze (Abb. 40) entnommen,
+ist gegen Anfang des 5. Jahrhunderts einzuschätzen. Entschieden weist
+dieses Pfeilergepräge auf enges Anlehnen an ein Holzvorbild hin, sowohl
+mit dem konstruktiv klar entwickelten Sattelholzmotive als mit der
+schnitzartigen Gesamtbehandlung des Schaftes. Aus der Flacharbeit sind
+die pflanzlichen Ecküberhänge hervorzuheben, da sie einen der beiden
+Haupttypen fernerer Kapitellbildung andeuten, wie sie in den nächsten
+Abschnitten erläutert werden.
+
+[Illustration: Abbildung 41.]
+
+Hier aber sei weiter dem unmittelbaren Einflusse nachgegangen, welchen
+das Rückgreifen auf den Holzbau bewirkt hat. Mit Eifer und Geschick
+überträgt der Hindu eine gefällige Grazie wechselnden polygonalen
+Querschnittes, die durch reizvolles Ornamentspiel erhöht wird, auf den
+Steinpfeiler. Ein feinzügelndes Gefühl hält bei dieser Gliederung die
+schmückende Phantasie noch im rechten Geleise, so daß der Organismus
+des Gesamtgebildes klar den dekorativen Reichtum durchleuchtet. Aus
+den künstlerisch hochbewerteten Grotten Nr. 16 und 17 zu Ajunta, die
+aus der ersten Hälfte des 5. Jahrhunderts stammen, sind hierzu zwei
+Beispiele herausgegriffen.
+
+[Illustration: Abbildung 42.]
+
+Auf einer Plinthe, die dem Architrave parallel führt, setzt mit
+leichtem Anlaufe der kraftvolle Pfeiler des Vihára 16 (Abb. 41)
+an. Durch Fasung geht die Vierkantform zum Achteck und dieses dann
+zum Sechzehneck über. Nach kreisförmigem Bande nimmt der Schaft
+wieder Achtecksquerschnitt an, um endlich in quadratischer Platte
+seinen Abschluß zu finden. In abgeklärter Eleganz ladet darüber das
+Kragsteinglied der Architravrichtung folgend aus. -- Grundzügige
+Ähnlichkeit und gleichen Hochstand zeigt das Beispiel aus dem Vihára 17
+(Abb. 42) -- und doch wieder eine verschiedenartige Lösung desselben
+Vorwurfes! Nach der Abfasung ins Achteck nimmt der Pfeiler in
+beiläufig ein Drittel Höhe unter Vermittlung typischer Halbmedaillons
+sechzehnteilige Kannelur an, und das gleiche Ornament führt hiervon
+unmittelbar in quadratischen Schaftquerschnitt zurück. Die Kreuzanlage
+des Kragsteinkapitelles setzt sich aus zwei tragenden Figürchen in
+hockender Stellung und einer Achse ähnlich der am Bruderpfeiler von
+Vihára 16 zusammen. Die Decke bietet übrigens ein interessantes
+Nachbild altindischer Holzkonstruktion, wie sie auf der Halbinsel heute
+noch gebräuchlich.[18]
+
+Die beiden Pfeiler können und sollen nur als Stichproben des
+Säulengepräges in den Ajuntagrotten gelten, wo ja jedes andere Beispiel
+für sich abgeschlossen behandelt ist. Mag Fergussons[19] Urteil als das
+eines Augenzeugen und bedeutendsten Kenners altindischer Architektur
+angeführt sein, dieser stets wechselnden Formengebung gerecht zu
+werden. Es besagt über Ajunta: »The pillars in these caves are almost
+indefinitely varied, generally in pairs, but no pillars in any one
+cave are at all like those in any other. In each cave, however, there
+is a general harmony of design and of form, which prevents their
+variety from being unpleasing. The effect on the contrary is singularly
+harmonious and satisfactory.«
+
+Unwillkürlich schweift bei dieser Schilderung ein vergleichender
+Blick hinüber zu den europäischen Säulenbauten des Altertums. Jene
+abgeklärte Vollendung der klassischen Ordnung, die an ihr jeweiliges,
+bis ins kleinste erwogenes Gesetz der Verhältnisse gebunden, mangelt
+den altindischen Monumenten, wenn auch ein Kernsystem des Pfeilers
+als Leitmotiv alle seine Spielarten durchklingt. Doch, Hand aufs
+Herz, ob nicht ein Hauch der Eintönigkeit manche Werke der Antike
+umweht? -- Gerade das unendlich wechselreiche Detail altindischer
+Säulenarchitektur wird demgegenüber immer aufs neue intime, eigenartige
+Reize offenbaren, immer aufs neue zu fesseln wissen.
+
+
+
+
+Kapitel 5.
+
+Das Polsterkapitell.
+
+
+Die gleiche frische Kunstströmung, welche so erfolgreich altindische
+Holzformensprache verarbeitete, durchbrach das erstarrte Glockenschema
+des ausschlaggebenden Säulengliedes. Wie am Beispiel des
+Gautamiputra-Kellers gestreift, entsprang jetzt aus dem altpersischen
+Motive, das seit 250 v. C. kaum von der Grundgestalt losgekommen
+war, nach wenigen befreienden Änderungen eine lebendige Entwicklung.
+Der Impuls solchen Aufschwunges wird in den Zentralprovinzen gegen
+Anfang des 3. Jahrhunderts n. C. merkbar, erst seit 400 etwa gewinnen
+aber neue Kapitellformen eine allgemeinere Verbreitung über die
+Halbinsel. Mannigfache Spielarten treten auf, doch tauchen sie zumeist
+in den pfadlosen Dschungeln indischer Ornamentik bald wieder unter,
+oder sie gelangen erst im Mittelalter zu wirklicher Bedeutung wie
+beispielsweise eine dem ägyptischen Palmenkapitell ähnliche Gestalt.
+Es ist schwer, einen geraden Richtweg durch diesen anfangs fast
+systemlos scheinenden Wechsel von Kapitelltypen zu finden, denn nicht
+Aufgabe dieser bescheidenen Abhandlung kann es sein, die Nebenzweige zu
+berücksichtigen. Manch schönes und interessantes Kapitell Altindiens
+wird darum hier vielleicht vergebens gesucht. Ich bitte diesbezüglich
+um Nachsicht und Verzeihung, doch halte ich nichtsdestoweniger an
+der Hoffnung fest, in rechter Weise eine Skizze der Hauptlinien des
+Kapitellstammbaumes zu entwerfen. Nur eine verhältnismäßig geringe
+Zahl sich aufeinander aufbauender Phasen ist herausgegriffen, -- nicht
+immer die schönsten, doch möglichst kennzeichnende und lehrreiche
+Beispiele. An dem beschränkten Illustrationsmateriale aber sollen
+dafür Einzel- wie Gesamtanlage, Vorzüge wie Nachteile der jeweiligen
+Entwicklungsstufe eingehender kritisiert werden, als dies bei großer
+Kapitellzahl angängig wäre.
+
+Zwei Haupttypen überragen am Stammbaume neuen Kapitellgepräges weit
+alle anderen Verästelungen -- das Polster- und das Vasenmotiv. Und als
+bedeutsamere Form dieser beiden wieder muß die Vase mit Eckgerank unter
+dem Abakus gelten, welche durch das ganze Mittelalter noch gewichtigen
+Einfluß behauptet. Wie das nächste Kapitel im besonderen ausführen
+wird, gibt diese eigenartige Neuschöpfung auf ihrem Werdegange die
+Umrißkurve der alten Glocke auf. Der Paralleltypus hingegen bewahrt
+bis zu seinem Erlöschen am Ausgange des Altertums immerhin engeren
+Anschluß an solche Linienführung. Aber auch hierbei liegt ein völlig
+bedeutungsneues Motiv zu Grunde, dem vorliegender Abschnitt über das
+Polsterkapitell gewidmet sei.
+
+Als eine Frühphase der direkten Entwicklungslinie -- wenn anders
+solche Unterscheidung angehen mag -- sei dem Chaitya 19 zu Ajunta
+ein Beispiel entnommen (Abb. 43). Der Keller ist in die letzten
+Jahrzehnte des 5. Jahrhunderts zu schätzen. In entfernter Ähnlichkeit
+mit persischem Typus erscheint das eng kannelierte Kapitell seiner
+Urbedeutung nach aus zwei Teilen bestehend, nämlich dem herabfallenden
+Kelchkranz und der aufwärts gerichteten Blütenkrone, einem nur
+vereinzelt auftretenden Gliede. Ein Band grenzt die obere Schwellung
+der Kelchblätter ab und verleiht mit derart selbständigem Motive
+dem Kapitell ein wesentlich anderes Gepräge. Allerdings steht die
+starke Einschnürung, welche den Umriß des ganzen Pfeilers stört, im
+Widerspruche mit dem naheliegenden Grundgedanken einer Befestigung des
+Laubes am Stamme.
+
+[Illustration: Abbildung 43.]
+
+[Illustration: Abbildung 44.]
+
+Ohne Sinnverwandtschaft mehr mit dem ursprünglichen Blattkranze löst
+sich das Neuglied bereits an einem Kapitell des Chaitya 21 zu Ajunta
+(Abb. 44), der sich zeitlich dem vorhergehenden unmittelbar anschließt,
+in abgeschlossener Auffassung aus der Glockenlinie. Es mutet an, als
+habe dem Künstler bei Schöpfung dieses straffgeführten Wulstes eine
+festgeschnürte Packung, ein _Unterlagspolster_ als Urbild gedient. Die
+gegenüber dem vorigen Beispiele geringere Einschnürung bewirkt eine
+entschieden günstigere Umrißkurve des Kapitelles. Der Glockenrest unter
+dem Bande erscheint fürder in eine stets wechselnde Folge von Profilen
+und Ornamentstreifen umgewandelt.
+
+Die Entwicklungskette des Polsterkapitelles führt nunmehr zu
+den monolithen Werken Elloras, deren Alter etwa von 500 bis ins
+8. Jahrhundert fällt. Gerade dieser Zeitraum weist die häufigsten
+Religionsspaltungen auf, weshalb es hier angebracht sein dürfte, einmal
+das Verhältnis altindischer Kulte zu der Formensprache des Landes zu
+streifen. Obschon die Hinduarchitektur bis zum Ausgange des Altertums
+vorzüglich im Sakralbau Betätigung suchte, vermochte dennoch keine der
+verschiedenen Glaubensrichtungen eine eigene Stilrichtung abzusondern.
+Vielmehr wurde das Bauschaffen von künstlerischer Gestaltungskraft, von
+der Logik der Durchbildung vorwärtsgeleitet, schritt unberührt hinweg
+über allen Konfessionswechsel. So sind zu Ellora drei Hauptreligionen
+baulich vertreten, ohne daß dies ein Architekturunterschied
+kennzeichnet. Darum ist auch eine stilbestimmende Einteilung allein
+nach dem Glauben der Meister, wie sie in kunstgeschichtlichen Werken
+oft versucht, kaum durchzuführen, in vornherein unmöglich aber in der
+gesamten zweiten Hälfte des Altertums. --
+
+Begeistert vergleicht Le Bon[20] die besten Elloragrotten als »l'œuvre
+d'un peuple de génies« mit dem Tempel von Karnak als einem solchen
+»d'un peuple de géants«. Wenn auch alle Berichte von Augenzeugen
+den wirklichen Eindruck dieser Säulenhallen in reichem Farben- und
+Skulpturschmucke, im Glanze von Gold und Silber nur unbestimmt
+dem geistigen Auge zu skizzieren vermögen, so lassen doch die
+folgenden beiden Beispiele ihrer Pfeilerbildung zu gewissem, hier
+interessierendem Grade auf den architektonischen Gesamtcharakter
+schließen. -- Vor allem tritt die gedrungene Wucht der Säule hervor.
+Wird zu bedenken gegeben, daß demgegenüber die freikonstruktive
+Stütze der gleichen Epoche durchgehends schlankeren, oft sogar das
+korinthische Verhältnis überschreitenden Schaft zeigt, so erscheint
+ohne weiteres erwiesen, daß statische Erwägung auf den gedrückten
+Pfeilertypus des Grottenbaues führte. Die gewaltige Auflast
+des überlagernden Gesteins kam zur Erkenntnis und drängte nach
+architektonischer Lösung, wie sie an so manchem Gebilde als gelungen zu
+bezeichnen ist. Diese mächtigen Stützen strömen eine ungemein ruhige
+und beruhigende Stimmung aus. Und doch wieder umwebt eine gefällige
+Grazie die schweren Massen mit reizvollem Ornamentspiel bei geschicktem
+Wechsel der Form.
+
+[Illustration: Abbildung 45.]
+
+Der Pfeiler des gegen 550 entstandenen Indratempels (Abb. 45) hat
+ebensoviel vorteilhafte wie abfällige Kritik erfahren. Ohne Rücksicht
+darauf gelte er hier lediglich als fernere Stufe der direkten
+Säulenlinie. Auf flacher, dem Architrav parallel führender Plinthe
+setzt eine Basis von abgewogenen Einzelverhältnissen an. Hauptsächlich
+auf Kosten des quadratischen, kannelierten Schaftstückes ist das
+wuchtige Säulengepräge erreicht. Ein schlichtes Profil leitet
+zu dem eigenartigsten Gliede der Stütze über. Wie die kräftigen
+Bärlappblätter nach oben ausbiegend graziös überfallen, das verleiht
+mit unaufdringlicher Eleganz dem schweren Pfeiler gewissermaßen
+emporstrebende Tendenz, -- überdies eine interessante Erinnerung an den
+Urgedanken der Látglocke! Mit den einschnürenden Profilbändern erst
+beginnt der ehemalige Bereich des Blattkranzes. Mag immerhin diese
+übermäßige Einkurvung die Pfeilerlinie energisch nach oben weisen,
+unter rein ästhetischem Gesichtspunkte kann und muß sie verworfen
+werden. Wenn aber der schwellende Charakter des Polsters in manchen
+Kunstschriften als zu weichlich abgetan wird, könnte man dann nicht
+gleichen Rechtes die jonische Volute anfechten, welche noch quellendere
+Masse darstellt?
+
+[Illustration: Abbildung 46.]
+
+Bei stetem Wechsel des Kapitelldetails an jedem einzelnen
+Grottenpfeiler bleibt doch das Polstermotiv im Grundbegriffe
+abgeschlossen bestehen. Erläßlich scheint es darum, hierüber weitere
+Beispiele beizubringen. Nur ein Typus vom Schlusse der Baublüte
+Elloras sei noch herangezogen, um ein Streiflicht zu werfen auf den
+ausschlaggebenden Einfluß, welchen das rein ornamentale Element im
+letzten Verlaufe dieser Pfeilerbildung erlangt. Wahrhaftig, eine einzig
+dastehende Erscheinung -- diese urindische formenflüssige Dekoration,
+deren Züge nahe Anklänge an alle Stilgebiete des Bauschaffens
+aufweisen, vom Altertume des Ostens und Westens bis zum kecksten
+Rokoko, von altchristlicher Kunst bis zur Spätgotik, und weiter bis
+zur Moderne! Naturgemäß lag bei einem Ausleben solch grenzenloser,
+allschmückender Phantasie die Gefahr nahe, daß dadurch der organische
+Aufbau überwuchert würde. Und tatsächlich lassen die Spätwerke des
+Altertums an der Säule immer größere Nachlässigkeit bei abwägender
+Wahl der Gesamt- und Einzelverhältnisse erkennen. So führt in den
+Grotten die übertriebene Betonung der Kopflast, zumal ein Stocken
+der entsprechenden übrigen Gliederdurchbildung eingetreten ist, zu
+schwerfällig-schwülstigem Pfeilercharakter, wofür eine Stütze des
+Kaïlasa von Ellora (Abb. 46) als Beleg dienen mag.
+
+Das ganze Gebilde erscheint von der Wucht der Auflast niedergedrückt,
+und nicht mehr vermag die Dekoration diese Empfindung zu mindern. Breit
+absetzend trägt ein postamentartiger Block mit verjüngten Kanten ein
+sechzehneckiges Schaftstück, das infolge seines geringen Durchmessers
+und seiner kläglichen Höhenverkümmerung den Eindruck erwecken will,
+als habe der Architekt alle Zwischentrommeln brüsk unterschlagen.
+Fußornament, Einschnürungsprofile und Polster des Kapitelles vertreten
+hier im Gesamtumriß den letzten direkten Abkömmling der alten
+Glockenkurve, da mit der Kaïlasa-Grotte vom ausgehenden 8. Jahrhundert
+diese Hauptlinie für erloschen gelten muß. Nachdem, bis zum 11.
+Jahrhundert etwa, besteht eine Periode, die für architektonische
+Forschung in undurchdringliches Dunkel gehüllt ist. Später aber läßt
+der Säulenbau keine zweifellose Wiederaufnahme dieses alten Motivs
+erkennen.
+
+Das letzte Beispiel bildet somit den Abschlußpunkt eines
+Jahrtausends altindischer Säulenentwicklung in lückenloser Folge.
+Zur Vervollständigung der Skizze sei nur noch ein Wort über die
+wesensgleiche Verbreitung solcher Form angefügt. Die monolithen
+Werke als wertvollste Quellen der Säulenkunde im indischen Altertum
+liegen weit über die Halbinsel verstreut. Doch ist allgemein derselbe
+Kapitellgrundzug zu verfolgen, wenn auch selbstredend gewisse lokale
+Unterschiede der Dekoration nicht ausbleiben, welche dem forschenden
+Kenner bedeutsame Merkzeichen bieten. So weisen beispielsweise im Süden
+Badami, im fernsten Osten Udayagiri die gleichen Säulenstadien auf wie
+Ajunta und Ellora. --
+
+
+
+
+Kapitel 6.
+
+Das Vasenkapitell.
+
+
+Eine Parallellinie zum Polstermotive nahm noch, wie eingangs vorigen
+Kapitels angekündet, von der Glockenform ihren Ursprung, um dann aber
+im Verlaufe der Entwicklung weit von dieser Umrißkurve abzugehen.
+In dem Vasenkapitelle mit Eckgerank entstand dabei, verglichen mit
+der Schwesterbildung, eine entschieden elegantere Anlage, die sich
+als eigenartiges Kennzeichen indischer Formengebung selbst durch das
+Mittelalter noch lebenskräftig erwiesen hat. Am besten dürfte eine
+Reihe einzelner Stufen den Werdegang und die organische Logik des
+Motives veranschaulichen. --
+
+Zwei Stützen aus den Tempelbauten von Sánchi bilden die Einleitung. Der
+erste Pfeiler ist zeitlich nicht genau bestimmbar, doch wahrscheinlich
+etwa gleichen Alters wie der Trisúlstambha von Besnagar; der andre
+entstammt dem beginnenden 3. Jahrhundert n. C. Bei grundzügiger
+Ähnlichkeit treten doch die einschneidenden Änderungen hervor. Hier
+(Abb. 47) der frei herabfallende Blätterkranz, darüber ein kräftiger
+Rundstab als Vermittlung zu dem schweren Abakus, -- insgemein
+unleugbarer Einklang mit dem Látkapitell derselben Zeit, wovon ein
+vergleichender Blick auf Abbildung 15 überzeugen wird. Gegenüber
+(Abb. 48) der spätere Typus, dessen Kapitelldetail zwei neue Momente
+beherrschen, das einschnürende Profil und der Fortfall oberster
+Glockenschwellung. Damit sind die ersten Schritte zur Neuform getan.
+Allerdings läßt an diesem Beispiele die Dekoration über einen Wandel
+grundlegenden Sinnes im Zweifel. Denn wenn ornamentale Blattspitzen
+der Halsprofilierung an den herabhängenden Laubkranz erinnern, so
+widerspricht dem andrerseits der Kopfabschluß der Glocke, da die
+einzelnen Kanneluren von oben her in leichter Kurve angeschnitten
+sind. Es scheint, als ob die Überschneidung in begrenztem Raume die
+Glockenschwellung flau wirken ließ und darum zu schärferem Schattenriß
+eben mit diesen Kerben führte, -- also lediglich ein Ausfluß
+ästhetischen Empfindens ohne Rücksichtnahme auf bedeutungsgemäße
+Gestalt!
+
+[Illustration: Abbildung 47.]
+
+[Illustration: Abbildung 48.]
+
+Es stellt aber dieses letzte Kapitell von Sánchi nur einen Übergang dar
+zu oben glatt abgeschnittener Endigung, wobei sich die Glockenkappe
+ähnlich wie der Hals in Profilbänder umsetzt. Ein Pfeiler aus Eran
+(Abb. 49), dessen Entstehung in die Mitte des 4. Jahrhunderts fällt,
+zeigt eine Frühstufe solcher Art. Energischer noch bringt die gegen
+400 entstandene Stütze von Náchná in Bundelkhand (Abb. 50) die
+neue Umrißlinie zum Ausdruck, da alles schmückende Beiwerk an den
+kritischen Stellen auf das geringste Maß beschränkt ist. Insonderheit
+ist zu beachten, daß hier die Laubkranzdekoration vollbewußt
+angewandt erscheint. Der Architekt war demnach noch zu keiner andren
+Grundbedeutung der Kapitellgestalt gelangt, was weiterhin die
+Richtigkeit der Vermutung beweist, daß sein sicheres perspektivisches
+Gefühl trotz naturalistischer Unlogik den geraden Abschluß wählte.
+
+[Illustration: Abbildung 49.]
+
+[Illustration: Abbildung 50.]
+
+Freudigen Eifers ergriff nun das dekorative Genie des Hindu die
+willkommene Aufgabe, der bislang sinnentbehrenden Glockenform mit
+weggeschnittener Kappe eine innere Bedeutung und zugleich eine
+demgemäße Durchbildung zu eigen zu geben -- und das mit einem
+Erfolge, der voller Anerkennung wert ist. Gerade bei derart schroffem
+Kopfabschluß drängte besonders nachdrücklich, aber auch besonders
+erschwert jener alte Vorwurf zur Lösung, einen Rundquerschnitt des
+Kapitelles ungezwungen, elegant in die quadratische Deckplattenform
+überzuleiten. Das klassische Altertum hat in zwei vornehmen Schöpfungen
+dies Problem entwickelt, -- immerhin aber hier bei der jonischen
+Ordnung nicht ohne eine gewisse Einseitigkeit und Gesuchtheit, dort
+bei der korinthischen nicht ohne ein Teil naturalistischer Unwahrheit.
+Und wenn dem Hindu auch keineswegs die künstlerische Fähigkeit und
+technische Vollendung der westlichen Meister zuerkannt werden darf und
+soll, so reicht doch wohl hinsichtlich organisch-logischer Berechtigung
+sein Überführungsentwurf, wie er im folgenden skizziert, nahe an die
+klassischen Typen heran.
+
+Die gestaltende Phantasie legt der kappenlosen Glockenform die
+Bedeutung eines _Gefäßes_ unter. In gleichem Maße, wie dieser
+Grundgedanke in indischer Formensprache regere Aufnahme findet,
+klärt sich allmählich die anfangs derbe Linienführung der Vase
+geschmackvoller ab. Dieser eigentliche Kernbegriff des Kumbha,
+das ist eines Wasserkruges, nimmt zwar selbst auf den kritischen
+Querschnittswechsel keine Rücksicht, wohl aber sein dekoratives
+Beiwerk. Am Zusammenschluß von Deckplatte und Vase entstehen unter den
+Ecken Stellen, wo ein vermittelndes Füllmotiv angebracht erscheinen
+will. Fernerhin aber kriecht die Kumbhakurve mit den einschnürenden
+Profilen, wie schon beim Polster, in den Pfeilerumriß hinein und
+verleiht dadurch dem Kapitell einen dürftigen und matten Zug. Diese
+Sachlage kommt dem Architekten im Verlaufe der Motivdurchbildung
+zur Erkenntnis, und so schaltet er durch dekoratives Betonen der
+Diagonalaxen des Abakus auf denkbar einfachste und geschickte Weise die
+Übelstände aus. An jeder Ecke entspringt ein Rankenbüschel aus der
+Vase, deckt durch sein volles, geschlossen behandeltes Laubwerk die
+mißlichen Blößen und senkt sich an späteren Bildungen, um bedeutenderen
+Schattenriß des Kapitelles zu erzielen, ganz allmählich bis zum
+Vasenfuße. Last not least steigert der Kontrast dieser Laubgehänge
+gegen den nach oben schwellenden Gefäßrumpf die emporstrebende Tendenz.
+Ich kann mich auf Grund umfassender Vergleiche der Überzeugung nicht
+verschließen, daß eben ein solcher Charakter das Kumbhakapitell an
+den freikonstruktiven Stützen häufigere Verwendung finden ließ als
+das gedrückte Polsterglied, dessen ureigenes Gebiet der Grottenbau
+mit gewaltiger Überlast blieb. An der Hand einiger Phasen sei diese
+Entwicklungsskizze der Vase mit Eckranken etwas weiter ausgeführt.
+
+[Illustration: Abbildung 51.]
+
+[Illustration: Abbildung 52.]
+
+Zwei Pfeiler aus Eran und Udayagiri führen den Ansatz der Ecküberhänge
+ein. Man könnte in Frage ziehen, ob dieses Blattwerk trotz seiner
+ästhetischen Berechtigung in Wirklichkeit an Punkten möglich ist, wo
+der feste Verschluß der Vasenmündung durch die Deckplatte doch in
+vornherein ein Durchdringen der Zweige auszuschließen scheint. Wenn
+hier eine Deutung gesucht werden soll, so könnte ja der Gefäßrand
+irgend welche Ausschnitte als Überlaufsöffnungen enthalten, die von
+herausquellender Laubfülle verdeckt sind. Als kurze Büschel spielen
+hier die Überhänge noch lediglich eine zum Abakusquadrat vermittelnde
+Rolle. An der Säule des Narsinha-Tempels zu Eran (Abb. 51), der gegen
+400 zu schätzen ist, hat der Künstler interessanterweise noch einen
+Rest der bisher geläufigen Überleitung als zur Deckplatte gehörig
+betrachtet und demzufolge die Überhänge erst unter diesem Profile
+entspringen lassen. Auch die Halsglieder des Kapitelles sondern sich
+noch in gewissem Sinne von der Vasengestaltung ab. Anders schon das
+wenige Jahrzehnte spätere Beispiel aus der sogenannten »falschen
+Grotte« von Udayagiri (Abb. 52)! Alle Profilbänder sind in die
+Kumbhaform klar einbezogen, was weiterhin den Ansatz der Eckranken
+unmittelbar unter die Deckplatte verschiebt.
+
+[Illustration: Abbildung 53.]
+
+Mannigfache Spielarten erweisen in der Folge die freie Bildsamkeit
+des neuen Kapitellvorwurfes. Ein Moment aber bleibt fest bestehen bei
+allem Wechsel der Verhältnisse -- das gleichmäßige Anwachsen der
+Rankenlänge. Darum ist in dem jeweiligen Verhältnismaße dieses Gliedes
+zur Vasenhöhe ein untrüglicher Schätzungsanhalt für das Säulenalter zu
+erblicken. Da aber die Längenzunahme der Überhänge bei dem gestreckten
+Glocken- bez. Kumbhatypus jener Zeit übertriebene Vertikaltendenz der
+Stütze anzugeben droht, so nimmt die Vase durch Höhenverkürzung wieder
+gedrungenere Gestalt an.
+
+[Illustration: Abbildung 54.]
+
+[Illustration: Abbildung 55.]
+
+Anschließende Beispiele, deren zeitliche Folge sich in den Jahrzehnten
+vor und nach 600 bewegt, gewähren interessante Einblicke in das rege
+Formenschaffen am Kumbhakapitell. In kraftvoll-klarer Schlichtheit
+läßt die Säule von Deo-Barnárak (Abb. 53) den grundlegenden Organismus
+hervortreten. Zu Jhelam (Abb. 54) ist das Laubwerk neuartig, welches
+auf ungezwungene Weise die Ecküberhänge verbindet. Vielleicht
+besteht hierbei ein Zusammenhang mit dem vermittelnden Blätterwulst
+des Látkapitelles. Als Urmotiv wäre anzunehmen, daß dem vollen
+Vasenmunde ein Gebüsch entsprießt, welches die Deckplatte um ein
+Stück emporhebt. Der gleiche Grundgedanke ist bestimmter an einem
+Pilaster aus der Landschaft Orissa (Abb. 55) zum Ausdrucke gebracht.
+Wie eine Verquickung beider Hauptlinien der Kapitellbildung mutet
+dieses Beispiel an. Einem Polster gleicht der Vasenrumpf, aus dessen
+stark eingezogener Mündung ein volles Zweigbündel aufwächst, um
+den Abakusecken entsprechend auf die Schwellung überzufallen. Das
+Kapitell aus der Amrita-Grotte zu Udayagiri (Abb. 56) läßt bereits
+den Einfluß ahnen, dem auch das Vasenkapitell allmählich anheimfällt,
+-- phantastischer Willkür! Beschwingte Fabelwesen treten hier
+beispielsweise an die Stelle der schlicht empfundenen Laubüberhänge.
+Doch sei es mit dieser einen Probe der Auswüchse, wie sie sich immer
+von neuem den Grundzügen des Motivs entsondern, bewendet.
+
+[Illustration: Abbildung 56.]
+
+[Illustration: Abbildung 57.]
+
+Bei solchen Einzelstufen der Durchbildung ist zwecks klarer Erkenntnis
+der Grundbegriffe naturalistisch behandeltes Detail bevorzugt worden.
+Daneben nun machte sich noch eine stilisierende Richtung geltend,
+die ja häufig schon durch die Materialbeschaffenheit bedingt war. Ein
+Beispiel aus Eran (Abb. 57) zeigt die Sicherheit, welche dem Hindu
+auch bei dieser Behandlung eigen war. Außerdem ergaben sich zwischen
+beiden diametral gegenüberstehenden Linien die verschiedenartigsten
+Kreuzungen. Gerade diese wechselvolle Formengebung aber trug bedeutsam
+dazu bei, das Kumbhakapitell von abgeschlossener Reife, wie sie den
+klassischen Kapitellgedanken beschieden, abzuhalten. Immerhin bietet
+allein sein Organismus ein fruchtbares Motiv, das wohl wert erscheint,
+in das moderne Kunstschaffen aufgenommen zu werden.
+
+Vielleicht hat es verwundert, daß bei sämtlichen Pfeilern
+vorliegenden Kapitels die zumeist recht interessante Schaftgestaltung
+unberücksichtigt geblieben ist. Dies findet Grund darin, daß diese
+allgemein entsprechend bereits behandelter Entwicklung statthat.
+Ergänzender Erwähnung nötig erscheint nur noch ein Wechsel der
+Gliederverhältnisse, der mit dem Vasenkapitell verbunden gegen die
+Rüste des Altertums fast typisch auftritt. Der quadratische Pfeilerfuß
+-- gleichgültig, ob mit oder ohne Basisgliederung, -- gewinnt immer
+mehr an Höhe, bis zu etwa zwei Drittel der gesamten Schaftlänge,
+wodurch für das Abfasen in polygonale Querschnittsformen ein
+beschränktes Feld übrig bleibt. Der quadratische Teil entbehrt jeden
+Schmuckes. Vielmehr wird alle Dekoration auf das obere Stück gehäuft.
+
+Die Skizze des altindischen Stützencharakters ist damit zu Ende
+geführt. Denn es erscheint nicht erforderlich, hierzu auf die
+klassische Strömung an der Nordwestgrenze der Halbinsel einzugehen.
+Nicht wie bei den Láts Gándháras regte in der konstruktiven Säule
+ein nur der Heimat eigentümlicher Vorwurf den Architekten an, aus
+fremder Formensprache heraus Originelles zu schaffen. Wo der Hindu
+in diesem Gebiete veranlaßt wurde, die abendländischen Ordnungen
+zur Stützenbildung zu verwenden, da begnügte er sich, abgesehen vom
+indokorinthischen Stile, im Grunde damit, einzelne Teile mit Ornament
+zu überziehen. So muß denn eine zusammenfassende Kritik trotz jener
+lokalen Kreuzung heimischen Geistes mit der korinthischen Ordnung
+entschieden der klassischen Kunst jeden Einfluß auf eigentlich
+indischen Säulencharakter absprechen.
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+Schlußwort.
+
+
+Einen ungewundenen Richtpfad durch das Labyrinth altindischer
+Säulenformen haben wir in den vorausgehenden Betrachtungen gefunden;
+feste Grundzüge der Entwicklung leuchten durch den vorerst verwirrenden
+Schleier einer phantastischen Dekoration. Die einzelnen zu vollen
+Begriffen abgeschlossenen Bildungen halten sich sehr konservativ im
+Säulencharakter. Wenn nun auch rituales Gesetz die Tradition einmal
+sanktionierter Motive gefestigt haben mag, so liegt der Hauptgrund
+dieser Erscheinung doch wohl darin, daß der Hindu eine organische
+Logik als Lebensbedingung gedeihlichen Weiterschreitens erkannt hatte
+und zu wahren bedacht war. Welcher hohen künstlerischen Selbstzucht
+es aber hierzu benötigte, läßt sich schon aus vorliegendem Essay zu
+gewissem Grade ermessen. Immerhin gibt ähnlicherweise, wie in der
+altindischen Literatur die Poesie auf die abstraktesten Wissenszweige
+bedeutsam hinüberspielt, in der Architektur mehr ein freies Gefühl für
+die Harmonie der Verhältnisse, ein sicher disponierender Blick den
+Ausschlag als konstruktives Gesetz.
+
+In solchem Sinne ist des besonderen der tausendjährige Säulenstammbaum
+aus selbständiger Formenwelt heraus erstanden. Einzelne persische
+Teile, deren wichtigsten die Glockenform des Kapitelles darstellt, sind
+zwar in der Grundlage dieser Entwicklung enthalten, doch setzt hier
+unmittelbar jener eigen indische Schaffensgeist ein, dessen Pulsschlag
+in den Jahrhunderten n. C. besonders fühlbar wird. So darf mit vollem
+Rechte das abschließende Urteil, welches Adamy für seine geistreich und
+begeistert geschriebene Abhandlung[21] über altindische Architektur
+Babu Rájendra Lála Mitra's »Antiquities of Orissa« entnimmt, auf die
+altindische Säule spezialisiert werden:
+
+»Sie hat ihre eigentümlichen Linien, ihre eigentümlichen Verhältnisse,
+ihre eigentümliche Formensprache: sie alle tragen das Gepräge eines
+Stiles, der ausdrückt, was das Volk, welches ihn in seiner Eigenart
+bestimmte, dachte und fühlte und meinte, und nicht, was ihm durch
+Fremde an Glauben, Farbe und Rasse zugetragen war. Abgesehen von
+wenigen unbedeutenden Ornamenten dieses Stiles sind seine Fehler und
+seine Verdienste seine eigenen, und die verschiedenen Formen, die er in
+den verschiedenen Provinzen angenommen hat, sind alle Modifikationen
+oder Umwandlungen einer einzigen und ursprünglichen Idee nach lokalen
+Verhältnissen.«
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+Verzeichnis der Abbildungen
+
+mit Angabe der Quellen.
+
+
+  Abbildung                                                        Seite
+
+   1. Übersicht von Altindien (Fergusson, Indian architecture)         5
+
+   2. Säule aus Persepolis (Perrot et Chipiez, L'art dans
+      l'antiquité)                                                     9
+
+   3. Ornament vom Hals einer Asokasäule (Fergusson,
+      Ind. archit.)                                                   10
+
+   4. Buddhistische Symbole (Fergusson, Ind. archit.)                 11
+
+   5. Säulen nach Reliefs aus Yusufzái (Cunningham,
+      Archaeological survey of India)                                 12
+
+   6. Säulen nach Reliefs aus Yusufzái (Cunningham, Arch. surv.)      12
+
+   7. Látkapitell aus Rámpurwa (Cunningham, Arch. surv.)              13
+
+   8. Säule aus Susa (Perrot et Chipiez, L'art dans l'ant.)           13
+
+   9. Lát von Lauriyá-Navandgar (Cunningham, Arch. surv.)             15
+
+  10. Kapitell aus Sankissa (Cunningham, Arch. surv.)                 17
+
+  11. Magara-Lát von Besnagar (Cunningham, Arch. surv.)               19
+
+  12. Monolith von Bhitari (Cunningham, Arch. surv.)                  21
+
+  13. Abakusskulptur aus Mathurá (Cunningham, Arch. surv.)            22
+
+  14. Látkapitell aus Sánchi (Cunningham, Arch. surv.)                23
+
+  15. Trisúl-Lát von Besnagar (Cunningham, Arch. surv.)               23
+
+  16. Eisensäule von Delhi (Fergusson, Ind. archit.)                  24
+
+  17. Gupta-Säule von Eran (Cunningham, Arch. surv.)                  24
+
+  18. Indokorinthisches Kapitell aus Jamálgiri (Cunningham,
+      Arch. surv.)                                                    29
+
+  19. Indokorinthischer Lát aus Jamálgiri (Cunningham,
+      Arch. surv.)                                                    30
+
+  20. Kapitell von Epidauros (Durm, Baukunst der Griechen)            31
+
+  21. Schema eines Steinbalkenzaunes                                  36
+
+  22. Säule nach einem Relief aus Amrávatí (Fergusson,
+      Ind. archit.)                                                   37
+
+  23. Pfeiler aus Arang (Cunningham, Arch. surv.)                     38
+
+  24. Pfeiler aus Konch (Cunningham, Arch. surv.)                     39
+
+  25. Pfeiler aus Nawagaon (Cunningham, Arch. surv.)                  39
+
+  26. Steinzauneckpfeiler von Buddha-Gayá (Cunningham,
+      Arch. surv.)                                                    40
+
+  27. Steinzaunpfeiler aus Mathurá (Cunningham, Arch. surv.)          40
+
+  28. Torán-Pfeiler aus Bhárhut (Cunningham, Arch. surv.)             42
+
+  29. Lomas Rishi-Keller bei Gayá (Fergusson, Ind. archit.)           44
+
+  30. Grotte von Bhaja (Fergusson, Ind. archit.)                      45
+
+  31. Pfeiler aus Cuttack (Fergusson, Ind. archit.)                   46
+
+  32. Kapitell von Bedsá (Fergusson, Ind. archit.)                    48
+
+  33. Pfeiler von Kárli (Le Bon, Les monuments de l'Inde)             50
+
+  34. Grottensäule von Iskelib (Perrot et Chipiez,
+      L'art dans l'ant.)                                              51
+
+  35. Türzapfen und Basisschema von Balawat (Perrot et Chipiez,
+      L'art dans l'ant.)                                              52
+
+  36. Säule der Nahapana-Grotte zu Nassick (Fergusson,
+      Ind. archit.)                                                   53
+
+  37. Säule der Gautamiputra-Grotte zu Nassick (Fergusson,
+      Ind. archit.)                                                   53
+
+  38. Holzsäule aus Mazendéran (Dieulafoy, La Perse) und
+      Steinzaunrelief aus Bhárhut (Fergusson, Ind. archit.)           54
+
+  39. Pfeiler aus Dhamnár (Cunningham, Arch. surv.)                   55
+
+  40. Säule des Yádnya Srí-Vihára zu Nassick (Fergusson,
+      Ind. archit.)                                                   56
+
+  41. Säule des Vihára 16 zu Ajunta (Fergusson,
+      The rock-cut temples of India)                                  57
+
+  42. Säule des Vihára 17 zu Ajunta (Fergusson, Ind. arch.)           58
+
+  43. Säule des Chaitya 19 zu Ajunta (Le Bon,
+      Les mon. de l'Inde)                                             61
+
+  44. Säule des Chaitya 21 zu Ajunta (Fergusson,
+      The rock-cut temples of India)                                  61
+
+  45. Säule des Indra-Tempels zu Ellora (Romberg-Steger,
+      Geschichte der Baukunst)                                        63
+
+  46. Säule des Kaïlasa-Tempels zu Ellora (Fergusson,
+      Ind. archit.)                                                   64
+
+  47. Säule aus Sánchi (Cunningham, Arch. surv.)                      67
+
+  48. Säule aus Sánchi (Cunningham, Arch. surv.)                      67
+
+  49. Säule aus Eran (Cunningham, Arch. surv.)                        68
+
+  50. Säule aus Náchná (Cunningham, Arch. surv.)                      68
+
+  51. Säule des Narsinha-Tempels zu Eran (Cunningham,
+      Arch. surv.)                                                    70
+
+  52. Säule der »falschen Grotte« zu Udayagiri (Cunningham,
+      Arch. surv.)                                                    70
+
+  53. Säule aus Deo-Barnárak (Cunningham, Arch. surv.)                71
+
+  54. Säule aus Jhelam (Cunningham, Arch. surv.)                      72
+
+  55. Pilasterkapitell aus Orissa (Fergusson, Ind. archit.)           72
+
+  56. Säule der Amrita-Grotte zu Udayagiri (Cunningham,
+     Arch. surv.)                                                     73
+
+  57. Säule aus Eran (Fergusson, Ind. archit.)                        73
+
+[Illustration]
+
+
+
+
+[Illustration]
+
+
+
+
+Verzeichnis der hauptsächlich benutzten Quellenwerke.
+
+
+  Adamy, R., Architektonik des orientalischen Altertums. Hannover. 1881.
+
+  Cunningham, A., Reports of the Archaeological Survey of India.
+      I-XXIII. Calcutta. 1861-87.
+
+  Dieulafoy, L'Art antique de la Perse, Achéménides, Parthes,
+      Sassanides. I-V. Paris. 1884-85.
+
+  Fergusson, J., History of Indian und Eastern Architecture. London.
+      1899.
+
+  Fergusson, J., Illustrations of the Rock-cut Temples of India.
+      London. 1845.
+
+  Grünwedel, A., Buddhistische Kunst in Indien. Berlin. 1893.
+
+  Le Bon, G., Les Monuments de l'Inde. Paris. 1893.
+
+  Lockwood de Forest, Indian Architecture and Ornament. Boston. 1887.
+
+  Murray, J., Handbook for Travellers in India. London. 1894.
+
+  Perrot, G., et Ch. Chipiez, Histoire de l'Art dans l'Antiquité. I-VI.
+      Paris. 1882-94.
+
+  Rám Ráz, Essay on the Architecture of the Hindus. London. 1834.
+
+  Romberg, J. A. und F. Steger, Geschichte der Baukunst bei den
+      Assyrern, Medern, Babyloniern, Persern, Phöniziern, Israeliten
+      und Indern. Leipzig. 1844.
+
+  Smith, E. W., Portfolio of Indian Architectural Drawings. London.
+      1897.
+
+
+
+
+Fußnoten
+
+
+[1] Fergusson, History of Indian and Eastern Architecture.
+
+[2] Cunningham, Archaeological Survey of India, Vol. I, XVI.
+
+[3] Cunningham, Arch. Surv., Vol. V.
+
+[4] Cunningham, Arch. Surv., Vol. XVI.
+
+[5] Cunningham, Arch. Surv., Vol. X.
+
+[6] Cunningham, Arch. Surv., Vol. XX.
+
+[7] Cunningham, Arch. Surv., Vol. III.
+
+[8] Fergusson, Hist. of Ind. a. East. Archit.
+
+[9] Grünwedel, Buddhistische Kunst in Indien.
+
+[10] Le Bon, Les Monuments de l'Inde.
+
+[11] Fergusson, Hist. of Ind. a. East. Archit.
+
+[12] Fergusson, Hist. of Ind. a. East. Archit.
+
+[13] Adamy, Geschichte des orientalischen Altertums.
+
+[14] Fergusson, Hist. of Ind. a. East. Archit.
+
+[15] Journal Bombay Branch of the Royal Asiatic Society, Vol. V;
+u. a. O.
+
+[16] Dieulafoy, L'Art antique de la Perse.
+
+[17] Rám Ráz, Essay on the Architecture of the Hindus.
+
+[18] Fergusson, Hist. of Ind. a. East. Archit.
+
+[19] Fergusson, Hist. of Ind. a. East. Archit.
+
+[20] Le Bon, Les Monuments de l'Inde.
+
+[21] Adamy, Architektonik des orientalischen Altertums.
+
+
+                Druck von Grimme & Trömel in Leipzig.
+
+
+
+
+  +--------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                |
+  |                                                              |
+  | Inkonsistenzen wurden beibehalten, wenn beide Schreibweisen  |
+  | gebräuchlich waren, wie:                                     |
+  |                                                              |
+  | andere -- andre                                              |
+  | Beispieles -- Beispiels                                      |
+  | eigener -- eigner                                            |
+  | eines -- eins                                                |
+  | Entwickelung -- Entwicklung                                  |
+  | Indra-Tempel -- Indratempel                                  |
+  | Rasseempfindens -- Rassenempfindens                          |
+  | unsere -- unsre                                              |
+  |                                                              |
+  | Interpunktion wurde ohne Erwähnung korrigiert.               |
+  | Im Text wurden folgende Änderungen vorgenommen:              |
+  |                                                              |
+  | S. 12: »kund tut« in »kundtut« geändert.                     |
+  | S. 16: »Rámpürwa« in »Rámpurwa« geändert.                    |
+  | S. 21: »Bithári« in »Bhitari« geändert.                      |
+  | S. 22: »Sanchi« in »Sánchi« geändert.                        |
+  | S. 36: »wunder« in »Wunder« geändert.                        |
+  | S. 50: »Arckitekt« in »Architekt« geändert.                  |
+  | S. 70: »Schattenriss« in »Schattenriß« geändert.             |
+  | S. 76: »annommen« in »angenommen« geändert.                  |
+  | S. 76: »Mittra's« in »Mitra's« geändert.                     |
+  | S. 77: »Bhitarí« in »Bhitari« geändert.                      |
+  | S. 78: »Mazendéron« in »Mazendéran« geändert.                |
+  | S. 78: »the rock-cut« in »The rock-cut« geändert.            |
+  | S. 78: »Rock-cut temples« in »The rock-cut temples
+of India« |
+  |        geändert.                                             |
+  +--------------------------------------------------------------+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK DIE ALTINDISCHE SÄULE: EIN BEITRAG ZUR SÄULENKUNDE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

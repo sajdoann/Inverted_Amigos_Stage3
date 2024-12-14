@@ -1,0 +1,417 @@
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Illustrations and footnotes have been moved so they do not break up
+    paragraphs.
+  Old or antiquated spellings have been preserved.
+  Typographical errors have been silently corrected.
+
+
+
+
+                               THE AMERICAN
+                       ELECTRO MAGNETIC TELEGRAPH:
+
+                                 WITH THE
+                           REPORTS OF CONGRESS,
+
+                            AND A DESCRIPTION
+                         OF ALL TELEGRAPHS KNOWN,
+                   EMPLOYING ELECTRICITY OR GALVANISM.
+
+                ILLUSTRATED BY EIGHTY-ONE WOOD ENGRAVINGS.
+
+                             BY ALFRED VAIL,
+        ASSISTANT SUPERINTENDENT OF ELEC. MAG. TEL. FOR THE U. S.
+
+              CANST THOU SEND LIGHTNINGS, THAT THEY MAY GO,
+                   AND SAY UNTO THEE, HERE WE ARE?—JOB.
+
+         “The same principle which justified and demanded the
+       transference of the mail on many chief routes, from the
+       horse-drawn coach on common highways to steam-impelled
+       vehicles on land and water, is equally potent to warrant
+       the calling of the electro magnetic telegraph—that last
+       and most wondrous birth of this wonder-teeming age—in aid
+       of the post office, in discharge of its great function of
+       rapidly transmitting correspondence and intelligence.”
+                  REP. OF COM. OF WAYS AND MEANS OF H. R., 1845.
+
+                              PHILADELPHIA:
+                             LEA & BLANCHARD.
+                                  1845.
+
+         ENTERED, according to Act of Congress, in the year 1845,
+                             By ALFRED VAIL,
+
+    In the Clerk’s Office of the District Court of the United States,
+                   in and for the District of Columbia.
+
+
+
+
+CONTENTS.
+
+
+        DESCRIPTION OF THE AMERICAN ELECTRO MAGNETIC TELEGRAPH.
+                                                                  PAGE.
+    Introduction,                                                    7
+    The Galvanic Battery,                                            9
+    The Wire,                                                       13
+    The Electro Magnet,                                             13
+    The Register,                                                   18
+    The Correspondent,                                              22
+    The two Dependent Circuits,                                     23
+    The two Independent Circuits,                                   24
+    The operation of the Electro Magnetic Telegraph,                25
+    The Telegraphic Alphabet,                                       27
+    Specimen of the Telegraphic Language,                           28
+    Telegraphic Alphabets for two, three, four, five, and six pens,
+       operating together, or in succession,                        30
+    Correspondent or Key,                                           32
+    The Lever Key,                                                  40
+    The Circuit of the Electro Magnet, closed and broken by the
+       movement of the Lever itself, acted upon by the Electro
+       Magnet. Showing the rapidity with which it is possible to
+       close and break the Circuit,                                 41
+    Conducting Power and Galvanic action of the Earth,              43
+    Six Independent Circuits, with Six Wires, each wire making an
+       Independent Line of Communication,                           44
+    Mode of Secret Correspondence,                                  46
+    Experiments made with 100 pairs of Grove’s Battery, passing
+       through 160 miles of insulated wire,                         53
+    The Galvanometer or Galvanoscope,                               57
+    An Interesting Experiment of supporting a Large Bar of Iron
+       within the Helix,                                            59
+    Application of the Electro Magnetic Telegraph to the
+       Determination of Longitude,                                  59
+    Mode of Crossing Broad Rivers, or other Bodies of Water
+       Without Wires,                                               60
+    Telegraphic Chess Playing,                                      63
+    Improvement in the Magneto Electric Machine, and Application
+       of this Instrument to operate the Magnetic Telegraph,        65
+
+REPORTS OF CONGRESS ON THE SUBJECT OF ELECTRO MAGNETIC TELEGRAPHS.
+
+    Letter from the Secretary of the Treasury, transmitting a
+       Report upon the Subject of a System of Telegraphs for the
+       United States, December, 11, 1837,                           67
+    Circular to certain Collectors of the Customs, Commanders of
+       Revenue Cutters, and other persons, March 10th, 1837,        68
+    Letter from S. F. B. Morse to the Secretary of the Treasury,
+       September 27, 1837,                                          69
+    Letter from S. F. B. Morse to the Secretary of the Treasury,
+       November 28th, 1837,                                         73
+    Letter from S. F. B. Morse to the Editors of the
+       Journal of Commerce, Sept’r 4, 1837,                         74
+    Specimen of Telegraphic Writing made by Means of Electricity,
+       at the distance of one-third of a mile,                      75
+    Report of the Committee on Commerce to the House of
+       Representatives, April 6, 1838,                              76
+    Report of the Franklin Institute, Philadelphia,
+       February 8, 1838,                                            79
+    Letter from S. F. B. Morse to the Hon. F. O. J. Smith,
+       February 15, 1838,                                           80
+    Letter from S. F. B. Morse to the Hon. F. O. J. Smith,
+       February 22, 1838,                                           82
+    Report of the Committee on Commerce to the House of
+       Representatives, Dec’r 30, 1842,                             83
+    A Bill to test the Practicability of Establishing a System
+       of Electro Magnetic Telegraphs by the United States,         87
+    Letter from Professor Henry to Professor Morse,
+       February 24, 1842,                                           87
+    Report of the American Institute on the Electro Magnetic
+       Telegraph, Sept’r 12, 1842,                                  88
+    Letter from S. F. B. Morse to the Hon. C. G. Ferris,
+       December 6, 1842,                                            89
+    Communication from the Secretary of the Treasury,
+       transmitting the Report of Professor Morse, announcing
+       the Completion of the Electro Magnetic Telegraph, between
+       the Cities of Washington and Baltimore, June 4, 1844,        97
+    Letter from S. F. B. Morse to Hon. McClintock Young,
+       June 3, 1844,                                                98
+    Letter from the Secretary of the Treasury, transmitting
+       a Letter from S. F. B. Morse, relative to the Magnetic
+       Telegraph, December 23, 1844,                               101
+    Letter from S. F. B. Morse to the Hon. G. M. Bibb,
+       December 12, 1844,                                          101
+    Report of the Committee of Ways and Means to the House of
+       Representatives, March 3, 1845,                             107
+
+HISTORY OF TELEGRAPHS EMPLOYING ELECTRICITY IN VARIOUS WAYS FOR THE
+TRANSMISSION OF INTELLIGENCE.
+
+    Discoveries in Electricity,                                    115
+    Electrical Feast on the Schuylkill,                            119
+    Dr. Franklin’s Experiment in Drawing Electricity
+       from the Clouds,                                            120
+    Lomond’s Electrical Telegraph, (1787,)                         121
+    Reizen’s Electric Spark Telegraph, (1794,)                     121
+    Dr. Salva’s Electric Spark Telegraph, (1798,)                  123
+    Discovery of Galvanism, (1790,)                                123
+    Discovery of the Decomposition of Water by the Agency of
+       the Galvanic Pile,                                          125
+    Samuel Thomas Soemmering’s Voltaic Electric Telegraph, (1809,) 126
+    Extract from the Journal of the Franklin Institute in relation
+       to the Use of Galvanism for Telegraphic Purposes, (1816,)   128
+    Ronald’s Electric Telegraph, (1816,)                           130
+    Discovery of Electro Magnetism, (1819,)                        132
+    Extract from a Work on Electro Magnetism, published by
+       Jacob Green, M. D. (1827,)                                  134
+    Triboaillet’s Proposition, (1828,)                             135
+    Fechner’s Suggestion, (1829,)                                  135
+    Discovery of Magneto Electricity, (1831,)                      135
+    Saxton’s Magneto Electric Machine,                             142
+    Dr. Page’s Magneto Electric Machine,                           145
+    Pole Changer,                                                  149
+    Morse’s American Electro Magnetic Telegraph, (1832,)           152
+    Schilling’s Electric Telegraph, (1833,)                        155
+    Gauss and Weber’s Electro Magnetic Telegraph, (1833,)          156
+    Experiments of Messrs. Taquin & Ettieyhausen, (1836,)          159
+    Vail’s Electro Magnetic Printing Telegraph, (1837,)            159
+    Wheatstone’s Electric Needle Telegraph, (1837,)                171
+    Steinheil’s Electric Telegraph, (1837,)                        179
+    Masson’s Electric Telegraph, (1837,)                           182
+    Davy’s Needle and Lamp Telegraph, (1837,)                      182
+    Alexander’s Electric Telegraph, (1837,)                        184
+    M. Amyot’s Suggestion of an Electric Telegraph, (1838,)        186
+    Edward Davy’s Electric Telegraph, (1838,)                      187
+    Bain’s Printing Telegraph, (1840,)                             199
+    Wheatstone’s Rotating Disc Telegraph, (1841,)                  203
+
+
+
+
+INTRODUCTION.
+
+
+The propriety of presenting to the public a work of this character,
+seemed desirable, from the frequent calls made upon the author for
+some accurate and full description of the American Electro Magnetic
+Telegraph, which might assist to an intelligible comprehension of the
+principles upon which it is based, and the mode of its operations,
+as well as descriptions of those plans now in operation in Europe.
+In the execution of this task it has been his determination to spare
+no labour, and to omit nothing that could enable those who had never
+seen the operation of the telegraph, to obtain a full understanding,
+of the subject, and also to judge for themselves of the merit of the
+American invention, as compared with those of Europe. For this purpose
+eighty-one wood cuts are introduced to illustrate this and collateral
+subjects.
+
+The various reports of Congress which have been made, from time to
+time, as the subject of the Electro Magnetic Telegraph has been
+presented to them, have been embraced in the work. They contain much
+information in relation to the origin and progress of the invention,
+as well as other useful matter. In the closing part of the work
+is given a synopsis of the early discoveries in electricity; the
+experiment of Franklin, and also the discoveries of ingenious and
+scientific gentlemen of the present day. The principal part, however,
+is devoted to a full and complete description of the various plans of
+telegraphic communication, by means of electricity and galvanism, in
+the chronological order of their invention; by which it will be seen,
+that for priority as well as originality, America has the pre-eminence,
+not only at the time of the invention, but up to the present period;
+nothing having yet been brought forward that fulfils so completely the
+conditions of what is signified by the term _telegraph_, as that plan
+invented by Professor Morse. Some of the foreign plans the author has
+found extremely difficult to illustrate, without almost re-inventing
+them, so imperfectly and obscurely have they been described.
+
+The experimental line from Washington to Baltimore has been in
+successful operation for more than a year, and has been the means of
+conveying much important information: consisting of messages to and
+from merchants, members of Congress, officers of the government, banks,
+brokers, police officers; parties, who by agreement had met each other
+at the two stations, or had been sent for by one of the parties; items
+of news, election returns, announcement of deaths, inquiries respecting
+the health of families and individuals, the daily proceedings of the
+Senate and House of Representatives, orders for goods, inquiries
+respecting the sailing of vessels, proceedings of cases in the various
+courts, summoning of witnesses, messages in relation to special and
+express trains, invitations, the receipt of money at one station and
+its payment at the other, for persons requesting the transmission of
+funds from debtors, consultation of physicians, and messages of every
+character usually sent by mail.
+
+The author trusts that the work will be received as one of a practical
+character, and furnish to those desirous to acquaint themselves with
+the subject, such information as they seek.
+
+                                           ALFRED VAIL.
+    WASHINGTON, D. C. _August 18, 1845_.
+
+
+
+
+THE ELECTRO MAGNETIC TELEGRAPH.
+
+
+
+
+THE GALVANIC BATTERY.
+
+
+The galvanic battery, the generator of that subtle fluid, which
+performs so important a part in the operation of the Electro Magnetic
+Telegraph, is as various in its form and arrangement, as the variety of
+purposes to which it is applied. They all, however, involve the same
+principle. It is not our design here to describe the various modes of
+constructing it, but to confine our remarks more immediately to that
+used for the Telegraph.
+
+The effects produced by the galvanic fluid upon the metallic bodies,
+iron and steel, exciting in them the power of attraction or magnetism,
+its decomposing effects upon liquids, resolving them into their simple
+elements, its effects upon the animal system, in producing a spasmodic
+and sudden irritation, are generally well known. But of the character
+of the fluid itself, its own essence or substance, we know nothing. In
+some of its phenomena, it resembles the electricity of the heavens;
+both find a conductor in the metals; both exhibit a spark, and both
+are capable of producing shocks, or when applied, cause the animal
+system to be sensible to them. Again, in other of its phenomena it
+is totally unlike it. The galvanic fluid is essentially necessary in
+producing the electro magnet; while the electricity of the heavens, or
+as it is generally termed, _machine electricity_, has no such power for
+practical purposes. The former is more dense, so to speak, and more
+easily confined to its conductors, while the latter becomes dissipated
+and lost in the atmosphere long before it has reached the opposite
+extremity of a long conductor. The former is continuous in its supply;
+while the latter is at irregular intervals. The former always needs
+a continuous conductor; while the latter will pass from one metallic
+conductor to another without that connection. The latter would not
+subserve the purposes required in the working of the Electro Magnetic
+Telegraph, and as it is neither essential nor antagonistical, its
+presence upon the galvanic conductors or wires, at the same time those
+wires are being used for telegraphic communication, does in no way
+interrupt or confuse its operation; and its presence is only known from
+the suddenness of its discharge at long intervals, accompanied by a
+bright spark, with a loud crack, like that of a coachman’s whip.
+
+The most simple mode of developing the galvanic fluid is in the
+following manner: if a common glass tumbler is two-thirds filled
+with dilute muriatic acid, and a piece of bright zinc, five inches
+long and one inch wide, immersed in the liquid, at one of its ends,
+slight action will be discovered upon it. If a slip of copper be then
+taken, of the same dimensions, and one end immersed in the liquid, but
+separated from that portion of the zinc immersed, and not permitted to
+touch it; and the two projecting ends of the zinc and copper, above the
+liquid be brought in contact, an active decomposition of the muriatic
+acid will appear.
+
+While the two outer ends are in contact, there is that current formed
+in the metallic plates, which is termed galvanic. If the contact is
+broken, the action ceases; if it is again renewed, the action is
+recommenced. Another very simple experiment, and within the power of
+every one to demonstrate for themselves, is that of applying a piece
+of zinc to the underside of the tongue, and to the upperside, a silver
+coin, and then by bringing their projecting ends in contact, a sensible
+and curious effect is experienced upon the tongue. It is a feeble
+galvanic shock, and is proof of the presence of that fluid termed
+galvanic.
+
+We will now proceed to describe the battery used for telegraphic
+purposes; the same in principle, but in arrangement more complicated,
+and far more powerful than those in common use. Two distinct acids
+are employed; two metals and two vessels. Each part will be described
+separately, and then the whole, as put together ready for use.
+
+First. A glass tumbler of the ordinary size is used, or about three
+inches high and two inches and three quarters in diameter.
+
+Second. The zinc cylinder, made of the purest zinc, and cast in an iron
+mould, represented by figure 1.
+
+[Illustration: FIG. 1.]
+
+It is three inches high, and two inches in diameter. The shell I
+is three-eighths of an inch in thickness. D is an opening in the
+cylinder, parallel with its axis, and is of no other use than to aid
+in the operation of casting them, and facilitating the access of the
+fluid to the interior. A A represents the body of the cylinder. B is
+a projecting arm, first rising vertically from the shell, and then
+projecting horizontally one and three quarters of an inch. To this arm,
+at C, is soldered a platinum plate of the thickness of tin foil, and
+hanging vertically from the arm B, as seen at O, and of the form shown
+in the figure. This constitutes the zinc cylinder and platinum plate,
+the two metals used in the battery.
+
+[Illustration: FIG. 2.]
+
+Third. The porous cup. To avoid an erroneous impression in the use of
+the term porous, it will suffice to state, that it is a cup of the form
+represented by figure 2, made of the same materials as stone-ware, and
+baked without being _glazed_.[1] A represents the rim surrounding the
+top. From the under side of the rim to the bottom, it is three inches
+long, and one and one-quarter in diameter. The rim projects one-quarter
+of an inch, and the shell of the cup is one-eighth of an inch
+thick. These several parts are placed together thus. The porous cup,
+fig. 2, is set in the hollow of the zinc cylinder, fig. 1, represented
+by H, with the rim of the cup resting upon the top of the zinc at I.
+The zinc cylinder is then placed in the glass tumbler. The whole is
+represented in figure 3.
+
+[1] These are made at the American Pottery, in Jersey City, opposite
+New York.
+
+[Illustration: FIG. 3.]
+
+D represents the porous cup, F the zinc cylinder, G the glass tumbler,
+A the projecting arm of the zinc, C the platinum plate, and B the
+over-lapping of the platinum plate upon the zinc arm, where it is
+soldered to it. It is now in a condition to receive the acids, which
+are two: first, pure nitric acid, and second, sulphuric acid, diluted
+in the proportion of one part of sulphuric acid to twelve of water.
+First fill the porous cup with the nitric acid, to within one-quarter
+of an inch of the top; then fill the glass with the diluted sulphuric
+acid, till it reaches to a level with the nitric acid in the porous
+cup. One glass of the battery is now ready for use, and as all the
+other members of the battery are similarly constructed, (there being
+many or few, as circumstances require,) and are to be prepared and
+filled with their appropriate acids in the same manner, the above
+description will suffice. There remains, however, some further
+explanation in regard to the extremities of the series of glasses,
+that is, the mode of connecting the zinc of the first glass with the
+wire leading from it, and also the mode of connecting the platinum of
+the last glass with the wire leading from that end of the series of
+glasses. Figure 4 represents their arrangement.
+
+[Illustration: FIG. 4.]
+
+The glasses being all separately supplied with their acids, and
+otherwise prepared, they are put together upon a table, A A, perfectly
+dry, and made of hard wood. The first member of the series has soldered
+to its zinc arm a strip of copper, C, which, extending downward, has
+its end, previously brightened and amalgamated, immersed in a cup of
+mercury at N. The cup being permanently secured to the table. Then the
+second glass is taken, and the platinum, B, at the end of the zinc arm,
+is gently let fall into the porous cup, so that it shall be in the
+centre of the cup, and reaching down as far as its length, when the
+glass rests upon the table. The third glass is then taken and placed
+in the same manner, and so on to the last. The last glass has, in its
+porous cup, the platinum plate, D, soldered to a strip of copper, E,
+which is so constructed as to turn at the top, and admit of the easy
+introduction of the platinum into the porous cup, while the other end
+of the copper, previously prepared like the copper of the other end of
+the battery, terminates in a cup of mercury, P. The cup being capable
+of adjustment, so as to bring the platinum directly over the porous
+cup; is, when adjusted, secured permanently to the table. The battery,
+thus arranged, is ready to be applied.
+
+
+
+
+THE WIRE.
+
+
+The wire used in making helices for the magnets, and for connecting
+the telegraphic stations, is made of copper of the best quality, and
+annealed. It is covered with cotton thread, so as to conceal every part
+of the metallic surface, not so much to prevent corrosion or waste
+from the action of the atmosphere, as to prevent a metallic contact of
+one wire with another, when placed near each other. After the wire is
+covered, it is then saturated with shellac, and then, again, with a
+composition of asphaltum, beeswax, resin and linseed oil. It is now in
+a condition to be extended upon the poles. That portion of the

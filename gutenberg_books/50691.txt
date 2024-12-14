@@ -1,0 +1,766 @@
+E-text prepared by Iris Schröder-Gehring, Jens Pönisch, and the Online
+Distributed Proofreading Team (http://www.pgdp.net)
+
+
+
+Anmerkungen zur Transkription:
+
+      Das Original ist in Fraktur gesetzt.
+
+      Im Original in _Antiqua_ gesetzter Text wurde mit _ markiert.
+
+      Im Original ~gesperrt~ gesetzter Text wurde mit ~ markiert.
+
+      Im Original #fett# gesetzter Text wurde mit # markiert.
+
+      Doppelte Anführungsstriche wurden durch » (unten) und « (oben)
+      ersetzt.
+
+      Einfache Anführungsstriche wurden durch > (unten) und < (oben)
+      ersetzt.
+
+      Das Kreuz (4x), welches das Sterbedatum symbolisiert, wurde
+      durch ¿ ersetzt (Seite 3 und Fußnote 39)
+
+
+
+
+
+AMEISENBÜCHLEIN
+
+oder
+
+Anweisung zu einer vernünftigen Erziehung der Erzieher
+
+von
+
+CHRISTIAN GOTTHILF SALZMANN
+
+Mit Einleitung und Anmerkungen versehen von Ernst Schreck
+
+
+
+
+
+
+
+[Illustration: Dekoration]
+
+Leipzig
+Druck und Verlag von Philipp Reclam jun.
+
+
+
+
+Einleitung.
+
+
+Die zweite Hälfte des vorigen Jahrhunderts war eine Zeit der Umwälzung
+auf dem Gebiete der Kunst, Wissenschaft und Poesie. Der Kunst wurden
+von ~Winkelmann~ (1716-1768) und ~Lessing~ (1729-1781) neue Richtlinien
+gegeben, und in der deutschen Litteratur begann, vorbereitet durch die
+kritischen Kämpfe, mit dem Erscheinen von ~Klopstocks~ »~Messiade~«,
+von ~Wielands~ und ~Lessings~ ersten Schriften die Morgenröte der
+zweiten klassischen Periode, der zuvor aber noch die ~Sturm- und
+Drangperiode~, die »Periode der Original- und Kraftgenies« voranging,
+der selbst unsere größten Dichter ~Schiller~ und ~Goethe~ mit ihren
+Erstlingswerken angehören. Auf religiösem Gebiete suchte der in England
+durch ~Shaftesbury~ und seine Anhänger ins Leben tretende ~Deismus~ an
+Stelle der positiven Religion die Vernunft- und Naturreligion zu setzen.
+~Voltaire~ und ~Rousseau~ verbreiteten die deistischen Ideen durch ihre
+Schriften weiter, und durch die französischen Enzyklopädisten ~Diderot~
+(¿ 1784), ~Helvetius~ (¿ 1771), ~Holbach~ und ~d'Alembert~ (¿ 1783) ward
+der Deismus, dem immer noch ein gewisser Ernst eigen war, zum flachen,
+alles Glaubens baren ~Materialismus~. Die Naturreligion fand auch in
+Deutschland ihre Anhänger, wo sie in gemildeter Form als ~Rationalismus~
+auftrat, als dessen Vertreter ~Ernesti~ (1707-1781), ~Semler~ (1725-1791)
+und ~Reimarus~ (1694-1768) zu nennen sind.
+
+Daß diese Reformbestrebungen auch auf die ~Pädagogik~ ihren Einfluß
+ausüben mußten, ist selbstverständlich, wenn man bedenkt, wie innig diese
+Wissenschaft mit Religion, Naturanschauung und anderen Wissensgebieten
+zusammenhängt. Und diese Reform auf dem Gebiete der Erziehung und
+des Unterrichts blieb dann auch nicht aus. Die Hauptanregung zu
+derselben ging von Frankreich aus, namentlich als ~Rousseau~ in seinen
+socialpädagogischen Schriften, besonders aber in seinem »~Emil~« 1762),
+dem »Naturevangelium«, wie Goethe es nennt, das Ideal einer naturgemäßen
+Erziehung aufgestellt hatte. Zwar waren schon im 17. Jahrhundert Männer
+aufgetreten, die ihre Lebensaufgabe darin suchten, das Erziehungswesen aus
+den alten, ausgetretenen Geleisen, aus dem Mechanismus, herauszureißen.
+Es sei nur erinnert an die Bestrebungen eines ~Ratich~, ~Comenius~,
+Herzog ~Ernst des Frommen~, August Hermann ~Francke~ u. a. Aber ihre
+Bestrebungen hatten es nicht vermocht, den alten Schlendrian im Schulwesen
+zu beseitigen. So sagt Raumer in seiner Geschichte der Pädagogik (_II_.
+S. 297): »Die Jugend war damals für die meisten eine sehr geplagte Zeit,
+der Unterricht hart und herzlos streng. Die Grammatik wurde dem Gedächtnis
+eingebläut, ebenso die Sprüche der Schrift und die Liederverse. Eine
+gewöhnliche Schulstrafe war das Auswendiglernen des 119. Psalmes. Die
+Schulstuben waren melancholisch-dunkel. Daß die Jugend auch mit Liebe
+etwas arbeiten könne, das fiel niemandem ein, so wenig, als daß sie die
+Augen zu irgend etwas anderem als zum Lesen und Schreiben haben könne.«
+Da traten ~John Locke~ und namentlich ~Jean-Jacques Rousseau~ mit ihren
+pädagogischen Reformbestrebungen auf den Schauplatz. Während letzterer in
+Frankreich verfolgt ward, und seine Schriften verbrannt wurden, begrüßte
+man in Deutschland seine pädagogischen Ideen mit Freuden. Hier waren
+es die ~Philanthropen~, die die durch sie geläuterten Ideen Rousseaus
+zur praktischen Ausführung brachten. Philanthropen wurden diese Männer
+genannt, weil sie »als ~das Ziel der Erziehung~ überhaupt und ihrer Arbeit
+insbesondere ~die menschliche Glückseligkeit~ betrachteten« (Dittes).
+Sie suchten beim Unterrichte dem ~Nützlichkeitsprinzipe~ Geltung zu
+verschaffen und an Stelle eines traditionellen Mechanismus eine bessere,
+~der Natur des Kindes entsprechende Methode~ einzuführen. Die bislang
+trotz Comenius und Francke fast völlig unbeachtet gelassenen ~Realien~
+wurden von ihnen mehr berücksichtigt, und die ~leibliche Erziehung~
+des Kindes gemäß dem Worte Lockes: »_Mens sana in corpore sano!_« mehr
+in den Vordergrund gestellt. _Dr._ Karl Schmidt stellt als Vorzüge der
+philanthropischen Erziehung hin: Der ~Philanthropinismus~ hat: _a_) die
+Erziehung dem verderblichen Zwange des ~äußeren Lebens~ enthoben und sie
+mit ~freierem~ Geiste belebt; _b_) der ~körperlichen~ Ausbildung Geltung
+verschafft; _c_) den ~toten~ Gedächtniskram aus der Schule verbannt; _d_)
+der ~Offenbarung~ Gottes in der ~Natur~ und dem Kirchentum gegenüber das
+~Christentum~ betont; _e_) die Schulstuben zu Sitzen der ~Gesundheit~, des
+Frohsinns und der ~Liebe~ gemacht; _f_) vor allem aber eine ~neue Periode~
+für ~Unterrichtsbücher~ und ~Unterhaltungsschriften~ geschaffen.
+
+Zwar gerieten die Philanthropen in ihren Bestrebungen auf falsche Bahnen,
+da sie entgegen der christlichen Lehre statt der Erlangung der ewigen
+Seligkeit die ~menschliche Glückseligkeit~, den ~Eudämonismus~ als das
+~Ziel der Erziehung~ hinstellten; doch haben sie auf die Entwickelung
+der deutschen Pädagogik einen nicht zu unterschätzenden segensreichen
+Einfluß ausgeübt. Mag ihren Ideen und Bestrebungen auch manches Irrige
+und Unpraktische anhaften, so muß man doch mit Dankbarkeit das durch
+sie bewirkte Gute und Nützliche anerkennen. Viele ihrer pädagogischen
+Grundsätze und Ideen haben auch jetzt noch ihre volle Berechtigung; ja
+manche von ihnen harren trotz des Fortschrittes, den die Pädagogik seitdem
+gemacht, noch der Erfüllung.
+
+Als Vertreter des Philanthropinismus sind zu nennen: ~Wolke~, der durch
+seine litterarischen Arbeiten eine gründliche Reform der deutschen
+Sprache anstrebte, ~Trapp~, der eine wissenschaftliche Begründung und
+systematische Ordnung der Erziehungslehre herbeizuführen sich bemühte,
+~Olivier~, der durch seine Lesemethode, die zwar sinnreich und bildend,
+aber unpraktisch war, den ersten Leseunterricht zu bessern versuchte. Die
+Hauptvertreter des Philanthropinismus waren aber ~Basedow~, der Gründer
+des Dessauer Philanthropin, der durch seine Schriften und Reklamemacherei
+viel zur Verbreitung der neuen pädagogischen Ideen beitrug, ~Campe~, der
+Verfasser des Robinsons und vieler anderer Jugendschriften, der sich um
+die Reinigung der deutschen Sprache verdient machte, und ~Salzmann~.
+Letzterer ist aber die verehrungswürdigste Gestalt von den Philanthropen
+und hat von diesen auch am nachhaltigsten gewirkt.
+
+~Christian Gotthilf Salzmann~ ward am 1. Juni 1744 als der Sohn eines
+Predigers zu ~Sömmerda~, im Kreise Weißensee, Regierungsbezirk Erfurt
+geboren. Sömmerda ist in unserer kriegerischen Zeit durch Nikolaus von
+Dreyses Zündnadelgewehr bekannt. Bis zu seinem fünften Jahre erhielt
+Salzmann Unterricht von seinen Eltern, von der Mutter im Lesen, vom
+Vater im Lateinischen. Die Erziehung des Elternhauses war wie das Leben
+desselben einfach und fromm. Später besuchte der Knabe die Schule,
+die aber keinen günstigen Eindruck auf ihn machte. In seinen späteren
+Jahren sagte er darüber: »In der Schule wurde der Religionsunterricht
+eigentlich gar nicht erteilt; denn das Auswendiglernen des Katechismus
+und des Spruchbuches kann doch wohl nicht Religionsunterricht heißen.«
+Das Einkommen des Vaters war nur gering, so daß er, um seine Familie in
+Ehren durchzubringen, neben seinem Amte in Feld und Garten tüchtig Hand
+anlegen, ja seiner thätigen Hausfrau oft das Gespinst haspeln mußte. So
+lernte auch der junge Salzmann im elterlichen Hause die Arbeit früh lieb
+gewinnen. Wenn an langen Winterabenden der Vater am Haspel und die Mutter
+am Spinnrocken saß, so mußte der Sohn in der Bibel vorlesen. So gewann er
+früh trotz des mangelhaften Religionsunterrichtes in der Schule das Wort
+Gottes lieb, und noch in seinem letzten Lebensjahre bekannte er: »Wenn ich
+oft, von Unmut niedergedrückt, am Rande der Verzweiflung wandelte, gab mir
+ein Spruch aus den Psalmen neues Leben, neuen Mut. Noch jetzt dienen mir
+diese Sprüche zur Erquickung.«
+
+Von 1756 an besuchte Salzmann das Gymnasium zu ~Langensalza~, und als
+sein Vater 1758 nach ~Erfurt~ versetzt ward, empfing er von diesem
+Privatunterricht. Er besuchte kein Gymnasium mehr, sondern besuchte später
+noch einige Kollegia an der damals noch bestehenden Erfurter Universität.
+Seiner Eltern Wunsch war, daß der Sohn, wie es der Vater war, Prediger
+werden solle. Diesem Wunsche kam Salzmann auch nach, als er mit seinem 17.
+Jahre (1761) die Universität ~Jena~ behufs Studium der Theologie bezog.
+
+An dem wüsten Studentenleben, das dort herrschte, nahm er keinen Anteil.
+Viel lieber erging er sich in dem romantischen ~Rauhthale~ bei Jena in der
+Betrachtung des Stilllebens in der Natur. Er schrieb später darüber:»Die
+innige Freude, welche ich bei meinen einsamen Spaziergängen durch das
+Rauhthal an dem Aufmerken auf die mich umgebenden Naturgegenstände, an der
+genaueren Betrachtung und Beobachtung derselben finden lernte, war mir bis
+dahin noch unbekannt gewesen. Ich sah die Schöpfung und ihren Urheber in
+einem neuen Lichte.« Hier ruht der Keim zu der späteren Schnepfenthaler
+Lebensregel, daß die sittliche und auch geistige Entwickelung zu führen
+sei: »~Vom Sichtbaren zum Unsichtbaren~.«
+
+Ende 1764 kehrte Salzmann ins Elternhaus zurück, wo er bis 1768 blieb
+und den Unterricht seiner jüngeren Geschwister übernahm. Im Jahre
+1768 ward er Pfarrer in dem Dorfe ~Rohrborn~ bei Erfurt, wo er sich
+der vierzehnjährigen Tochter des Pfarrers ~Schnell~ zu Schloß-Vippach
+vermählte. Von seinem Gehalte, 80 Thaler, konnte er nicht mit Familie
+leben, umsomehr nicht, als er nach dem Tode seiner Schwiegereltern seine
+beiden Schwägerinnen zu sich ins Haus nahm. Er war deshalb gezwungen,
+nebenbei Ackerbau zu treiben, und er that dieses mit solcher Umsicht und
+solchem Erfolge, daß er den Dorfbewohnern auch in dieser Hinsicht ein
+Vorbild war.
+
+1772 ward Salzmann Prediger in ~Erfurt~. Wegen seiner freieren religiösen
+Ansichten ward er von seinen Amtsgenossen vielfach angefeindet, so daß
+er 1781 in das von ~Basedow~ 1774 gegründete Philanthropin zu ~Dessau~
+als Religionslehrer und Liturg eintrat. Mit Eifer und Liebe widmete
+er sich dem Erziehungswesen, in dem er sich bald eingearbeitet hatte.
+Von Dessau aus machte er auch die Bekanntschaft des Volksmannes und
+Pädagogen ~Eberhard von Rochow~, dessen Schule zu ~Rekahn~ ihn sehr
+befriedigte. Obgleich er in Dessau Mitleiter des Philanthropins war
+und mit gleichgesinnten Pädagogen nach philanthropischen Grundsätzen
+arbeitete, so fand er sich doch nicht ganz befriedigt. Er beschloß, selbst
+eine Erziehungsanstalt zu gründen, an die er folgende Anforderungen
+stellte: Dieselbe solle 1) auf dem Lande liegen, 2) von ~einem~ Oberhaupte
+einheitlich geleitet, und 3) die Zöglinge soviel als möglich als
+Familienglieder behandelt werden.
+
+Salzmann kaufte deshalb in der Nähe von ~Waltershausen~ im Gothaischen ein
+Landgut, wozu ihm der Herzog ~Ernst~ _II._ von Gotha, ein Urenkel Ernst
+des Frommen, des Pädagogen unter den Fürsten, 4000 Thaler schenkte. Hier
+gründete er im März 1784 seine Erziehungsanstalt ~Schnepfenthal~.
+
+Schwere Sorgen suchten ihn oft, namentlich anfangs, heim; doch im
+Vertrauen auf Gottes Beistand begann er sein Werk. Die Anstalt war zwar
+da, aber keine Zöglinge. Salzmann entschloß sich nun, einen begabten
+Knaben unentgeltlich aufzunehmen. Die Wahl fiel auf ~Karl Ritter~, den
+Sohn eines verstorbenen Arztes in Quedlinburg, der 1788 mit seinem
+ältesten Bruder und seinem bisherigen Erzieher ~Guts-Muths~ in die
+Anstalt eintrat. Karl Ritter war also der erste Schüler Schnepfenthals
+und ist auch ihr berühmtester geworden. Seine geographischen Werke sind
+weltbekannt; er ist der Vater der vergleichenden Erdbeschreibung. Später
+fanden sich noch mehrere Schüler ein, ja die Schnepfenthaler Anstalt ward
+bald eine der gesuchtesten Deutschlands. Zehn Jahre nach der Gründung,
+im Jahre 1794, zählte sie außer des Gründers zahlreicher Familie und
+einer ganzen Anzahl Lehrer gegen 60 Schüler, die sämtlich mit der größten
+Liebe zu ihrem Vater Salzmann aufblickten. Im Jahre 1803 zählte Salzmanns
+Anstalt 61 Zöglinge, welche Anzahl erst seit den napoleonischen Kriegen
+(1809) sank, weil von jetzt an der Geist Pestalozzis die allgemeine
+Aufmerksamkeit an sich fesselte, und die durch den Krieg bedingte
+Verarmung vieler Eltern das hohe Kostgeld nicht erschwingen konnte; in
+diesem Jahre hatte die Anstalt bloß 36 Zöglinge. Sie ist das einzige
+philanthropische Institut, das noch blüht, und das im Jahre 1884 die
+hundertjährige Jubelfeier seines Bestehens begehen konnte.
+
+Tüchtige Lehrkräfte wirkten an der Salzmannschen Anstalt. Es seien genannt
+~Guts-Muths~, der Erzvater der Turnerei und Verfasser nachstehender
+Schriften: »Gymnastik für die Jugend«, »Spiele zur Übung und Erholung
+des Körpers«, »Turnbuch«, »Handbuch der Geographie«, »Methodik der
+Geographie«; ~Blasche~, Verfasser der »Anleitung zu Papparbeiten« und
+anderer Schriften für den Handfertigkeitsunterricht; ~Glaz~, später
+Konsistorialrat in Wien; ~Lenz~, der später Vater des durch seine
+naturhistorischen Schriften bekannten Harald Otmar Lenz und Rektor des
+Weimarer Gymnasiums ward; ~André~, ~Bechstein~, die drei Brüder ~Ausfeld~,
+~Märker~, ~Weißenborn~. Märker, Lenz und Weißenborn wurden sogar Salzmanns
+Schwiegersöhne, was viel dazu beitrug, daß die Anstalt zu Schnepfenthal
+trotz ihrer Vergrößerung den Familiencharakter behielt.
+
+Im Unterrichte wurden in Schnepfenthal im allgemeinen die bekannten
+philanthropischen Grundsätze durchführt. Die geistige Entwickelung
+des Kindes galt als oberster Grundsatz; in zweite Linie trat erst die
+materielle Aneignung gewisser Stoffgebiete. Das Ziel, das sich Salzmann
+bei der Erziehung der Jugend setzte, war nach seinen eigenen Worten:
+»~Gesunde, verständige, gute und frohe Menschen zu bilden~, sie dadurch in
+sich selbst glücklich zu machen und zu befähigen, zur Förderung des Wohles
+ihrer Mitmenschen kräftig mitzuwirken.« Deshalb ward vor allen Dingen auf
+Weckung und Schärfung der eigenen Beobachtung in der umgebenden Natur, auf
+Bildung und Übung des Verstandes und somit auf die Selbständigkeit des
+Urteils abgesehen.
+
+Fast dreißig Jahre wirkte Salzmann selbst an seiner Anstalt, die er
+als ein Vater leitete. Im Jahre 1809 nach langem Genusse ungestörter
+Gesundheit ward er von der Gicht befallen, welche die Kraft seines Lebens
+allmählich erschöpfte. Er starb am 31. Oktober 1811, nachdem ihm seine
+Gattin, mit der er vierzig Jahre in glücklicher und kinderreicher Ehe
+gelebt hatte, und die ihm eine treue Gehilfin seines Lebenswerkes gewesen,
+bereits 1810 vorangegangen war. Einer seiner Zeitgenossen widmete ihm bei
+seinem Hinscheiden folgende Worte: »Die Anstalt zu Schnepfenthal hat einen
+großen Verlust zu beklagen. Den sie verloren, halten wir für der Besten
+Einen, denn gleich sehr war er ausgezeichnet durch Eigenschaften des
+Geistes und des Herzens. Eindringend und scharf war sein Blick, ruhig und
+besonnen sein unermüdliches Wirken, schnell sein Entschluß und groß seine
+Selbstbeherrschung. Wohlthätigkeit und Milde hat er stets geübt, dabei
+aber nie der Eitelkeit und der Ruhmsucht Raum gegeben. Sein Auftreten
+war einfach, aber würdig; es kennzeichnete den Vater und Regierer eines
+großen Hauswesens. Die ihm Untergebenen leitete er durch Blicke und Worte;
+Strafen, um seine Autorität zu stützen, bedurfte er nie.« Nach dem Willen
+des bescheidenen Mannes schmückt nur ein Fliederbusch sein Grab. Der
+Dichter ~Welker~ rief ihm nach:
+
+  »Nicht eingeengt in dumpfumschlossnen Räumen,
+  Nein frei, wie einst dich die Natur erzog,
+  Schläfst du hier, Deutschlands edler Pädagog,
+  Im grünen Hain bei deinen Lieblingsbäumen.
+
+  Und was du früh gesehn in holden Träumen,
+  Es war kein Wahn der schmeichelnd dich betrog;
+  Denn als dein Geist dem Irdischen entflog,
+  Stand's herrlich da mit Frucht und Blütenkeimen.
+
+  Hier liegt dein Staub. -- Doch lebt unsterblich fort,
+  Was deine Kraft erschuf durch That und Wort.
+  Wenn Marmormonumente längst zerfallen,
+
+  Dein Denkmal blüht auf jenem Hügel dort,
+  Wo Kinder wie zum Vaterhause wallen,
+  Und segnend ruht dein Geist auf jenen Hallen!«
+
+       *       *       *       *       *
+
+Neben seiner praktischen Thätigkeit als Erzieher war Salzmann auch als
+~Schriftsteller~ für die Hebung der Volks- und Jugendbildung thätig.
+Seine schriftstellerische Thätigkeit war eine sehr umfassende. Er begann
+dieselbe schon kurz nach seiner Versetzung nach Erfurt. Hier lernte
+er als Seelsorger manches Elend in den Familien kennen, das er durch
+zwei Mittel zu steuern glaubte. Er sagt darüber: 1) müssen die Eltern
+über die Quelle ihres Elends belehrt werden; 2) müssen die Kinder eine
+bessere Erziehung erhalten. Er suchte dieses nun durch seine Schriften
+zu erreichen. Seine erste pädagogische Schrift war: »~Unterhaltungen
+für Kinder und Kinderfreunde~«, in der er das wiedergab, was er in den
+Abendstunden mit seinen Kindern getrieben hatte. Ihr folgte 1780 das
+»~Krebsbüchlein oder Anweisung zu unvernünftiger Erziehung der Kinder~«,
+eine ironische Anweisung, die Kinder schlecht zu erziehen, in der die
+vorhandenen Übelstände der Erziehung lächerlich gemacht werden. Grund zu
+den Anfeindungen von orthodoxer Seite gab das Buch: »~Über die wirksamsten
+Mittel, den Kindern Religion beizubringen~.«
+
+Während Salzmanns Aufenthalt am Dessauer Philanthropin entstanden:
+»~Vorträge bei den Gottesverehrungen~« 4 Bände, »~Moralisches
+Elementarbuch~« _I._ Teil, der pädagogische Roman: »~Karl von Karlsberg
+oder über das menschliche Elend~«. Der sechste und letzte Band erschien
+erst 1788. Ferner: das erste Bändchen der »~Reisen der Salzmannschen
+Zöglinge~«.
+
+In Schnepfenthal schrieb Salzmann: »~Konrad Kiefer oder Anweisung zu
+einer vernünftigen Erziehung der Kinder~«, in der uns die Erziehung eines
+Bauernsohnes durch seinen Vater unter Mitwirkung des Pfarrers geschildert
+wird. Die Schrift bildet ein Gegenstück zu Rousseaus »Emil«, deshalb auch
+wohl »der deutsche Emil« genannt. Das bedeutendste pädagogische Werk
+Salzmanns ist aber unstreitig sein »~Ameisenbüchlein~«, das zugleich die
+schönste Darstellung seiner Pädagogik enthält und die rechte Frucht seiner
+pädagogischen Arbeit und Erfahrung ist. Da dasselbe im Nachfolgenden
+selbst gebracht wird, so wird noch ausführlicher davon demnächst zu
+reden sein. Ferner schrieb Salzmann: »~Noch etwas über Erziehung~«. In
+dieser Schrift führt er fünf Hauptmängel an, an welchen die Erziehung
+noch leide, und welche einer raschen Abstellung bedürften. Diese fünf
+Hauptmängel sind: _a_) Vernachlässigung der ~körperlichen~ Erziehung,
+_b_) daß man die Jugend zu wenig mit der Natur bekannt mache, _c_) daß
+der ganze Unterricht dahin abziele, die Aufmerksamkeit der Kinder von dem
+Gegenwärtigen abzuziehen und auf das Abwesende zu lenken, _d_) daß die
+Kinder beim Lernen mehr fremde als eigene Kräfte gebrauchen, _e_) daß
+die jugendliche Arbeit nicht unmittelbar belohnt werde. In Schnepfenthal
+entstanden ferner: »~Über die heimlichen Sünden der Jugend~«, »~Der
+Himmel auf Erden~«, »~Reisen der Salzmannschen Zöglinge~, neue Folge«,
+»~Die Familie Ehrenfried oder erster Unterricht in der Sittenlehre für
+Kinder von 8 bis 10 Jahren~«. Als Fortsetzung dazu erschien: »~Heinrich
+Gottschalk in seiner Familie oder erster Religionsunterricht für
+Kinder von 10-12 Jahren~«, als weitere Fortsetzung: »~Unterricht in
+der christlichen Religion~«. Weiter seien noch genannt: »~Nachrichten
+für Kinder aus Schnepfenthal~«, »~Über die Erlösung des Menschen vom
+Elend durch Jesum~« und »~Christliche Hauspostille~« (67 Predigten).
+Als Volksschrift erschien 1791: »~Auserlesene Gespräche des Boten aus
+Thüringen~« (1886 neu herausgegeben vom städtischen Schulinspektor _Dr._
+Fritz Jonas in Berlin, Verlag von L. Oehmigke ebenda). Von Salzmanns
+Volks- und Jugendschriften seien genannt: »~Sebastian Kluge~«, »~Konstants
+kuriose Lebensgeschichte~«, »~Ernst Haberfeld~«, »~Josef Schwarzmantel~«,
+»~Heinrich Glaskopf~«. Von Salzmanns ~Jugendschriften~ heißt es in Schmids
+»Encyklopädie der Pädagogik«: »Im Triumvirate der ersten Kinderbuchperiode
+(Weiße, Campe, Salzmann) ist ~Salzmann~ vielleicht der Schwächste,
+aber gewiß nicht der Schlechteste. Neben dem realistischen Campe, dem
+civilisierenden Weiße steht er am bescheidensten, aber am reinsten da.«
+
+       *       *       *       *       *
+
+~Basedow~, der »Herold unter den Philanthropen«, erkannte wohl die
+Schäden des Erziehungswesens, war auch durch Wort und That bemüht, sie
+zu bessern. Da aber seine Grundsätze viel Irriges und Unpraktisches
+enthielten, so vermochten sie einen ~dauernden~ Erfolg nicht auszuüben;
+dazu kam noch sein prahlerisches, aller Gewissenhaftigkeit, Umsicht
+und Besonnenheit bares Wesen, sodaß ~Herder~ über ihn äußerte: »Ihm
+möchte ich keine Kälber zu erziehen geben, geschweige Menschen.« ~Campe~
+dagegen wirkte hauptsächlich nur durch seine litterarische Thätigkeit
+auf die Erziehung ein. Fassen wir nun kurz ~Salzmanns Stellung unter den
+Philanthropen~ zusammen, so ist er der ~Praktiker~ unter ihnen, der die
+lebensfähigen Grundgedanken des Philanthropinismus festhielt, der die
+neuen Ideen am sichersten und am besonnensten durchführte in ruhiger und
+unverdrossener Arbeit. Dittes sagt von ihm: »Salzmann ist ohne Zweifel
+der bedeutendste Praktiker unter den Philanthropen, ausgezeichnet durch
+Besonnenheit, Mäßigung, Ausdauer, stille Heiterkeit und hausväterlichen
+Sinn.« Von all den vielen Philanthropinen, die entstanden, ist die
+Anstalt zu Schnepfenthal das einzigste, das noch besteht. Schuldirektor
+~Moritz Kleinert~ in Dresden widmete der Anstalt zu ihrer Jubelfeier 1884
+folgendes Sonett:
+
+  »Viel Ritter edlen Geistes seh' ich schreiten
+  Durch ein Idyll, mit Namen ~Schnepfenthal~,
+  Den Geist voll Feuer, Körper wie von Stahl,
+  Zu bessern die beschränkten, zopf'gen Zeiten,
+
+  Die Unnatur hin zur Natur zu leiten
+  In Freud' und Arbeit, Kleidung und im Mahl;
+  Zu heben trocknen Lernens bittre Qual,
+  Den >~Himmel hier auf Erden~< zu bereiten.
+
+  So seh' ich ~Salzmann~ in dem Kreis der Seinen
+  Ein Patriarch, geliebt und hochbewundert;
+  Ich sehe ~Guts-Muths~ sich mit ihm vereinen;
+
+  Es steht vor mir ein herrliches Jahrhundert,
+  Das groß im Schaffen, nicht bloß im Verneinen,
+  Und das auch uns zu gleichem Thun ermuntert.«
+
+       *       *       *       *       *
+
+Wie schon gesagt, ist das bedeutendste pädagogische Werk Salzmanns sein
+»~Ameisenbüchlein~«, das deshalb auch in einer Sammlung von Schriften
+aus allen Zweigen der Litteratur und Wissenschaften, wie es »Reclams
+Universal-Bibliothek« ist, nicht gut fehlen konnte, weshalb sich der
+Verleger, dieses erkennend, auch entschloß, dasselbe in seine Sammlung
+aufzunehmen und den Unterzeichneten mit der Herausgabe betraute.
+
+Ihren ~Titel~ hat die Schrift von dem Titelblatte der Originalausgabe,
+auf dem sich nämlich das ~Bild eines Ameisenhaufens~ befand. Eine Anzahl
+Ameisen bemüht sich um Ameisenlarven, während eine andere Anzahl unbesorgt
+in der Luft umherfliegt. Die Ersteren sollen die Lehrer vorstellen, die
+sich der Erziehung und des Unterrichts der Kinder angenommen haben,
+die letzteren dagegen die Eltern, die, nachdem sie ihr Geschlecht
+fortgepflanzt, sich in die Luft schwingen und nach menschlicher Art und
+Weise sich nicht um ihre Brut bekümmern. Unter dem Bilde befindet sich das
+Wort: Spr. Sal. 6, 6: »Gehe hin zur Ameise, du Fauler, siehe ihre Weise an
+und lerne.«
+
+Möge jetzt eine ~kurze, übersichtliche Darstellung des Inhalts~ folgen.
+
+  _A._ ~Anrede an Hermann.~ Aufforderung an denselben, sich der
+       Erziehung zu widmen und zwar aus folgenden Gründen:
+
+            _a_) Die Erziehung schafft die Gelegenheit, ~für Menschenwohl
+                 recht thätig sein~ zu können;
+
+            _b_) die gewissenhafte Ausübung der Erziehungskunst verschafft
+                 dir die Seligkeit, einst Männer, ~durch dich gebildete
+                 Männer~, zu sehen, die mit Kraft und Nachdruck für alles
+                 Gute thätig sind;
+
+            _c_) das Erziehungsgeschäft ist ~nicht so mühsam~, als es
+                 von denen, die es nicht verstanden haben, geschildert
+                 worden ist;
+
+            _d_) die Fröhlichkeit, welche ein wahrer Erzieher unter den
+                 Kleinen hervorzubringen vermag, hat einen wohlthätigen
+                 Einfluß auf denselben;
+
+            _e_) kein Geschäft ist ~belohnender~ als das
+                 Erziehungsgeschäft. Als Lohn wird dem Erzieher:
+
+                 1) Frohsinn, Gesundheit und ein heiteres Alter,
+
+                 2) eigene Veredelung,
+
+                 3) materieller Gewinn.
+
+  _B._ ~Vorbericht~ über den Titel. In ihm setzt Salzmann auseinander,
+       warum er:
+
+            _a_) diesen Titel gewählt und
+
+            _b_) dem Büchlein diesen Inhalt gegeben habe;
+
+            _c_) Entschuldigung über die etwas starke und schneidige Art
+                 des Vortrags.
+
+  _C._ ~Die Schrift selbst~: 5 Teile:
+
+       _I._ ~Symbolum~: »~Von allen Fehlern und Untugenden seiner Zöglinge
+            muß der Erzieher den Grund in sich selber suchen~;« denn
+
+            _a_) vielen Lehrern fehlt das Lehrgeschick;
+
+            _b_) viele Erzieher und Lehrer lehren die Kinder die Fehler
+
+                 1) durch schlechtes Beispiel,
+
+                 2) durch falsche Behandlungsart,
+
+                 3) durch den Mißbrauch des Zutrauens, das ihnen vom
+                    Kinde entgegengebracht wird,
+
+                 4) durch Nichtbefriedigung des Thätigkeitstriebes;
+
+            _c_) viele Erzieher dichten ihren Zöglingen Fehler und
+                 Untugenden an, da sie nicht die kindliche Natur
+                 berücksichtigen.
+
+            _d_) oft nehmen die Erzieher eine willkürliche Regel an, nach
+                 der sie die Zöglinge richten wollen, und rechnen diesen
+                 jede Abweichung von derselben als Untugend an.
+
+            _e_) indem die Erzieher Eigenheiten ihrer Zöglinge zu den
+                 Fehlern und Untugenden rechnen, vergrößern sie dieselben.
+
+       _II._ ~Was ist Erziehung? Sie ist Entwickelung und Übung der
+            jugendlichen Kräfte.~ In diesem Kapitel giebt Salzmann einen
+            kurzen Abriß der Erziehung und der allmählichen Entwickelung
+            der jugendlichen Kräfte.
+
+       _III._ ~Was muß ein Erzieher lernen?~
+
+            _a_) Er muß sich und seine Zöglinge ~gesund~ zu erhalten
+                 suchen und zwar:
+
+                 1) durch einfache Kost,
+
+                 2) durch Abhärtung,
+
+                 3) durch Bewegung.
+
+            _b_) Er muß die kindlichen Kräfte an ~sinnlichen~ Gegenständen
+                 üben und durch nützliche und unterhaltende Beschäftigungen
+                 für die ~Befriedigung des Thätigkeitstriebes~
+                (durch Handarbeiten) sorgen.
+
+            _c_) Er muß sich bemühen, ~mit Kindern umzugehen~.
+
+            _d_) Er muß die Kinder zur ~Sittlichkeit~ gewöhnen, und zwar:
+
+                 1) durch Wahrhaftigkeit,
+
+                 2) durch Vorhalten von Vorbildern,
+
+                 3) durch Ermahnung unter vier Augen,
+
+                 4) dadurch, daß das Kind selbst das Gute einsieht
+                    und will.
+
+       _IV._ ~Plan zur Erziehung der Erzieher.~ Hier giebt Salzmann
+            denjenigen, die sich dem Erziehungsgeschäfte widmen, eine
+            Anweisung zur ~Selbsterziehung~; seine Hauptregel ist:
+            Erziehe dich selbst! 11 Regeln:
+
+                 1) sei gesund;
+
+                 2) sei immer heiter;
+
+                 3) lerne mit Kindern sprechen und umgehen;
+
+                 4) lerne mit Kindern dich beschäftigen;
+
+                 5) bemühe dich, dir deutliche Kenntnisse der Erzeugnisse
+                    der Natur zu erwerben;
+
+                 6) lerne die Erzeugnisse des menschlichen Fleißes kennen;
+
+                 7) lerne deine Hände brauchen;
+
+                 8) gewöhne dich mit deiner Zeit sparsam umzugehen;
+
+                 9) suche mit einer Familie oder Erziehungsgesellschaft
+                    in Verbindung zu kommen, deren Kinder oder Pflegesöhne
+                    sich durch einen hohen Grad von Gesundheit auszeichnen;
+
+                 10) suche dir eine Fertigkeit zu erwerben, die Kinder zur
+                    innigen Überzeugung von ihren Pflichten zu bringen;
+
+                 11) handle immer so, wie du wünschest, daß deine Zöglinge
+                    handeln sollen!
+
+       _V._ ~Schlußermahnung~: _Non ex quovis lignofit Mercurius_. ~Prüfe
+            dich~, ob du die Gabe hast, auf Kinder zu wirken und sie
+            zu lenken.
+
+Salzmanns ~Ameisenbüchlein~ verdient auch noch jetzt trotz der vielen
+pädagogischen Schriften, die alljährlich auf den Büchermarkt gelangen,
+gelesen und studiert zu werden. Ist heutzutage auch das meiste von dem,
+was es giebt, wenigstens theoretisch allgemein anerkannt, so ist der
+Inhalt des Buches noch nicht als veraltet zu betrachten. ~Moller~ sagt in
+Schmids Encyklopädie des gesamten Erziehungs- und Unterrichtswesens: »Es
+giebt in der neueren pädagogischen Litteratur vielleicht kein Werk, das
+die Pflicht des Erziehers, sich selbst zu vervollkommnen und den Grund
+jedes Mißerfolgs vor allem in sich selbst zu suchen, so eindringlich mit
+mildem Ernst und erfahrungsreicher Weisheit ans Herz gelegt hätte, wie
+das ~Ameisenbüchlein~.« Ist nun auch diese Salzmannsche Schrift besonders
+für Erzieher von Fach und für diejenigen geschrieben, die es werden
+wollen, so finden doch auch die Eltern manchen beherzigenswerten Wink in
+demselben. Klarheit und Wahrheit, Frische und Natürlichkeit spricht sich
+auf jeder Seite dieser Schrift aus, so daß ihre Lektüre auch jetzt noch
+reichen Genuß bietet. Möge deshalb auch die von mir veranstaltete Ausgabe
+freundliche Aufnahme bei Deutschlands Lehrern und in deutschen Familien
+finden.
+
+       *       *       *       *       *
+
+Das »~Ameisenbüchlein~« erschien im Jahre 1806 in Schnepfenthal in
+der Buchhandlung der Erziehungsanstalt. Veranlaßt dazu ward Salzmann
+durch den Mangel an Anweisungen zur Erziehung der Erzieher, während an
+Büchern, die Anweisungen zur Erziehung der Kinder enthalten, Überfluß
+war. Salzmann schreibt: »Was helfen aber diese, wenn jene nicht da sind?
+Wozu nützen alle Theorien, wenn die Leute fehlen, die sie ausführen
+können? Statt darauf zu denken, das Wahre und Gute, was wir von der
+Erziehung bereits wissen, in Ausübung zu bringen, fährt man fort, neue
+Theorien aufzustellen, denen, so gut wie jenen, die Ausführung fehlen
+wird. Wir gleichen theoretischen Baumeistern, die die Ideale zu den
+vollkommensten Gebäuden mit der Reißfeder entwerfen können, die aber immer
+nur Risse bleiben, mit denen man etwa die Wände bekleiden kann, da ihren
+Verfertigern die Geschicklichkeit fehlt, das Entworfene zur Wirklichkeit
+zu bringen.«
+
+Dem nachfolgenden Abdrucke ward die Originalausgabe von 1806 zu
+Grunde gelegt. Diese erschien doppelt, nämlich in einer auf besserem
+Papier, in größerem Drucke und mit dem oben erwähnten Bilde auf dem
+Titelblatte hergestellten Ausgabe und in einer »wohlfeilen Ausgabe« ohne
+Titelbild. Hinderlich waren der Verbreitung der Schrift die bald nach
+ihrem Erscheinen in Deutschland auftretenden Kriegsunruhen, die auch
+auf die Schnepfenthaler Anstalt nachteilig wirkten. Ein Nachdruck des
+»Ameisenbüchleins« erschien 1807 in der J.J. Mäckenschen Buchhandlung in
+Reutlingen. Wieder abgedruckt ward es in der 1845 von der Hoffmannschen
+Verlagsbuchhandlung in Stuttgart verlegten und zum hundertjährigen
+Geburtstage Salzmanns von dessen Familie veranstalteten Ausgabe seiner
+Volks- und Jugendschriften. Benutzt sind von mir auch, soweit es meinen
+Zwecken entsprach, die Ausgabe der Salzmannschen Schriften von Karl
+Richter, sowie diejenige von Richard Bosse und Johs. Meyer.
+
+  ~Hannover~, am Todestage Salzmanns, den 31. Oktober 1887.
+
+                                                   #Ernst Schreck.#
+
+
+
+
+Ameisenbüchlein.
+
+
+
+
+An Hermann!
+
+
+So nenne ich dich, lieber junger Mann, der du in deiner Brust ein Streben
+fühlst, durch Thätigkeit für Menschenwohl dich in der Welt auszuzeichnen.
+
+Gieb mir die Hand! Wenn du nicht vorzügliche Talente und entschiedene
+Neigung zu einem andern Geschäfte in dir fühlst -- so widme dich der
+Erziehung!
+
+Diese schafft dir Gelegenheit, für Menschenwohl recht thätig zu sein. Wer
+Moräste austrocknet, Heerstraßen anlegt, Tausenden Gelegenheit verschafft,
+sich ihre Bedürfnisse zu verschaffen, Gärten pflanzt, Krankenhäuser
+stiftet, wirkt auch für Menschenwohl, aber nicht so unmittelbar und
+durchgreifend als der Erzieher. Jener verbessert den Zustand der Menschen,
+dieser veredelt den Menschen selbst. Und ist der Mensch erst veredelt, so
+geht aus ihm die Verbesserung von selbst hervor, und der Zögling, dessen
+Veredelung dir gelungen ist, hat Anlage, auf dem Platze, wohin ihn die
+Vorsehung stellt, den Zustand von tausenden seiner Brüder angenehmer und
+behaglicher zu machen.
+
+In keiner Klasse von Menschen findest du so viel Empfänglichkeit für alles
+Gute, als bei Kindern. Ihr Herz ist die wahre Jungfernerde, in welcher
+jedes Samenkorn schnell Wurzel schlägt und emporwächst; es ist ein Wachs,
+das sich willig in jede Form schmiegt, in die du es drückst. Das Herz der
+Erwachsenen gleicht einem Lande, das schon mit Gewächsen besetzt ist, die
+darin tiefe Wurzeln schlugen, und die erst mit vieler, oft vergeblicher
+Mühe ausgerottet werden müssen, wenn der Same, den du in dasselbe werfen
+willst, gedeihen soll; einem Marmor, der mit großer Behutsamkeit
+bearbeitet sein will, und in dem man, nach langer mühseliger Arbeit, oft
+auf eine Ader stößt, die alle fernere Arbeit zwecklos macht. Wenn du die
+Erziehungskunst wirklich gründlich erlernst und mit Gewissenhaftigkeit
+ausübest, so verschaffst du dir gewiß die Seligkeit, einst Männer, durch
+dich gebildete Männer, zu sehen, die mit Kraft und Nachdruck für alles
+Gute thätig sind.
+
+Wende mir nicht ein, das Erziehungsgeschäft wäre so mühsam. Wo ist denn
+ein gemeinnütziges Geschäft, das nicht mühsam wäre? Und wenn es ein
+solches, wie z. B. das Zerlegen einer Pastete, gäbe, wolltest du dich
+wohl demselben widmen? Aber glaube mir, das Erziehungsgeschäft ist nicht
+so mühsam, als du denkst. Erzieher, die die Erziehung nicht verstanden,
+haben es in einen übeln Ruf gebracht. Merke nur auf die Winke, die dir
+in diesem Buche gegeben werden, ~und befolge sie~, so wirst du bei der
+Erziehung zwar Mühe, aber fast immer solche finden, die durch einen
+baldigen glücklichen Erfolg belohnt wird, und deswegen kaum den Namen der
+Mühe verdient. Und diese kleine Mühe -- durch wie mannigfaltige Freude
+wird sie versüßt werden! Sieh', was für ein harmloses, fröhliches Völklein
+die Leutchen sind, in deren Kreise der Erzieher wirkt! Wird, wenn du ein
+wirklicher Erzieher wirst und dich zu ihnen herabstimmen lernst, ihre
+beständige Fröhlichkeit nicht einen wohlthätigen Einfluß auf dich haben?
+
+Die Erfahrung lehrt, daß Männer, die in der jugendlichen Atmosphäre leben
+und weben, gemeiniglich alt werden, unterdessen daß von denjenigen ihrer
+Jugendfreunde, die in dem Dunstkreise der Erwachsenen arbeiteten, einer
+nach dem andern dahin welkt.
+
+Man hat diese unleugbare Erscheinung oft den jugendlichen Ausdünstungen
+zugeschrieben, die solche Männer einatmen, und damit ihre zähwerdende
+Blutmasse verdünnen. Ob es wahr sei, kann ich nicht entscheiden, da mir
+hierzu die nötigen ärztlichen Kenntnisse fehlen.[1] Sicher trägt aber die
+beständige Munterkeit und Fröhlichkeit der Jugend das ihrige dazu bei,
+wenn man ihr nur nicht durch Eigensinn und üble Laune entgegenarbeitet.
+Will man sich in den Lehnstuhl setzen, um des Marasmus Ankunft ruhig
+abzuwarten, so kommt ein munterer Knabe gehüpft, bittet, einen seiner
+jugendlichen Wünsche zu befriedigen, und reizt uns, den Lehnstuhl zu
+verlassen. Dort beginnen einige frohe Knaben ein munteres Spiel, das auch
+uns zum Frohsinn stimmt. Nun ruft uns die Glocke in das Lehrzimmer, wo
+man, soll anders der Unterricht einen guten Erfolg haben, der üblen Laune
+entsagen und zum Frohsinn sich stimmen muß. So verjüngt der Erzieher, der
+seiner Bestimmung gemäß lebt, sich täglich, und hält das Alter mit seinen
+mannigfaltigen Beschwerden von sich entfernt.
+
+Die Erziehung, denkst du vielleicht, wird aber so schlecht belohnt.
+
+Das glaubst du wirklich? Mir deucht, kein Geschäft ist belohnender als
+dieses. Sind denn Frohsinn, Gesundheit und ein heiteres Alter, die
+gewöhnlich dem ~wahren~ Erzieher zu teil werden, eine Kleinigkeit?
+
+Nächstdem kann er noch auf eine andere Belohnung rechnen, dies ist -- die
+eigene Veredelung. Der Erzieher, der sein Geschäft nicht als Broterwerb
+treibt, den die Veredelung seiner Pflegebefohlenen Hauptzweck ist, muß
+schlechterdings ein guter, edler Mensch werden. Wie? er sollte stets
+die Pflicht mit Wärme empfehlen können, ohne über dieselbe täglich
+nachzudenken und ihren Wert zu fühlen? ohne sich selbst als Muster der
+Pflichterfüllung darzustellen? Er sollte unter jungen Leuten leben können,
+deren scharfes Auge jeden Fehler bemerkt, deren Freimütigkeit jeden Fehler
+bemerkbar macht, ohne dieselben abzulegen? Das so wahre Sprichwort:
+_docendo discimus_ ist auch in moralischer Hinsicht wahr. Wenn wir uns
+ernstlich bestreben, unsere Pflegebefohlenen zu veredeln, werden wir
+selbst veredelt.
+
+Und nun, mein guter Hermann! wenn du bei dem Erziehungsgeschäfte gesund
+und froh wirst, wenn dabei dein innerer Mensch gedeihet und immer mehr
+edlen Sinn bekommt, bist du nicht belohnt genug? Gesetzt, du müßtest deine
+Tage in niedriger Dürftigkeit verleben, bist du nicht belohnt genug?
+Oder, wolltest du wohl dies alles dahin geben, um eine glänzende Rolle zu
+spielen? wolltest lieber an einer reichlich besetzten Tafel krank, als
+bei einer einfachen Mahlzeit mit gutem Appetite sitzen? wolltest lieber
+Jubel um dich und in dir Gram, als in dir Frohsinn und um dich Stille
+haben? wolltest lieber einen Schwarm feiler Seelen befehlen, als dich
+selbst beherrschen? Nun, so triff den Tausch, aber -- mein Hermann bist du
+nicht -- dir ist dies Buch nicht geweihet.
+
+An dich wende ich mich, der du den Wert dieser großen Belohnung fühlen
+kannst. Erlangtest du auch keine als diese, so wirst du jede andere
+entbehren können.
+
+Aber gewiß, wenn du dich bestrebst, kein mittelmäßiger, sondern ein
+ausgezeichneter Erzieher zu werden, wird dir auch andere Belohnung nicht
+fehlen. Die Zeiten sind vorbei, da das Erziehungsgeschäft verächtlich war.
+Die Familien werden immer zahlreicher, denen ein ~guter~ Erzieher das
+höchste Bedürfnis ist, die sich denselben um jeden Preis zu verschaffen
+suchen; die ihn nicht als ersten Bedienten, sondern als ersten Freund des
+Hauses betrachten. Fürstenfamilien sehen sich nach dem Manne um, dessen
+Leitung sie ihre Kinder mit vollem Zutrauen übergeben können. -- Und du
+wolltest nicht Erzieher werden?
+
+
+
+
+Vorbericht.
+
+
+Als ich mich bei Ausfertigung des ~Krebsbüchleins~[2] in das Kerbtierfach
+warf, war meine Meinung, eine Reihe von Schriften auszuarbeiten, die
+ihren Namen von Kerbtieren haben sollten. Allein die Geschäfte, in die
+ich von diesem Zeitpunkte an verwickelt wurde, hielten mich immer davon
+ab, und nun läßt mir das herannahende Alter wenig Hoffnung übrig, meinen
+Vorsatz ausführen zu können. Das Skorpionbüchlein, oder Anweisung zu
+einer unvernünftigen Regierung der Völker, sowie das Spinnenbüchlein,
+oder Anweisung zu unvernünftiger Führung der Ehe, wird also nicht zur
+Wirklichkeit kommen. ~Das Ameisenbüchlein oder die Anweisung z

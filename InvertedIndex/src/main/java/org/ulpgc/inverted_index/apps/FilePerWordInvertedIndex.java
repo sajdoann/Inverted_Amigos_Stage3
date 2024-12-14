@@ -72,8 +72,11 @@ public class FilePerWordInvertedIndex implements InvertedIndex {
     }
 
     public void indexAll() {
+        int n = 0;
         List<String> books = this.listBooks();
         for (String book: books){
+            n++;
+            System.out.println("Indexing book " + n + "/1935");
             this.index(book);
         }
     }
@@ -83,13 +86,13 @@ public class FilePerWordInvertedIndex implements InvertedIndex {
         int id = isIndexed(file);
         switch (id) {
             case -1:
-                //System.out.println("This is not a book");
+                System.out.println("This is not a book");
                 break;
             case 0:
-                //System.out.println("Book Already indexed");
+                System.out.printf("Book Already %s indexed%n", id);
                 break;
             default:
-                //System.out.println("Indexing book " + id);
+                System.out.println("Indexing book " + id);
                 Map<String, ResponseList> index = this.tokenizer.tokenize(file, id);
 
                 ExecutorService executorService = Executors.newFixedThreadPool(this.numberOfThreads);
@@ -148,7 +151,7 @@ public class FilePerWordInvertedIndex implements InvertedIndex {
         String datamart = String.format("%s/%s.txt", datamart_path, "%s");
         String books_indexed = "InvertedIndex/indexed_docs2.txt";
         String stopwords = "InvertedIndex/stopwords.txt";
-        int numberOfThreads = 4;
+        int numberOfThreads = 2;
 
         // create datamart2 if not already exists
         File directory = new File(datamart_path);

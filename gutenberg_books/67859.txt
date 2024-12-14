@@ -1,0 +1,2277 @@
+AMERICAN
+
+  Horological Journal.
+
+  VOL. I.      NEW YORK, JULY, 1869.      NO. 1.
+
+
+
+
+  CONTENTS.
+
+
+  ASTRONOMY IN ITS RELATIONS TO HOROLOGY,            5
+
+  WATCH AND CHRONOMETER JEWELLING,                  11
+
+  HINTS ON CLOCKS AND CLOCK MAKING,                 15
+
+  NOTICES OF NEW TOOLS,                             17
+
+  GREENWICH OBSERVATORY,                            17
+
+  PINIONS,                                          20
+
+  NEW THREE-PIN ESCAPEMENT,                         23
+
+  ENGLISH OPINION OF AMERICAN WATCH MANUFACTURE,    23
+
+  CORRESPONDENCE,                                   24
+
+  ECLIPSE OF THE SUN,                               25
+
+  DIAMOND CUTTING,                                  25
+
+  ALLOYS OF ALUMINUM WITH COPPER,                   25
+
+  EQUATION OF TIME TABLE,                           28
+
+⁂ _Address all communications for_ HOROLOGICAL JOURNAL _to_ G. B.
+MILLER, _P. O. Box 6715, New York City. Publication Office 229
+Broadway._
+
+
+
+
+Astronomy in its Relations to Horology.
+
+NUMBER ONE.
+
+
+However accurate an instrument for the mensuration of time may be,
+it would be of little use for close observation unless we have some
+standard by which to test its performance. We look to Astronomy to
+furnish us with this desideratum, nor do we look in vain. The mean
+sidereal day, measured by the time elapsed between any two consecutive
+transits of any star at the same meridian, and the mean sidereal
+year--which is the time included between two consecutive returns of the
+sun to the same star--are immutable units with which all great periods
+of time are compared; the oscillations of an isochronous pendulum
+affording us a means of correctly dividing the intermediate space into
+hours and days.
+
+We must premise that the whole theory of taking time by sidereal
+observations is based on angular motion, the mensuration of one of
+the angles of motion giving a measurement of space, so that to say
+space, or distance, is equivalent to saying time. From noon of one
+day to noon of another is the whole problem to be solved by correct
+division. The astronomical day begins at noon, but in civil law the
+day is dated from midnight. So in the year the astronomical day is
+dated December 31, while in common reckoning the 1st of January is the
+initial point. This day is divided into twenty-four hours, counted in
+England, America, and the most of the Continental nations of Europe, by
+twelve and twelve. The French astronomers, however, adopted the decimal
+system, for ease in the computation. Thus they divided the day into
+ten hours, the hour into one hundred minutes, and the minute into one
+hundred seconds. This plan was in conformity with the French system
+of decimal weights and measures. Again, in Italy, the day was divided
+into twenty-four hours, but counting from one to twenty-four o’clock.
+The French system presents some features well worthy of adoption, as it
+gives results so much more easy in computation--a facility unattainable
+in the common division; yet it did not come into general use in other
+countries, and although some French astronomers still hold to the
+system, it is gradually dying out.
+
+At one time during the Revolution in France a clock in the gardens of
+the Tuileries was regulated to show time by the decimal system.
+
+For the Horologist the mean length of the day is sufficient to show the
+rate of his instrument for that particular day, but the astronomical
+and civil division requires a much longer period of observation. This
+is obtained by the position of the mean annual equinoxes or solstices,
+and is estimated from the winter solstice, the middle of the long
+annual night under the North Pole; and the period between this solstice
+and its return is a natural cycle, peculiarly suited for a standard of
+measurement.
+
+Even with such a standard as the civil year of 365d. 5h. 48m. 49.7s.,
+the incommensurability that exists between the length of the day and
+the real place of the sun makes it very difficult to adjust the ratio
+of both in whole numbers. Were we to return to the point in the earth’s
+orbit in exactly 365 days, we would have precisely the same number
+of days in each year, and the sun would be at the same point on the
+ecliptic at the same second at the beginning and end of the year. There
+is, however, a fraction of a day, so that a solar year and civil are
+not of equal duration.
+
+It is thus we have our bissextile year, from the fact that the
+inequality amounts to nearly a quarter of a day, so that in four years
+we have a whole day’s gain; but not exactly, because a fraction still
+remains to be accounted for. Now, if we should suppress the one day
+of leap-year once at the end of each three out of four centuries, the
+civil would be within a very small fraction equal to the solar year,
+as given by observation; this small fraction would be almost entirely
+eliminated, provided we suppressed the bissextile at the end of every
+four thousand years. Were this fraction neglected, the beginning of the
+new civil year would precede the tropical by just that much, so that in
+the course of 1507 years the whole day’s difference would obtain.
+
+The Egyptian year was dated from the heliacal rising of the star
+Sirius; it contained only 365 days. By easy computation it can be
+shown that in every 1461 years a whole year was lost; this cycle was
+called the Sothaic period, in which the heliacal rising of Sirius
+passed through the whole year and took place again on the same day.
+The commencement of that cycle took place 1322 years before Christ.
+The year by the Roman calendar was dated by Julius Cæsar the 1st of
+January, that being the day of the new moon immediately following the
+winter solstice in the 707th year of Rome. Christ’s nativity is dated
+on the 25th of December, in Cæsar’s 45th year, and the 46th year of the
+Julian calendar is assumed to be the 1st year of our era. The preceding
+year is designated by chronologists the 1st year before Christ, the
+dates thence running backward the same as they run forward subsequent
+to that period.
+
+Astronomically, that year is registered 0; the astronomical year begins
+at noon on the 31st of December, and the date of any observation
+expresses the number of days and hours which have actually elapsed
+since that time, the 31st of December--Year 0.
+
+The year is divided into months by old and almost universal consent,
+but the period of seven days is by far the most permanent division
+of a rotation of the earth around the sun. It was the division long
+before the historic period. The Brahmins in India used it with the same
+denominations as at the present day the Jews, Arabs, Egyptians, and
+Assyrians. “It has survived the fall of empires, and has existed among
+all successive generations, a proof of their common origin.”
+
+Nothing can be more interesting in the study of astronomy than its
+chronological value. La Place says: “Whole nations have been swept
+from the earth, with their languages, arts, and sciences, leaving but
+confused masses of ruins to mark the place where mighty cities stood;
+their history, with but the exception of a few doubtful traditions, has
+perished; but the perfection of their astronomical observations marks
+their high antiquity, fixes the periods of their existence, and proves
+that even at that early time they must have made considerable progress
+in science.”
+
+The earth revolving around the sun in an ellipse, the position of the
+major axis of the orbit would indicate something in regard to eras in
+astronomy extending not only beyond the historical period, but so far
+back in the past that imagination is almost at fault. The position of
+the major axis of the orbit depends on the direct motion of the perigee
+and the precession of the equinoxes conjointly, the annual motions
+respectively being 11´´.8 and 50´´.1, the two combined motions being
+61´´.9 annually. A tropical revolution is made in 209.84 years. This
+being a constant quantity, we may ascertain when the line of the major
+axis coincided with the line of the equinoxes. This occurrence took
+place about 4,000 or 4,090 years before the year 0. In the year 6,483
+the major axis will again coincide with the line of the equinoxes,
+but then the solar perigee will coincide with the vernal equinox. So,
+it will be seen that the period of revolution is 20,966 years. But in
+the progress of this revolution there must have been a time when the
+major axis was perpendicular to the line of the equinoxes. A simple
+calculation will show that the eventful year was 1250; and so important
+is this event considered, that La Place, the immortal author of the
+_Méchanique Céleste_, proposed to make the vernal equinox of this year
+the initial day of the year 1 of our era. Again, at the solstices the
+sun is at the greatest distance from the equator; consequently the
+declination of the sun is equal to the obliquity of the ecliptic.
+The length of a shadow cast at noonday from the stile of an ordinary
+sun-dial would accurately determine the precise time on which this
+position occurs.
+
+Though wanting in accuracy, such a measurement is of interest, from the
+fact that there are recorded observations of this kind that were taken
+in the city of Layang, in China, 1100 years before our present era is
+dated. This observation gives the zenith distance of the sun at the
+moment of the observation. Half the sum of the zenith distances gives
+the latitude, and half their difference gives the obliquity of the
+ecliptic at the period. Now the law of the variation of the ecliptic
+is well known, and modern computation has verified both the moment
+of taking the observation and the latitude of the place. Eclipses
+were the foundation of the whole of Chinese chronology, and recorded
+observations prove the civilization of that strange race for 4700 years.
+
+Horology, with astronomy, was not neglected even as early as 3102 years
+before Christ, as the following will show.
+
+The cycles of Jupiter and Saturn are very unequal, the latter being a
+period of 918 years; the mean motion of the two planets was determined
+by the Indians in that part of the respective orbits where Saturn’s
+motion was the slowest and Jupiter’s the most rapid. This observed
+event must have been 3102 years before, and 1491 after the year 0; but
+the record shows that the observation was taken before the last-named
+date.
+
+Since both solar and sidereal time is estimated from the passage of
+the sun and the equinoctial point across the meridian of the place of
+observation, the time will vary in different places by as much as the
+passage precedes each. It being obvious that when the sun is in the
+meridian at any one place, it is midnight at a point on the earth’s
+surface diametrically opposite; so an observation taken at different
+places at the same moment of absolute time, will be recorded as having
+happened at different times. Therefore when a comparison of these
+different observations is to be made, it becomes necessary to reduce
+them by computation to what the result would have been had they been
+taken under the same meridian at the same moment of absolute time. Sir
+John Herschel proposed to employ mean equinoctial time, which is the
+same for all the world. It is the time elapsed from the moment the
+mean sun enters the mean vernal equinox, and is reckoned in mean solar
+days and parts of days. This difference in time is really the angular
+motion of the earth, and by measuring it the longitude of any place on
+the surface of the earth can be determined, provided we have a standard
+point of departure, and an instrument capable of accurately dividing
+the time into small quantities during its transit from the meridian on
+which it was rated.
+
+As will be hereafter shown, the axis of the earth’s rotation is
+invariable. Were the position of the major axis of the earth’s orbit
+as immutable, an observation of any star on the meridian taken at
+any place would always be the same. Again, the form of the earth has
+an important effect; the equatorial diameter exceeds the polar, thus
+giving a large excess of matter at the equator. Now the attraction of
+an external body not only draws another to it in its whole mass, but,
+as the force of attraction is inversely as the square of the distance,
+it follows that the attracted body would be revolved on its own centre
+of gravity until its major diameter was in a straight line with the
+attracting body.
+
+The sun and moon are both attracting bodies for the earth; the plane
+of the equator is at an angle to the plane of the ecliptic of 23° 27´
+34´´.69, and the plane of the moon’s orbit is inclined to it 5° 8´
+47´´.9 Now from the oblate form of the earth, the sun and moon, acting
+obliquely and unequally, urge the plane of the equator from its own
+position from east to west, thus changing the equinoctial points to the
+extent of 50´´.41 annually.
+
+This action, were it not compensated by another force, would in time
+alter the angle of the ecliptic until the equatorial plane and the
+ecliptic coincided. There are few but have seen the philosophical toy
+called the Gyrascope. This toy, on a miniature scale, gives a fine
+illustration of the force brought in to correct the combined action of
+the sun and moon on the obliquity of the equator. The rotation of the
+earth is held in its own plane by its own revolution, the same as the
+gyrascope seems to overcome the laws of gravitation by its force of
+revolution.
+
+But not only do the sun and moon disturb the plane of the ecliptic,
+but the action of other planets on the earth and sun is to be taken
+into account. A very slow variation in the position of the plane of the
+ecliptic, in relation to the plane of the equator, is observed from
+these influences. It must be remembered that a very slight deviation
+in the angle can and would be detected by observation with modern
+instruments. We do find that this attraction affects the inclination of
+the ecliptic to the equator of 0´´.31 annually.
+
+This motion is entirely independent of the form of the earth. Now,
+if we assume that the sun and moon give the equinoctial points a
+retrograde motion on the ecliptic, we must deduct the influence of the
+planets. We may then calculate the mean disturbance by subtracting
+the latter from the former--the difference is settled by both theory
+and observation to be 50´´.1 annually. This motion of the equinoxes
+is called the precession of the equinoxes. Its consideration forms a
+very important element in the estimation of time, as the position of
+the various fixed stars, though so very distant, are all affected in
+longitude by this quantity of 50´´.1--being an increase of longitude.
+Therefore, if we were to calculate the position of any given star in
+order to get a transit for mean time, or true time, we must take this
+quantity into consideration. The increase is so great that the earliest
+astronomers, even with their imperfect modes of observation, detected
+it. Hipparchus, 128 years before Christ, compared his own observations
+with those of Timocharis, 153 years before. He found the solution of
+the problem the same as Diophantus found the solution of the squares
+and cubes, by analysis. In the time of Hipparchus, the sun was at a
+point 30° in advance of its present position, for it then entered into
+the constellation of Aries near the vernal equinox.
+
+At the present time the position of the equinoctial points shows a
+recession of the whole, 30° 1´ 40´´.2. At this rate of motion the
+constellations called the Signs of the Zodiac are some distance from
+the divisions of the ecliptic that bear their names. At the rate
+of 50´´.1 the whole revolution of the equinoctial points will be
+accomplished in 25,868 years; but this is again modified because the
+precession must vary in different centuries for the following reasons:
+the sun’s motion is direct, the precession retrograde; therefore, the
+sun arrives at the equator sooner than he does at the same star of
+observation. Now, the tropical year is 365d. 5h. 48´ 49´´.7; and as the
+precession is exactly 50´´.1, we must suppose it takes some time for
+the sun to move through that arc. By direct observation it is found
+that the time required for such translation is 20´ 19´´.6. By adding
+this amount to the tropical year we have the sidereal year of 365d.
+6h. 9´ 9´´.6 in mean solar days. This amount of precession has been
+on the increase since the days of its first recorder, Hipparchus, as
+the augmentation amounts to no less than 0.´´455. By adding that to the
+known precession we find that the civil year is shorter now by 4´´.21
+than in his time; but, as a great division of time, the year can be
+changed by this cause not more than 43.´´
+
+The action of the moon on the accumulation of matter at the earth’s
+equator is a source of disturbance that in very accurate observations
+for time should be eliminated. Thus the moon, with the conjoint action
+of the sun, depending on relative position, causes the pole of the
+equator to describe a small ellipse in the heavens with axes of 18´´.5
+for the major, and 13´´.674 for the minor; the longer axis being
+directed to the pole of the ecliptic. This inequality has a period
+of 19 years,--it being equal to the revolution of the nodes of the
+lunar orbit. The combination of these disturbances changes, by a small
+quantity, the position of the polar axis of the earth in regard to the
+stars, but not in regard to its own surface. With so many disturbing
+causes, we must add that of Jupiter, whose attraction is diminishing
+the obliquity of the ecliptic by 0´´.457 according to M. Bessel.
+
+The results of all these forces must affect the position of all the
+stars and planets as seen from our earth. Their longitudes being
+reckoned from the equinoxes, the precession of these points would
+increase the longitude; but as it affects all the stars and planets
+alike, it would make no real or apparent change in their relative
+positions. Nutation, however, affects the celestial latitudes and
+longitudes, as the real motion of the earth’s polar axis changes the
+relative positions. So great is the change that our present pole star
+has changed from 12° to 1° 24; in regard to the celestial pole, the
+gradual approximation will continue until it is with 0° 30´, after
+which it will leave the pole indefinitely until in 12,934 years α Lyræ
+will be the pole star.
+
+So far we have given only the causes that affect the meridian, and
+consequently our standard for time; but that point being established
+for the yearly and diurnal revolutions, it becomes necessary to find
+some means to divide the day into minute fractional parts, such as
+seconds and parts of seconds. This, it has been stated, is effected
+by means of an isochronous pendulum. On this instrument no comment is
+required but of the causes that disturb its accuracy much is needed.
+In 1672, at Cayenne, the astronomer Richter, while taking transits
+of fixed stars, found his clock lost 2´ 28´´ per day. This was an
+error that arrested his attention, and he immediately attributed it
+to some variation in the length of the pendulum--due to other causes
+than atmospheric changes and expansion. He determined the length of a
+pendulum beating seconds in that latitude, which was 5° N. in South
+America. He found that that pendulum was shorter than one beating
+seconds in Paris, by 0833+ of an inch. Now, if the earth was a sphere,
+the attraction of gravitation at all places on its surface would be
+equal, and the oscillations of a pendulum would also be equal, + or
+- the disturbing effect of centrifugal force--an amount that can be
+easily determined. The real reason of the variation is found in the
+configuration of the earth.
+
+The amount of the attraction of gravitation at any point of the earth’s
+surface is found by the distance traversed by any body during the
+first second of its fall. The pendulum is a falling body, and may be by
+the same analysis reasoned on that pertains to the laws of gravitation;
+the centrifugal force is measured by any deflection from a tangent to
+the earth’s surface in a second.
+
+It follows that the centrifugal force at the poles, where there is
+the least motion, would not be equal to the force of gravitation, and
+at the equator must be exactly equal; but the deflection of a circle
+from a tangent measures the intensity of the earth’s attraction, and
+is equal to the versed sine of the arc described during that time,
+the velocity of the earth’s rotation being known, the value of the
+arc is deducible. The centrifugal force at the equator is equal to
+¹⁄₂₈₉th part of the attraction of gravitation. Again, the uniformity
+of the earth’s mass becomes an object of consideration. Assuming that
+the figure of the earth is an ellipsoid of rotation, we will show the
+relation that form bears to the equal oscillation of a pendulum.
+
+Taking the earth as a homogeneous mass, analysis gives us the certainty
+that if the intensity of gravitation at the equator be taken as unity,
+the increase of gravity to the poles eliminating the differences of
+the centrifugal force must be = to 2.5, the ratio of the centrifugal
+force to that of gravitation at the equator. Now, taking the 2.5 of
+.346 = 1/115.2, this then must be the total increase of gravitation.
+Did we know the exact amount of increase at every point, from the
+equator to the poles, a perfect map of the form of the earth could
+be produced from calculation; experiment being from physical causes
+totally impracticable. The following analysis, quoted from an eminent
+physicist, gives a very lucid idea of the reasoning:
+
+“If the earth were a homogeneous sphere without rotation, its
+attraction on bodies on its surface would be everywhere equal. If it
+be elliptical and of variable density, the force of gravity ought to
+increase in intensity from the equator to the pole as _unity plus_
+a constant quantity multiplied into the square of the sine of the
+latitude. But for a spheroid in rotation the centrifugal varies by
+the law of mechanics, as the square of the sine of the latitude from
+the equator, where it is greatest, to the poles, where it is least.
+And as it tends to make bodies fly off the surface, it diminishes the
+force of gravity by a small quantity. Hence, by gravitation, which
+is the difference of these two forces, the fall of bodies ought to
+be accelerated from the equator to the poles proportionably to the
+square of the sine of the latitude, and the weight of the body ought to
+increase in that ratio.”
+
+Assuming the above reasoning to be correct, it follows, that the rate
+of descent of falling bodies will be accelerated in the transition
+from the equator to the poles. Now, it has been before stated that
+the pendulum is a falling body; therefore, with the same length of
+pendulum, the oscillations at the pole should be faster than at the
+equator. Theory, in this case, is verified; for it has been proved by
+experiments, repeated again and again, that a pendulum oscillating
+86,400 times in a mean day at the equator, will give the same number of
+oscillations at any other point, provided its length is made longer in
+the exact ratio as the square of the sine of the latitude.
+
+The sequence to be derived from all the foregoing considerations is,
+that the whole decrease of gravitation from the equator to the poles
+is 0.005.1449, which subtracted from the 1/155.2 gives the amount
+of compression of the earth to be nearly 1/285.26. But this form
+of the earth would give the excess of the equatorial axis over the
+polar about 26¹⁄₂ miles. The measurement is confirmed by Mr. Ivory
+in his investigations on the five principal measurements of arcs of
+the meridian in Peru, India, France, England, and Lapland. He found
+that the law required an ellipsoid of revolution whose equatorial
+radius should be 3,962.824 miles, and the polar 3,949.585 miles; the
+difference is 13.239 miles; this quantity multiplied by two gives
+26.478 as the excess of one diameter over the other. Thus, by two
+different processes the figure of the earth has been determined; but
+another remains that is the result of pure analysis, derived from the
+nutation and precession of the equinoxes--for, as explained before,
+these effects are caused by the excess of matter at the earth’s
+equator. The calculation does not lead us to certainty, but it does
+show the compression to be comprised between the two fractions ¹⁄₂₇₀
+and ¹⁄₅₇₃. There is this advantage in the lunar theory, that it takes
+the earth as a whole, disregarding any irregularities of surface, or
+the local attractions that influence the pendulum--the difficulties of
+measuring an arc of the meridian being an obstacle to perfect accuracy.
+
+The form of the earth has, however, a value confined not alone to those
+interested in horology--it furnishes us with a standard of weights and
+measures. In England and the United States, the pendulum is the unit of
+mensuration, or at least the common standard from which measurement is
+derived. It has been shown that, deducting the effects of nutation, the
+axis of the earth’s rotation is always in the same plane. Now, the mass
+being the same constant quantity, a pendulum oscillating seconds at the
+Greenwich Observatory, has been adopted by the English Government as
+its standard of length. Oscillating in vacuo at the level of the sea,
+at 62° Fahr., Captain Kater found its approximate length to be 39.1393
+inches; as this must be invariable under the same circumstances, it
+becomes a standard for all time. The French deduced their standard from
+the measurement of the ten-millionth part of a quadrant of the meridian
+passing through Formentera and Greenwich. They have also adopted the
+decimal system; yet it seems to prove that nothing under the sun is
+new, for over forty centuries ago the Chinese used the decimal system
+in the division of degrees, weights, and measures.
+
+The antiquity of the pendulum is also shown by the fact that the
+Arabs were in the habit of dividing the time in observations, by its
+oscillations, when Ibn Junis, in the year one thousand, was making
+his astronomical researches. Before we lose sight of the influence
+of the form of the earth on the pendulum, it may be well to state
+another source of disturbance, arising from the combined influence of
+the earth’s rotation and the fact that a body moving in its own plane
+seeks to maintain that plane. It will be seen from the very beautiful
+experiment showing the rotation of the earth, that if a body like a
+pendulum be suspended so as to be free in every direction, and not be
+influenced by the motion of the earth when set in oscillation in any
+plane, that that plane will preserve its line of motion, while the
+earth in its motion beneath the body can be seen to slowly move, as
+though the minute hand of a watch were made stationary while the dial
+revolved. The same principle is the one that maintains the spinning-top
+in a parallel position to the horizon, or the gyrascope in its
+apparently anomalous defiance of all the laws of gravitation. In the
+pendulum this tendency to preserve the same plane of motion becomes a
+cause of error--slight, it is true, but can be very easily remedied by
+so placing it that the plane of oscillation shall be parallel to the
+equator. It will be readily seen that this precaution will become more
+important as we recede from the equator; for if we were to suspend a
+pendulum at the pole in a true line with the axis of rotation, and if
+the plane of vibration remained constant, the earth would turn once
+around that plane in the diurnal period. During this time there would
+be a continuous torsion on the point of suspension, that would in time
+materially affect the accuracy of the instrument. The reasoning holds
+good for every latitude--degree of influence being the only difference.
+
+Having given the action of the earth’s form, mass, and rotation on
+the pendulum, there remain the disturbances due to expansion and
+contraction, owing to changes of temperature and those of atmospheric
+causes. The astronomical points to be observed are somewhat too fully
+laid down, but it must be remembered that an exact science requires the
+premises to be fully established before a sequence can be drawn.
+
+As the standard of time depends on the passage of a star or the sun, or
+any known celestial object, at a certain time across the meridian of
+the place where the observation is taken, it was absolutely necessary
+to give the modes of calculation, together with the disturbing causes.
+Moreover, a full appreciation of the indebtedness of horology to
+astronomy could not be obtained without a general knowledge of the
+change of the position of the major axis of the orbit described by the
+earth around the sun. Also, the difference between mean and apparent
+solar time was required to illustrate the use of the tables of equated
+time, the necessity of which will become patent when the use of the
+transit instrument for the establishment of time, or a fixed standard,
+is introduced. Also, the disturbing effects of the sun and moon
+collectively and relatively as to position, could not be passed, as
+they produce the precession of the equinoxes and the nutation of the
+pole--essential elements in the computation of time.
+
+
+
+
+Watch and Chronometer Jewelling.
+
+NUMBER ONE.
+
+
+This whole subject is well worthy an article both in a scientific and
+mechanical sense, whether we consider the delicacy of the operations
+or the intractable character of the material operated on--for there
+has been no improvement in the horological trade of more importance to
+accuracy and durability of time-keepers.
+
+The substitution of stone for common brass or gold bearings, was
+prompted by the inevitable wear of the holes from frequent cleaning,
+and the abrasion of the pivots, produced by the accumulation of
+dust with viscid oil; the pivot being cut away, or the hole opened
+too large. So long as the verge and cylinder were the prevailing
+escapements, the necessity for jewelling was not so strongly felt,
+except in the balance holes. The introduction of the lever escapement
+brought with it a better watch,--capable of more accurate time, but
+demanding an improved construction.
+
+An Italian, in 1723, first introduced the practice of using stone for
+bearings. He not only conceived the idea, but was successful as an
+artisan in making his own jewels; ingenious and skilful as he was,
+however, he encountered obstacles almost insurmountable.
+
+The art of cutting gems, it is true, was at that time well understood,
+but no one had attempted to drill a hole in a hard stone fine enough
+for a properly sized pivot. The watches at that time that were jewelled
+could boast of nothing more than the balance holes, and they were not
+pierced to let the pivot _through_.
+
+It is a very difficult matter to polish a taper indentation in a stone,
+even with modern appliances, in consequence of the tendency to create
+a _tit_ at the bottom,--thus throwing the balance staff out of upright.
+The difficulties in the then state of knowledge retarded the general
+introduction of stone-work for many years. The Swiss, however, seeing
+the advantages derived, finally struck out the various manipulations
+with success. Time and experience gave more skill, and at the present
+time it is impossible to find a Swiss watch, even of the cheapest
+class, that is not jewelled in at least four holes. The English trade
+adopted the art later; but even then it did not become general for many
+years. Within a generation, only fine English levers were jewelled.
+
+The mere substitution of a harder substance was not the only
+improvement; other conditions necessary to accuracy were insured. The
+hole could be made _round_--the material of such a character that no
+chemical action could be effected on the oil used for lubrication,
+and the vertical section of the hole could be made so as to present
+the least amount of frictional surface, yet still giving a perfectly
+polished bearing, thus avoiding the cutting of the pivot.
+
+The whole “_modus operandi_” from the stone in the rough to the last
+setting up is well worth the attention of the watch repairer, and
+certainly that of the manufacturer.
+
+Of the materials used in the trade, the first and most important is
+the diamond, used only in the time-piece as an end-stone--but at
+the bench all-important, as a means of making the other jewels. The
+diamond possesses the requisite susceptibility of polish, combined with
+greatest hardness of any substance known; but this adamantine quality
+precludes its being pierced with a through hole. Considered chemically,
+the diamond is pure carbon,--its different varieties differing only
+in structure--common charcoal, its lowest--plumbago, its intermediate
+grade. Another variety, called the “black diamond,” or “diamond
+carbon,” occurs, which is interesting as being a parallel with emery,
+compared with crystallic sapphire. The form of diamond most in use for
+mechanical manipulations, is almost always crystallized; yet it will be
+seen that the agglomerated form of diamond carbon plays no unimportant
+part in jewelling. As a jewel, no use is made of the diamond, other
+than as an end-stone. Marine chronometers, in which the balance will
+weigh from five to nine pennyweights, are almost invariably furnished
+with a diamond end-stone, set in steel. Yet, hard as the substance is,
+it is often that a pivot will cut an indentation in its face. The cause
+of this apparent anomaly is to be found in the structural character of
+the gem, and its value. The lapidary, saving in weight as possible,
+does not care, in “Rose Diamonds,” to pay attention to the lines of
+cleavage. If the face of the stone makes a slight angle with the
+strata of the jewel, there occur innumerable small angles of extreme
+thinness--the pivot, coming in contact with any of these thin portions,
+may fracture it, and the fragment, becoming imbedded in the tempered
+steel pivot, becomes a drilling tool. In our experience we have had
+marine chronometers sent for repair, that have lost their rate so much
+as to become utterly unreliable from this cause alone--the pivot having
+produced an indentation of the stone, creating more friction, and thus
+destroying the accuracy of the instrument.
+
+As a general rule, the rose diamonds sold for this purpose are
+sufficiently good for general work. In a very fine watch or chronometer
+the stone should be selected with reference to its polish on the face,
+and its parallelism in the lines of cleavage. The diamond, however,
+gets its great importance from being the only agent we can use in
+working other stones. Without it the whole art of jewelling would not
+be practicable. The various steps are all connected some way with
+diamond in its different shapes. “Bort,” the technical name for another
+variety, is merely fragments of the stone that have been cleaved off
+from a gem in process of cutting, or gems that have been cut, but found
+too full of flaws to become of use for ornamental jewelry purposes,
+the cost depending on the size, varying from $5.50 to $18 per carat.
+This “Bort” is used as turning tools--the larger pieces being selected
+and “set” in a brass wire and used on the lathe, in the same manner,
+and with the same facility, as the common graver. For tools, even
+the diamond is not of equal value--a pure white and crystalline in
+structure generally being too brittle (though hard) to endure the
+work. Among the workmen the “London smoke,” a clouded, brownish stone,
+is most prized--it possessing the twofold qualities of toughness and
+hardness.
+
+Another form of “Bort” comes in the shape of a small globule, sometimes
+the size of a pea; it is crystallic, and when fractured generally gives
+very small, indeed minute pieces of a needle shape. These are carefully
+selected, and form the drills with which the English hole-maker
+perforates the jewel. These drills, when found perfect, for soundness,
+form, and size, are very highly prized by the workman, as the choice of
+another, together with the setting, will often take a vast deal of time
+and labor.
+
+“Bort” is also used in the making of the laps or mills with which
+the jeweller reduces the stones to a condition for the lathe and
+subsequent processes. For this purpose such pieces as are not fit for
+cutting-tools, or drills, are selected. A copper disk, having been
+first surfaced and turned off in the lathe, is placed on a block or
+small anvil; each piece of stone is then separately placed on the
+copper, and driven in with a smart blow--care being taken that no place
+shall occur in the disk that does not present, in revolution, some
+cutting point. It would seem impossible to retain the diamond fragment,
+but it must be remembered that the copper, being a very ductile metal,
+receives the piece; the first rubbing of a hard stone then burnishes
+the burred edges of the indentations over every irregular face of the
+diamond, leaving only a cutting edge to project. The rapidity with
+which such a lap, well charged, will reduce the hardest stone, is
+somewhat marvellous. It is the first tool used in jewelling, and so
+important that a more detailed and explicit description of its make
+will be given when the process of manufacture is treated upon.
+
+Diamond powder is equally as important as “bort,” being used in nearly
+every stage of jewel-making. The coarsest charges the “skives” or
+saws used for splitting up the stone. These skives are made of soft
+sheet-iron, and act on the same principle as the laps. The finer
+grades, in bulk, resemble very much ordinary slate-pencil dust;
+indeed, the latter is often used as an adulteration. This powder is
+not uniform in fineness, and the jewel-maker is under the necessity of
+separating the different grades. This is effected by a simple process
+called “floating off,” and is conducted as follows: A certain quantity
+of powder, say a carat, is put into a pint of pure sweet oil, contained
+in some such shallow vessel as a saucer. Depending on the fluidity of
+the oil, the mixture, after being thoroughly incorporated, is allowed
+to stand undisturbed for about an hour or an hour and a half. During
+this time, owing to their greater gravity, the largest particles are
+precipitated, leaving held in suspension a powder of nearly uniform
+fineness. The mixture is now carefully decanted into another similar
+vessel, leaving the coarse powder at the bottom of the first. This
+coarse deposit is denominated No. 1, and is used for skives, laps, and
+other rough purposes. The decanted mixture in the second vessel is
+allowed to remain quiescent for twelve hours, when the same operation
+is performed; and the third vessel now contains most of the oil,
+together with the finest particles of powder. The precipitate from the
+second decantation is the ordinary opening powder; the finest being for
+polishing both the holes and outsides of jewels, and giving the final
+finish to the faces of pallets, roller pins, locking spring jewels, etc.
+
+The good workman is careful to keep the powder in this condition as
+free as possible from any extraneous dust, and above all to preserve
+the different grades from any intermixture, as a small quantity of a
+coarser grade would destroy a finer one for all its purposes, and the
+process of “floating off” would have to be repeated.
+
+The most important stone in jewelling, the diamond, becomes more of an
+agent of the manufacture than an object.
+
+Properly, for jewelling the ruby and sapphire are pre-eminent;
+inferior only to diamond in hardness, possessing a sufficient degree
+of toughness, susceptible of an exquisite polish, this (for they
+are one and the same) stone is the favorite of the Swiss, English,
+and American, for all high class work--the Swiss, however, using it
+indiscriminately in all watches.
+
+The ruby proper is of one color, but in its varieties of intensity
+may change to a very light pink. When still lighter it is ranked a
+sapphire, which comes in almost every possible color and shade, from
+ruby to a perfect transparent colorless crystal. This stone differs
+in degrees of hardness and capacity of working--the hardest being a
+greenish yellow, in the shape of pebbles, with very slightly rounded
+edges, difficult to work, but forming the strongest and most perfect
+jewel known.
+
+It must be remembered that this description gives the value of the ruby
+and sapphire as a material for jewelling only. For ornamental jewelry,
+the value depending on color, of the most intense ruby or blue for
+sapphire, together with brilliancy and weight. The ruby and sapphire
+are formed on an aluminum base, the common emery being another form of
+structural arrangement, but of the same chemical constitution.
+
+These stones possess every quality to make them the base of perfect
+jewelling; and still the chrysolite is equally in favor with most
+jewellers. It is not quite so hard, but it is more easily worked and
+cheaper in price, and it would be difficult to tell wherein it is
+inferior to either the ruby or sapphire. It has a yellowish tinge,
+verging to the color of the olive. As a stone for jewelry it is not
+fashionable, and only in Persia is it valued. There are, however, some
+very strong objections to its use by the workman; it is not uniform
+in hardness; in polishing it will _drag_, that is, the surface will
+tear up in the process. Unfortunately the eye is not able to detect
+the fault before working, and it is found only when much preliminary
+time and trouble has been expended. It is susceptible, when good, of a
+perfect polish, and is much used in chronometer work, especially for
+jewelling the 4th hole, as its non-liability to fracture renders it
+valuable.
+
+“Aqua Marine” is a brother to the emerald, differing from it only in
+intensity of color, and composed of the same constituents. These two
+gems are the only ones in which the rare metal, glucinum, has been
+detected. It is extensively used in the American and English watches,
+but never in the Swiss. It is soft, not much harder than quartz, but
+comes in large pieces, perfectly transparent, and of a color which
+is that pure green of sea-water, from which it takes its name, “Aqua
+Marine.”
+
+The garnet in English watches plays an important part for pallets, also
+for roller-pins; a very soft stone, but very porous. When set in the
+pallet with a pointed toothed wheel, it is apt to act as a file from
+its porosity, cutting the end of the tooth. This may be detected in any
+pointed tooth lever watch, by observing the color of the back of the
+tooth. “Black vomit” it used to be called in the Boston factory. Most
+of the garnet used is an Oriental stone, the best quality coming in
+bead form, the holes having been pierced by the natives. The cost of
+piercing the stone in Europe or America would be far above its value.
+The Oriental is the best for Horological purposes, though Hungary and
+Bohemia furnish the most highly prized stones used for ornamental
+purposes; indeed, in some German towns the cutting and setting of the
+garnet is a specialty, giving employment to a large number of people.
+And, strange to say, the best market for their sale is the United
+States.
+
+This comprises about all the stones used in watch and chronometer
+jewelling. Still in clock work the pallets are generally jewelled in
+agate, a stone not at all suited to the purpose, it having, even in
+the best specimens, a decided stratification that prevents an uniform
+surface being formed by any process. The cornelian form of the agate
+is not open to this objection, and makes capital bearings for knife
+edges of fine balances, and compass stones for centres of magnetic
+needles. For watch or chronometer purposes the only really useful
+stones are sapphire, ruby, chrysolite, and aqua marine--all possessing
+peculiarities that deserve some remarks, as they are of the utmost
+importance to the hole maker. The sapphire is the hardest stone, next
+to the diamond, and yet specimens can be, and are found, so soft as
+to _drag_ in polishing. Again, if stratified very clearly, will “fire
+crack” in opening the hole. The ruby is more uniform in its structure,
+and is more highly prized on that account; its hardness being all that
+is necessary, while its susceptibility of receiving a high polish
+is equal to that of the sapphire or chrysolite. The aqua marine is
+always uniform and may be polished both externally and in the hole with
+“tripoli,” saving something in diamond powder in the process of making.
+In our estimation, however, the chrysolite is the most valuable of all
+the stones. True, when purchased in the rough, many pieces will be
+found unfit for the jeweller’s purpose; but when the right quality is
+found, nothing can be better adapted to jewelling. Hard, it is easily
+wrought, taking a peculiar _unctious_ polish, retaining oil in its most
+limpid condition for a long time.
+
+These stones form the general stock by and from which jewels are made.
+The details of the various manufacturing manipulations, the tools
+used, also the setting in the work, together with the important item
+of the screws, will form the subject of the next article on Watch and
+Chronometer Jewelling. Not having been able to get our engraving done
+in time for publication, we are compelled to reserve the remainder for
+the next number.
+
+
+
+
+Hints on Clocks and Clock-Making.
+
+NUMBER ONE.
+
+
+Twenty-five years of hard labor amidst the dust and din of machinery,
+with hands cramped, and fingers stiffened by the continual use of
+tools, and with a brain constantly occupied in ringing the changes upon
+wheels and levers in their almost infinite combinations,--it requires a
+degree of courage to undertake to write anything that can be dignified
+with the name of an “article,” although it does propose to treat upon
+a subject with which we are fairly familiar; but it is consoling to
+think that one is not expected to write for the pages of this practical
+journal with the same degree of elegance and polish that should grace
+the columns of a review or magazine; that we can appear here as plain,
+practical mechanics, and use good hard, round words to express our
+ideas, backed by an experience which should add some weight--and we
+welcome the appearance of the “American Horological Journal,” which
+is to serve a good purpose by bringing out the actual experience of
+men who have grown gray in the art and mystery of clock-making, and
+preserving, by means of the “art preservative of all arts,” their
+dearly bought knowledge and experience, for the benefit of those who in
+their turn shall follow them; and it will also benefit the people in
+general by giving information that will lead to the purchase of good
+and tasteful clocks for household use.
+
+That such a journal is needed to enlighten us, is made plain by the
+fact that in almost every newspaper we have a vivid account of some
+wonderful clock “recently invented,” which may possess some merit, but
+they are so grossly exaggerated by some ignorant “penny-a-liner,” that
+we are almost led to believe in the Irishman’s marvellous “eight-day
+clock, that actually ran three weeks.” Even the proverbially correct
+“Scientific American,” of which I am a constant reader, has in its
+issue of June 19th, an account in its “editorial summary” of a clock in
+France containing “90,000 wheels,” and perhaps the most curious part
+of the mechanism is that which gives “the additional day in leap-year,”
+etc. Now, it will require but little knowledge of clocks to tell us
+that one with 90,000 wheels was never made and never will be, but “the
+additional day in leap-year” has been given by calendar clocks in this
+country since the year 1853.
+
+It is not proposed in the series of articles to follow, to discuss
+the early history of clocks. Reid and Dennison have written enough
+to convince the most skeptical that the clock is an old invention.
+It is not important to us who invented the pendulum, or this or that
+escapement, but who makes the best pendulum, the best escapement, the
+most perfect train of wheels and pinions. These are vital points, and
+we shall endeavor to give them that attention that their importance
+demands. It is proper to state here that any assertion made, or rule
+given, has been tested, and is the result merely of our experience,
+and we do not claim that it is all there is of the subject; for we are
+aware that the experience of others may have led to results entirely
+different; but if all clock-makers will avail themselves of the columns
+of this journal, we shall not only become better acquainted by an
+exchange of ideas, but better clock-makers.
+
+The subject of wheels and pinions is of the greatest importance in
+clock-making, and the utmost care and skill are required to execute a
+train which shall not only run with as little friction as possible,
+but the friction must be equal; for if there is no variation in the
+train force, the escapement and pendulum will always be actuated by the
+same amount of power, and the performance of the clock can be relied
+upon. Clock text-books do not fully impress this subject. We find a
+great deal upon this or that escapement, and the different pendulums.
+Dennison has a couple of pages full of abstruse calculations upon a
+method of shifting an extra weight upon a rod, so that the going of a
+clock can be varied one second per day; but if his wheels and pinions
+are not perfect, a large tooth here and there will vary the clock more
+than that.
+
+Reid overawes us with his knowledge of the proper curves of the teeth
+of wheels; but it must have been only theory, for his practice was to
+saw his teeth, and his cycloids, epicycloids, and hypocycloids were
+left to the mercy of the “topping file” in the hands of his “wheel
+teeth finishers,” instead of shaping up the teeth in the engine, as is
+done now. We have generally cut the wheels of fine clocks over several
+times with different cutters before taking them from the engine; the
+last cutter having but one tooth, which can be made perfect as to cut
+and shape, and, running with great speed, will leave the teeth the
+proper shape, very smooth, and as true as the dial of the engine.
+Escape wheels, especially, require great care in cutting, as the
+teeth for dead-beat escapements are somewhat long and thin; the least
+inaccuracy is certain to cause trouble. It is absolutely necessary that
+the dial plate of the cutting engine should be perfectly true, with
+clean, round holes, and a perfect fitting index point, with a cutter
+arbor without end play or lateral motion--these are the essentials of a
+good cutting engine, without which a good clock cannot be made.
+
+We have generally made a practice, upon the completion of the train for
+a fine clock, to put in the place of the escape-wheel a very light,
+well-balanced fly, to prevent “backlash,” and a very fine soft cord
+on the barrel; then hang on a very light weight; so slight that--all
+of the wheels being balanced, and no oil upon the pivots--the fly
+will move so slowly that its revolutions may be counted. By taking
+care that the weight be not too much in excess of the resistance, the
+least inaccuracy in the wheels and pinions may be discovered by the
+difference in the velocity of the fly, or by its suddenly stopping,
+which will be occasioned by any inequality in the train teeth, which
+would not have been discovered by the closest scrutiny. It was by means
+of this test that we discovered an inaccuracy in a pinion, caused by
+hardening, which could not have been discovered by a less delicate test.
+
+The wheels in the train should be as light as possible, for as the
+whole train is stopped every time a tooth drops on the pallets, it is
+plain that the driving weight must overcome the inertia as well as the
+friction of the train at every beat. To this end it has been customary
+to “arm out” the wheels, leaving a very light rim supported by light
+arms, the wheels being generally of cast brass, turned up, and cut,
+then lightened. We followed this plan for some time, but abandoned it,
+as we found great difficulty in making a perfectly round wheel. The
+arms serve as posts to support the rim in cutting or turning, but the
+space between is very apt to spring down. We prefer making the wheels
+of fine hard-rolled sheet brass; it is superior to cast brass, much
+finer, harder, and more durable, and is freer from flaws. After the
+wheels are cut, they are turned out on each side, leaving a thin web in
+the centre; they can be made lighter, finished easier, and are round.
+
+As to the shape of the teeth in clock-wheels, the subject has been so
+ably treated by Reid, Dennison, and Prof. Willis (who has invented an
+instrument to assist in laying out the curves for the teeth of wheels),
+that we shall not attempt it in this paper; besides, there is so little
+of the entire theory that can be applied to a clock-wheel of two and
+a half inches in diameter, with 120 to 140 teeth, farther than to
+leave the wheel and pinion of the proper diameter, that we consider it
+unnecessary; for if makers of regulators and other fine clocks will
+use pinions of 16 or 20 teeth, the friction or driving is all after the
+line of centres, and the whole subject of cycloids, epicycloids, and
+hypocycloids is reduced to a very small point, and might be said to
+“vanish into thin air.”
+
+Having given only a few practical hints, and not yet crossed the
+threshold of the subject, we propose to continue from month to
+month--if the readers of the JOURNAL do not weary--the discussion of
+the various parts that go to make the sum total of a fine clock, with
+notices of the various clocks made in this country.
+
+       *       *       *       *       *
+
+It certainly comes within the province, and is the duty, of a journal
+devoted to Horology, to make a note of any and all the new improvements
+that pertain to the science. We give, then, some few, the merits of
+which have struck us as being a very important matter of consideration.
+
+The best clock time-keeper is not absolutely perfect, so its rate must
+be kept; but the watchmaker ordinarily has no means of correcting the
+error of his regulator, until the accumulation renders it a serious
+inconvenience. Did he possess a Transit instrument, properly set and
+adjusted for meridian, together with the required books and knowledge
+of observing, he could from day to day correct his clock and keep
+accurate time; but these are all expensive, as well as involving time
+and labor. Suited to the wants of the artisan is a little instrument
+called the Dipleidescope; simple in its construction, and not liable
+to get out of position or order, it forms the best substitute for the
+transit we have seen. It is founded on the theory that the double
+reflection from the two surfaces of planes at an angle of 60° will
+coincide when the object reflected is in a true line with half the base
+of the whole triangle. Having a prism cut in an equilateral triangle,
+one angle is set directly down toward the centre of the earth, the base
+being brought parallel with the line of the horizon. Now, if the axis
+of the prism is in a line with the meridian, a reflection of the sun
+will appear, at the instant of crossing the meridian, on itself--that
+is, there would be but one image. If the instrument is well made,
+there can be no doubt of its accuracy and value to those who, wishing
+to verify their time, are not situated so as to use a transit.
+
+Another improvement is a Bench-Key for watchmaker’s use. No one who has
+had any experience at the bench but will appreciate an article that
+facilitates the setting of time-pieces for his customers. In winding,
+it is equally valuable. It is not dependent for its strength of torsion
+on the spring-chuck principle, the power being applied close to the
+square by means of a pin that passes through the key.
+
+Hall’s Patent Cutting Nippers are a positive desideratum; a large
+wire can be cut off without the least jar to the hand, the leverage
+is so great. The smallest sizes are suitable to the ordinary run
+of watch-work, and can be used in clock-work better than any
+cutting-plyers extant. Strong and durable, they possess one quality
+that all watchmakers will appreciate--if a cutting-jaw is broken it can
+be replaced by another.
+
+
+
+
+Greenwich Observatory.
+
+
+About two hundred years ago, England began to take a lead in the
+mercantile commerce of the world; her ships were daily passing across
+the Atlantic, and India also was beginning to attract her attention.
+It was therefore of the utmost importance that navigators should be
+enabled to find their longitude when at sea, independently of watches
+or clocks; and a reward was offered to any one who should discover a
+method by which this result might be obtained.
+
+The plan proposed was, that the angular distance of the moon from
+certain stars should be calculated beforehand, and published, so that,
+for example, it might be stated that at ten minutes and five seconds
+past nine on such a day, the moon should be distant from Mars 40
+degrees. If from a ship in the middle of the Atlantic, Mars and the
+moon were found to be 40 degrees apart, then it would be known that the
+time in England was ten minutes and five seconds past nine.
+
+Here, then, was one item ascertained, and the method was a good one;
+but in consequence of the want of accuracy as regarded the moon’s
+motions, and the exact positions of the stars, it could not be
+practically carried out.
+
+Under these circumstances, Charles II. decided that a national
+observatory should be built, and an astronomer appointed; and a site
+was at once selected for the building. Wren, the architect, selected
+Greenwich Park as the most suitable locality, because from thence
+vessels passing up and down the Thames might see the time-signals,
+and also because there was a commanding view north and south from
+the hill selected for the site. The observatory was completed in
+1676, and Flamsteed, the chief astronomer, immediately commenced his
+observations, but with very imperfect instruments of his own. During
+thirty years, Flamsteed labored indefatigably, and formed a valuable
+catalogue of stars, and made a vast collection of lunar observations.
+He was succeeded by Halley, who carried on similar observations; and
+from that time to the present, Greenwich Observatory has been our
+head-quarters for astronomical observations.
+
+The work carried on at Greenwich is entirely practical, and consists
+in forming a catalogue of stars and planets, and so watching them
+that every change in their movements is at once discovered. Now that
+this work has been performed for several years, the movements of the
+principal celestial bodies have been so accurately determined, that the
+_Nautical Almanac_--the official guide on these subjects--is published
+four years in advance, and thus we find that on a particular night in
+1868, the moon will be at a certain angular distance from a star, and
+the second satellite of Jupiter will disappear at a particular instant.
+On the exterior wall of the observatory there is a large electric
+clock, which, being placed in “contact” with the various other clocks
+in the observatory, indicates exact Greenwich time. The face of this
+clock shows twenty-four hours, so that it requires that a novice should
+look at it twice before comparing his watch. On the left of this clock
+are metal bars let into the wall, each of which represents the length
+of a standard measure, such as a yard, foot, etc. And let us here say
+a few words about these standards. To the uninitiated a yard is simply
+three feet, and a foot is twelve inches--an inch being, we are told in
+our “Tables,” the length of three barleycorns. Now, as the length of
+a barleycorn varies considerably, it requires something more definite
+than this to determine our national measures. Thus, the question, what
+_is_ a foot? is more difficult to answer than at first sight appears.
+Many years ago the French perceived the difficulty appertaining to the
+national standard, and they, therefore, decided that a metre should be
+the ten-millionth part of one-fourth of the earth’s circumference--that
+is, ten-millionth of the distance from the Equator to the Pole. But
+here another difficulty was encountered, because different calculators
+found this arc of different lengths. By _law_, however, it was decided
+that one measurement only was correct, and so the metre was fixed at
+3.0794 Paris feet; though since then, more accurate observations and
+improved instruments have shown these measured acres to have been
+very incorrectly ascertained, and thus the French method failed when
+practically tried.
+
+The length of a seconds pendulum oscillating in a certain latitude has
+been our method of obtaining a standard; but this also has its weak
+points, so that to obtain a constant standard it is necessary to have
+some pattern which is unchangeable, and thus a metal has been chosen
+that expands or contracts but little either with heat or cold; and
+this, at a certain temperature, is _the_ standard measure, and such a
+standard may be seen on the exterior wall of Greenwich Observatory.
+
+On entering the doorway--which is guarded by a Greenwich pensioner,
+who will possibly first peep at the visitor, in order to see who
+the individual may be who is desirous to tread within the sacred
+precincts--one finds a court-yard, on the left of which are the
+transit-room, the computing-room, and the chronometer-room. The
+transit room takes its name from the instrument therein, which is
+a large “transit.” This consists of a large telescope, the outside
+of which is not unlike a heavy cannon, as it is of solid iron. The
+instrument is supported by trunnions, which allow the telescope to be
+elevated or depressed to point south or north, and, in fact, to make
+a complete revolution, but never to diverge from the north or south
+line. The magnifying power of this instrument is not very great, so
+that it admits plenty of light, for it is intended, not as a searcher
+for or for gazing at celestial objects, but for the purpose of noting
+the exact time at which stars and planets pass south or north of
+Greenwich. Upon looking through this telescope, the observer’s eye
+is first attracted by a vertical row of what seem to be iron bars,
+placed at equal distances from each other. These, however, prove to be
+only spiders’ webs, and are used for the purpose of taking the time
+of passage of a star over each wire, and thus to ascertain the exact
+instant of its being in the centre of the telescope. During even the
+finest and calmest nights, there is occasionally found a tremulousness
+in the instrument, which, as it is rigidly fixed to the walls of the
+building, must be due to a slight vibration in the ground itself. Thus,
+many a feeble earthquake unfelt by the outsider may be perceived by the
+astronomer by the aid of his delicate instruments.
+
+The various stars seem to be travelling at an immense rate when
+seen in the field of the transit telescope, and it is really nervous
+work noting the exact time when each wire is passed. The experienced
+observer, however, not only will give the minute and second, but also
+the decimal of a second when the star was on the wire. The result is
+obtained by counting the beats of a clock the face of which is opposite
+the observer. Thus, if at three the star seems as much short of the
+wire as at four it had passed it, then 3.5 might be the instant of
+“transit.”
+
+At noon each day the sun’s passage is observed by nearly the whole
+staff of observers. One individual looks through the telescope, and
+gives the time for each wire, while others examine a variety of
+micrometers in order to ascertain the fractional parts of seconds,
+etc.,--these micrometers being placed at the side of the instrument.
+
+In the morning, the principal work consists in making what are termed
+the “reductions” to the observations of the previous night. These
+reductions are the corrections requisite for the slight instrumental
+inaccuracy, for the refraction of the atmosphere, and for the known
+constant error of the observer. When, therefore, a bright winter’s
+night has occurred, the work on the following morning is usually very
+heavy. At noon the sun’s time of transit is taken, and at one o’clock
+the “ball” is dropped, by means of which the various vessels in the
+Docks and in the Thames set their chronometers, or ascertain their
+rate. In addition to this, the time is sent by electricity to Deal and
+one or two other seaports, in order that every vessel may be able to
+know the accurate time, if within sight of those places.
+
+Not the least interesting portion of the observatory is the chronometer
+room. For a very small charge, manufacturers or owners may have their
+chronometers rated at Greenwich, which is accomplished in the following
+manner:
+
+The chronometer is placed in the chronometer room, and compared with
+the large electric clock in the room, this clock being kept in order
+by the stars. Each day the chronometer is examined, and thus its rate
+is ascertained in its then temperature. It is afterwards placed in a
+sort of closet warmed by gas, a condition supposed to represent the
+tropics, and it is there kept for a certain period, being tested each
+day as before. This change of temperature is found to produce very
+little effect on the best instruments, which, when they have passed
+the ordeal, are returned to the owners with their character ticketed
+to them. Some hundred chronometers are often placed in this room; and
+to compare them is a science, the “expert” by a glance discovering the
+difference between the two instruments, whilst a novice would require
+to mentally add or subtract, and thus slowly to arrive at the same
+results.
+
+As soon as it becomes dark enough to see stars by the aid of a
+telescope, one of the staff commences his observations. These are
+continued during the night; and a register is kept of each star,
+planet, comet or moon, which is “doctored” in the morning by the
+computers.
+
+As all mortals are fallible, it is desirable to bring machinery into
+use where possible, and this has been managed in connection with
+astronomical observations. Instead of the computer registering by
+judgment the time of a star’s transit over the various wires, he
+strikes a small indicator, which, completing the electric circuit,
+causes a pricker to fall and make a hole in a piece of paper that
+is attached to a slowly revolving barrel. Each time the star passes
+a wire, the pricker descends and leaves its mark; and the interval
+between these marks being measured by scale, the mean time of transit
+may be obtained.
+
+There is usually a feeling of the sublime that comes over us when we
+reflect upon the vast unexplored regions of space, or contemplate the
+stellar world that shines upon us. The magnitude and grandeur of some
+of the planets in the solar system strike us with a feeling of awe
+and wonder, while we are puzzled at the mysteries attending comets,
+double stars, nebulæ, etc. No such feelings or sentiments, however,
+are allowed to enter into the constitution or mind of an observer at
+Greenwich. Saturn, the glorious ringed planet, with its galaxy of
+moons, is simply “Saturn, Right Ascension 10 hours 8 min. 12 sec.,
+North declination 16° 12´ 2´´.” Anything appertaining to the physical
+constitution, the probable cause of the ring, or the object of so
+grand an orb, does not come within the range of the observations at
+Greenwich, which are limited to bare matter-of-fact business work.
+
+The southern portion of the observatory ground is devoted to
+the investigation of meteorological subjects, and is under the
+superintendence of Mr. Glaisher, who is now well known as an aerial
+voyager. It is here that an exact record is kept of the amount of
+rain that daily falls, of the direction and force of the wind, of
+the magnetic changes, of the temperature, amount of ozone, etc.--all
+matters which may, and probably will, lead us eventually to the
+discovery of some laws connected with the states of weather, and enable
+us to predict what may be expected from day to day. Whilst we are now
+able to calculate to a few seconds, and for years in advance, the
+instant when an eclipse may occur, and to explain the causes of the
+various planetary movements, yet we are in a sad state of ignorance
+as regards the causes of hurricanes, thunder-storms, continued rains
+and droughts; and thus we find that all the would-be prophets who
+from time to time spring up and oracularly announce a coming frost
+or fine weather, or the reverse, are perpetually meeting with most
+signal failures, which, however, does not deter future adventurers from
+attempting to gain a cheap temporary renown by trying their luck at a
+prophecy.
+
+The perpetual accumulation of facts at Greenwich, whether these be of
+an astronomical nature, or appertaining to the air we breathe and its
+subtle changes, is a proceeding that must eventually lead us on to a
+correct knowledge of the laws which govern these matters, and also keep
+us acquainted with any variations that may be occurring in the elements
+that surround us.
+
+The order and quietness necessary in such calculations as those carried
+on at Greenwich prevent it from being a “show” establishment, and
+hence visitors are not admitted except on special business. Then,
+however, every aid and assistance are offered to the student and
+inquirer; the use of books and instruments is freely given, and such
+information supplied as the little spare time of those belonging to the
+establishment enables them to afford. Thus a visit to or a period of
+study at Greenwich Observatory will amply repay those who wish to gain
+the latest and most accurate information on astronomical subjects, or
+to practise themselves at the adjustments and use of the instruments;
+and to those who have not such opportunity, we offer this slight sketch.
+
+  [_Chambers’ Journal._
+
+
+
+
+Pinions.
+
+
+Well made as to truth of centring, of division, of form of leaves, and
+polish, are, as the trade well knows, of vital importance to the value
+of the time-piece.
+
+The making and finishing is one of the most troublesome, as well
+as most expensive of all the processes in watch work. The nature
+of the material renders it difficult as it approaches so nearly in
+hardness to the tools used in cutting. In the ordinary Yankee clock,
+the _lantern pinion_ has entirely superseded the solid leaf, which
+substitution was the greatest element of success in their cheap
+construction. The lantern pinion is really a nearer approximation to
+the required anti-frictional form than a majority of cut pinions in
+ordinary clocks. In the process of manufacture of the cut variety, the
+first consideration is the quality of the steel to be used. For this
+purpose it should be carefully selected by trial, thus ascertaining
+its fineness, uniformity, softness when annealed, together with its
+capacity for taking a good temper, with the least amount of springing
+during the hardening process. Very few pinions are cut from the solid
+piece--the drawn pinion wire being quite good enough, when milled and
+finished, for the ordinary run of watch work.
+
+The steel wire having been selected, the first process is to cut it
+up in lengths a trifle larger than the required pinion. The separated
+pieces are then centred with care, and having been placed in a lathe,
+the staff and pivot are turned up to nearly the required gauge, leaving
+a portion of the whole piece the full size for the leaves. They are
+now taken to the milling tool to have the proper form given to the
+leaves. As this form is of the highest importance, it may be as well to
+give here the reasons. Supposing a wheel of 60 teeth, depthing into a
+pinion of 8 leaves, it can readily be seen that the arc of the motion
+of the wheel tooth is of greater radius than that of the leaf of the
+pinion, and it follows that if the teeth and the leaves are made in
+taper form with straight sections, there must occur a sliding motion
+on the surfaces of both--the power thus absorbed being totally wasted;
+but if we curve the surfaces we may approach a form so nearly perfect
+that the wheel teeth, being motors, really roll on the leaves, avoiding
+almost entirely the friction caused by sliding; the necessity for this
+curvature becoming greater the more the wheel exceeds the pinion in
+diameter. This curve, which has been demonstrated by very profound
+mathematical researches, is the “epicycloidal;” theoretically it should
+give no more sliding motion than the surfaces of two plain wheels
+revolving on each other. To obtain this perfect form, very great pains
+have been taken and expenses incurred, especially by the makers of the
+best time-keepers.
+
+In the American factories the cutters are very elaborately made,
+the section being an object of great solicitude--it being an exact
+counterpart of the space between any two leaves, and also of one-half
+the top of the leaf from the curvature to the point, so that in
+milling, the space made by the cutter is its shape, leaving the leaf
+of the proper form. Generally the pinion passes under two cutters; the
+first to strike down the rough stock, the other to dress it to size and
+shape, with a light cut. The care and skill required to make these is
+certainly very great, and it is a proof of the wonderful ingenuity of
+man that they are made so perfect as to shape and cutting power.
+
+A very ingenious device is used for dividing the leaves under the
+cutter, which revolves at a moderate speed over a slide, carrying a
+pair of centres, between which the turned up piece of pinion wire is
+placed. The slide is now pushed up to and under the cutter, and in
+its passage as much of a cut is taken as is desirable; in drawing
+back the slide the fresh cut space passes under a flat piece of thin
+steel, screwed on the frame, and set at a slight angle to the axis of
+the centres. On moving the slide towards the cutter for a fresh cut,
+the steel plate takes the last cut, and in passing by it the pinion
+is turned just as much as the angularity of the plate, which must be
+just one leaf. By this very clever device the division is effected
+without an index plate. This process, however, is not good enough for
+work intended to be very accurate--the pinion wire not being always, or
+indeed rarely correctly divided, the original error will be perpetuated
+in all the subsequent processes. These are all milled, with oil or soda
+water for a lubricator, and it follows that the speed of the cutter is
+regulated to get the greatest cut without dulling the tool. When dull,
+however, the mill is sharpened on the _face_ of the cutting tooth by
+means of small grinders of iron, using Arkansas oil-stone dust for the
+first grinding, and giving the necessary delicacy of the edge by means
+of crocus, or sharp, followed, when fine work is needed, by rouge.
+
+It is necessary that this care should be taken, for if the edge is
+left coarse it will become speedily dulled, and leave a very unequal
+and rough surface on the cut of the pinion, which in the subsequent
+grinding gives rise to error in shape and size. The pinions, thus cut
+to gauge, are dried in sawdust, hardened, and tempered; the staff and
+pivots are now turned up to size, and then pass to the polishers. In
+the factory they are finished by means of what are called _Wig-Wags_,
+which it may be interesting to the reader to have a general description
+of.
+
+Two Vs are arranged as centres, the pinion is placed between them,
+the circular parts resting in each V, but free to turn on its own
+axis. Immediately above the Vs is a frame on which a slide, carrying
+the polisher, may traverse--generally about two inches. This slide is
+movable vertically so as to accommodate itself to the pinion; attached
+to the slide is a connection which leads to a vertical lever, which
+is put in motion from a crank on the counter shaft. The grinding is
+effected by bringing the grinder, charged with oil-stone dust in oil,
+in one of the spaces of the pinion, which, of course, is so arranged
+as to bring it parallel and central with the grinder. The power being
+applied, the slide takes a very rapid reciprocatory motion, and the
+face of the grinder, so charged, rapidly reduces the uneven surface
+left by the cutter to what is called the _gray_.
+
+The form of this grinder must be as perfect as the cutters, and the
+care taken to get the requisite parallelism is in equal proportion,
+and in all the best polishers is planed up while in its position. The
+grinder is composed of tin and lead, with sometimes a slight admixture
+of antimony, rolled to an even thickness, cut off in suitable lengths,
+and then mounted in the carrier of the Wig-Wag to be planed up to
+shape. There are too many minute adjustments in the machine to render a
+full description in this article admissible. It is large compared with
+the work it has to perform, but it is very admirably made, as indeed
+all the tools are, in the American factories.
+
+The polishing of the leaves is the next step, and this is effected by
+means precisely the same as grinding. In each stage the pinions are
+thoroughly cleansed before entering on another. The polisher is made
+precisely like the grinder; but instead of oil-stone dust, crocus mixed
+with oil is substituted. Owing to the less cutting quality of the
+material used, the polisher loses its form sooner than the grinder,
+and has to be more frequently reshaped. In very fine work the crocus
+is succeeded by fine well-levigated rouge to bring up that jet black
+polish, which is considered a mark of quality by chronometer and watch
+makers.
+
+With the exception of turning up the staff and pivots, all the work
+hitherto described has been expended on the leaves--a very tedious
+process, yet done, when the tools and materials are in proper order,
+with marvellous rapidity; but tedious as these have been, there are two
+others quite as much so before the leaves are finished.
+
+The ends are to be faced--they must be flat (that is a true plane) and
+receive the same finish that the leaves took, and is effected by the
+wig-wag; only the pinion revolves between centres, at a high speed, the
+grinder being brought up to the turned face. Two motions operate--one
+rectilinear, the other circular--the result being a compound motion
+which prevents the grinder from touching the same spot twice in
+succession. To effect this more surely, the operator gives the grinder
+a slight vibratory vertical motion. The polishing of the two faces is
+effected in the same manner as the grinding; in all cases the cutting
+face of the grinders and polishers being kept in a plane perpendicular
+to the axis of the pinion, both vertical and horizontal.
+
+The staff and pivots being in the same condition they came from the
+lathe, the next step is to grind and polish them. Before, however, we
+treat on this process, it may not be amiss to give the general watch
+repairer a process by which the facing may be done on a small scale.
+
+As a rule, when the watch repairer has to replace a pinion he selects
+one from the material dealer, finished in the leaves, but not on the
+ends or faces. The following operations are simple, and any one may
+finish these faces with little trouble. Having turned up your pivots
+and squared down the face of the leaves with the turning tool, grind
+it in the lathe by means of a ring of metal, the inside diameter being
+somewhat larger than the diameter of the staff. This ring is held
+between two centres, thus allowing it a vibratory motion, so that
+when it comes up to the face it accommodates itself to its plane, and
+thus has no tendency to force it out of a true flat; the ring, being
+larger than the staff or pivot, admits a small lateral motion, enough
+to effect a continuous change of surface. The same little tool may be
+used for polishing by substituting another polisher and using crocus
+and rouge. For the repairer, perhaps on general work the rouge would
+be superfluous. Vienna lime, used with a little slip of boxwood,
+brings up a very fine and brilliant polish, and in replacing new work
+in an injured time-piece, the steel may always be polished with great
+rapidity by using the lime on the gray surface left from the oil-stone
+dust; being quickly done and affording a very handsome finish.
+
+To resume the consideration of the pinion, the last stage is the
+polishing of the circular portions. Here again the wig-wag is the
+most useful tool, but it operates somewhat differently, for the
+grinder or polisher is pressed down by the finger of the operator,
+the pinion being held between the centres of a small lathe attached
+to the wig-wag; the staff is first ground and polished as the leaves
+have been before, and this is the last operation performed with the
+pinion between centres. From this stage it is chucked in a lathe very
+peculiarly fitted, the mandrel being hollow; and in it is fitted what
+is called a pump-centre, which is movable in direction of the axis of
+the mandrel, and capable of being securely fastened at any desired
+point. On the nose of the mandrel is secured a hollow steel chuck,
+the two sides of which have been filed out, thus leaving an open
+space between the end of the pump-centre and the end of the chuck. On
+this end a small steel plate, extremely thin, is fastened by means
+of shellac, and a hole drilled in the plate capable of taking in the
+chamfer on the shoulder of the pivot. The pump-centre being drawn
+back, the pinion is introduced into the chuck, the pivot placed in the
+hole in the steel plate, and the pump centre is drawn forward until
+it forces the chamfer to fill the hole; the pivot projecting from
+the chuck is now ready for all the grinding and polishing processes.
+Here the wig-wag steps in again, and from the delicacy of the pivots
+is modified to suit the case; this is done by having a polisher hung
+in the wig-wag on centres, so it may revolve; when in operation one
+side of the polisher rests on the pivot, the other on a ruby placed
+in a screw, and which screw enables the operative to insure the
+parallelism of the pivot. The ends of the pivots are next rounded off
+and finished in another set of tools. The pinion is now ready for use,
+assuming it to be of the proper gauge. In the American watches the
+scape and fourth wheels are generally staked on the staff pinch tight;
+the third and centre are staked on the pinion leaves, a rebate having
+been turned down on the ends, the wheel set on the shoulder, and the
+projecting ends of the leaves riveted down. This has not been designed
+as an exhaustive article on pinions; it is merely intended to open the
+subject as pursued in the factories. There is much more to be said; and
+the various processes on the small scale, as performed by the Swiss
+and English, together with their tools, will bear more than a general
+description, as they are applicable at any watch bench.
+
+The subject will be continued, in the effort to give a full and useful
+article.
+
+
+
+
+New Three-Pin Escapement.
+
+
+A contributor to the _London Horological Journal_ gives the following
+description of his invention:
+
+ “The merit of this escapement is in a newly invented escape-wheel
+ which is self-locking and requires no banking pins; the pallets are
+ curved inside the impulse and outside the locking, to work with the
+ curved points of the teeth of the wheel; being made of gold the wheel
+ will go without oil. From its form it has the power of double impulse
+ and double locking with the lever. The first takes place at the
+ discharge of the escapement, the second does not act unless the watch
+ receives a sudden motion, and then the pin or pallet in the roller
+ strikes lightly on the lever, when the propellant power drives it back
+ again. The balance passes through two turns before the second locking
+ takes place, and is formed so as to be able to take up the lever,
+ and the watch soon rights itself, and its time will not be affected.
+ Another advantage is, that the lever is made of a flat piece of steel,
+ as I have introduced a gold stud to receive the ruby impulse stone,
+ which is made to adjust easily so as to bring the escapement to the
+ closest geometrical accuracy. By its formation this ruby guides the
+ impulse to the external edge of the roller notch. These advantages,
+ and its simplicity, render it suitable to the best chronometer
+ watches.”
+
+A FEW years ago, in 1859 or ’60, Mr. Peabody, a very talented
+gentleman of this city, patented a three-pin escapement that performed
+extremely well. A full description of his patent and plan is not at
+hand, but we will endeavor to give it to our readers in our next issue.
+
+
+
+
+English Opinion of American Watch Manufacture.
+
+
+In the London circle of Horologists, more attention is paid to the
+scientific departments than the mercantile; but for all that, a Mr.
+Henry Ganney has held forth before the “British Horological Institute,”
+on “American Watch Manufacture.” Though an Englishman, with English
+prejudices, he certainly gives a very fair and impartial statement
+of the subject; yet he views it almost entirely in the money-making
+aspect. He gives all the credit deserved to American enterprise and
+ingenuity, and yet there is a certain sense of a drawback. He had
+before him samples of machine work; among others, to quote, “several
+movements made by the British Watch Company, which flourished and
+failed about twenty-five years ago; these were machine-made, and the
+perfection and completeness of the machinery they used for producing
+these frames has not been equalled, I believe, in America; several
+machines being used there to accomplish what was begun and completed by
+one here.”
+
+Mr. Ganney is right in his statement, but the example given by the
+British Watch Company was the rock seen by the American navigators. One
+tool, for facing off, truing up, drilling, depthing, and doing all the
+work on the pillar plate, having cost, before completion, some three
+thousand pounds sterling, and from its very complexity being utterly
+inefficient--worse than useless. In the very inception of the American
+watch manufacture a similar mistake was almost made. Experience and
+sound reasoning proved, however, that a multiplicity of operations in
+any one machine rendered it entirely too complex, the adjustments too
+numerous, and the work totally worthless. We shall in another number
+refer again to Mr. Ganney’s lecture, and perhaps give some beamings of
+light on the early history of the American watch manufacture, derived
+from personal observation at the time.
+
+
+
+
+Correspondence.
+
+
+  EDITORS HOROLOGICAL JOURNAL:
+
+ I received a Prospectus a few days ago advising me of your
+ contemplated existence. I could hardly believe the fact; “the news
+ was too good to be true.” However, I shall take it for granted, for I
+ cannot see why somebody has not before had the enterprise to launch
+ out in the periodical line on subjects connected with Horology, the
+ field being so extensive and the want so severely felt. Enclosed
+ I send you the subscription price; in this much I have accepted
+ your invitation, but I also enclose some few lines on a subject not
+ particularly practical or theoretical, but very near the truth, and
+ may perhaps give you a view of our wants.
+
+ To tell the “plain unvarnished truth,” I am a watch repairer, located
+ in a small country village, with a decent stock of tools and a
+ moderate trade. In all this I am no exception; so I write this in
+ the name of all who are similarly situated. Isolated as we are, we
+ (the country village watch repairers) have few means to improve our
+ knowledge of the trade, but work on the same old principles learned
+ when we were boys and apprentices, and of better and more expeditious
+ ways of doing our work we are entirely oblivious. True, our friends
+ of the Hebraic persuasion, who, angel like, bring us face to face
+ with the outer horological world by selling us material and tools,
+ occasionally present to our benumbed vision something new, such as a
+ Swiss lathe, or lathes used in the factories; but of what use are they
+ to us? We purchase one; well, on the bench it may be an ornament, but
+ for use, drilling large holes is the height of our ambition. We have
+ not the time to learn by self-experience all the boasted usefulness
+ and capacities of the tool; so we go back to our old verge or Jacot
+ lathe when we have to put in a pivot or a new staff. We may know all
+ about the escapement and be able to detect the cause of any trouble
+ with it, but we have no knowledge of the latest modes of repairing the
+ injury when it is discovered, and this knowledge is what I hope to
+ find in your journal. I live in a section where the general class of
+ work is of a very low grade, even the old verge being very common. Our
+ stock of material has to be heavy in proportion to our trade, and then
+ once in a while we are compelled to send our work to the city, some
+ sixty miles distant, in consequence of not being able to do it, either
+ from a lack of the material or want of a proper tool. To all intents
+ and purposes we remain as stationary as the oyster. Not only do we
+ have these vexations, but the ignorance of the public at large as to
+ the treatment of their time-keepers is a fruitful source of annoyance;
+ we are often charged with fraudulent practices, and a certain degree
+ of caution is observed by more than the most ignorant. Thus, a few
+ days ago, a stalwart son of the Green Isle made his appearance in
+ front of the counter, and, projecting in front of our optics a huge
+ English double-cased verge watch, spoke in almost dramatic tones:
+
+ “Plase, sir, av’ ye could make me ticker here go, sir?”
+
+ Answering in the affirmative we reached for the silent “ticker.” He
+ drew back with alarm.
+
+ “Bedad, an’ ye’ll not stale a morsle frae this?”
+
+ “Well, but let me see the watch.”
+
+ “An’ will ye let me eyes be on yes all the time?”
+
+ “Yes.”
+
+ “An’ yes’ll not stale a jewil?”
+
+ “No.”
+
+ “Thin, there it is.”
+
+ On looking at the movement the verge was found broken, the injury
+ explained, and the price given. He decided on the repairs being done,
+ but said, “Give me the watch now and when ye gets the thing fixed its
+ meself will come and git it and pay yes.”
+
+ “But we cannot repair the watch without having it.”
+
+ “Faith, thin, ye’ll not have it; ye’ll be taking something frae it.”
+
+ Now, this is an extreme case of ignorance, pardonable, perhaps, in
+ this instance, but the public embraces multitudes just as ignorant
+ where an allowance cannot be made. I do not expect the JOURNAL to
+ reach such cases, or to influence the general mass, but my hope is
+ that it will, by raising the general self-respect and tone of the
+ repairers, indirectly elevate the respect felt for them by the public
+ at large.
+
+ But I am writing too long and rambling a letter. I wish to express my
+ hearty wishes for your prosperity. And, in conclusion, will you allow
+ me to express a hope that you will give us the knowledge we need--that
+ is, post us up on the minutiæ of repairing in the latest styles, the
+ newest processes devised, and, above all, give us an article on the
+ lathe and its uses?
+
+  Yours truly,
+  W. L. C.
+
+
+We have the pleasure to give our correspondent the assurance that an
+expert will contribute to our next number an article interesting as
+well as valuable in instruction as to the use of the lathe.
+
+
+
+
+Eclipse of the Sun.
+
+
+The approaching total eclipse of the sun, on the 7th of August next,
+is exciting much interest. The obscuration first occurs in latitude
+39° 53´ 3´´ north, longitude 138° 37´ 4´´ west--Washington being the
+meridian. The first totality is on the Pacific coast of Siberia, at
+sunrise, in lat. 52° 41´ 9´´ north, and long. 165° 26´ 4´´ west. The
+eclipse is total at noon in Alaska, lat. 61° 46´ 9´´ north, and long.
+68° 4´ 6´´ west. The line of the total eclipse now runs south-easterly,
+grazing the coast near Sitka, thence north into British America; then
+entering the United States, near the head of Milk River, long. 30° W.;
+thence through the south-west corner of Minnesota, diagonally through
+Iowa, crosses the Mississippi at Burlington; thence through Illinois,
+a little north of Springfield, crosses the Ohio river at or near
+Louisville, Ky., passes through the south-west corner of West Virginia,
+through North Carolina, just south of Raleigh, ending on the Atlantic
+coast at sunset, just north of Beaufort, N. C., in lat. 31° 15´ 2´´
+north, and long. 9° 36´ 6´´ east. The line thus described will be that
+of totality, only partial in any other part of the United States.
+
+The United States Government is, or has been, establishing a meridian
+line at Springfield, partly to make observations on this coming
+eclipse, and with the further view of determining a standard of
+surveyed lines--all of the Government surveys in Illinois having been
+geodetic. Professor Austin, of the Smithsonian Institute, is in charge
+of the work, aided by an able corps of assistants.
+
+
+
+
+Diamond-Cutting.
+
+
+At the Great Exhibition in Paris, in a part of the park contiguous to
+the Netherland section, M. Coster, of Amsterdam, has erected a building
+wherein all the processes of diamond-cutting are carried on.
+
+The first rough shaping of the more important facets of the brilliants
+is here seen performed by the workman, who operates on two diamonds at
+once, by bruising each against the other, angle against angle. The dust
+that falls from the stones is preserved for the subsequent processes
+of grinding and polishing those facets that distinguish the many-sided
+brilliant from the dull, original crystal of the diamond. It is used,
+mingled with oil, on a flat iron disk, set revolving with vast rapidity
+by steam-power, the stone itself being held upon this disk or wheel by
+a tool to which it is attached by a mass of fusible metallic alloy,
+into which the stone is skilfully inserted. Skill of eye and hand, only
+attainable by great practice, is needed for this work; but a skill not
+less exact is needed for another process, which may here be seen in
+daily operation--the process of cleavage. The diamond, when a blow is
+struck on an edged tool placed parallel to one of the octahedral faces
+of the crystal, readily splits in that direction. But to recognize the
+precise direction on the complex and generally rounded form of the
+diamond crystal; to cut a little notch by means of a knife edge of
+diamonds formed of one of the slices cleaved from a crystal, and to
+cut that notch exactly the right spot; then to plant the steel knife
+that is to split the diamond precisely in the right position; finally,
+with a smart blow, to effect the cleavage so as to separate neither
+too large nor small a portion of the stone--these various steps in the
+process need great skill and judgment, and present to the observer
+the interesting spectacle which a handicraft dependent on experience
+of hand and eye always affords. But Mr. Coster’s exhibition has other
+objects of interest. For the first time, we may see here, side by side,
+the diamond with the minerals that accompany it in the river beds of
+Brazil; and there are even examples in which crystals of diamonds
+are included within a mass of quartz crystals, which have all the
+appearance of having been formed simultaneously with deposits of the
+diamond.
+
+The different districts of Rio and of Bahia are thus represented--the
+former producing a confusedly crystallized sort of diamond termed
+“bort,” and the latter an opaque black variety; both these kinds being
+found associated with the crystallized diamonds used for jewelry.
+Though useful in state of powder, the black carbon and “bort” are
+incapable of being cut as a jewel.--_“Maskelyne’s Report,” Great
+Exhibition._
+
+
+
+
+The Alloys of Aluminum with Copper.
+
+
+When Sir Humphrey Davy announced the fact that soda, lime, potash,
+magnesia, and the other alkalies were but oxides of a metallic base, it
+would have been deemed chimerical to have supposed that the discoveries
+he made by the expensive aid of the battery would at later date become
+of really commercial value. He did obtain both sodium and potassium
+in the metallic state. The substances in this form were new to the
+chemical world, still more strange to the popular. So new was it to the
+chemists, that, on a globule of the reduced sodium being presented to
+a very distinguished chemist, he, with some enthusiasm, examined it;
+and, admitting the fact of its being a metal, exclaimed, “how heavy
+it is!”--when the real fact was that its specific gravity was less
+than water; the expression was the result of the general preconceived
+opinion that a high specific gravity was a test of a metallic body. It
+was reserved for a French chemist, Henry St. Claire Deville, to utilize
+the metal sodium, and that, too, in such a manner that the demand
+aroused attention to its production;--demand will inevitably bring a
+supply.
+
+The original reduction was made by Davy, by means of the voltaic
+battery. After it had been proved that these bases were really metals
+capable of reduction, chemistry brought all its resources to bear on
+the problem, and they were produced by other methods than the battery.
+All the processes adopted, however, were too expensive and laborious,
+involving an extraordinary amount of complicated manipulations with but
+inadequate results. The metal sodium, which is the immediate subject of
+our inquiry, long remained an object simply of curiosity or experiment
+in the laboratory.
+
+The methods of reducing the metal have of late years been so simplified
+that, to quote Prof. Chas. A. Joy in the _Journal of Applied
+Chemistry_: “A few years ago a pound of this metal could not have been
+purchased for two hundred dollars, and even at that price there were
+few manufacturers hardy enough to take the order. At the present time
+it can be readily manufactured for seventy-five cents, if not for fifty
+cents a pound; and the probabilities are that we shall soon be able to
+obtain it for one-quarter of a dollar.”
+
+Deville found that by the reaction of the metallic sodium on common
+chloride of aluminum a reduction was effected; the chlorine taking
+up the sodium, forming chloride of sodium (common salt), while the
+aluminum was left free in the metallic state. It is hardly necessary
+to go into the particulars of the process; but a metal well known to
+exist, had, for the first time, been brought to the world in such a
+condition of structure that its qualities could be tested, not only
+chemically, but mechanically. This was the direct result of Deville’s
+metallurgic process of obtaining the reducing agent--sodium.
+
+Aluminum in itself would be of but little use, so that a brief
+description will be all that is necessary. It is about the color of
+silver, but susceptible of a higher polish, especially on a fresh-cut
+surface; it is much less susceptible of oxidization than silver; its
+specific gravity is but little more than pine wood, and its tenacity,
+ductility, and laminating qualities are nearly equal to silver. Its use
+in the mechanical arts is limited, notwithstanding all these qualities,
+from the fact of its low point of fusibility, and at the heat of
+the fusible point being easily oxidized, so much so as to prevent
+soldering, except by an autogenous process. But aluminum does possess
+a property peculiar to itself--that of forming a purely and strictly
+_chemical alloy_ with copper. It unites with it in any proportion;
+the compound formed by the addition of 10 per cent. of aluminum to 90
+per cent. of copper has been found to possess all the properties of
+an entirely new metal, with qualities that render it a very valuable
+material in all fine work, such as astronomical instruments; and very
+fine machinery, such as watch-lathes, etc.
+
+The French reports on the alloy are somewhat voluminous, but we give
+the following.
+
+The color of this bronze so closely resembles that of 18 carat gold,
+such as is used for the best jewelry and watch-cases, that it is
+capable of receiving the highest polish, and is far superior in beauty
+to any gilding.
+
+Samples taken from different parts of the largest castings, when
+analyzed, show the most complete uniformity of composition, provided
+only that the two metals have originally been properly mixed while in
+a state of fusion. These experiments have been made upon cylinders
+weighing many hundreds of pounds, and are entirely conclusive.
+
+This valuable quality is not found in any of the more ordinary alloys
+of copper. The alloy of copper with tin, for example, known as _gun
+metal_, is notoriously subject to a phenomenon known as _liquation_;
+in consequence of which a great difference is found in the composition
+of the same casting, both in the top as compared with the bottom, and
+in the centre as compared with the circumference.
+
+This phenomenon often causes great inconvenience, as the different
+parts of large objects will in consequence vary greatly in hardness
+as well as in strength. In casting artillery the difficulty becomes a
+serious one, and no means have yet been discovered by which it can be
+entirely removed.
+
+This homogeneousness of aluminum bronze is a natural consequence of the
+great affinity existing between the two metals of which it is composed;
+and that there is such an affinity is clearly proved by the phenomenon
+attending the manufacture of the alloy. The copper is first melted in
+a crucible and the aluminum is then added to it _in ingots_. At first
+there is, of course, a reduction of temperature, because the aluminum
+in melting absorbs the heat from the melted copper; and this absorption
+is so great, in consequence of the great capacity for heat of aluminum,
+that a part of the copper may even become solid. But let the mixture
+be stirred a moment with an iron bar, and the two metals immediately
+unite; and in an instant, although the crucible may have been removed
+from the furnace, the temperature of the metals rises to incandescence,
+while the mass becomes as fluid as water.
+
+This enormous disengagement of heat, not seen in the preparation of
+any other ordinary alloy, indicates, not a simple mixture, but a real
+chemical combination of the two metals. The 10 per cent. bronze may
+therefore be properly compared to a salt, the more so as it is found by
+calculation to contain, within a very minute fraction, four equivalents
+of copper to one equivalent of aluminum.
+
+The 10 per cent. bronze may be forged cold, and becomes extremely dense
+under the action of the hammer. The blades of dessert-knives are thus
+treated in order to give them the requisite hardness and elasticity.
+But it has another valuable quality which is found in no other kind
+of brass or bronze: it may be forged hot, as well as, if not better
+than the very best iron. It thus becomes harder and more rigid, and
+its fracture shows a grain similar to that of cast steel. On account
+of the hardness of the aluminum bronze, rolling it into sheets would
+be a tedious and expensive process, were it not for this property of
+being malleable at a red heat. But it may in this manner be rolled into
+sheets of any thickness or drawn into wire of any size. It may also be
+drawn into tubes of any dimension.
+
+From several experiments made at different times at Paris, it appears
+that the breaking weight of the cast bronze varies from 65 to 70
+kilogrammes the square millimetre. The same bronze drawn into wire
+supported a weight of 90 kilogrammes the square millimetre. The iron
+used for suspension bridges, tested in the same manner, did not show an
+average of more than 30 kilogrammes. Some experiments were also made by
+Mr. Anderson, at the Royal Arsenal at Woolwich, in England, who tested
+at the same time the aluminum bronze, the brass used for artillery
+and commonly called _gun metal_, and the cast steel made by Krupp in
+Prussia. Taking for the maximum strength of the bronze the lowest of
+the numbers found as above, we are thus enabled to form the following
+table of comparative tenacities:
+
+  Aluminum bronze 10 per cent.       65
+  Crupp’s Cast Steel                 53
+  Refined Iron                       30
+  Brass for cannon                   28
+
+The comparative toughness of these same four metals was also tested in
+the following manner: A bar of each was prepared of the same size, and
+each bar was then notched with a chisel to precisely the same depth.
+The bars were broken separately, upon an anvil, by blows from a hammer.
+The last three metals in the table broke each at the first blow, with
+a clean and square fracture. The aluminum bronze only began to crack
+at the eighth blow, and required a number of additional blows before
+the two pieces were entirely separated. And the irregular, torn surface
+of the fracture showed the peculiarly tough and fibrous nature of the
+metal.
+
+The elasticity of the aluminum bronze was tested by M. Tresca,
+Professor at the _Conservatoire des Arts et Métiers_. The experiment
+was made upon a bar of simple cast metal, and the following is his
+report: “The coefficient of elasticity of the aluminum bronze, the
+cast metal, is half that of the best wrought-iron. This coefficient is
+double that of brass and four times that of gun metal, under the same
+conditions.”
+
+The specific gravity is 7.7, about the same as iron. Another very
+valuable quality is presented in the fact that it is acted on by
+atmospheric influences less than are silver, brass, or bronze. This
+places it in the same rank with gold, platinum and aluminum.
+
+Very stiff and very elastic, tougher than iron, very little acted upon
+chemically, and in certain cases not at all, capable of being cast like
+ordinary bronze or brass, forged like iron and steel, of being worked
+in every way like the most malleable metals or alloys, having, added
+to these properties, a color analogous to that of the most precious
+metal, this bronze proves itself adapted to uses almost innumerable.
+At first sight, it seems difficult to admit that the relatively small
+proportions of aluminum which enters into the composition of this
+bronze can be sufficient to modify so extraordinarily the properties
+of the copper which constitutes so large a portion of its weight. But
+we must remember that the specific gravity of aluminum is very low,
+and that a given weight of this metal possesses a bulk four times as
+large as the same weight in silver. It follows from this that the ten
+per cent. of aluminum contained in the bronze equals in bulk forty per
+cent. in silver.
+
+The specimens of the ware we have seen, such as spoons, forks, cups,
+watch-cases, etc., are certainly very beautiful, having the color and
+high polish of gold, while dilute acids do not affect the surface.
+
+
+
+
+On the Reduction of Silver in the Wet Way.
+
+
+Every chemist is familiar with the reduction of chloride of silver
+in the form of powder by means of metallic zinc in the presence of a
+little free acid. It is not easy to bring two such substances as the
+silver salt and the metal into close contact, and after the work is
+accomplished the removal of the excess of zinc has its difficulties.
+Dr. Grager suggests a modification of the old method that ought to
+be more generally made known. The chloride of silver is dissolved
+in ammonia and poured into a well-stopped bottle, and into this is
+introduced an excess of metallic zinc, in not too small fragments, so
+that any reduced metal adhering to it may be readily washed off.
+
+The decomposition begins immediately, and is rapidly accomplished,
+especially if the contents of the flask be well shaken up. Three hours
+will suffice to reduce one-quarter of a pound of chloride of silver.
+It is easy to ascertain when the reduction is ended, by testing a
+portion of the ammoniacal solution with hydrochloric acid. As soon as
+no cloudiness or curdy precipitate is formed, the work may be regarded
+as completed.
+
+A slight excess of ammonia is said to be favorable. The reduced silver
+must be washed with water until all odor of ammonia has disappeared.
+The pieces of zinc are removed by pouring the contents of the flask
+through a funnel, the opening of which is too narrow for the passage
+of the zinc fragments, while the reduced silver can be easily washed
+through. The finely divided silver can be digested in hydrochloric
+acid to restore it to a pure white color, and it is then ready for
+solution or fusion, and will be found to be perfectly pure. In dealing
+with large quantities it would be economical to recover a portion of
+the ammonia by distillation. In the same way an ammoniacal solution
+of nitrate of silver can also be reduced by zinc, and the silver
+obtained pure, even when the original solution of the nitrate contains
+copper--provided a small quantity of silver be kept in the bath.
+
+It is better where copper is present not to take all of the zinc that
+may be requisite for the reduction of the silver. It will prove a
+great convenience to be spared the necessity of converting the silver
+into the chloride, as it is no easy task to wash out this salt on
+filters--and it will be found to be applicable to alloys which do not
+contain more than 25 per cent. of silver.--_From Prof. Joy in the
+Journal of Applied Chemistry._
+
+
+
+
+Transcriber’s Notes
+
+Obvious errors in punctuation have been fixed.
+
+Page 7: “Mechanique Celeste” changed to “Méchanique Céleste”
+
+Page 12: “ou rexperience” changed to “our experience”
+
+Page 18: “head-quarters far astronomical observations” changed to
+“head-quarters for astronomical observations”
+
+Page 22: “it accomodates” changed to “it accommodates”
+
+The Table of Contents lists “Equation of the Time Table” as the article
+on page 28. The actual article is named “On the Reduction of Silver in
+the Wet Way.” This has intentionally been left as per the original.
+Similarly, there is no actual section titled “Notices of New Tools”
+despite its inclusion in the Table of Contents, and this has been left
+as per the original.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK AMERICAN HOROLOGICAL JOURNAL, VOL. I, NO. 1, JULY 1869: DEVOTED TO PRATICAL HOROLOGY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

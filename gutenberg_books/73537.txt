@@ -1,0 +1,1458 @@
+Transcriber’s Note: Italics are enclosed in _underscores_. Additional
+notes will be found near the end of this ebook.
+
+
+
+
+                     THE AMERICAN HISTORICAL NOVEL
+                          (ON AMERICAN THEMES)
+                              BEFORE 1860
+
+                          THE EARLY NOVELS OF
+                         JAMES FENIMORE COOPER
+                              (1821–1831)
+
+
+                                   BY
+
+                           ERNEST ERWIN LEISY
+                    A.B., University of Kansas, 1913
+                   A.M., University of Chicago, 1919
+
+
+                        AN ABSTRACT OF A THESIS
+
+          SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS
+                 FOR THE DEGREE OF DOCTOR OF PHILOSOPHY
+                  IN ENGLISH IN THE GRADUATE SCHOOL OF
+                    THE UNIVERSITY OF ILLINOIS, 1923
+
+                            URBANA, ILLINOIS
+
+[Illustration]
+
+
+
+
+THE EARLY NOVELS OF JAMES FENIMORE COOPER (1821–1831)
+
+
+James Fenimore Cooper--so the popular legend runs--was a man who
+wrote stories about idealized Indians and the wilderness, now read
+mainly by boys; who created Leatherstocking, the man without a cross;
+and who spent an irascible old age winning petty lawsuits. Further
+reflection may call to mind that he was enamored of the sea as well
+as of the wilderness, and that one of his stories had something to
+do with a spy. All this, of course, is true; but that Cooper did
+much more than this, has been discovered comparatively recently. The
+explanation is to be found, in part, in the fact that after Cooper’s
+death in 1851, the vogue of his type of romance having passed also,
+his popularity suffered a decline reaching its lowest ebb between
+1870 and 1880. Another reason is that the novelist’s dying injunction
+that no biography be authorized was carried out so literally by his
+oldest daughter and literary executrix that many family papers of value
+were destroyed. She afterwards published in the _Atlantic Monthly_
+for 1887 two reminiscent articles about her father, but these are
+rambling and uninformative in character. In 1883--thirty years after
+the death of the novelist--Professor Lounsbury succeeded surprisingly
+well in piecing together the outward facts of Cooper’s life.[1] The
+“Correspondence of Cooper,” just published,[2] reveals little about the
+workmanship or about the personality of the novelist, except by way of
+emphasizing the fact that his social and political ideas meant more
+to him than his art. Cooper’s own introductions, added to his works
+in 1849, the articles by his daughter, and the results of Lounsbury
+must suffice for the external evidence on Cooper’s work; whatever
+conclusions are reached on internal evidence may be modified when
+materials still in the possession of the Cooper family are given up to
+the public.
+
+Of the critical writings concerning Cooper the best is an essay by
+W. C. Brownell in _American Prose Masters_ (1909), in which he applies
+the canons of criticism to the works of Cooper _in toto_ under the
+captions: Form and Substance, Defective Art, Romantic Realism, Indians,
+Characters, Women, and Patriotism. John Erskine in _Leading American
+Novelists_ (1910), pp. 51–130, has taken up in greater detail the
+leading works, using the critical-historical method. Carl Van Doren in
+_The Cambridge History of American Literature_, I, 293–306, and _The
+American Novel_ (1921), Chapter 2, follows somewhat the same method
+as Erskine. W. L. Cross in _The Development of the English Novel_
+(1899) has a brief but pointed six pages on Cooper and his relation
+to Scott and his successors. These critics think highly of Cooper’s
+work but have been interested primarily in Cooper’s results rather
+than in the history of how Cooper produced his results. Only Brownell
+and Erskine incidentally, and Cross briefly, touch upon Cooper as an
+historical novelist. Leaving Cooper’s other historical work out of
+account, they concentrate upon _The Spy_, declaring it an historical
+novel of adventure, as Cooper had not the background for genuine
+historical work and did not test his fictitious characters in great
+historical crises such as in _Kenilworth_ or _The Abbot_. This seems a
+too arbitrary restriction of the term “historical,” for which Brownell
+makes some amends when he declares that the alliance of romance with
+reality in Cooper’s tales, “his general and personal interest in the
+life he depicted makes his account of it solider art, gives his romance
+even more substance and meaning than Scott’s historiography.”[3] How
+extensively and well Cooper portrayed the setting of a past time, how
+he related his work to his public, what connection it had with the work
+of his predecessors and contemporaries, the consequent originality of
+his contribution, and the nature and extent of his influence on the
+historical novel have received insufficient attention.
+
+Considering the results of the experiments with native material
+outlined in the preceding chapter, Cooper might well have entered
+with diffidence upon the task of writing an “American” novel. That
+he was in any definite sense aware of the work of his predecessors
+in the field of the American novel seems doubtful. His had been a
+frontiersman’s boyhood, followed, after an erratic two years at Yale,
+by apprenticeship at sea and a decade as a country squire. Then by the
+merest chance he fell into authorship. To make good his boast that he
+could write a better book than the novel of English society life which
+he was at that time reading, he wrote _Precaution_, a story of earls
+and dukes. But knowing how devout an American Cooper was, some of his
+friends made it a matter of reproach that he should have written a
+novel foreign in substance and feeling. He acknowledged the justice of
+the imputation and resolved to atone by inflicting upon the world and
+himself, as he said, a second book,[4] _The Spy_, the patriotic nature
+of which should admit of no cavil.
+
+From the writing of _Precaution_, Cooper carried over very little save
+ability to manipulate a story. It taught him nothing in the way of
+adapting the formula of the current novel to the treatment of native
+material. He had still to learn to conform to the principles of the
+Waverley novels and at the same time to find a tractable American
+theme. What was the nature of the historical novel then current?
+
+“Scott had gathered up,” says Dr. Loshe,[5] “and recombined, according
+to formulas of his own, many elements present in the fiction of his
+day,--the tendency to localized or national tales with that interest
+in humble personages on whom local characteristics are most deeply
+impressed, which appears most plainly in Miss Edgeworth’s Irish
+stories; the interest in romantic landscape and word-painting of
+natural scenery which found its most striking expression in Mrs.
+Radcliffe’s theatrical yet impressive scenes; the tale of adventure
+reinforced by the revived interest in travel and antiquarian taste
+for old buildings and trappings; and the eagerness for an imaginative
+interpretation of history which had expressed itself in many would-be
+historical tales, whose hopeless inaccuracies had a naive honesty of
+good intention.”
+
+These ingredients which Scott had mixed in varying proportions in his
+different works, it occurred to Cooper, might be adapted to native
+manners and conditions.
+
+The essential requirement of the Scottish novels--conflict, patriotic
+association, and difference in social manners--obviously suggested
+to Cooper the American Revolution as the scene for his novel. The
+details of that warfare, particularly as they were related by the aged
+participants in Westchester County, New York, where he was at this
+time living, Cooper had listened to with that intelligent interest
+with which a seaman may follow strategy on land as well. He knew
+this neutral ground, between the British in New York City and the
+American army in the highlands of the Hudson, over which the tide of
+battle had ebbed and flowed, as Scott knew his native heath. As he
+turned over in his mind the possibilities afforded by this setting he
+recalled an anecdote which his neighbor John Jay had related years
+before concerning a shrewd, unselfishly patriotic spy employed by
+him during the war. This “legend” became the nucleus of his story.
+Judging from internal evidence, Cooper must have been delighted with
+the possibilities of the subject for was it not still a matter of
+record how the sensibilities of the public had been wrought upon by the
+fate of Hale and of Andre?[6] Was not his friend, Dunlap attracting
+multitudes to his play, entitled _Andre_? It next occurred to him
+to present his spy in the guise of a pedlar such as Edie Ochiltree,
+who had fascinated readers of _The Antiquary_. So vividly did Cooper
+realize his conception of Harvey Birch that the romance had all the
+semblance of a memoir.
+
+The public veneration for Washington required that he be introduced
+somehow. In 1780 the patriot army, under General Washington, occupied
+a line of connecting positions extending from Philadelphia across
+northern New Jersey, to the fortified post of West Point on the Hudson.
+Along the Hudson River, the American lines extended to Peekskill,
+and outposts patrolled the country as far south as Tarrytown. From
+this point to the channels which separate Manhattan Island from the
+mainland, a distance of about forty miles, lay the “neutral ground,”
+the No Man’s Land of the Revolution. It was the object of the patriot
+army to prevent the British forces from drawing supplies from this
+region, but Congress would not permit devastation. Consequently, the
+“neutral ground,” swept by constant raids, and exposed to the unchecked
+evils of civil war, became the abode of the lawless and adventurous
+spirits who flourish best in times of upheaval and disorder. The fall
+of Charleston, the treason of Arnold, and dissensions among officers
+of the Continental Army made a general disintegration of that military
+force which was the sole support of the patriot cause seem at hand. The
+Revolution was in danger, not only from avowed Tories but from lukewarm
+followers anxious to keep on the winning side. This combination of
+circumstances suggested to Cooper the military situation in 1780 in the
+Neutral Ground as the most suitable background for his story.
+
+Romantic themes were for Cooper more important and interesting than
+restoration of the historic past. The instinctive Toryism that made it
+natural for Scott to poetize history had no counterpart in Cooper’s
+rationalized liberalism.[7] But it was not necessary for his mind to
+be saturated with history as was that of Scott. Compared with Europe,
+America had little history, and that little Cooper knew, particularly
+as it pertained to New York. In the present instance, he had his
+information from eye-witnesses and from nine years’ residence on the
+scenes. It was decidedly to Cooper’s advantage to have a “legend,” or
+the outline of a plot, suggested to him, since, with this in mind, he
+could in unfolding a story give to it all the illusion of reality.
+“Perhaps by chance,” says Carl Van Doren, “Cooper here hit upon a
+type of plot at which he excelled, a struggle between contending
+forces, not badly matched, arranged as a pursuit in which the pursued
+are, as a rule, favored by the author and reader.”[8] High and low
+characters could easily be borrowed, in fact, his public expected
+that. The Wharton family, consisting of a high-spirited young blond,
+a faded elder daughter, a young officer, and a feeble father was the
+conventional novel family; the pedlar as the central link of the action
+came from _The Antiquary_; Dr. Sitgreaves was an imitation of Scott’s
+pedants; Betty Flanagan, the sutler, partook of the nature of Miss
+Edgeworth’s Irish characters of low life; the negro was an adaptation
+of the court fool; the remaining characters were be-captained and
+be-majored as was fitting in a tale of love and war.
+
+As much of his public was Tory, and as even English readers might be
+appealed to, Cooper faced the problem of writing his story so as to
+please the patriot and to enlist the interest of these others besides.
+Fortunately for Cooper, and for art in American historical fiction,
+his training under an Anglican tutor and his marriage into a Tory
+family restrained him from such partiality for the Americans as the
+first historical novelist might easily have indulged in and thereby
+set the standard for succeeding writers. Cooper’s solution in taking
+a house divided against itself, in a section supposedly neutral but
+actually overrun by skirmishing parties of either side, supplied also
+the essential element of conflict. He added suspense by the uncertainty
+he created in the reader’s mind as to which party the spy served and
+by having him persecuted equally by bands of Skinners and by Cowboys.
+With the sketch of the depredations of the Skinners he enlisted Tory
+approval of the veracity of the picture. The first volume was in fact
+as inviting to loyalist as to patriot. The mysterious Harper, though
+he inspired considerable awe, had little in his reticent demeanor to
+indicate that he was the commander-in-chief of the continental troops.
+But the patriotic purpose of the book was not to be lost sight of. In
+his very persecutions the spy was becoming heroic, and there could be
+no mistake as to his position in the outcome. By making the heroine,
+regardless of her Tory family, espouse the American cause, and by
+exposing as a bigamist the English colonel, with whom her sister was in
+love, the author further won the favor of the patriot. Here and there
+he added touches of piety which might bring his fable into favor with
+the reader.
+
+The handling of historical matter, particularly the treatment of
+Washington, presented a problem of peculiar difficulty. According to
+Scott’s practice up to this time, an historical character must have
+a minor role. This should have simplified the problem but Washington
+was too much venerated to be simply disposed of. Cooper hit upon the
+solution of introducing him as the shadowy Mr. Harper, who looms
+somewhat gigantically through his disguise, and is revealed, in the
+end, as the ally of the spy and the patriot leader. While Cooper
+displayed a gift for historical portraiture, he fell victim to the
+contemporary notion of Washington and portrayed him as the sobered and
+aged President rather than as the General of the Continental Army.
+His stiffness _en famille_ and his melodramatic skulking about the
+highlands and in caves were later by Cooper himself acknowledged a
+mistake. But to the general historical facts of his story Cooper was
+true. Truer, in fact, than the historians. And this, as has never been
+pointed out, constitutes _The Spy_ a document of historical value. For
+the Whig historians, following the Revolution, had misrepresented the
+war as a united uprising against the mother country instead of the
+civil conflict, which, according to the best modern criticism, it in
+large part was. The intense Whig tradition begun by Andrews and Gordon,
+who based the earliest histories of the Revolution on Burke’s yearly
+summaries of the events in the Annual Register, persisted not only in
+Weem’s _Life of Washington_ but in Marshall’s also, and was influential
+through the ten editions of Botta’s translation. The federalism of
+Hildreth (1849) carried on this bias; and when Bancroft in 1852
+reached the Revolution, he broke all records for a violently partisan
+and timorously defensive history of the Revolution.[9] For leaving a
+distinct impression of the fratricidal nature of the strife, when a
+just version of the struggle seemed impossible, Cooper deserves credit
+hitherto not accorded him.
+
+_The Spy_, as I have tried to indicate, was in every sense an
+experiment. If it succeeded, others of its kind might follow; if it
+failed, the American novel would have to wait, for Irving, Cooper’s
+only possible competitor, “deliberately chose short stories to avoid
+any rivalry with Scott.”[10] But so well had Cooper estimated the
+tastes of the public that the experiment was from the first a success.
+In three months it was in its third edition. It won the “respect of the
+generally contemptuous English critics,[11] and the American press,
+which had liked the book by instinct, was pleased with the mild praise
+as though it were a national tribute.”[12] The happy issue of the
+experiment inspirited other native writers; it encouraged Cooper in
+particular.
+
+For a novitiate like Cooper to follow up at once the career
+unexpectedly opened up to him by the success of _The Spy_, required
+that he draw upon material already in hand. His acquaintance with
+Westchester county he had used felicitously; there remained his boyhood
+at Cooperstown, and his years at sea. Affection for the pioneer village
+among the forest-clad hills surrounding Otsego pressed for utterance
+and Cooper began “a descriptive tale” which he named _The Pioneers;
+or, the Sources of the Susquehanna_ (1823). With a few Cooperstown
+characters and the outlines of a situation in mind, Cooper launched
+upon the improvisation of his story. He transcribed and generalized[13]
+for the purposes of fiction his memories of the hunter, Shipman, who
+came to his father’s, Judge Cooper’s, Hall to present his game; the
+motley characters and nationalities of the early settlement; the town
+itself as it was forty years ago, with its raw street of wooden houses;
+the drunken Indian at the inn; the snowy congregation crowding to the
+fire at the church; the seasonal sports of the rough people; the virgin
+lake and wilderness, the forest conflagration, ushering out with grim
+reality the period of romance. Cooper was too downright to obscure
+the grossness of the picture. Derelicts and scoundrels he well knew
+were associated with a new society as much as its idealists, and he
+brought them in. Representatives of various social units were made to
+aid in the evolution of the plot. Judge Temple, empire-builder, with
+his daughter just home from school, and an insurgent young Effingham
+were given the center of the stage; Natty Bumppo, protagonist of the
+advancing civilization, his companion Chingachgook, christened John,
+and various frontier types, were grouped about these.
+
+In this work, Cooper showed a more aggressively American spirit,
+derived no doubt from the favorable reception accorded _The
+Spy_. In both the subject-matter and in his presentation of it
+he was independent of Scott,--seeking in the picture of American
+empire-building and American prodigality to set his country honorably
+before foreign readers. As was fitting in an avowedly “descriptive
+tale,” he laid aside the “pursuit-rescue” scheme for a set of
+sportsman’s sketches not unreminiscent of Irving. Life in the American
+Bracebridge Hall[14] was exhibited, with its Christmas abundance not to
+be outdone by Irving’s sketch of an English Christmas, and its sports
+like the turkey-match, the shooting of myriads of wild-pigeons, the
+seining or spearing of bass, the deer-chase on the lake, maple-sugaring
+in spring, and sleighing-parties in winter, each carrying its peculiar
+appeal. But there was also dramatic tension and an interest in a theme
+suggesting Greek fatalism: the law of nature, embodied in the uncouth
+old hunter and the Great Serpent, is seen in conflict with the law of
+man represented by the Judge. In the end the law of nature yields to
+the stocks and the fire which civilization brought, and the only escape
+is a reluctant departure toward the setting sun. A conventional plot
+was introduced by Cooper as a concession to his readers, but it is
+of secondary importance. A wrong done by Judge Temple to Effingham’s
+father is righted by the slightly complicated love-match of Miss Temple
+with young Effingham, in fiction a favorite method of restitution.
+The girl’s excessive sensibility, the episode of the panther, the
+appearance of a sybil, and of a gold-digger, the hero’s clouded
+ancestry cleared up in the penultimate chapter, all are to us dregs in
+the old wine but gave the story the flavor it needed in order to sell;
+the new wine that Cooper introduced has ripened to modern taste: it is
+the “essential wonder of pioneer life” as it is presented in this epic
+of the wilderness.
+
+_The Pioneers_ has never received consideration as an historical novel.
+Van Doren speaks of it[15] as Cooper’s first “realistic presentation
+of American manners.” Yet a novel of manners it is not. That life in
+the frontier town was not what it had been and never would be again,
+Cooper realized definitely.[16] Susan Fenimore Cooper says,[17] “The
+new narrative, like that which preceded it, was, in one sense, to be
+connected with the history of the country; it should follow the first
+steps of civilization in its conquests over the wilderness.” The
+conceivable contention that more than forty years must elapse between
+the time of the action and the date of composition is invalid: forty
+years is exactly the length of time by which _The Spy_, generally
+acknowledged an historical novel, is separated from its events; and
+_The Antiquary_ is remote only twenty-one years. In America, moreover,
+changes in manner, customs and outward appearances are so great in
+a single generation that the historical romancer need not revert to
+antiquity.[18] It might, further, be argued that no actual historical
+character appears in the book. But the contemporary imagination did
+not heed to be reminded that here was the story of Daniel Boone, for
+to it the story had become a legend.[19] There is abundant evidence
+that its readers regarded it as an historical novel. So well did Cooper
+understand the passing nature of this pioneer life and so effectively
+did he characterize it here, that with subsequent writers the novel
+of pioneer community life became the characteristic type of American
+historical novel.[20]
+
+In _The Pilot_ (1823) Cooper drew upon his experiences at sea. How
+thoroughly he was at home here his biographers have remarked, but how
+thoroughly he viewed life from a seaman’s point of view, they have not
+insisted upon.[21] When it was apparent that Yale would do him no good,
+Cooper’s father shipped him before the mast, and here on his first
+voyage, which was long and stormy, occurred an unforgettable chase by
+pirates and a search by a British man-of-war. Such adventures were
+ordinarily discussed over a cob-pipe, on a wharf-barrel, or, at most,
+got into chap books, but no one thought to put them into a novel, for
+who but landsmen read novels? Smollett, to be sure, had had sailors
+but the detailed maneuvers of vessels and the tang of the old salt he
+had not given. Nor was it done, to Cooper’s thinking, in _The Pirate_,
+which had just appeared anonymously. When he asserted that it was the
+work of a landsman and not a of sailor, he was challenged to make good
+his contention by writing a story from the seaman’s point of view. His
+pugnacious temper was as ready to take the dare as it had been when it
+first tripped him into the authorship of _Precaution_.
+
+Not unmindful of the experimental character of the venture, and wise
+through the unexpected success of _The Spy_, Cooper determined to blend
+nautical fiction and history. “It was conceived necessary,” says his
+daughter,[22] “to connect with the narrative some historical name which
+should give it importance, and for the same reason, the period of the
+Revolution was chosen as the date of the tale. The nautical annals of
+that time were brief, and a rapid glance was sufficient to show that
+among the historical figures that of the bold adventurer, Paul Jones,
+stood prominent as one of the few adapted to a work of fiction. His
+cruise in The Ranger suggested the plot of _The Pilot_.”
+
+The historical facts in brief were these. Jones, after receiving a
+lieutenant’s commission in the navy, suggested that the American
+vessels, which were few and inferior in comparison with those of the
+enemy, should be used as privateers. In the “Ranger” he captured
+several trading vessels in the Irish channel; he attacked his home town
+of Whitehaven on the coast of Cumberland, and burned one vessel; he
+sacked Lord Selkirk’s castle, and defeated and captured the “Drake,” an
+English sloop-of-war, with the loss of only eight men.
+
+Cooper chose the northeastern coast of England as the setting for his
+story. This gave him the two-fold advantage of exploiting sea maneuvers
+which _The Pirate_ lacked, and of complicating these with a love story
+in the castle, which readers of Abbey romances cherished. In their
+eagerness to point out its novelty as a sea tale, students of Cooper
+have overlooked the Gothic tradition which _The Pilot_ continued. In
+the management of the story there was not so much that was new as might
+be supposed, for in its general outlines it was _The Spy_ done in terms
+of the sea. The skirmishes of the Neutral Ground became chases between
+frigates and men of war, the devotion of Harvey Birch was supplanted
+by Long Tom Coffin’s love for the sea, and an incognito Paul Jones
+replaced an incognito Washington. But such economy of creative effort
+was justifiable and perhaps necessary for Cooper if he should lavish
+upon the details the interpretative sympathy that he was fitted to
+give. It was the sailor in him that led the frigate through the channel
+in masterful manner and that made his seamen such likeable fellows.
+He knew how good sea-dogs would itch for a fight or boast of their
+prowess. “Their ships were handled,” says Captain Mahan, “as ships then
+were and act as ships still would under the circumstances.”[23] Joseph
+Conrad has been glad to acknowledge[24] that Cooper taught him profound
+sympathy and artistic insight into the sublimity and mystery of the sea.
+
+Cooper’s choice of the “Father of the American Navy” as the historical
+figure with which to connect his sea tale was peculiarly happy in view
+of public enthusiasm following the success of the navy in the War of
+1812.[25] But in portraying this character he has been considered no
+more successful than he had been with Washington. The statuesque pose
+of Mr. Gray becomes, through reiteration, an affectation which it is
+hard to reconcile with the fiery Scotchman of history. Cooper himself
+at a later date expressed dissatisfaction with the unreality of the
+portrait.[26] It becomes clear in the course of this story that Cooper
+regards Paul Jones as a free-lance whose devotion to America proceeded
+from his desire of personal distinction. “A large part of his behavior
+might be called Byronic,” Erskine has suggested, “since it appears to
+be learned in the general school of the Giaour and the Corsair.”[27]
+As an historical document _The Pilot_ has worth because it faithfully
+portrays the sea life of the time of the Revolution and because it has
+called attention to a phase of the war historians have been inclined to
+neglect.
+
+The favor with which Cooper’s three historical novels had been received
+convinced him that here lay his field. How seriously Cooper considered
+himself an historical novelist and how auspicious were the times for
+a national romancer has not been understood. The fiftieth anniversary
+of the battles of Lexington, Concord, and Bunker Hill was at hand. The
+spirit of nationalism was intense. President Monroe had promulgated his
+Doctrine, General LaFayette (a personal friend of Cooper’s) had come
+to tour the country he had helped to save, and Daniel Webster in his
+Bunker Hill oration was trying to put into pleasing phrase the popular
+mood. Cooper, in the blush of popularity, conceived a plan for a series
+of historical romances, on a national scale, to be called “Legends of
+the Thirteen Republics,” the scenes of which should be laid in the
+various colonies that had shared in the Revolution. The first of this
+series was devoted to Massachusetts, and was entitled, _Lionel Lincoln,
+or the Leaguer of Boston_ (1825).[28]
+
+“Nothing that industry could do,” says Lounsbury,[29] “was spared by
+Cooper to make this work a success. In the preparation of it he studied
+historical authorities, he read state papers, he pored over official
+documents of all kinds and degrees of dreariness. To have his slightest
+assertions in accordance with facts, he examined almanacs, and searched
+for all the contemporary reports as to the condition of the weather.
+He visited Boston in order to go over in person the ground he was to
+make the scene of his story.” He built his story around the battles of
+Lexington, Concord, and Bunker Hill. The entrance of a vessel through
+the patrolled part of Boston, carrying young Lincoln, an officer in
+the British service; the journey past old North Church, the Province
+House, and Faneuil Hall to the heart of the city; the state of unrest
+among the citizenry, along with the doubt among the British whether
+the rabble will fight; the organization of the Sons of Liberty and the
+news of the coming of Clinton, Burgoyne, and Howe; a spirited account
+of the running fight from Lexington to Concord; the uprising of a
+hundred thousand men under leaders like Warren, Putnam, and Gage; and
+at length an account of the Battle of Bunker Hill, in which the hero
+is wounded, were put into the first volume. In the second, history was
+practically cast to the winds, and the private fortunes of the hero
+were related,--his recovery under the tender ministrations of a girl,
+his marriage to her, amid ominous portents, and the disclosure through
+the spectacular machinery of Gothic romance of what had been clouded
+regarding his ancestry.
+
+For the first time in his treatment of American history, Cooper had a
+subject in which he was obliged to substitute for personal experience
+painstaking research. Not having been very successful in handling
+character that required adherence to historical fact, it was a question
+whether his mind could assimilate the results of his investigations in
+a way to stimulate rather than to hamper his imagination. For better
+or for worse, he made no attempt to delineate an historical character.
+Warren, Gage, and Putnam he mentioned but their possibilities as
+literary material he did not recognize; Burgoyne, Howe, and Clinton
+he misrepresented in the few pages he allotted to them. With the
+historical background in and about Boston he was more successful,
+giving according to Bancroft, an effective and truthful rendering. As
+heretofore, his sympathy with the losing side equalized the contest
+and made it a worthy struggle. For the critical reader none of his
+books has a more inviting opening. But Cooper soon found the attempt to
+blend his complicated plot of domestic intrigue with history irksome,
+and shifted attention to the melodramatic fortunes of his hero. It is
+difficult to understand why he should have made an unheroic English
+Major the hero of an American story. It can hardly be explained on the
+ground of Cooper’s established antipathy to the New England character,
+although the fact that he was too little at home in Massachusetts may
+have caused him to piece out the story by giving it a melodramatic
+turn in keeping with what was popular on the stage of the day. Mr.
+Van Doren’s remark[30] that the book “failed to please as his earlier
+novels had done” must be accepted with qualification, as contemporary
+reviews vouch for its own popularity as well as for that of _The
+Leaguer of Boston_, a play based upon it.[31] It would seem that the
+“Gothicism” of the story as manifested in the character of Ralph
+with his sudden and apparently unaccountable appearances and his
+almost supernatural power over the Byronic Lionel, the spectacular
+apparition of an overshadowing arm on the wall of King’s Chapel during
+the marriage ceremony, and the sudden death of the simpleton at the
+hands of his maniac father who dies with him, was an element in the
+historical novel that gave it a contemporary appeal which has been lost
+in an age of other critical standards.
+
+When Cooper abandoned after the first attempt his cycle of thirteen
+romances of the Revolution, he did not give up his career in the field
+of historical fiction. In his next work, _The Last of the Mohicans, a
+Narrative of 1757_ (1826), he went back even farther into his country’s
+past. In _The Pioneers_ he had sharpened his tools at frontier material
+and he now wished to execute a design in which Indian life should be
+presented in detail. But comparatively little was known about the red
+man at the time. Before the Revolution he had inspired terror but more
+recently his melancholy fate was to a greater or less degree upon
+the white man’s conscience. Chateaubriand had given currency to the
+tradition of the noble savage, but only an ethnologist like Gallatin
+or Duponceau had inquired into his origin, language, religion, ethics,
+government, habits and manners, with a sense of their scientific
+value. Cooper’s own knowledge of the race was limited to an occasional
+meeting with an Indian at Otsego Hall, or a delegation at New York or
+Washington. This personal acquaintance he now supplemented, according
+to his daughter, by a study of Heckewelder, Colden, Penn, and Smith.[32]
+
+The setting of his story came to Cooper while in 1824 with a party of
+English friends he was on a visit to the Lake Champlain region. At
+Glenn Falls one of the party directed his attention to the caverns in
+the river as a suitable location for a romance. The suggestion pleased
+the novelist, and when the ruins of Fort William Henry nearby came to
+mind, it occurred to him to use the episode of the siege and massacre
+at the fort during the French and Indian War as the basis of the story.
+For the adventures of his fictitious characters with which Cooper came
+more and more to occupy the second volume of his novels, he here fell
+back upon his “pursuit-rescue” scheme. He managed this scheme with
+sufficient adroitness to display, incidentally, a great variety of
+Indian customs and traditions.
+
+It is not generally known that Cooper’s Indian was drawn in large part
+from Heckewelder.[33] This venerable man had been a Moravian missionary
+among the Delawares and published some years later an account which
+rather idealized them. In view of this fact, Cooper deserves credit for
+representing the Indian as cunning and treacherous as well as generous.
+When it was objected that he gave a more favorable picture of the red
+man than he deserved, Cooper said:
+
+“It is the privilege of all writers of fiction, more particularly
+when their works aspire to the elevation of romances, to present
+the beau-ideal of their characters to the reader. This it is which
+constitutes poetry and to suppose that the red-man is to be represented
+only in the squalid misery or in the degraded moral state that
+certainly more or less belongs to his condition, is, we apprehend,
+taking a very narrow view of an author’s privileges. Such criticism
+would have deprived the world of even Homer.”[34]
+
+What Cooper noted about the red men was their acute senses, developed
+through woodcraft and warfare, their belief in omens and their tortoise
+and beaver worship, their mummery, their stoiclism, especially when
+enduring torture at the stake, their “gift” of revenge, their war
+dance, their love of baubles, their respect for the feeble-minded or
+the aged, their chaste attitude toward female captives, the silence
+of the young, their funeral customs and deference to the mound for
+the dead, their councils of war and fierce tribal pride, their use of
+metaphorical speech, and the crafty eloquence of their orators.
+
+In order to show the antitheses in Indian character, Cooper created in
+Uncas a noble savage, in conformity with the philosophy of nature then
+in vogue, and bestowed upon Magua the deceit and treachery associated
+with the Indian when he was a menace. With his customary repetition
+of types,[35] Cooper was inclined to reintroduce the hunter and his
+Indian comrade from _The Pioneers_. But they were old there and had
+fallen upon evil days. Yet he resolved to take the risk. It was a
+stroke of genius not only to set them back nearly forty years, but to
+shown them in the vigor of manhood undeniably the same individuals. The
+other characters--an old man with his motherless two daughters, one of
+whom is given in marriage to a representative of the British army for
+his devoted services to the family and the other, a quadroon, whose
+kidnapping by the Indian villain motivates the pursuit of the second
+volume--were redolent of the make-up box and the property-room. The
+bore, however, represents a variation from type, as Cooper intended the
+half-witted Connecticut psalm-singer for a modern adaptation of the
+ministrel of medieval romance.[36] The character whose possibilities
+Cooper now first realized and upon whom he lavished his devotion was
+Natty Bumppo. Upon his Christian stock he grafted many of the virtues
+of savage life. It seems to me as if, without consciously doing so,
+he has blended in him reminiscences of Sir Charles Grandison and the
+natural man of Chateaubriand. In him the historical novel gained a
+new type of hero with whose simplicity, downrightness, competence,
+unsophistication, and virgin prejudice the natural American has for
+Europeans come to be identified.[37] How indigenous he was appears
+when he is compared with Rip Van Winkle and the characters of Irving.
+Thackeray declared _La Longue Carabine_ one of the great prizemen of
+fiction. “He ranks,” said he, “with your Uncle Toby, Sir Roger de
+Coverley, Falstaff ... and the artist has deserved well of his country
+who devised them.”[38]
+
+The historical element centering about the siege of Fort William
+Henry and the subsequent massacre, Cooper might have gotten up in
+an hour’s reading. Perhaps its scant basis of fact accounts for the
+truth of the picture. Colonel Munro, the English commander, was
+“elaborated according to the needs of the plot and Cooper’s idea of
+the British soldier of the period,” says Erskine. “As a soldier he
+is of course brave, but not astute. Cooper lets him stand for the
+usual British incapacity to cope with the Indians which Braddock so
+fatally illustrated.”[39] It is not likely that any of Cooper’s readers
+would have impugned the conception. The portrait of Montcalm is, in
+my judgment, Cooper’s best picture of an historical character.[40]
+Deeply regretting that history would perpetuate only his glorious
+death on the Plains of Abraham,[41] Cooper without pronouncing final
+judgment upon his conduct, represented Montcalm as putting policy above
+moral principle when he did not, by restraining his Indian allies,
+prevent the massacre which followed the capitulation of the English.
+In this position he was in accord with Timothy Dwight,[42] a careful
+historian, who remembered the event as a child and expressed the view
+which prevailed in New England and New York. The massacre itself, with
+its opportunity for pageantry in Scott’s vein, did not fire Cooper’s
+imagination.
+
+What Cooper did in _The Last of the Mohicans_ that he had not done so
+well in his previous historical novels, was to make the central theme,
+the conquest of the Indian by the white, turn upon and be explained by
+the chief historical event of the book, the savagery of the red men
+at Fort William Henry. He achieved a skillful blend of research and
+fabrication that has resulted in its being regarded the best treatment
+of the ominous theme of race conflict. Whatever case the critics may
+have made against his Indians, and of late they have rather deferred
+to him, his conception of the red man has been effective and is not
+likely now to be replaced. When people wish to know what it was to live
+in the days when the aborigines were in power, it is to this story of
+disastrous chances, of hair-breadth ’scapes, and moving accidents by
+flood and field, that the imagination naturally turns.
+
+So well was _The Last of the Mohicans_ received at home and abroad
+that Cooper was moved to write at once another tale of the Indians.
+The character of Leatherstocking had grown upon him and he was ready
+to hazard a third venture with him. The popular mind had followed
+the removal of his prototype, Daniel Boone, to the plains beyond
+the Mississippi and the report of his recent death there. In that
+mysterious Louisiana Purchase, moreover, new pioneers were seeking to
+satisfy their hunger for land. Cooper also knew, though this has not
+been pointed out before, that the public mind was further directed to
+this frontier by the proposal by act of Congress to remove the Indians
+to this territory. These considerations caused Cooper, although he had
+never seen the plains, to determine upon a western setting for his next
+story, _The Prairie_ (1827).
+
+“During the spring of 1826 Cooper followed a deputation of Pawnee
+and Sioux from New York to Washington to study their origin for _The
+Prairie_.”[43] The sources which he drew upon Cooper never indicated
+directly but it may be pretty safely inferred that he looked into
+the Journals of Lewis and Clarke, that he used Long, and perhaps saw
+Mackenzie.[44] From these he learned of the wild horses, the buffalo
+herds, the prairie dogs, flocks of migratory birds, prairie fires,
+and mounted Pawnee, Tetons, Konzas, Omahas, and Osages that were to
+be found on these endless plains. Among these he placed a squatter
+from Kentucky, treking with his family and brother-in-law by prairie
+schooner across the Nebraska prairie.[45] As Cooper knew nothing of the
+life at first hand he was obliged to draw upon his imagination more
+largely than heretofore. This he did as easily in Paris where he was at
+the time residing as he might have done at home in New York. As usual
+he reintroduced many of his characters from his preceding work. Hawkeye
+reappeared as the aged trapper, given somewhat more to moralizing.[46]
+Mahtoree was a slightly milder Magua mounted on horseback. The Pawnee
+Hard Heart was another Uncas, and the psalmist became a pedant in
+search of genus and species. The lovers were already married and were
+kept in the background. The “pursuit-rescue” device to advance the
+plot was continued but was employed with less vigor. In every way the
+tone of the story is a more subdued one. Only an assault by Indians, a
+stampede by buffalo, the prairie fire, and the consternation over the
+treachery of the brother-in-law disturb the author’s brooding over the
+epic-vastness of the plains.
+
+Whatever Cooper may have owed to Scott at the beginning of his
+career, he owed little to him now. His poetical rendering of the
+prairie landscape with its elemental figures was a far cry from the
+landscapes of Scott in the style of Mrs. Radcliffe and from his
+treatment of characters. Perhaps the greatest change of all was in
+Cooper’s central figure, the squatter. Instead of making him heroic,
+Cooper showed him untroubled by vision, restless to shake off the
+restraints of law and society. His wife, “a shabby, inarticulate
+prairie Hecuba,” was Cooper’s first attempt to depict the wife or
+mother, and has remained, with Ruth in _The Wept of Wish-ton-Wish_, his
+most noteworthy portrait of a woman. Although Cooper’s story went back
+but twenty-three years, its manners were those of a time and condition
+remote from his own. Constructed as it was from historical sources it
+has further qualification for inclusion here. Its poetic rendering
+of the atmosphere of that time and place has given an effective if
+not accurate idea of the prairie, an idea which Easterners have until
+recently retained.
+
+Cooper’s next novel, _The Red Rover_ (1828), was perhaps his best
+sea tale but it was not historical, all details having been invented
+“without looking for the smallest aid from traditions or facts.” Hard
+upon it came another Indian tale, _The Wept of Wish-ton-Wish_ (1829).
+In this novel Cooper turned aside from his Leatherstocking series,
+for such his Indian tales had come to be, to the red man’s last stand
+against his white opponent in New England in the seventeenth century.
+Some of his imitators,[47] Miss Child, Mrs. Cheney, and Miss Sedgwick,
+had directed attention to early New England life, and Cooper now turned
+in the same direction, selecting the period of King Philip’s war as the
+basis for his novel of Puritan life. The account of Eunice Williams’s
+Indian captivity at Deerfield had become classic, and Increase Mather
+and Hubbard had each given his narrative of the Indian war with the
+bias of those who knew the “heathen” chiefly as an enemy. Irving’s
+short tale, _Philip of Pokanoket_ (1814) had served as a corrective
+to this legend. The episode of Goffe, the regicide, had been treated
+by Stiles in his _History of the Judges_. In fiction, James McHenry,
+one of Cooper’s earliest imitators, had dealt with Goffe in a Gothic
+romance, _The Spectre of the Forest_ (1823). Scott in his _Peveril
+of the Peak_ (1823), had called attention to it.[48] As a national
+romancer, Cooper doubtless felt it incumbent upon him to make yet
+another excursion into New England material.
+
+In the arrangement of his story, Cooper reversed his usual plan, by
+making the first half almost wholly fictitious, and putting into
+the last half the historical material concerning Goffe, and the
+extermination of Philip’s Indian cohorts. The leading episode of the
+first volume, an Indian assault upon a settler’s block-house, was
+probably suggested by the analogous attack on the feudal castle in
+_Ivanhoe_. Cooper found it difficult to supply a central character as
+the Puritans were to him uncongenial. In Captain Heathcote he created
+a man of piety, forced to the Connecticut frontier by disagreeable and
+petty religious squabbles. The story deals with his domestic life, his
+constant fear of attack, and the final assault of Indians who destroyed
+his home and kidnapped his daughter. It also treats of a general
+renewal of hostilities after an interval of several years during which
+American enterprize built up the village of Hartford; of the timely
+warning by the mysterious stranger, resulting in the overthrow of
+Philip; and of the restitution of the wept-for daughter who clings
+to her Indian mate. For the historical background Cooper selected,
+probably from Trumbull,[49] a few items regarding the early settlement
+of Hartford in 1635, which he used for the openings of his volumes; and
+then, omitting the early years of the war as unsuited to his purpose,
+selected for the dramatic climax the final hounding and defeat of
+Canonchet in 1675. A mysterious stranger, introduced as Submission,
+is employed in the _dénouement_ to warn the villagers of the final
+assault in which he meets his death. The reader of _The Spy_ and _The
+Pilot_, already acquainted with Cooper’s _method_ of introducing
+historical characters, had no difficulty in recognizing Goffe, the
+regicide.
+
+As an historical novel, _The Wept of Wish-ton-Wish_ was a failure.
+Cooper was too much a victim of his early bigoted training to
+enter with sympathy into the life of the Puritans. Their religious
+fanaticism combined with worldly discretion in exploiting the natives
+he illustrated repeatedly. The head and front of their offending he
+attributed to their hypocritical pastor, the Reverend Meek Wolfe, who
+may or may not have been intended as a caricature of Cotton Mather.
+On this incapacity of Cooper’s to depict the founders of New England,
+Professor Lounsbury has said: “Paradoxical as the assertion may seem,
+he was too much like the Puritans to do them justice;”[50] which
+Professor Erskine has wisely corrected by adding,[51] “In so far as
+Puritanism coincided with his nature, he portrayed it admirably in this
+novel; he lets the reader see the practical vigor, the exalted piety,
+and the domestic affection of Mark Heathcote and his comrades, for
+these virtues he can recognize, as he could recognize the common piety
+and the common sense of _The Pilgrim’s Progress_. But the mastering
+vision that burns like flame in the Puritan temper, impelling it to
+strenuous action, was entirely hidden to Cooper, if we can judge by
+his writings....” What further contributed to its failure, and is not
+so apparent unless approached from the standpoint of the historical
+novel is Cooper’s infelicity in dealing with manners so remote in
+time. What people wore, apart from broadswords, he failed to mention.
+His Wampanoags were fundamentally not different from the Hurons he
+presented in _The Last of the Mohicans_. As in no previous book he
+frequently lapsed into a strained circumlocutory style that appears to
+have been meant for the picturesque language of old romance.[52] The
+braggadocio with which the second volume, written in Paris, opened,
+together with the ill-temper displayed toward the Puritan type, was to
+bring Cooper into disfavor at home and abroad. As the next decade of
+his work was controversial, or upon European subjects, this chapter
+may well come to a close here, deferring the discussion of Cooper’s
+later, regional novels until some other time.
+
+In the decade from 1821 to 1831--his most fruitful period--Cooper was
+more consistently an historical novelist than has been recognized.
+In _The Spy_ he represented more fairly than contemporary historians
+the actual nature of the Revolutionary conflict. _The Pioneers_
+immortalized the passing of the frontier, while _The Pilot_ was our
+first historical novel of the sea. _Lionel Lincoln_ was an earnest of
+national romance, to which he returned in _The Wept of Wish-ton-Wish_.
+In _The Last of the Mohicans_ he set down memorably the passing of the
+first American. America was his theme, nothing more, nothing less. For
+this task he lacked the historical acumen of Scott. Of American history
+in general and of New York history, in particular, he had a tolerable
+understanding. His life had fortunately been sufficiently varied and
+representative not to necessitate getting up his local coloring with
+infinite toil. In one or two cases--so rapid were social changes--he
+could depend on aged eye-witnesses for a reasonably accurate idea of a
+former day.
+
+His American predecessors taught him practically nothing. From Scott
+he learned the general formula for his work. Like him he turned to
+native scene as the groundwork for his romance. From him, also, he
+learned to give larger place to romantic theme than to restoration of
+the past. From him he borrowed the ultraromantic hero and most of the
+conventional types of character that he repeated with little variation
+in successive novels.
+
+But all this was at the beginning. Once started he was less influenced
+by foreign authors and subjects than any of his contemporaries. In
+his first book he substituted for lairds, a pedlar, and in place of
+a castle he used the Wharton farm-house. Save for his delineation of
+certain types, his second book was completely indigenous. In his third,
+he outdid the Scotchman himself in giving the very life of the sea.
+The Gothic tradition which ran through much of Scott, Cooper retained
+only in _Lionel Lincoln_, finding a more rational substitute in the
+terror inspired by the Indians; and, in the mystery of the sea and the
+wilderness, a new source of awe. Because he was not steeped in history
+and because America’s brief existence did not make it necessary to
+delve into antiquity, he substituted adventure for archaism. He showed
+that “ivied walls, time-worn castles and gloomy dungeons, were not
+necessary to make a land of romance; that the war of the revolution
+rivalled, in romantic interest, the war of the crusaders; that the
+Indian warrior equally with the turbaned Saracen, was the theme of
+the romancer; and that heroes need not always be clad in iron mail,
+nor heroines have only knightly lovers sighing at their feet, or
+breaking lances and heads to attest their devotion.”[53] His was the
+romantic tale of adventure. That is not to say, however, that “his
+invention was not without a solid basis; he is not to be neglected as
+an historian.... No one fixed the current heroic traditions of his day
+more firmly to actual places.”[54]
+
+Cooper was prolix, as Scott was prolix, but that, it has been said, was
+a secret of his illusion. In technical faults Cooper’s work abounded;
+what he enjoyed was to walk cross-country, and little he cared whether
+his boots were polished or no. At its best his style had the rapid
+motion and color so much needed in the historical novel of action.
+Naturally a fighter, he could give his story the fire and life which
+such a novel should have. He wrote far better than was required of him.
+
+While he was not the historical novelist that Scott was, he was Scott’s
+most influential successor, and as Thackeray said, his country deserves
+well of him. For the epitome in fiction of early American life one
+goes not to Irving or Hawthorne but to Cooper. His representation of
+it as the conquest of nature by the pioneer has been considered so
+characteristic that the historical novel as he conceived it dominated
+the writing of American fiction practically up to the Civil War.
+
+
+
+
+VITA
+
+
+The author of this dissertation, Ernest E. Leisy, was born on a farm
+near Mound Ridge, Kansas, December 22, 1887. He was graduated from
+the two-year course of the Mound Ridge High School in 1906, taught
+public school the following year, attended Bethel College Academy at
+Newton, Kansas, from which he was graduated in 1909, taught public
+school in 1910–11, attended the University of Kansas, receiving
+his bachelor’s degree from this institution in 1913. He received a
+University Scholarship at Harvard where he did graduate work in English
+in 1913–14. From 1914 to 1918 he was Professor of English at Bethel
+College, Newton, Kansas, taking out one year, however, for graduate
+work in English at the University of Chicago, from which institution
+he received his Master’s degree. Since 1918 he has been an Instructor
+in English at the University of Illinois, devoting his spare time to
+study toward the doctor’s degree. He has published reviews in several
+journals and a short article in _Modern Language Notes_, but nothing of
+importance.
+
+
+
+
+FOOTNOTES
+
+
+[1] Any discussion of Cooper must go back to Lounsbury, T. R. _James
+Fenimore Cooper_, American Men of Letters series, Boston, 1883. W. B.
+Clymer’s _Cooper_ is mainly an abridgment of Lounsbury. _James Fenimore
+Cooper_ (1913) by Mary E. Philips supplies anecdotal information and
+pictures.
+
+[2] _Correspondence of James Fenimore Cooper._ Edited by his Grandson,
+James Fenimore Cooper. New Haven: Yale University Press. 1922.
+
+[3] Brownell, W. C. _American Prose Masters_, New York, 1909, p. 18.
+
+[4] How little encouragement was held out is best related by himself:
+“So little was expected from the publication of an original work of
+this description, at the time that it was written, that the first
+volume of _The Spy_ was actually printed several months before the
+author felt a sufficient inducement to write a line of the second....
+As the second volume was slowly printing, from manuscript that was
+barely dry when it went into the compositor’s hands, the publisher
+intimated that the work might grow to a length that would consume
+the profits. To set his mind at rest, the last chapter was actually
+written, printed, and paged, several weeks before the chapters which
+preceded it were even thought of.”
+
+[5] Loshe, L. D. _The Early American Novel_, New York, 1907, pp. 83–84.
+
+[6] See Riverside edition, p. 21. “The recent fate of Andre has created
+much irritation on both sides.” Cf. also pp. 68, 208, 298, 301.
+
+[7] Brownell, W. C. _op. cit._, p. 14.
+
+[8] Van Doren, Carl, _op. cit._, p. 28.
+
+[9] See Fisher, Sidney G. _The Legendary and Myth-Making Process in
+Histories of the American Revolution_; Proceedings of the American
+Philosophical Soc., Vol. LI, No. 204, April–June, 1912. See also
+references in footnote 29, page 27 of this thesis.
+
+[10] Van Doren, Carl, _op. cit._, p. 15.
+
+[11] For the attitude of English critics toward American writings see
+Cairns, W. B. _British Criticisms of American Writings, 1815–1833_,
+University of Wisconsin Studies in Language and Literature, No. 14.
+Madison, 1922.
+
+[12] Erskine, John, _op. cit._, p. 65.
+
+[13] _The Pioneers_ (Houghton Mifflin ed.). Introduction, xxxiii,
+states Cooper’s intention to generalize; it further states his theory
+of fiction: “Rigid adhesion to truth, an indispensable requisite in
+history and travels, destroys the charm of fiction; for all that is
+necessary to be conveyed to the mind by the latter had better be done
+by delineations of principles, and of characters in their classes, than
+by a too fastidious attention to originals.”
+
+[14] Richard Jones, a hanger-on, who conceals his dependent state by a
+kind of horse-play raillery of his patron and occasionally mixes toddy
+evidently was taken over from the bachelor in _Bracebridge Hall_.
+
+[15] Van Doren, _op. cit._, p. 30.
+
+[16] _Introduction_, xxxvii, note: “Though forests still crown the
+mountains of Otsego, the bear, the wolf, and the panther are nearly
+strangers to them.” See also p. 35.
+
+[17] Introduction to _The Pioneers_, i.
+
+[18] That this was already realized may be seen from the review in _The
+North American Review_, 15:250.
+
+[19] _Portifolio_ 15 (1823) 230: “Natty Bumppo, ... we think, has been
+modelled from the effigies of old Daniel Boone, who abandoned the
+society of his kindred and built a hut among the Indians; and persisted
+in moving further into the interior as civilization invaded his wild
+domains.... It might indeed be called _historical_; for the historian
+can scarcely find a more just and vivid delineation of the first
+settlements of our wilderness.”
+
+[20] See Chapter V.
+
+[21] Not only did he write five sea novels, a _History of the Navy_,
+and articles about the navy, but even in his land novels sailors were
+frequently introduced, and _The Prairie_, for example, is viewed as a
+sea of sand upon which the prairie schooners sail. _The Pathfinder_
+makes use of his experiences upon Lake Ontario.
+
+[22] Introduction to _The Pilot_, xv.
+
+[23] _Atlantic Monthly_, 100:337.
+
+[24] Conrad, Joseph. _Notes on Life and Letters_ (1921), p. 78. The
+entire article, “Tales of the Sea,” should be read for its tribute to
+Cooper’s insight into the poetry of the sea.
+
+[25] _North American Review_, 1824:314, “By implicating the tale with
+our naval history, the author possesses himself of one of the few
+positions from which our national enthusiasm is accessible.”
+
+[26] Introduction, xxii.
+
+[27] Erskine, _op. cit._, p. 71. As early as 1800 there had appeared
+_The Life and History of Paul Jones, the English Corsair_. See Seitz,
+Don C. _Paul Jones, a complete bibliography_. New York (1917).
+
+[28] How much this book has been neglected may be inferred from the
+fact that Lounsbury gives it but two paragraphs: Erskine cuts these
+down to one, and others are content with one condemnatory sentence.
+
+[29] Lounsbury, T. R. _op. cit._, p. 49.
+
+[30] Van Doren, _op. cit._, p. 32.
+
+[31] _Southern Literary Messenger_, 1838:375, speaks of _Lionel
+Lincoln’s_ popularity as unprecedented. “It was this production that
+created in Boston and throughout New England, a popularity for Mr.
+Cooper’s works, at one period so great, as to become among novel
+readers, almost a mania.” Cf. _U. S. Literary Gazette_ I:340; _North
+American Review_ 23:154.
+
+[32] Introduction to _The Last of the Mohicans_, p. xviii. How
+seriously the subject took hold of Cooper his daughter elsewhere
+records: In her childhood there was nearly always an Indian book on her
+father’s table.
+
+[33] _North American Review_, 26:373.
+
+[34] Preface to _The Deerslayer_.
+
+[35] See Appendix C.
+
+[36] _Last of the Mohicans_, Riverside ed., p. 133.
+
+[37] _The Nation_, 112:255.
+
+[38] _Roundabout Papers._
+
+[39] Erskine, pp. 80–81. This view is suggested by Cooper’s own note to
+his text, Riverside ed., p. 4.
+
+[40] Erskine, p. 81. “A beautiful conception of old-world grace and
+courtliness, which Cooper must have drawn with affection,” Erskine
+remarks, “yet with all of Montcalm’s adroitness, his management of the
+Indians and his tact in treating with a conquered foe--the reader is
+made to feel the moral slipperiness which the hearty Englishman resents
+with a national distrust of French traditional perfidy.”
+
+[41] Riverside ed. _Last of the Mohicans_, pp. 211–12. Cooper’s only
+comment that I can find on the relation of the sister muses.
+
+[42] Dwight, Timothy. _Travels in New England and New York_ (1821),
+III, 362–376. After stating that Montcalm made no reasonable effort to
+check the Indians, he emphasizes the timidity and imbecility of Webb
+who lay at Fort Edward with 6,000 men, doing nothing. Dwight narrates
+as from Captain Noble, who was present, that when Sir William Johnson
+would gather volunteers from Webb’s garrison to proceed to Munroe’s
+assistance, Webb forbade it. Cooper’s rendering of the massacre is
+sharply criticized by Martin in his _Montcalm en Canada_, chaps. 4 and
+5. Cf. also Rameau, _La France aux Colonies_, II, p. 306; _N. H. Prov.
+Papers_, VI, 604, 605, and Stone, W. L. _Life and Times of Johnson_.
+
+[43] Phillips, Mary E. _James Fenimore Cooper_ (1912), p. 129.
+
+[44] Introduction to _Last of the Mohicans_, p. xviii.
+
+[45] The analogy which the spectacle afforded in Cooper’s mind to the
+conquest of Canaan, has not been commented upon, but a case can be
+made for it from the biblical names he for the first time applied to
+nearly all the characters; from the bee-hunter in his land of honey,
+the encounters with the “Ishmaelites of the plains,” the Sioux, the
+stampede of the buffalo furnishing the terror of wild beasts, and the
+problem of the Red Sea transformed into that of prairie fire, with
+Leatherstocking the Moses to show how to circumvent this difficulty.
+
+[46] This was fitting for an old man. Thackeray pronounced
+Leatherstocking the greatest character created in Fiction since the
+_Don Quixote_ of Cervantes and he thought the death scene in _The
+Prairie_, in which the old trapper said “Here!” as surpassing anything
+he had met in English literature. Phillips, 1621. Thackeray imitated
+this scene in Colonel Newcome’s “Adsum!”
+
+[47] For a full discussion of these, see next chapter.
+
+[48] Like many other romantic stories, it rests upon insufficient
+authority, Cf. Fiske, John. _The Beginnings of New England_, p.
+218; “The story rests chiefly upon the statements of Hutchinson, an
+extremely careful and judicious writer.... Goffe kept a diary which
+came into Hutchinson’s possession.... A paramount regard for Goffe’s
+personal safety would quite account for the studied silence of
+contemporary writers like Hubbard and Increase Mather.”
+
+[49] _The Wept of Wish-ton-Wish_, Preface. (Houghton Mifflin ed.), p.
+xi.
+
+[50] Lounsbury, _op. cit._, p. 75.
+
+[51] Erskine, _op. cit._, p. 92.
+
+[52] For example, “the kine had yielded their nightly tribute,” used
+four times. “Smoke” is called “the vapor that rolled upward;” a child
+is always spoken of as “the cherub,” etc.
+
+[53] _Southern Literary Messenger_, 1838:373.
+
+[54] _The Cambridge History of American Literature_, I, p. 306.
+
+
+
+
+Transcriber’s Notes
+
+
+Punctuation, hyphenation, and spelling were made consistent when a
+predominant preference was found in the original book; otherwise they
+were not changed.
+
+Simple typographical errors were corrected; unbalanced quotation
+marks were remedied when the change was obvious, and otherwise left
+unbalanced.
+
+Footnotes, originally at the bottoms of the pages that referenced them,
+have been collected and placed at the end of the book.
+
+The illustration on the Title page is the university press's logo.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE AMERICAN HISTORICAL NOVEL (ON AMERICAN THEMES) BEFORE 1860 ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

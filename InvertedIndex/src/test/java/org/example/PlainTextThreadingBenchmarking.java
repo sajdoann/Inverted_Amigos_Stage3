@@ -25,7 +25,7 @@ public class PlainTextThreadingBenchmarking {
 
     @State(Scope.Thread)
     public static class Operands{
-        @Param({"1", "2", "4", "8", "16"}) // Define los tamaños de matriz que quieres probar
+        @Param({"8", "16"}) // Define los tamaños de matriz que quieres probar
         private int numThreads;
 
     }

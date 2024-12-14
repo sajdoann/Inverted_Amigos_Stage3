@@ -36,6 +36,7 @@ public class PlainTextDatamartWriter implements DatamartWriter {
 
     }
     private void writeOnFile(String word, String bookID, String appearances){
+        if (word.equals("aux")){word="aux_";}
         File file = new File(String.format(this.datamart, word));
         if (!file.exists()){
             try {
