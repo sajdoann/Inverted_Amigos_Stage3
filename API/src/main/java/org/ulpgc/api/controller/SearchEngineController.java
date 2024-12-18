@@ -24,11 +24,12 @@ public class SearchEngineController implements SearchEngineControllerInterface {
             @RequestParam String word,
             @RequestParam(required = false) String title,
             @RequestParam(required = false) String author,
-            @RequestParam(required = false) String date,
+            @RequestParam(required = false) String from,
+            @RequestParam(required = false) String to,
             @RequestParam(required = false) String language
     ) {
         String[] words = word.split(" ");
-        return searchEngine.searchForMultiplewithCriteria(indexer, words, title, author, date, language);
+        return searchEngine.searchForMultiplewithCriteria(words, title, author, from, to, language);
     }
 
     @Override
@@ -37,5 +38,14 @@ public class SearchEngineController implements SearchEngineControllerInterface {
             @RequestParam Integer textId,
             @RequestParam Integer wordPos) {
         return searchEngine.getPartOfBookWithWord(textId, wordPos);
+    }
+
+    @GetMapping("/documents/{words}")
+    public MultipleWordResponseList getDocumentsWords(
+            @PathVariable String words,
+            @RequestParam(required=False) Integer from,
+            @RequestParam(required=False) Integer to,
+            @RequestParam(required=False) String author) {
+        return searchEngine.searchForMultiple()
     }
 }

@@ -24,12 +24,13 @@ public class HazelQueryEngineExample {
         String indexer = ""; // Currently unused
         String title = null; // Placeholder
         String author = null; // Placeholder
-        String date = null; // Placeholder
+        String from = null; // Placeholder
+        String to = null;
         String language = null; // Placeholder
 
         // Perform a search
         System.out.println("Performing search...");
-        MultipleWordsResponseList searchResults = queryEngine.searchForMultiplewithCriteria(indexer, searchWords, title, author, date, language);
+        MultipleWordsResponseList searchResults = queryEngine.searchForMultiplewithCriteria(searchWords, title, author, from, to, language);
 
         // Display the search results
         System.out.println("Search results:");
