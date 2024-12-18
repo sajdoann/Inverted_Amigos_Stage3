@@ -35,7 +35,6 @@ public class HazelQueryEngineExample {
         System.out.println("Search results:");
         searchResults.getResults().forEach(result -> {
             System.out.println("Book ID: " + result.getBookId());
-            System.out.println("Word: " + result.getWord());
             System.out.println("Positions: " + result.getPositions());
         });
 

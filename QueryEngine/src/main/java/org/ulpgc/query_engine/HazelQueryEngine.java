@@ -23,7 +23,7 @@ public class HazelQueryEngine implements SearchEngineInterface {
         this.config = new Config();
         config.getNetworkConfig().getInterfaces()
                         .setEnabled(true)
-                .addInterface("192.168.200.217"); // check your IP add yours! todo: make this work for lab computers
+                        .addInterface("10.195.239.240"); // check your IP add yours! todo: make this work for lab computers
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(true);
         this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);
         this.map = hazelcastInstance.getMap("datamart-map");
@@ -65,15 +65,11 @@ public class HazelQueryEngine implements SearchEngineInterface {
     }
 
     @Override
-    public MultipleWordsResponseList searchForBooksWithMultipleWords(String[] words, String indexer) {
-        return null;
-    }
-
-    /* Search using Hazelcast */
-    @Override
     public MultipleWordsResponseList searchForMultiplewithCriteria(String indexer, String[] words, String title, String author, String date, String language) {
         // Filter criteria are placeholder as there is no direct mapping for title, author, date, or language in the datamart.
         MultipleWordsResponseList responseList = new MultipleWordsResponseList();
+        Map<Integer, Map<String, List<Integer>>> bookWordPositionsMap = new HashMap<>();
+
         for (String word : words) {
             Object value = map.get(word);
             if (value instanceof Map<?, ?> occurrencesMap) {
@@ -82,10 +78,21 @@ public class HazelQueryEngine implements SearchEngineInterface {
                     List<Integer> positionList = Arrays.stream((int[]) positions)
                             .boxed()
                             .collect(Collectors.toList());
-                    responseList.addResult((Integer) bookId, word, positionList);
+
+                    // Get or create the word-positions map for the book
+                    bookWordPositionsMap.computeIfAbsent((Integer) bookId, k -> new HashMap<>())
+                            .put(word, positionList);
                 });
             }
         }
+
+        // Add results to the response list
+        bookWordPositionsMap.forEach((bookId, wordPositionsMap) ->
+                responseList.addResult(bookId, wordPositionsMap)
+        );
+
+        // implement filtering
+
         return responseList;
     }
 

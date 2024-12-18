@@ -19,7 +19,6 @@ public interface SearchEngineInterface {
         }
     }
 
-    public MultipleWordsResponseList searchForBooksWithMultipleWords(String[] words, String indexer);
     public MultipleWordsResponseList searchForMultiplewithCriteria(String indexer, String[] words, String title, String author, String date, String language);
     public TextFragment getPartOfBookWithWord(Integer bookId, Integer wordId);
 }
