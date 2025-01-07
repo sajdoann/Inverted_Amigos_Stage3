@@ -5,8 +5,8 @@ public interface SearchEngineInterface {
         ID("ID"),
         TITLE("Title"),
         AUTHOR("Author"),
-        FROM("Release Date"),
-        TO("Release date"),
+        FROM("Date"),
+        TO("Date"),
         LANGUAGE("Language");
 
         private final String value;

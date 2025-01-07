@@ -24,8 +24,8 @@ public class HazelQueryEngineExample {
         String indexer = ""; // Currently unused
         String title = null; // Placeholder
         String author = null; // Placeholder
-        String from = null; // Placeholder
-        String to = null;
+        String from = "2008"; // Placeholder
+        String to = "2010";
         String language = null; // Placeholder
 
         // Perform a search
@@ -39,10 +39,10 @@ public class HazelQueryEngineExample {
             System.out.println("Positions: " + result.getPositions());
         });
 
-        // Example: Get part of a book containing a specific word
-        Integer bookId = 1; // Replace with a valid book ID
-        Integer wordId = 42; // Replace with a valid word ID
-        TextFragment fragment = queryEngine.getPartOfBookWithWord(bookId, wordId);
-        System.out.println("Text fragment: " + fragment.getText());
+//        // Example: Get part of a book containing a specific word
+//        Integer bookId = 1; // Replace with a valid book ID
+//        Integer wordId = 42; // Replace with a valid word ID
+//        TextFragment fragment = queryEngine.getPartOfBookWithWord(bookId, wordId);
+//        System.out.println("Text fragment: " + fragment.getText());
     }
 }

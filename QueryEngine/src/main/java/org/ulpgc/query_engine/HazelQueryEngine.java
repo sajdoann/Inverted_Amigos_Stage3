@@ -9,6 +9,8 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -27,7 +29,7 @@ public class HazelQueryEngine implements SearchEngineInterface {
         this.config = new Config();
         config.getNetworkConfig().getInterfaces()
                         .setEnabled(true)
-                        .addInterface("10.195.239.240"); // check your IP add yours! todo: make this work for lab computers
+                        .addInterface("192.168.1.139"); // check your IP add yours! todo: make this work for lab computers
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(true);
         this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);
         this.map = hazelcastInstance.getMap("datamart-map");
@@ -149,23 +151,42 @@ public class HazelQueryEngine implements SearchEngineInterface {
                     // Check if book ID in metadata matches the result book ID
                     if (metadataBookId.equals(bookId)) {
                         String fieldValue = book.get(targetField);
-                        // todo: add for "to" "from" for date
+                        if (targetField.equals("Date")) {
+                            int bookYear = extractYear(fieldValue);
+                            if (field == Field.FROM) {
+                                if (bookYear < Integer.parseInt(value)) break;
+                            }
+                            if (field == Field.TO) {
+                                if (bookYear > Integer.parseInt(value)) break;
+                            }
+                            filteredResults.addResult(bookId, positions);
+                        }
                         // Check if the target field value contains the search string
-                        if (fieldValue != null && fieldValue.toLowerCase().contains(value.toLowerCase())) {
+                        else if (fieldValue != null && fieldValue.toLowerCase().contains(value.toLowerCase())) {
                             filteredResults.addResult(bookId, positions);
                         }
                         break; // Stop searching the metadata for the current bookId
                     }
                 } catch (NumberFormatException e) {
                     System.err.println("Invalid ID format in metadata: " + bookIdString);
+                } catch (ParseException e) {
+                    System.err.println("Invalid date format in metadata for: " + bookIdString);
                 }
             }
         }
         return filteredResults;
     }
 
+    private int extractYear(String stringDate) throws ParseException {
+        SimpleDateFormat formatter = new SimpleDateFormat("MMM d, yyyy");
+        Date date = formatter.parse(stringDate);
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(date);
+        return calendar.get(Calendar.YEAR);
+    }
+
     private void loadMetadataFromFile(File metadataFile) {
-        Pattern pattern = Pattern.compile("(\\w+)\\s*:\\s*([^,]+)");
+        Pattern pattern = Pattern.compile("(\\w+)\\s*:\\s*((?:\\w+\\s+\\d{1,2},\\s+\\d{4})|[^,]+)");
         metadata = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(metadataFile))) {
             String line;
