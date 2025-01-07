@@ -40,10 +40,13 @@ public class SearchEngineController implements SearchEngineControllerInterface {
     @GetMapping("/documents/{word}")
     public MultipleWordsResponseList getDocumentsWords(
             @PathVariable String word,
+            @RequestParam(required = false) String author,
             @RequestParam(required=false) String from,
-            @RequestParam(required=false) String to) {
+            @RequestParam(required=false) String to,
+            @RequestParam(required=false) String language,
+            @RequestParam(required=false) String title) {
         String[] words = word.split("\\+");
         System.out.println(Arrays.toString(words));
-        return searchEngine.searchForMultiplewithCriteria(words, null, null, from, to, null);
+        return searchEngine.searchForMultiplewithCriteria(words, title, author, from, to, language);
     }
 }

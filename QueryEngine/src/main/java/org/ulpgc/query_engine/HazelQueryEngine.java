@@ -145,7 +145,6 @@ public class HazelQueryEngine implements SearchEngineInterface {
     }
 
     private MultipleWordsResponseList filterWithMetadata(MultipleWordsResponseList results, Field field, String value) {
-        // Load metadata if it hasn't been loaded already
         if (metadata == null || metadata.isEmpty()) {
             File metadataFile = new File(System.getProperty("user.dir"), PATH_TO_METADATA);
             loadMetadataFromFile(metadataFile);
