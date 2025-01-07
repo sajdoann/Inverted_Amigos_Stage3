@@ -13,10 +13,10 @@ import java.util.regex.Pattern;
 public class CrawlerThread implements ICrawler {
     private final String baseUrl = "https://www.gutenberg.org";
     private final String outputDir = "gutenberg_books";
-    private final ExecutorService executor; // Pool de hilos
+    private final ExecutorService executor;
 
     public CrawlerThread() {
-        this.executor = Executors.newFixedThreadPool(10); // Crea un pool con 10 hilos
+        this.executor = Executors.newFixedThreadPool(10);
         createOutputDirectory(outputDir);
     }
 
@@ -47,7 +47,7 @@ public class CrawlerThread implements ICrawler {
     }
 
     private void saveMetadata(String id, String title, String author, String releaseDate, String language) {
-        synchronized (this) { // Sincronización para evitar conflictos al escribir en el archivo
+        synchronized (this) {
             try (BufferedWriter writer = new BufferedWriter(new FileWriter("gutenberg_data.txt", true))) {
                 writer.write("ID: " + id + ", Title: " + title + ", Author: " + author +
                         ", Release Date: " + releaseDate + ", Language: " + language + "\n");
@@ -130,7 +130,6 @@ public class CrawlerThread implements ICrawler {
             for (Element link : bookLinks) {
                 if (count >= n) break;
 
-                // Ejecutar cada descarga en un hilo del pool
                 String bookLink = link.attr("href");
                 executor.submit(() -> downloadBook(bookLink));
 

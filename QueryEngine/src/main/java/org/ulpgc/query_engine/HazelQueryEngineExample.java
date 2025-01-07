@@ -1,5 +1,6 @@
 package org.ulpgc.query_engine;
 
+import com.hazelcast.map.IMap;
 import java.util.Scanner;
 
 public class HazelQueryEngineExample {
@@ -7,14 +8,11 @@ public class HazelQueryEngineExample {
     public static void main(String[] args) {
         HazelQueryEngine queryEngine = new HazelQueryEngine();
 
-        String datamartDirectory = "datamart2";
+        // Cargar datos
+        queryEngine.maps_size();
 
-        System.out.println("Loading data from " + datamartDirectory + " into Hazelcast...");
-        queryEngine.loadData(datamartDirectory);
-        System.out.println("Data loading complete.");
-
+        // Interacción con el usuario
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Bienvenido al motor de búsqueda interactivo. Escribe 'salir' para terminar.");
 
         while (true) {
@@ -46,3 +44,4 @@ public class HazelQueryEngineExample {
         scanner.close();
     }
 }
+

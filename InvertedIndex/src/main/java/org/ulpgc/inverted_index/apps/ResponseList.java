@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 public class ResponseList implements Serializable {
-    private List<Map.Entry<Integer, List<Integer>>> results = new ArrayList<Map.Entry<Integer, List<Integer>>>();
+    private List<Map.Entry<Integer, List<Integer>>> results = new ArrayList<>();
 
     public ResponseList() {}
 
@@ -24,5 +24,13 @@ public class ResponseList implements Serializable {
 
     public void addResult(Map.Entry<Integer, List<Integer>> result) {
         this.results.add(result);
+    }
+
+    public List<Integer> getPositions() {
+        List<Integer> positions = new ArrayList<>();
+        for (Map.Entry<Integer, List<Integer>> entry : results) {
+            positions.addAll(entry.getValue());
+        }
+        return positions;
     }
 }

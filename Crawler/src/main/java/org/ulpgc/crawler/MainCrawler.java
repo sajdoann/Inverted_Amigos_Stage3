@@ -14,9 +14,7 @@ public class MainCrawler {
             long endThread = System.nanoTime();
             results[i][0] = (endThread - startThread) / 1_000_000_000.0;
 
-//            CrawlerSerial crawlerSerial = new CrawlerSerial();
             long startSerial = System.nanoTime();
-//            crawlerSerial.fetchBooks(n);
             long endSerial = System.nanoTime();
             results[i][1] = (endSerial - startSerial) / 1_000_000_000.0;
         }
