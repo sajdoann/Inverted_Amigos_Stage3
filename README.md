@@ -5,7 +5,7 @@ if you have time.... there is stuff that needs to be done 😇:
 - [ ] Optimize the filePerWordInvertedIndex by using threads (Eduardo will take that part)
 - [ ] index those 2000 books (Eduardo will take that part once he has the books)
 - [ ] figure out git compose
-- [ ] connnect hazelcast with API
+- [x] connnect hazelcast with API
 - [ ] setup nginx (Eduardo will take that. Note: it should not take too much but it depends on the IP of the computers' lab and the port in which the API will be operating)
 - [x] figure out automatic changing of IP adresses so computers would connect at the same network (fe parameter for docker image) <- wildcard works 192.168.186.*
 - [ ] check if hazelcast handels 2000 books (should, but?)
