@@ -8,6 +8,8 @@ import org.ulpgc.query_engine.HazelQueryEngine;
 import org.ulpgc.query_engine.MultipleWordsResponseList;
 import org.ulpgc.query_engine.TextFragment;
 
+import java.util.Arrays;
+
 @RestController
 public class SearchEngineController implements SearchEngineControllerInterface {
 
@@ -15,20 +17,8 @@ public class SearchEngineController implements SearchEngineControllerInterface {
 
     public SearchEngineController() {
         this.searchEngine = new HazelQueryEngine();
-    }
-
-    @Override
-    @GetMapping("/search/{indexer}")
-    public MultipleWordsResponseList getSearchResultsMultiple(
-            @PathVariable String indexer,
-            @RequestParam String word,
-            @RequestParam(required = false) String title,
-            @RequestParam(required = false) String author,
-            @RequestParam(required = false) String date,
-            @RequestParam(required = false) String language
-    ) {
-        String[] words = word.split(" ");
-        return searchEngine.searchForMultiplewithCriteria(indexer, words, title, author, date, language);
+        this.searchEngine.loadData("datamart2");
+        System.out.println("Loaded data into the memory");
     }
 
     @Override
@@ -37,5 +27,15 @@ public class SearchEngineController implements SearchEngineControllerInterface {
             @RequestParam Integer textId,
             @RequestParam Integer wordPos) {
         return searchEngine.getPartOfBookWithWord(textId, wordPos);
+    }
+
+    @GetMapping("/documents/{word}")
+    public MultipleWordsResponseList getDocumentsWords(
+            @PathVariable String word,
+            @RequestParam(required=false) String from,
+            @RequestParam(required=false) String to) {
+        String[] words = word.split("\\+");
+        System.out.println(Arrays.toString(words));
+        return searchEngine.searchForMultiplewithCriteria(words, null, null, from, to, null);
     }
 }
