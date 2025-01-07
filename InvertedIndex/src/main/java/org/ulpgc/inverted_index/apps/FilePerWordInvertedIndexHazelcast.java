@@ -23,7 +23,13 @@ public class FilePerWordInvertedIndexHazelcast {
         this.books = new File(books);
         this.tokenizer = tokenizer;
 
-        HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance();
+        Config config = new Config();
+        config.getNetworkConfig().getInterfaces()
+                .setEnabled(true)
+                .addInterface("192.168.191.*"); // Ajustar IP para entorno de laboratorio
+        config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(true);
+
+        HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
 
         this.indexedMap = hazelcastInstance.getMap("indexedMap");
         this.wordToBookMap = hazelcastInstance.getMultiMap("wordToBookMap");
@@ -107,7 +113,6 @@ public class FilePerWordInvertedIndexHazelcast {
 
     public static void main(String[] args) {
         String booksDirectory = "gutenberg_books";
-        String indexedFile = "InvertedIndex/indexed_docs2.txt";
 
         GutenbergTokenizer tokenizer = new GutenbergTokenizer("InvertedIndex/stopwords.txt");
 

@@ -3,10 +3,18 @@ package org.ulpgc.query_engine;
 import com.hazelcast.config.Config;
 import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
+import com.hazelcast.internal.json.ParseException;
 import com.hazelcast.map.IMap;
 import com.hazelcast.multimap.MultiMap;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 public class HazelQueryEngine implements SearchEngineInterface {
@@ -16,6 +24,9 @@ public class HazelQueryEngine implements SearchEngineInterface {
     private final MultiMap<String, Integer> wordBookToPositionsMap; // word|bookId -> positions
 
     private IMap<String, Boolean> indexedMap;
+
+    private List<Map<String, String>> metadata;
+    private static final String PATH_TO_METADATA = "gutenberg_data.txt";
 
     public HazelQueryEngine() {
         Config config = new Config();
@@ -30,6 +41,10 @@ public class HazelQueryEngine implements SearchEngineInterface {
         this.wordBookToPositionsMap = hazelcastInstance.getMultiMap("wordBookToPositionsMap");
 
         this.indexedMap = hazelcastInstance.getMap("indexedMap");
+
+        File metadataFile = new File(System.getProperty("user.dir"), PATH_TO_METADATA);
+        loadMetadataFromFile(metadataFile);
+        System.out.println("Metadata loaded");
     }
 
     public void maps_size() {
@@ -45,15 +60,10 @@ public class HazelQueryEngine implements SearchEngineInterface {
         return wordBookToPositionsMap.get(word + "|" + bookId);
     }
 
-    @Override
-    public MultipleWordsResponseList searchForBooksWithMultipleWords(String[] words, String indexer) {
-        return searchForMultiplewithCriteria(indexer, words, null, null, null, null);
-    }
-
-    /* Search using Hazelcast */
+    /*
     @Override
     public MultipleWordsResponseList searchForMultiplewithCriteria(
-            String indexer, String[] words, String title, String author, String date, String language) {
+            String[] words, String title, String author, String from, String to, String language) {
         // No hay filtros por title, author, date, o language en el MultiMap
         MultipleWordsResponseList responseList = new MultipleWordsResponseList();
 
@@ -66,7 +76,7 @@ public class HazelQueryEngine implements SearchEngineInterface {
                     String key = word + "|" + bookId;
                     Collection<Integer> positions = wordBookToPositionsMap.get(key);
 
-                    if (positions != null && !positions.isEmpty()) {
+                    if (!positions.isEmpty()) {
                         List<Integer> positionList = new ArrayList<>(positions);
                         responseList.addResult(bookId, word, positionList);
                     }
@@ -75,11 +85,153 @@ public class HazelQueryEngine implements SearchEngineInterface {
         }
         return responseList;
     }
+    */
 
-    /* Get a part of a book that contains the specified word */
+    private MultipleWordsResponseList searchForBooksWithMultipleWords(String[] words) {
+        MultipleWordsResponseList responseList = new MultipleWordsResponseList();
+        Map<Integer, Map<String, List<Integer>>> bookWordPositionsMap = new HashMap<>();
+
+        for (String word : words) {
+            // Obtener todos los libros que contienen la palabra
+            Collection<Integer> bookIds = wordToBookMap.get(word);
+            if (bookIds != null) {
+                for (Integer bookId : bookIds) {
+                    // Construir la clave para wordBookToPositionsMap
+                    String key = word + "|" + bookId;
+
+                    Collection<Integer> positions = wordBookToPositionsMap.get(key);
+                    if (positions != null) {
+                        // Convertir las posiciones en lista
+                        List<Integer> positionList = new ArrayList<>(positions);
+
+                        // Obtener o crear el mapa de posiciones por palabra para el libro
+                        bookWordPositionsMap.computeIfAbsent(bookId, k -> new HashMap<>())
+                                .put(word, positionList);
+                    }
+                }
+            }
+        }
+
+        bookWordPositionsMap.forEach((bookId, wordPositionsMap) -> {
+            if (wordPositionsMap.keySet().containsAll(Arrays.asList(words))) {
+                responseList.addResult(bookId, wordPositionsMap);
+            }
+        });
+
+        return responseList;
+    }
+    @Override
+    public MultipleWordsResponseList searchForMultiplewithCriteria(String[] words, String title, String author, String from, String to, String language) {
+        // Filter criteria are placeholder as there is no direct mapping for title, author, date, or language in the datamart.
+        MultipleWordsResponseList responseList = searchForBooksWithMultipleWords(words);
+        // implement filtering
+        if (title != null) {
+            responseList = filterWithMetadata(responseList, Field.TITLE, title);
+        }
+        if (author != null) {
+            responseList = filterWithMetadata(responseList, Field.AUTHOR, author);
+        }
+        if (from != null) {
+            responseList = filterWithMetadata(responseList, Field.FROM, from);
+        }
+        if (to != null) {
+            responseList = filterWithMetadata(responseList, Field.TO, to);
+        }
+        if (language != null) {
+            responseList = filterWithMetadata(responseList, Field.LANGUAGE, language);
+        }
+
+        return responseList;
+    }
+
+    private MultipleWordsResponseList filterWithMetadata(MultipleWordsResponseList results, Field field, String value) {
+        // Load metadata if it hasn't been loaded already
+        if (metadata == null || metadata.isEmpty()) {
+            File metadataFile = new File(System.getProperty("user.dir"), PATH_TO_METADATA);
+            loadMetadataFromFile(metadataFile);
+        }
+
+        MultipleWordsResponseList filteredResults = new MultipleWordsResponseList();
+        String targetField = field.getValue();
+
+        for (SearchResultsMW obj : results.getResults()) {
+
+            Integer bookId = obj.getBookId();
+            Map<String, List<Integer>> positions = obj.getPositions();
+
+            for (Map<String, String> book : metadata) {
+                String bookIdString = book.get("ID");
+
+                if (bookIdString == null || bookIdString.isEmpty()) {
+                    System.err.println("Metadata entry with missing or empty ID.");
+                    continue; // Skip to the next book in metadata if ID is missing
+                }
+
+                try {
+                    Integer metadataBookId = Integer.parseInt(bookIdString);
+
+                    // Check if book ID in metadata matches the result book ID
+                    if (metadataBookId.equals(bookId)) {
+                        String fieldValue = book.get(targetField);
+                        if (targetField.equals("Date")) {
+                            int bookYear = extractYear(fieldValue);
+                            if (field == Field.FROM) {
+                                if (bookYear < Integer.parseInt(value)) break;
+                            }
+                            if (field == Field.TO) {
+                                if (bookYear > Integer.parseInt(value)) break;
+                            }
+                            filteredResults.addResult(bookId, positions);
+                        }
+                        // Check if the target field value contains the search string
+                        else if (fieldValue != null && fieldValue.toLowerCase().contains(value.toLowerCase())) {
+                            filteredResults.addResult(bookId, positions);
+                        }
+                        break; // Stop searching the metadata for the current bookId
+                    }
+                } catch (NumberFormatException e) {
+                    System.err.println("Invalid ID format in metadata: " + bookIdString);
+                } catch (ParseException | java.text.ParseException e) {
+                    System.err.println("Invalid date format in metadata for: " + bookIdString);
+                }
+            }
+        }
+        return filteredResults;
+    }
+
+    private int extractYear(String stringDate) throws ParseException, java.text.ParseException {
+        SimpleDateFormat formatter = new SimpleDateFormat("MMM d, yyyy");
+        Date date = formatter.parse(stringDate);
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(date);
+        return calendar.get(Calendar.YEAR);
+    }
+
+    private void loadMetadataFromFile(File metadataFile) {
+        Pattern pattern = Pattern.compile("(\\w+)\\s*:\\s*((?:\\w+\\s+\\d{1,2},\\s+\\d{4})|[^,]+)");
+        metadata = new ArrayList<>();
+        try (BufferedReader reader = new BufferedReader(new FileReader(metadataFile))) {
+            String line;
+
+            while ((line = reader.readLine()) != null) {
+                Map<String, String> bookData = new HashMap<>();
+                Matcher matcher = pattern.matcher(line);
+
+                while (matcher.find()) {
+                    String key = matcher.group(1);
+                    String value = matcher.group(2);
+                    bookData.put(key, value);
+                }
+
+                metadata.add(bookData);
+            }
+        } catch (IOException e) {
+            System.err.println("Error reading metadata file: " + e.getMessage());
+        }
+    }
+
     @Override
     public TextFragment getPartOfBookWithWord(Integer bookId, Integer wordId) {
-        // Placeholder: Esto requeriría acceder al contenido del libro por ID.
         return new TextFragment("Sample text containing word " + wordId + " in book " + bookId);
     }
 

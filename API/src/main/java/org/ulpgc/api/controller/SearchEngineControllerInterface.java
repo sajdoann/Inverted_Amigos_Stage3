@@ -9,16 +9,6 @@ import org.ulpgc.query_engine.TextFragment;
 
 @RestController
 public interface SearchEngineControllerInterface {
-    @GetMapping("/search/{indexer}")
-    MultipleWordsResponseList getSearchResultsMultiple(
-            @PathVariable String indexer,
-            @RequestParam String word,
-            @RequestParam(required = false) String title,
-            @RequestParam(required = false) String author,
-            @RequestParam(required = false) String date,
-            @RequestParam(required = false) String language
-    );
-
     @GetMapping("/text")
     TextFragment getTextFragment(
             @RequestParam Integer textId,

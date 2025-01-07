@@ -5,7 +5,8 @@ public interface SearchEngineInterface {
         ID("ID"),
         TITLE("Title"),
         AUTHOR("Author"),
-        RELEASE_DATE("Release Date"),
+        FROM("Date"),
+        TO("Date"),
         LANGUAGE("Language");
 
         private final String value;
@@ -19,7 +20,6 @@ public interface SearchEngineInterface {
         }
     }
 
-    public MultipleWordsResponseList searchForBooksWithMultipleWords(String[] words, String indexer);
-    public MultipleWordsResponseList searchForMultiplewithCriteria(String indexer, String[] words, String title, String author, String date, String language);
+    public MultipleWordsResponseList searchForMultiplewithCriteria(String[] words, String title, String author, String from, String to, String language);
     public TextFragment getPartOfBookWithWord(Integer bookId, Integer wordId);
 }

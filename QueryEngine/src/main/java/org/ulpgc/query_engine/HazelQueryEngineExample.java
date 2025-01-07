@@ -8,10 +8,8 @@ public class HazelQueryEngineExample {
     public static void main(String[] args) {
         HazelQueryEngine queryEngine = new HazelQueryEngine();
 
-        // Cargar datos
         queryEngine.maps_size();
 
-        // Interacción con el usuario
         Scanner scanner = new Scanner(System.in);
         System.out.println("Bienvenido al motor de búsqueda interactivo. Escribe 'salir' para terminar.");
 
@@ -27,14 +25,13 @@ public class HazelQueryEngineExample {
             String[] searchWords = input.split(",");
 
             System.out.println("Buscando palabras: " + String.join(", ", searchWords));
-            MultipleWordsResponseList results = queryEngine.searchForMultiplewithCriteria("", searchWords, null, null, null, null);
+            MultipleWordsResponseList results = queryEngine.searchForMultiplewithCriteria(searchWords, null, null, null, null, null);
 
             if (results.getResults().isEmpty()) {
                 System.out.println("No se encontraron resultados para las palabras especificadas.");
             } else {
                 results.getResults().forEach(result -> {
                     System.out.println("Book ID: " + result.getBookId());
-                    System.out.println("Word: " + result.getWord());
                     System.out.println("Positions: " + result.getPositions());
                 });
             }

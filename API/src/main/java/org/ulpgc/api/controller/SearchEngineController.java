@@ -4,9 +4,13 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.ulpgc.inverted_index.apps.FilePerWordInvertedIndexHazelcast;
+import org.ulpgc.inverted_index.implementations.GutenbergTokenizer;
 import org.ulpgc.query_engine.HazelQueryEngine;
 import org.ulpgc.query_engine.MultipleWordsResponseList;
 import org.ulpgc.query_engine.TextFragment;
+
+import java.util.Arrays;
 
 @RestController
 public class SearchEngineController implements SearchEngineControllerInterface {
@@ -15,20 +19,14 @@ public class SearchEngineController implements SearchEngineControllerInterface {
 
     public SearchEngineController() {
         this.searchEngine = new HazelQueryEngine();
-    }
+        String booksDirectory = "gutenberg_books";
 
-    @Override
-    @GetMapping("/search/{indexer}")
-    public MultipleWordsResponseList getSearchResultsMultiple(
-            @PathVariable String indexer,
-            @RequestParam String word,
-            @RequestParam(required = false) String title,
-            @RequestParam(required = false) String author,
-            @RequestParam(required = false) String date,
-            @RequestParam(required = false) String language
-    ) {
-        String[] words = word.split(" ");
-        return searchEngine.searchForMultiplewithCriteria(indexer, words, title, author, date, language);
+        GutenbergTokenizer tokenizer = new GutenbergTokenizer("InvertedIndex/stopwords.txt");
+
+        FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast(booksDirectory, tokenizer);
+
+        indexer.indexAll();
+        System.out.println("Loaded data into the memory");
     }
 
     @Override
@@ -37,5 +35,15 @@ public class SearchEngineController implements SearchEngineControllerInterface {
             @RequestParam Integer textId,
             @RequestParam Integer wordPos) {
         return searchEngine.getPartOfBookWithWord(textId, wordPos);
+    }
+
+    @GetMapping("/documents/{word}")
+    public MultipleWordsResponseList getDocumentsWords(
+            @PathVariable String word,
+            @RequestParam(required=false) String from,
+            @RequestParam(required=false) String to) {
+        String[] words = word.split("\\+");
+        System.out.println(Arrays.toString(words));
+        return searchEngine.searchForMultiplewithCriteria(words, null, null, from, to, null);
     }
 }
