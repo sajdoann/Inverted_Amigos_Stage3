@@ -31,21 +31,21 @@ public class SearchEngineBenchmark {
 
     @Benchmark
     public void testOneWordSearch() {
-        searchEngine.searchForMultiplewithCriteria(indexer, words1, null, null, null, null);
+        searchEngine.searchForMultiplewithCriteria(words1, null, null, null, null, null);
     }
 
     @Benchmark
     public void testTwoWordSearch() {
-        searchEngine.searchForMultiplewithCriteria(indexer, words2, null, null, null, null);
+        searchEngine.searchForMultiplewithCriteria(words2, null, null, null, null, null);
     }
 
     @Benchmark
     public void testOneWordWithFilter() {
-        searchEngine.searchForMultiplewithCriteria(indexer, words1, null, author, null, language);
+        searchEngine.searchForMultiplewithCriteria(words1, null, author, null, null, language);
     }
 
     @Benchmark
     public void testTwoWordWithFilter() {
-        searchEngine.searchForMultiplewithCriteria(indexer, words2, null, author, language, null);
+        searchEngine.searchForMultiplewithCriteria(words2, null, author, null, null, language);
     }
 }
