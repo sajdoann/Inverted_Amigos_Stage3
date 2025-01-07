@@ -91,9 +91,11 @@ public class HazelQueryEngine implements SearchEngineInterface {
         }
 
         // Add results to the response list
-        bookWordPositionsMap.forEach((bookId, wordPositionsMap) ->
-                responseList.addResult(bookId, wordPositionsMap)
-        );
+        bookWordPositionsMap.forEach((bookId, wordPositionsMap) -> {
+            if (wordPositionsMap.keySet().containsAll(Arrays.asList(words))) {
+                responseList.addResult(bookId, wordPositionsMap);
+            }
+        });
         return responseList;
     }
 
