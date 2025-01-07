@@ -1,5 +1,6 @@
 package org.ulpgc.query_engine;
 
+import java.util.List;
 import java.util.Scanner;
 
 public class HazelQueryEngineExample {
@@ -25,22 +26,31 @@ public class HazelQueryEngineExample {
                 System.out.println("Saliendo...");
                 break;
             }
+        // Define search criteria
+        String[] searchWords = {"winter"}; // Replace with actual words present in your datamart
+//        String indexer = ""; // Currently unused
+//        String title = null; // Placeholder
+//        String author = null; // Placeholder
+//        String from = "2008"; // Placeholder
+//        String to = "2010";
+//        String language = null; // Placeholder
 
-            String[] searchWords = input.split(",");
+        searchWords = input.split(",");
+
+        // Perform a search
+        System.out.println("Performing search...");
 
             System.out.println("Buscando palabras: " + String.join(", ", searchWords));
-            MultipleWordsResponseList results = queryEngine.searchForMultiplewithCriteria("", searchWords, null, null, null, null);
+            MultipleWordsResponseList results = queryEngine.searchForMultiplewithCriteria(searchWords, null, null, null, null, null);
 
             if (results.getResults().isEmpty()) {
                 System.out.println("No se encontraron resultados para las palabras especificadas.");
             } else {
                 results.getResults().forEach(result -> {
                     System.out.println("Book ID: " + result.getBookId());
-                    System.out.println("Word: " + result.getWord());
                     System.out.println("Positions: " + result.getPositions());
                 });
             }
-
             System.out.println(); // Línea en blanco para separar búsquedas
         }
         scanner.close();
