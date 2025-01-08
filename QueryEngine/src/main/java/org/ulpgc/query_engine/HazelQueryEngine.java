@@ -15,7 +15,6 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 
 public class HazelQueryEngine implements SearchEngineInterface {
 
@@ -23,16 +22,16 @@ public class HazelQueryEngine implements SearchEngineInterface {
     private final MultiMap<String, Integer> wordToBookMap; // word -> bookId
     private final MultiMap<String, Integer> wordBookToPositionsMap; // word|bookId -> positions
 
+    private final IMap<Integer, Map<String, String>> metadata; // bookId -> {title="asas", ...}
     private IMap<String, Boolean> indexedMap;
 
-    private List<Map<String, String>> metadata;
     private static final String PATH_TO_METADATA = "gutenberg_data.txt";
 
     public HazelQueryEngine() {
         Config config = new Config();
         config.getNetworkConfig().getInterfaces()
                 .setEnabled(true)
-                .addInterface("192.168.191.*"); // Ajustar IP para entorno de laboratorio
+                .addInterface("192.168.*.*"); // Ajustar IP para entorno de laboratorio
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(true);
 
         this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);
@@ -41,10 +40,7 @@ public class HazelQueryEngine implements SearchEngineInterface {
         this.wordBookToPositionsMap = hazelcastInstance.getMultiMap("wordBookToPositionsMap");
 
         this.indexedMap = hazelcastInstance.getMap("indexedMap");
-
-        File metadataFile = new File(System.getProperty("user.dir"), PATH_TO_METADATA);
-        loadMetadataFromFile(metadataFile);
-        System.out.println("Metadata loaded");
+        this.metadata = hazelcastInstance.getMap("metadata");
     }
 
     public void maps_size() {
@@ -59,33 +55,6 @@ public class HazelQueryEngine implements SearchEngineInterface {
     public Collection<Integer> searchWordPositionsInBook(String word, int bookId) {
         return wordBookToPositionsMap.get(word + "|" + bookId);
     }
-
-    /*
-    @Override
-    public MultipleWordsResponseList searchForMultiplewithCriteria(
-            String[] words, String title, String author, String from, String to, String language) {
-        // No hay filtros por title, author, date, o language en el MultiMap
-        MultipleWordsResponseList responseList = new MultipleWordsResponseList();
-
-        for (String word : words) {
-            // Buscar en el MultiMap wordToBookMap
-            if (wordToBookMap.containsKey(word)) {
-                Collection<Integer> bookIds = wordToBookMap.get(word);
-
-                for (Integer bookId : bookIds) {
-                    String key = word + "|" + bookId;
-                    Collection<Integer> positions = wordBookToPositionsMap.get(key);
-
-                    if (!positions.isEmpty()) {
-                        List<Integer> positionList = new ArrayList<>(positions);
-                        responseList.addResult(bookId, word, positionList);
-                    }
-                }
-            }
-        }
-        return responseList;
-    }
-    */
 
     private MultipleWordsResponseList searchForBooksWithMultipleWords(String[] words) {
         MultipleWordsResponseList responseList = new MultipleWordsResponseList();
@@ -120,6 +89,7 @@ public class HazelQueryEngine implements SearchEngineInterface {
 
         return responseList;
     }
+
     @Override
     public MultipleWordsResponseList searchForMultiplewithCriteria(String[] words, String title, String author, String from, String to, String language) {
         // Filter criteria are placeholder as there is no direct mapping for title, author, date, or language in the datamart.
@@ -151,48 +121,28 @@ public class HazelQueryEngine implements SearchEngineInterface {
         }
 
         MultipleWordsResponseList filteredResults = new MultipleWordsResponseList();
-        String targetField = field.getValue();
 
         for (SearchResultsMW obj : results.getResults()) {
 
             Integer bookId = obj.getBookId();
             Map<String, List<Integer>> positions = obj.getPositions();
 
-            for (Map<String, String> book : metadata) {
-                String bookIdString = book.get("ID");
-
-                if (bookIdString == null || bookIdString.isEmpty()) {
-                    System.err.println("Metadata entry with missing or empty ID.");
-                    continue; // Skip to the next book in metadata if ID is missing
-                }
-
+            String fieldValue = metadata.get(bookId).get(field.getValue());
+            if (field.getValue().equals("Date"))
                 try {
-                    Integer metadataBookId = Integer.parseInt(bookIdString);
-
-                    // Check if book ID in metadata matches the result book ID
-                    if (metadataBookId.equals(bookId)) {
-                        String fieldValue = book.get(targetField);
-                        if (targetField.equals("Date")) {
-                            int bookYear = extractYear(fieldValue);
-                            if (field == Field.FROM) {
-                                if (bookYear < Integer.parseInt(value)) break;
-                            }
-                            if (field == Field.TO) {
-                                if (bookYear > Integer.parseInt(value)) break;
-                            }
-                            filteredResults.addResult(bookId, positions);
-                        }
-                        // Check if the target field value contains the search string
-                        else if (fieldValue != null && fieldValue.toLowerCase().contains(value.toLowerCase())) {
-                            filteredResults.addResult(bookId, positions);
-                        }
-                        break; // Stop searching the metadata for the current bookId
+                    if (field == Field.FROM) {
+                        int bookYear = extractYear(fieldValue);
+                        if (bookYear < Integer.parseInt(value)) continue;
+                    } else if (field == Field.TO) {
+                        int bookYear = extractYear(fieldValue);
+                        if (bookYear > Integer.parseInt(value)) continue;
                     }
-                } catch (NumberFormatException e) {
-                    System.err.println("Invalid ID format in metadata: " + bookIdString);
-                } catch (ParseException | java.text.ParseException e) {
-                    System.err.println("Invalid date format in metadata for: " + bookIdString);
+                    filteredResults.addResult(bookId, positions);
+                } catch (java.text.ParseException e) {
+                    System.err.println("Wrong release date format for" + bookId);
                 }
+            else if (fieldValue != null && fieldValue.toLowerCase().contains(value.toLowerCase())) {
+                filteredResults.addResult(bookId, positions);
             }
         }
         return filteredResults;
@@ -208,21 +158,22 @@ public class HazelQueryEngine implements SearchEngineInterface {
 
     private void loadMetadataFromFile(File metadataFile) {
         Pattern pattern = Pattern.compile("(\\w+)\\s*:\\s*((?:\\w+\\s+\\d{1,2},\\s+\\d{4})|[^,]+)");
-        metadata = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(metadataFile))) {
             String line;
 
             while ((line = reader.readLine()) != null) {
                 Map<String, String> bookData = new HashMap<>();
                 Matcher matcher = pattern.matcher(line);
+                int bookId = -1;
 
                 while (matcher.find()) {
                     String key = matcher.group(1);
                     String value = matcher.group(2);
-                    bookData.put(key, value);
+                    if (key.equals("ID")) bookId = Integer.parseInt(value);
+                    else bookData.put(key, value);
                 }
 
-                metadata.add(bookData);
+                metadata.put(bookId, bookData);
             }
         } catch (IOException e) {
             System.err.println("Error reading metadata file: " + e.getMessage());

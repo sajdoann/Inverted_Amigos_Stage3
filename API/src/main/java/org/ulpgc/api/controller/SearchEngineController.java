@@ -4,6 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.ulpgc.crawler.MainCrawler;
 import org.ulpgc.inverted_index.apps.FilePerWordInvertedIndexHazelcast;
 import org.ulpgc.inverted_index.implementations.GutenbergTokenizer;
 import org.ulpgc.query_engine.HazelQueryEngine;
@@ -19,6 +20,11 @@ public class SearchEngineController implements SearchEngineControllerInterface {
 
     public SearchEngineController() {
         this.searchEngine = new HazelQueryEngine();
+
+        String[] args2 = new String[] {"aa", "bb"};
+        MainCrawler.main(args2);
+        System.out.println("Crawled some books");
+
         String booksDirectory = "gutenberg_books";
 
         GutenbergTokenizer tokenizer = new GutenbergTokenizer("InvertedIndex/stopwords.txt");
