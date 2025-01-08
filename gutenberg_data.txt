@@ -11,4 +11,444 @@ ID: 37106, Title: Little Women; Or, Meg, Jo, Beth, and Amy, Author: Louisa May A
 ID: 1513, Title: Romeo and Juliet, Author: William Shakespeare, Release Date: Nov 1, 1998, Language: English
 ID: 2701, Title: Moby Dick; Or, The Whale, Author: Herman Melville, Release Date: Jul 1, 2001, Language: English
 ID: 2641, Title: A Room with a View, Author: E. M. Forster, Release Date: May 1, 2001, Language: English
-ID: 11, Title: Alice's Adventures in Wonderland, Author: Lewis Carroll, Release Date: Jun 27, 2008, Language: English
+ID: 11, Title: Alice's Adventures in Wonderland, Author: Lewis Carroll, Release Date: Jun 27, 2008, Language: EnglishID: 61522, Title: The £1,000,000 bank-note, and other new stories, Author: Mark Twain, Release Date: Feb 27, 2020, Language: English
+ID: 25905, Title: The $100 Prize Essay on the Cultivation of the Potato., Author: D. A. Compton, Release Date: Jun 26, 2008, Language: English
+ID: 42474, Title: 1000 Mythological Characters Briefly Described, Author: Edward Sylvester Ellis, Release Date: Apr 7, 2013, Language: English
+ID: 14403, Title: 1001 Questions and Answers on Orthography and Reading, Author: B. A. Hathaway, Release Date: Dec 21, 2004, Language: English
+ID: 56796, Title: 1000 Things Worth Knowing, Author: Nathaniel C. Fowler, Release Date: Mar 20, 2018, Language: English
+ID: 16527, Title: 1001 задача для умственного счета, Author: Sergei Aleksandrovich Rachinskii, Release Date: Aug 14, 2005, Language: Russian
+ID: 50921, Title: $1,000 a Plate, Author: Jack McKenty, Release Date: Jan 14, 2016, Language: English
+ID: 142, Title: The $30,000 Bequest, and Other Stories, Author: Mark Twain, Release Date: Sep 14, 2004, Language: English
+ID: 34934, Title: £19,000, Author: Burford Delannoy, Release Date: Jan 12, 2011, Language: English
+ID: 54631, Title: 100 Desert Wildflowers in Natural Color, Author: Natt N. Dodge, Release Date: Apr 29, 2017, Language: English
+ID: 5776, Title: 100%: the Story of a Patriot, Author: Upton Sinclair, Release Date: May 1, 2004, Language: English
+ID: 17385, Title: 100 New Yorkers of the 1970s, Author: Max Millard, Release Date: Dec 24, 2005, Language: English
+ID: 59589, Title: 10 Luscious New Cakes, Made, Author: Spry's Amazing New One-Bowl Method, Release Date: May 24, 2019, Language: English
+ID: 63004, Title: 10 Cakes Husbands Like Best: From Spry's Recipe Round-up, Author: Lever Brothers Company, Release Date: Aug 22, 2020, Language: English
+ID: 65508, Title: 12 Pies Husbands Like Best: Aunt Jenny's Recipe Book, Author: Lever Brothers Company, Release Date: Jun 4, 2021, Language: English
+ID: 45860, Title: The 116th Battalion in France, Author: E. P. S. Allen, Release Date: Jun 1, 2014, Language: English
+ID: 52399, Title: The 125th Regiment, Illinois Volunteer Infantry: Attention Batallion!, Author: Rogers, Release Date: Jun 23, 2016, Language: English
+ID: 61487, Title: 133 Quicker Ways to Homemade, with Bisquick, Author: Betty Crocker, Release Date: Feb 22, 2020, Language: English
+ID: 35724, Title: 13 Days: The Chronicle of an Escape from a German Prison, Author: John Alan Lyde Caunter, Release Date: Mar 30, 2011, Language: English
+ID: 46604, Title: Unknown, Author: Unknown, Release Date: Aug 17, 2014, Language: French
+ID: 71527, Title: 14000 miles, a carriage and two women, Author: Frances S. Howe, Release Date: Aug 31, 2023, Language: English
+ID: 22678, Title: 13 Sonetos, Author: Arnaldo Forte, Release Date: Sep 19, 2007, Language: Unknown
+ID: 69213, Title: The 13th juror, Author: Leslie Waltham, Release Date: Oct 23, 2022, Language: English
+ID: 65538, Title: The 13th Immortal, Author: Robert Silverberg, Release Date: Jun 7, 2021, Language: English
+ID: 61217, Title: 1,492,633 Marlon Brandos, Author: Vance Aandahl, Release Date: Jan 22, 2020, Language: English
+ID: 62902, Title: The 13th District: A Story of a Candidate, Author: Brand Whitlock, Release Date: Aug 11, 2020, Language: English
+ID: 1692, Title: 1492, Author: Mary Johnston, Release Date: Mar 1, 1999, Language: English
+ID: 3190, Title: 1601: Conversation as it was, Author: the Social Fireside in the Time of the Tudors, Release Date: Sep 17, 2004, Language: English
+ID: 68324, Title: The 151st Field Artillery Brigade, Author: Richard M. Russell, Release Date: Jun 16, 2022, Language: English
+ID: 50075, Title: "1683-1920", Author: Frederick Franklin Schrader, Release Date: Sep 29, 2015, Language: English
+ID: 5402, Title: 1811 Dictionary of the Vulgar Tongue, Author: Francis Grose, Release Date: Apr 1, 2004, Language: English
+ID: 69333, Title: 1812: A tale of Cape Cod, Author: Michael Fitzgerald, Release Date: Nov 12, 2022, Language: English
+ID: 51418, Title: "1812" : Napoleon I in Russia, Author: Vasilïĭ Vasilʹevich Vereshchagin, Release Date: Mar 12, 2016, Language: English
+ID: 42294, Title: Il 1859 da Plombières a Villafranca, Author: Alfredo Panzini, Release Date: Mar 10, 2013, Language: Italian
+ID: 52530, Title: 1868 ja 1968: Leikkikuvailus lauluilla kahdessa näytöksessä, Author: August Blanche, Release Date: Jul 8, 2016, Language: Unknown
+ID: 48216, Title: 1812: Historische roman, Author: Ludwig Rellstab, Release Date: Feb 9, 2015, Language: Dutch
+ID: 30055, Title: The 1893 Duryea Automobile In the Museum of History and Technology, Author: Berkebile, Release Date: Sep 22, 2009, Language: English
+ID: 65234, Title: Unknown, Author: Unknown, Release Date: May 2, 2021, Language: English
+ID: 60479, Title: 1900; or, The last President, Author: Ingersoll Lockwood, Release Date: Oct 12, 2019, Language: English
+ID: 65332, Title: 1913: Történelmi szinmű három felvonásban, Author: Lajos Biró, Release Date: May 13, 2021, Language: Unknown
+ID: 49995, Title: »1906«. Der Zusammenbruch der alten Welt, Author: Ferdinand Heinrich Grautoff, Release Date: Sep 17, 2015, Language: German
+ID: 33902, Title: 1914, and Other Poems, Author: Rupert Brooke, Release Date: Oct 29, 2010, Language: English
+ID: 66846, Title: "1914", Author: John Oxenham, Release Date: Nov 30, 2021, Language: English
+ID: 24538, Title: 1914, Author: Earl of Ypres John Denton Pinkstone French, Release Date: Feb 6, 2008, Language: English
+ID: 25926, Title: The 1926 Tatler, Author: Margaret Louise Newhall, Release Date: Jun 28, 2008, Language: English
+ID: 63980, Title: 1970: A Vision of the Coming Age, Author: John Collins, Release Date: Dec 7, 2020, Language: English
+ID: 31171, Title: 1931: A Glance at the Twentieth Century, Author: Henry Hartshorne, Release Date: Feb 3, 2010, Language: English
+ID: 14, Title: The 1990 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 1, 1991, Language: English
+ID: 29, Title: The 1990 United States Census, Author: United States. Bureau of the Census, Release Date: Apr 1, 1992, Language: English
+ID: 37, Title: The 1990 United States Census [2nd], Author: United States. Bureau of the Census, Release Date: Aug 1, 1992, Language: English
+ID: 25, Title: The 1991 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Feb 1, 1992, Language: English
+ID: 251, Title: 1995 United States Congressional Address Book, Author: United States, Release Date: Apr 1, 1995, Language: English
+ID: 48, Title: The 1992 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 1993, Language: English
+ID: 1662, Title: The 1997 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Mar 1, 1999, Language: English
+ID: 27675, Title: The 1996 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 87, Title: The 1993 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Oct 1, 1993, Language: English
+ID: 2016, Title: The 1998 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 1, 1999, Language: English
+ID: 180, Title: The 1994 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 1, 1994, Language: English
+ID: 27676, Title: The 1999 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 67189, Title: El 19 de marzo y el 2 de mayo, Author: Benito Pérez Galdós, Release Date: Jan 17, 2022, Language: Spanish
+ID: 11205, Title: 20.000 Mijlen onder Zee: Oostelijk Halfrond, Author: Jules Verne, Release Date: Feb 1, 2004, Language: Dutch
+ID: 11393, Title: 20.000 Mijlen onder Zee: Westelijk Halfrond, Author: Jules Verne, Release Date: Mar 1, 2004, Language: Dutch
+ID: 571, Title: The 1995 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 1, 1996, Language: English
+ID: 3672, Title: The 2000 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 2003, Language: English
+ID: 27559, Title: The 2004 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27638, Title: The 2001 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 27, 2008, Language: English
+ID: 27558, Title: The 2003 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 6344, Title: The 2002 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Aug 1, 2004, Language: English
+ID: 27509, Title: The 2006 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 12, 2008, Language: English
+ID: 35829, Title: The 2009 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 11, 2011, Language: English
+ID: 29233, Title: The 2008 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 25, 2009, Language: English
+ID: 27348, Title: The 2007 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 28, 2008, Language: English
+ID: 74374, Title: Unknown, Author: Unknown, Release Date: Sep 5, 2024, Language: English
+ID: 27560, Title: The 2005 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 73448, Title: Unknown, Author: Unknown, Release Date: Apr 23, 2024, Language: English
+ID: 35830, Title: The 2010 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 11, 2011, Language: English
+ID: 58103, Title: 20 poemas para ser leídos en el tranvía, Author: Oliverio Girondo, Release Date: Oct 15, 2018, Language: Spanish
+ID: 23659, Title: 21, Author: Frank Crane, Release Date: Nov 29, 2007, Language: English
+ID: 20377, Title: The 23rd (Service) Battalion Royal Fusiliers (First Sportsman's), Author: Fred W. Ward, Release Date: Jan 15, 2007, Language: English
+ID: 68883, Title: 21 Jahre in Indien. Dritter Theil: Sumatra., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 57361, Title: Unknown, Author: Unknown, Release Date: Jun 20, 2018, Language: English
+ID: 15993, Title: 25 vuotta, Author: Kasimir Leino, Release Date: Jun 6, 2005, Language: Unknown
+ID: 68881, Title: 21 Jahre in Indien. Erster Theil: Borneo., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 56268, Title: 25 Billeder for Børn, Author: Christian Winther, Release Date: Dec 30, 2017, Language: Unknown
+ID: 21279, Title: 2 B R 0 2 B, Author: Kurt Vonnegut, Release Date: May 3, 2007, Language: English
+ID: 68882, Title: 21 Jahre in Indien. Zweiter Theil: Java., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 35275, Title: 30,000 locked out : the great strike of the building trades in Chicago, Author: Beeks, Release Date: Feb 14, 2011, Language: English
+ID: 25341, Title: Unknown, Author: Unknown, Release Date: May 5, 2008, Language: English
+ID: 65562, Title: 30 Tempting Spaghetti Meals: Easy, Economical, Delicious, Author: Campbell Soup Company, Release Date: Jun 7, 2021, Language: English
+ID: 66573, Title: 3½ Monate Fabrik-Arbeiterin, Author: Minna Wettstein-Adelt, Release Date: Oct 20, 2021, Language: German
+ID: 24384, Title: 365 Luncheon Dishes: A Luncheon Dish for Every Day in the Year, Author: Anonymous, Release Date: Jan 21, 2008, Language: English
+ID: 22781, Title: 32 Caliber, Author: Donald McGibeny, Release Date: Sep 27, 2007, Language: English
+ID: 10011, Title: 365 Foreign Dishes, Author: Unknown, Release Date: Nov 1, 2003, Language: English
+ID: 69, Title: The 32nd Mersenne Prime, Author: David Slowinski, Release Date: Jun 1, 1993, Language: English
+ID: 19978, Title: 35 Sonnets, Author: Fernando Pessoa, Release Date: Nov 30, 2006, Language: English
+ID: 73375, Title: 30-day wonder, Author: Richard Wilson, Release Date: Apr 10, 2024, Language: English
+ID: 69225, Title: 365 bedtime stories, Author: Mary Graham Bonner, Release Date: Oct 24, 2022, Language: English
+ID: 142, Title: The $30,000 Bequest, and Other Stories, Author: Mark Twain, Release Date: Sep 14, 2004, Language: English
+ID: 25905, Title: The $100 Prize Essay on the Cultivation of the Potato., Author: D. A. Compton, Release Date: Jun 26, 2008, Language: English
+ID: 14403, Title: 1001 Questions and Answers on Orthography and Reading, Author: B. A. Hathaway, Release Date: Dec 21, 2004, Language: English
+ID: 34934, Title: £19,000, Author: Burford Delannoy, Release Date: Jan 12, 2011, Language: English
+ID: 56796, Title: 1000 Things Worth Knowing, Author: Nathaniel C. Fowler, Release Date: Mar 20, 2018, Language: English
+ID: 61522, Title: The £1,000,000 bank-note, and other new stories, Author: Mark Twain, Release Date: Feb 27, 2020, Language: English
+ID: 42474, Title: 1000 Mythological Characters Briefly Described, Author: Edward Sylvester Ellis, Release Date: Apr 7, 2013, Language: English
+ID: 50921, Title: $1,000 a Plate, Author: Jack McKenty, Release Date: Jan 14, 2016, Language: English
+ID: 16527, Title: 1001 задача для умственного счета, Author: Sergei Aleksandrovich Rachinskii, Release Date: Aug 14, 2005, Language: Russian
+ID: 142, Title: The $30,000 Bequest, and Other Stories, Author: Mark Twain, Release Date: Sep 14, 2004, Language: English
+ID: 25905, Title: The $100 Prize Essay on the Cultivation of the Potato., Author: D. A. Compton, Release Date: Jun 26, 2008, Language: English
+ID: 61522, Title: The £1,000,000 bank-note, and other new stories, Author: Mark Twain, Release Date: Feb 27, 2020, Language: English
+ID: 34934, Title: £19,000, Author: Burford Delannoy, Release Date: Jan 12, 2011, Language: English
+ID: 50921, Title: $1,000 a Plate, Author: Jack McKenty, Release Date: Jan 14, 2016, Language: English
+ID: 56796, Title: 1000 Things Worth Knowing, Author: Nathaniel C. Fowler, Release Date: Mar 20, 2018, Language: English
+ID: 42474, Title: 1000 Mythological Characters Briefly Described, Author: Edward Sylvester Ellis, Release Date: Apr 7, 2013, Language: English
+ID: 14403, Title: 1001 Questions and Answers on Orthography and Reading, Author: B. A. Hathaway, Release Date: Dec 21, 2004, Language: English
+ID: 16527, Title: 1001 задача для умственного счета, Author: Sergei Aleksandrovich Rachinskii, Release Date: Aug 14, 2005, Language: Russian
+ID: 61522, Title: The £1,000,000 bank-note, and other new stories, Author: Mark Twain, Release Date: Feb 27, 2020, Language: English
+ID: 25905, Title: The $100 Prize Essay on the Cultivation of the Potato., Author: D. A. Compton, Release Date: Jun 26, 2008, Language: English
+ID: 56796, Title: 1000 Things Worth Knowing, Author: Nathaniel C. Fowler, Release Date: Mar 20, 2018, Language: English
+ID: 34934, Title: £19,000, Author: Burford Delannoy, Release Date: Jan 12, 2011, Language: English
+ID: 54631, Title: 100 Desert Wildflowers in Natural Color, Author: Natt N. Dodge, Release Date: Apr 29, 2017, Language: English
+ID: 42474, Title: 1000 Mythological Characters Briefly Described, Author: Edward Sylvester Ellis, Release Date: Apr 7, 2013, Language: English
+ID: 50921, Title: $1,000 a Plate, Author: Jack McKenty, Release Date: Jan 14, 2016, Language: English
+ID: 142, Title: The $30,000 Bequest, and Other Stories, Author: Mark Twain, Release Date: Sep 14, 2004, Language: English
+ID: 14403, Title: 1001 Questions and Answers on Orthography and Reading, Author: B. A. Hathaway, Release Date: Dec 21, 2004, Language: English
+ID: 16527, Title: 1001 задача для умственного счета, Author: Sergei Aleksandrovich Rachinskii, Release Date: Aug 14, 2005, Language: Russian
+ID: 17385, Title: 100 New Yorkers of the 1970s, Author: Max Millard, Release Date: Dec 24, 2005, Language: English
+ID: 63004, Title: 10 Cakes Husbands Like Best: From Spry's Recipe Round-up, Author: Lever Brothers Company, Release Date: Aug 22, 2020, Language: English
+ID: 59589, Title: 10 Luscious New Cakes, Made, Author: Spry's Amazing New One-Bowl Method, Release Date: May 24, 2019, Language: English
+ID: 5776, Title: 100%: the Story of a Patriot, Author: Upton Sinclair, Release Date: May 1, 2004, Language: English
+ID: 65508, Title: 12 Pies Husbands Like Best: Aunt Jenny's Recipe Book, Author: Lever Brothers Company, Release Date: Jun 4, 2021, Language: English
+ID: 45860, Title: The 116th Battalion in France, Author: E. P. S. Allen, Release Date: Jun 1, 2014, Language: English
+ID: 52399, Title: The 125th Regiment, Illinois Volunteer Infantry: Attention Batallion!, Author: Rogers, Release Date: Jun 23, 2016, Language: English
+ID: 61487, Title: 133 Quicker Ways to Homemade, with Bisquick, Author: Betty Crocker, Release Date: Feb 22, 2020, Language: English
+ID: 35724, Title: 13 Days: The Chronicle of an Escape from a German Prison, Author: John Alan Lyde Caunter, Release Date: Mar 30, 2011, Language: English
+ID: 46604, Title: Unknown, Author: Unknown, Release Date: Aug 17, 2014, Language: French
+ID: 22678, Title: 13 Sonetos, Author: Arnaldo Forte, Release Date: Sep 19, 2007, Language: Unknown
+ID: 69213, Title: The 13th juror, Author: Leslie Waltham, Release Date: Oct 23, 2022, Language: English
+ID: 65538, Title: The 13th Immortal, Author: Robert Silverberg, Release Date: Jun 7, 2021, Language: English
+ID: 62902, Title: The 13th District: A Story of a Candidate, Author: Brand Whitlock, Release Date: Aug 11, 2020, Language: English
+ID: 61217, Title: 1,492,633 Marlon Brandos, Author: Vance Aandahl, Release Date: Jan 22, 2020, Language: English
+ID: 71527, Title: 14000 miles, a carriage and two women, Author: Frances S. Howe, Release Date: Aug 31, 2023, Language: English
+ID: 1692, Title: 1492, Author: Mary Johnston, Release Date: Mar 1, 1999, Language: English
+ID: 3190, Title: 1601: Conversation as it was, Author: the Social Fireside in the Time of the Tudors, Release Date: Sep 17, 2004, Language: English
+ID: 68324, Title: The 151st Field Artillery Brigade, Author: Richard M. Russell, Release Date: Jun 16, 2022, Language: English
+ID: 50075, Title: "1683-1920", Author: Frederick Franklin Schrader, Release Date: Sep 29, 2015, Language: English
+ID: 5402, Title: 1811 Dictionary of the Vulgar Tongue, Author: Francis Grose, Release Date: Apr 1, 2004, Language: English
+ID: 69333, Title: 1812: A tale of Cape Cod, Author: Michael Fitzgerald, Release Date: Nov 12, 2022, Language: English
+ID: 51418, Title: "1812" : Napoleon I in Russia, Author: Vasilïĭ Vasilʹevich Vereshchagin, Release Date: Mar 12, 2016, Language: English
+ID: 69213, Title: The 13th juror, Author: Leslie Waltham, Release Date: Oct 23, 2022, Language: English
+ID: 61217, Title: 1,492,633 Marlon Brandos, Author: Vance Aandahl, Release Date: Jan 22, 2020, Language: English
+ID: 3190, Title: 1601: Conversation as it was, Author: the Social Fireside in the Time of the Tudors, Release Date: Sep 17, 2004, Language: English
+ID: 5402, Title: 1811 Dictionary of the Vulgar Tongue, Author: Francis Grose, Release Date: Apr 1, 2004, Language: English
+ID: 71527, Title: 14000 miles, a carriage and two women, Author: Frances S. Howe, Release Date: Aug 31, 2023, Language: English
+ID: 1692, Title: 1492, Author: Mary Johnston, Release Date: Mar 1, 1999, Language: English
+ID: 68324, Title: The 151st Field Artillery Brigade, Author: Richard M. Russell, Release Date: Jun 16, 2022, Language: English
+ID: 69333, Title: 1812: A tale of Cape Cod, Author: Michael Fitzgerald, Release Date: Nov 12, 2022, Language: English
+ID: 42294, Title: Il 1859 da Plombières a Villafranca, Author: Alfredo Panzini, Release Date: Mar 10, 2013, Language: Italian
+ID: 51418, Title: "1812" : Napoleon I in Russia, Author: Vasilïĭ Vasilʹevich Vereshchagin, Release Date: Mar 12, 2016, Language: English
+ID: 50075, Title: "1683-1920", Author: Frederick Franklin Schrader, Release Date: Sep 29, 2015, Language: English
+ID: 48216, Title: 1812: Historische roman, Author: Ludwig Rellstab, Release Date: Feb 9, 2015, Language: Dutch
+ID: 52530, Title: 1868 ja 1968: Leikkikuvailus lauluilla kahdessa näytöksessä, Author: August Blanche, Release Date: Jul 8, 2016, Language: Unknown
+ID: 65234, Title: Unknown, Author: Unknown, Release Date: May 2, 2021, Language: English
+ID: 30055, Title: The 1893 Duryea Automobile In the Museum of History and Technology, Author: Berkebile, Release Date: Sep 22, 2009, Language: English
+ID: 65332, Title: 1913: Történelmi szinmű három felvonásban, Author: Lajos Biró, Release Date: May 13, 2021, Language: Unknown
+ID: 60479, Title: 1900; or, The last President, Author: Ingersoll Lockwood, Release Date: Oct 12, 2019, Language: English
+ID: 63980, Title: 1970: A Vision of the Coming Age, Author: John Collins, Release Date: Dec 7, 2020, Language: English
+ID: 33902, Title: 1914, and Other Poems, Author: Rupert Brooke, Release Date: Oct 29, 2010, Language: English
+ID: 49995, Title: »1906«. Der Zusammenbruch der alten Welt, Author: Ferdinand Heinrich Grautoff, Release Date: Sep 17, 2015, Language: German
+ID: 66846, Title: "1914", Author: John Oxenham, Release Date: Nov 30, 2021, Language: English
+ID: 24538, Title: 1914, Author: Earl of Ypres John Denton Pinkstone French, Release Date: Feb 6, 2008, Language: English
+ID: 25926, Title: The 1926 Tatler, Author: Margaret Louise Newhall, Release Date: Jun 28, 2008, Language: English
+ID: 14, Title: The 1990 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 1, 1991, Language: English
+ID: 31171, Title: 1931: A Glance at the Twentieth Century, Author: Henry Hartshorne, Release Date: Feb 3, 2010, Language: English
+ID: 61217, Title: 1,492,633 Marlon Brandos, Author: Vance Aandahl, Release Date: Jan 22, 2020, Language: English
+ID: 69213, Title: The 13th juror, Author: Leslie Waltham, Release Date: Oct 23, 2022, Language: English
+ID: 5402, Title: 1811 Dictionary of the Vulgar Tongue, Author: Francis Grose, Release Date: Apr 1, 2004, Language: English
+ID: 71527, Title: 14000 miles, a carriage and two women, Author: Frances S. Howe, Release Date: Aug 31, 2023, Language: English
+ID: 50075, Title: "1683-1920", Author: Frederick Franklin Schrader, Release Date: Sep 29, 2015, Language: English
+ID: 1692, Title: 1492, Author: Mary Johnston, Release Date: Mar 1, 1999, Language: English
+ID: 3190, Title: 1601: Conversation as it was, Author: the Social Fireside in the Time of the Tudors, Release Date: Sep 17, 2004, Language: English
+ID: 68324, Title: The 151st Field Artillery Brigade, Author: Richard M. Russell, Release Date: Jun 16, 2022, Language: English
+ID: 69333, Title: 1812: A tale of Cape Cod, Author: Michael Fitzgerald, Release Date: Nov 12, 2022, Language: English
+ID: 51418, Title: "1812" : Napoleon I in Russia, Author: Vasilïĭ Vasilʹevich Vereshchagin, Release Date: Mar 12, 2016, Language: English
+ID: 48216, Title: 1812: Historische roman, Author: Ludwig Rellstab, Release Date: Feb 9, 2015, Language: Dutch
+ID: 52530, Title: 1868 ja 1968: Leikkikuvailus lauluilla kahdessa näytöksessä, Author: August Blanche, Release Date: Jul 8, 2016, Language: Unknown
+ID: 42294, Title: Il 1859 da Plombières a Villafranca, Author: Alfredo Panzini, Release Date: Mar 10, 2013, Language: Italian
+ID: 65234, Title: Unknown, Author: Unknown, Release Date: May 2, 2021, Language: English
+ID: 60479, Title: 1900; or, The last President, Author: Ingersoll Lockwood, Release Date: Oct 12, 2019, Language: English
+ID: 30055, Title: The 1893 Duryea Automobile In the Museum of History and Technology, Author: Berkebile, Release Date: Sep 22, 2009, Language: English
+ID: 65332, Title: 1913: Történelmi szinmű három felvonásban, Author: Lajos Biró, Release Date: May 13, 2021, Language: Unknown
+ID: 49995, Title: »1906«. Der Zusammenbruch der alten Welt, Author: Ferdinand Heinrich Grautoff, Release Date: Sep 17, 2015, Language: German
+ID: 66846, Title: "1914", Author: John Oxenham, Release Date: Nov 30, 2021, Language: English
+ID: 25926, Title: The 1926 Tatler, Author: Margaret Louise Newhall, Release Date: Jun 28, 2008, Language: English
+ID: 33902, Title: 1914, and Other Poems, Author: Rupert Brooke, Release Date: Oct 29, 2010, Language: English
+ID: 31171, Title: 1931: A Glance at the Twentieth Century, Author: Henry Hartshorne, Release Date: Feb 3, 2010, Language: English
+ID: 24538, Title: 1914, Author: Earl of Ypres John Denton Pinkstone French, Release Date: Feb 6, 2008, Language: English
+ID: 14, Title: The 1990 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 1, 1991, Language: English
+ID: 63980, Title: 1970: A Vision of the Coming Age, Author: John Collins, Release Date: Dec 7, 2020, Language: English
+ID: 69213, Title: The 13th juror, Author: Leslie Waltham, Release Date: Oct 23, 2022, Language: English
+ID: 71527, Title: 14000 miles, a carriage and two women, Author: Frances S. Howe, Release Date: Aug 31, 2023, Language: English
+ID: 1692, Title: 1492, Author: Mary Johnston, Release Date: Mar 1, 1999, Language: English
+ID: 61217, Title: 1,492,633 Marlon Brandos, Author: Vance Aandahl, Release Date: Jan 22, 2020, Language: English
+ID: 68324, Title: The 151st Field Artillery Brigade, Author: Richard M. Russell, Release Date: Jun 16, 2022, Language: English
+ID: 3190, Title: 1601: Conversation as it was, Author: the Social Fireside in the Time of the Tudors, Release Date: Sep 17, 2004, Language: English
+ID: 50075, Title: "1683-1920", Author: Frederick Franklin Schrader, Release Date: Sep 29, 2015, Language: English
+ID: 5402, Title: 1811 Dictionary of the Vulgar Tongue, Author: Francis Grose, Release Date: Apr 1, 2004, Language: English
+ID: 51418, Title: "1812" : Napoleon I in Russia, Author: Vasilïĭ Vasilʹevich Vereshchagin, Release Date: Mar 12, 2016, Language: English
+ID: 69333, Title: 1812: A tale of Cape Cod, Author: Michael Fitzgerald, Release Date: Nov 12, 2022, Language: English
+ID: 48216, Title: 1812: Historische roman, Author: Ludwig Rellstab, Release Date: Feb 9, 2015, Language: Dutch
+ID: 65234, Title: Unknown, Author: Unknown, Release Date: May 2, 2021, Language: English
+ID: 42294, Title: Il 1859 da Plombières a Villafranca, Author: Alfredo Panzini, Release Date: Mar 10, 2013, Language: Italian
+ID: 52530, Title: 1868 ja 1968: Leikkikuvailus lauluilla kahdessa näytöksessä, Author: August Blanche, Release Date: Jul 8, 2016, Language: Unknown
+ID: 30055, Title: The 1893 Duryea Automobile In the Museum of History and Technology, Author: Berkebile, Release Date: Sep 22, 2009, Language: English
+ID: 60479, Title: 1900; or, The last President, Author: Ingersoll Lockwood, Release Date: Oct 12, 2019, Language: English
+ID: 49995, Title: »1906«. Der Zusammenbruch der alten Welt, Author: Ferdinand Heinrich Grautoff, Release Date: Sep 17, 2015, Language: German
+ID: 65332, Title: 1913: Történelmi szinmű három felvonásban, Author: Lajos Biró, Release Date: May 13, 2021, Language: Unknown
+ID: 66846, Title: "1914", Author: John Oxenham, Release Date: Nov 30, 2021, Language: English
+ID: 24538, Title: 1914, Author: Earl of Ypres John Denton Pinkstone French, Release Date: Feb 6, 2008, Language: English
+ID: 33902, Title: 1914, and Other Poems, Author: Rupert Brooke, Release Date: Oct 29, 2010, Language: English
+ID: 25926, Title: The 1926 Tatler, Author: Margaret Louise Newhall, Release Date: Jun 28, 2008, Language: English
+ID: 31171, Title: 1931: A Glance at the Twentieth Century, Author: Henry Hartshorne, Release Date: Feb 3, 2010, Language: English
+ID: 63980, Title: 1970: A Vision of the Coming Age, Author: John Collins, Release Date: Dec 7, 2020, Language: English
+ID: 14, Title: The 1990 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 1, 1991, Language: English
+ID: 29, Title: The 1990 United States Census, Author: United States. Bureau of the Census, Release Date: Apr 1, 1992, Language: English
+ID: 37, Title: The 1990 United States Census [2nd], Author: United States. Bureau of the Census, Release Date: Aug 1, 1992, Language: English
+ID: 25, Title: The 1991 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Feb 1, 1992, Language: English
+ID: 48, Title: The 1992 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 1993, Language: English
+ID: 87, Title: The 1993 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Oct 1, 1993, Language: English
+ID: 180, Title: The 1994 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 1, 1994, Language: English
+ID: 571, Title: The 1995 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 1, 1996, Language: English
+ID: 251, Title: 1995 United States Congressional Address Book, Author: United States, Release Date: Apr 1, 1995, Language: English
+ID: 27675, Title: The 1996 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 1662, Title: The 1997 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Mar 1, 1999, Language: English
+ID: 2016, Title: The 1998 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 1, 1999, Language: English
+ID: 27676, Title: The 1999 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 67189, Title: El 19 de marzo y el 2 de mayo, Author: Benito Pérez Galdós, Release Date: Jan 17, 2022, Language: Spanish
+ID: 11205, Title: 20.000 Mijlen onder Zee: Oostelijk Halfrond, Author: Jules Verne, Release Date: Feb 1, 2004, Language: Dutch
+ID: 11393, Title: 20.000 Mijlen onder Zee: Westelijk Halfrond, Author: Jules Verne, Release Date: Mar 1, 2004, Language: Dutch
+ID: 3672, Title: The 2000 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 2003, Language: English
+ID: 27638, Title: The 2001 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 27, 2008, Language: English
+ID: 6344, Title: The 2002 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Aug 1, 2004, Language: English
+ID: 27558, Title: The 2003 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27559, Title: The 2004 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27560, Title: The 2005 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27509, Title: The 2006 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 12, 2008, Language: English
+ID: 27348, Title: The 2007 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 28, 2008, Language: English
+ID: 29233, Title: The 2008 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 25, 2009, Language: English
+ID: 35829, Title: The 2009 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 11, 2011, Language: English
+ID: 35830, Title: The 2010 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 11, 2011, Language: English
+ID: 73448, Title: Unknown, Author: Unknown, Release Date: Apr 23, 2024, Language: English
+ID: 74374, Title: Unknown, Author: Unknown, Release Date: Sep 5, 2024, Language: English
+ID: 58103, Title: 20 poemas para ser leídos en el tranvía, Author: Oliverio Girondo, Release Date: Oct 15, 2018, Language: Spanish
+ID: 23659, Title: 21, Author: Frank Crane, Release Date: Nov 29, 2007, Language: English
+ID: 68883, Title: 21 Jahre in Indien. Dritter Theil: Sumatra., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 68881, Title: 21 Jahre in Indien. Erster Theil: Borneo., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 68882, Title: 21 Jahre in Indien. Zweiter Theil: Java., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 57361, Title: Unknown, Author: Unknown, Release Date: Jun 20, 2018, Language: English
+ID: 20377, Title: The 23rd (Service) Battalion Royal Fusiliers (First Sportsman's), Author: Fred W. Ward, Release Date: Jan 15, 2007, Language: English
+ID: 56268, Title: 25 Billeder for Børn, Author: Christian Winther, Release Date: Dec 30, 2017, Language: Unknown
+ID: 15993, Title: 25 vuotta, Author: Kasimir Leino, Release Date: Jun 6, 2005, Language: Unknown
+ID: 25341, Title: Unknown, Author: Unknown, Release Date: May 5, 2008, Language: English
+ID: 21279, Title: 2 B R 0 2 B, Author: Kurt Vonnegut, Release Date: May 3, 2007, Language: English
+ID: 35275, Title: 30,000 locked out : the great strike of the building trades in Chicago, Author: Beeks, Release Date: Feb 14, 2011, Language: English
+ID: 73375, Title: 30-day wonder, Author: Richard Wilson, Release Date: Apr 10, 2024, Language: English
+ID: 65562, Title: 30 Tempting Spaghetti Meals: Easy, Economical, Delicious, Author: Campbell Soup Company, Release Date: Jun 7, 2021, Language: English
+ID: 66573, Title: 3½ Monate Fabrik-Arbeiterin, Author: Minna Wettstein-Adelt, Release Date: Oct 20, 2021, Language: German
+ID: 22781, Title: 32 Caliber, Author: Donald McGibeny, Release Date: Sep 27, 2007, Language: English
+ID: 69, Title: The 32nd Mersenne Prime, Author: David Slowinski, Release Date: Jun 1, 1993, Language: English
+ID: 19978, Title: 35 Sonnets, Author: Fernando Pessoa, Release Date: Nov 30, 2006, Language: English
+ID: 69225, Title: 365 bedtime stories, Author: Mary Graham Bonner, Release Date: Oct 24, 2022, Language: English
+ID: 10011, Title: 365 Foreign Dishes, Author: Unknown, Release Date: Nov 1, 2003, Language: English
+ID: 69213, Title: The 13th juror, Author: Leslie Waltham, Release Date: Oct 23, 2022, Language: English
+ID: 61217, Title: 1,492,633 Marlon Brandos, Author: Vance Aandahl, Release Date: Jan 22, 2020, Language: English
+ID: 3190, Title: 1601: Conversation as it was, Author: the Social Fireside in the Time of the Tudors, Release Date: Sep 17, 2004, Language: English
+ID: 1692, Title: 1492, Author: Mary Johnston, Release Date: Mar 1, 1999, Language: English
+ID: 69333, Title: 1812: A tale of Cape Cod, Author: Michael Fitzgerald, Release Date: Nov 12, 2022, Language: English
+ID: 71527, Title: 14000 miles, a carriage and two women, Author: Frances S. Howe, Release Date: Aug 31, 2023, Language: English
+ID: 5402, Title: 1811 Dictionary of the Vulgar Tongue, Author: Francis Grose, Release Date: Apr 1, 2004, Language: English
+ID: 50075, Title: "1683-1920", Author: Frederick Franklin Schrader, Release Date: Sep 29, 2015, Language: English
+ID: 68324, Title: The 151st Field Artillery Brigade, Author: Richard M. Russell, Release Date: Jun 16, 2022, Language: English
+ID: 30055, Title: The 1893 Duryea Automobile In the Museum of History and Technology, Author: Berkebile, Release Date: Sep 22, 2009, Language: English
+ID: 51418, Title: "1812" : Napoleon I in Russia, Author: Vasilïĭ Vasilʹevich Vereshchagin, Release Date: Mar 12, 2016, Language: English
+ID: 60479, Title: 1900; or, The last President, Author: Ingersoll Lockwood, Release Date: Oct 12, 2019, Language: English
+ID: 52530, Title: 1868 ja 1968: Leikkikuvailus lauluilla kahdessa näytöksessä, Author: August Blanche, Release Date: Jul 8, 2016, Language: Unknown
+ID: 42294, Title: Il 1859 da Plombières a Villafranca, Author: Alfredo Panzini, Release Date: Mar 10, 2013, Language: Italian
+ID: 65332, Title: 1913: Történelmi szinmű három felvonásban, Author: Lajos Biró, Release Date: May 13, 2021, Language: Unknown
+ID: 48216, Title: 1812: Historische roman, Author: Ludwig Rellstab, Release Date: Feb 9, 2015, Language: Dutch
+ID: 65234, Title: Unknown, Author: Unknown, Release Date: May 2, 2021, Language: English
+ID: 25926, Title: The 1926 Tatler, Author: Margaret Louise Newhall, Release Date: Jun 28, 2008, Language: English
+ID: 33902, Title: 1914, and Other Poems, Author: Rupert Brooke, Release Date: Oct 29, 2010, Language: English
+ID: 66846, Title: "1914", Author: John Oxenham, Release Date: Nov 30, 2021, Language: English
+ID: 49995, Title: »1906«. Der Zusammenbruch der alten Welt, Author: Ferdinand Heinrich Grautoff, Release Date: Sep 17, 2015, Language: German
+ID: 24538, Title: 1914, Author: Earl of Ypres John Denton Pinkstone French, Release Date: Feb 6, 2008, Language: English
+ID: 31171, Title: 1931: A Glance at the Twentieth Century, Author: Henry Hartshorne, Release Date: Feb 3, 2010, Language: English
+ID: 63980, Title: 1970: A Vision of the Coming Age, Author: John Collins, Release Date: Dec 7, 2020, Language: English
+ID: 14, Title: The 1990 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 1, 1991, Language: English
+ID: 68324, Title: The 151st Field Artillery Brigade, Author: Richard M. Russell, Release Date: Jun 16, 2022, Language: English
+ID: 61217, Title: 1,492,633 Marlon Brandos, Author: Vance Aandahl, Release Date: Jan 22, 2020, Language: English
+ID: 69213, Title: The 13th juror, Author: Leslie Waltham, Release Date: Oct 23, 2022, Language: English
+ID: 69333, Title: 1812: A tale of Cape Cod, Author: Michael Fitzgerald, Release Date: Nov 12, 2022, Language: English
+ID: 1692, Title: 1492, Author: Mary Johnston, Release Date: Mar 1, 1999, Language: English
+ID: 50075, Title: "1683-1920", Author: Frederick Franklin Schrader, Release Date: Sep 29, 2015, Language: English
+ID: 48216, Title: 1812: Historische roman, Author: Ludwig Rellstab, Release Date: Feb 9, 2015, Language: Dutch
+ID: 3190, Title: 1601: Conversation as it was, Author: the Social Fireside in the Time of the Tudors, Release Date: Sep 17, 2004, Language: English
+ID: 5402, Title: 1811 Dictionary of the Vulgar Tongue, Author: Francis Grose, Release Date: Apr 1, 2004, Language: English
+ID: 51418, Title: "1812" : Napoleon I in Russia, Author: Vasilïĭ Vasilʹevich Vereshchagin, Release Date: Mar 12, 2016, Language: English
+ID: 65234, Title: Unknown, Author: Unknown, Release Date: May 2, 2021, Language: English
+ID: 42294, Title: Il 1859 da Plombières a Villafranca, Author: Alfredo Panzini, Release Date: Mar 10, 2013, Language: Italian
+ID: 30055, Title: The 1893 Duryea Automobile In the Museum of History and Technology, Author: Berkebile, Release Date: Sep 22, 2009, Language: English
+ID: 60479, Title: 1900; or, The last President, Author: Ingersoll Lockwood, Release Date: Oct 12, 2019, Language: English
+ID: 52530, Title: 1868 ja 1968: Leikkikuvailus lauluilla kahdessa näytöksessä, Author: August Blanche, Release Date: Jul 8, 2016, Language: Unknown
+ID: 65332, Title: 1913: Történelmi szinmű három felvonásban, Author: Lajos Biró, Release Date: May 13, 2021, Language: Unknown
+ID: 63980, Title: 1970: A Vision of the Coming Age, Author: John Collins, Release Date: Dec 7, 2020, Language: English
+ID: 49995, Title: »1906«. Der Zusammenbruch der alten Welt, Author: Ferdinand Heinrich Grautoff, Release Date: Sep 17, 2015, Language: German
+ID: 24538, Title: 1914, Author: Earl of Ypres John Denton Pinkstone French, Release Date: Feb 6, 2008, Language: English
+ID: 33902, Title: 1914, and Other Poems, Author: Rupert Brooke, Release Date: Oct 29, 2010, Language: English
+ID: 71527, Title: 14000 miles, a carriage and two women, Author: Frances S. Howe, Release Date: Aug 31, 2023, Language: English
+ID: 66846, Title: "1914", Author: John Oxenham, Release Date: Nov 30, 2021, Language: English
+ID: 25926, Title: The 1926 Tatler, Author: Margaret Louise Newhall, Release Date: Jun 28, 2008, Language: English
+ID: 31171, Title: 1931: A Glance at the Twentieth Century, Author: Henry Hartshorne, Release Date: Feb 3, 2010, Language: English
+ID: 14, Title: The 1990 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 1, 1991, Language: English
+ID: 29, Title: The 1990 United States Census, Author: United States. Bureau of the Census, Release Date: Apr 1, 1992, Language: English
+ID: 87, Title: The 1993 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Oct 1, 1993, Language: English
+ID: 37, Title: The 1990 United States Census [2nd], Author: United States. Bureau of the Census, Release Date: Aug 1, 1992, Language: English
+ID: 48, Title: The 1992 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 1993, Language: English
+ID: 25, Title: The 1991 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Feb 1, 1992, Language: English
+ID: 180, Title: The 1994 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 1, 1994, Language: English
+ID: 251, Title: 1995 United States Congressional Address Book, Author: United States, Release Date: Apr 1, 1995, Language: English
+ID: 27675, Title: The 1996 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 1662, Title: The 1997 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Mar 1, 1999, Language: English
+ID: 571, Title: The 1995 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 1, 1996, Language: English
+ID: 2016, Title: The 1998 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 1, 1999, Language: English
+ID: 11205, Title: 20.000 Mijlen onder Zee: Oostelijk Halfrond, Author: Jules Verne, Release Date: Feb 1, 2004, Language: Dutch
+ID: 67189, Title: El 19 de marzo y el 2 de mayo, Author: Benito Pérez Galdós, Release Date: Jan 17, 2022, Language: Spanish
+ID: 11393, Title: 20.000 Mijlen onder Zee: Westelijk Halfrond, Author: Jules Verne, Release Date: Mar 1, 2004, Language: Dutch
+ID: 27676, Title: The 1999 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 27638, Title: The 2001 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 27, 2008, Language: English
+ID: 3672, Title: The 2000 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 2003, Language: English
+ID: 27558, Title: The 2003 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 6344, Title: The 2002 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Aug 1, 2004, Language: English
+ID: 27559, Title: The 2004 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27560, Title: The 2005 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27509, Title: The 2006 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 12, 2008, Language: English
+ID: 27348, Title: The 2007 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 28, 2008, Language: English
+ID: 29233, Title: The 2008 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 25, 2009, Language: English
+ID: 251, Title: 1995 United States Congressional Address Book, Author: United States, Release Date: Apr 1, 1995, Language: English
+ID: 87, Title: The 1993 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Oct 1, 1993, Language: English
+ID: 48, Title: The 1992 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 1993, Language: English
+ID: 571, Title: The 1995 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 1, 1996, Language: English
+ID: 27675, Title: The 1996 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 180, Title: The 1994 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 1, 1994, Language: English
+ID: 29, Title: The 1990 United States Census, Author: United States. Bureau of the Census, Release Date: Apr 1, 1992, Language: English
+ID: 37, Title: The 1990 United States Census [2nd], Author: United States. Bureau of the Census, Release Date: Aug 1, 1992, Language: English
+ID: 1662, Title: The 1997 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Mar 1, 1999, Language: English
+ID: 25, Title: The 1991 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Feb 1, 1992, Language: English
+ID: 2016, Title: The 1998 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 1, 1999, Language: English
+ID: 27676, Title: The 1999 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 11205, Title: 20.000 Mijlen onder Zee: Oostelijk Halfrond, Author: Jules Verne, Release Date: Feb 1, 2004, Language: Dutch
+ID: 11393, Title: 20.000 Mijlen onder Zee: Westelijk Halfrond, Author: Jules Verne, Release Date: Mar 1, 2004, Language: Dutch
+ID: 3672, Title: The 2000 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 2003, Language: English
+ID: 67189, Title: El 19 de marzo y el 2 de mayo, Author: Benito Pérez Galdós, Release Date: Jan 17, 2022, Language: Spanish
+ID: 27638, Title: The 2001 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 27, 2008, Language: English
+ID: 6344, Title: The 2002 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Aug 1, 2004, Language: English
+ID: 27560, Title: The 2005 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27559, Title: The 2004 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27348, Title: The 2007 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 28, 2008, Language: English
+ID: 27558, Title: The 2003 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 29233, Title: The 2008 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 25, 2009, Language: English
+ID: 27509, Title: The 2006 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 12, 2008, Language: English
+ID: 251, Title: 1995 United States Congressional Address Book, Author: United States, Release Date: Apr 1, 1995, Language: English
+ID: 29, Title: The 1990 United States Census, Author: United States. Bureau of the Census, Release Date: Apr 1, 1992, Language: English
+ID: 27675, Title: The 1996 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 87, Title: The 1993 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Oct 1, 1993, Language: English
+ID: 571, Title: The 1995 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 1, 1996, Language: English
+ID: 180, Title: The 1994 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 1, 1994, Language: English
+ID: 37, Title: The 1990 United States Census [2nd], Author: United States. Bureau of the Census, Release Date: Aug 1, 1992, Language: English
+ID: 25, Title: The 1991 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Feb 1, 1992, Language: English
+ID: 1662, Title: The 1997 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Mar 1, 1999, Language: English
+ID: 48, Title: The 1992 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 1993, Language: English
+ID: 2016, Title: The 1998 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 1, 1999, Language: English
+ID: 67189, Title: El 19 de marzo y el 2 de mayo, Author: Benito Pérez Galdós, Release Date: Jan 17, 2022, Language: Spanish
+ID: 27676, Title: The 1999 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 11393, Title: 20.000 Mijlen onder Zee: Westelijk Halfrond, Author: Jules Verne, Release Date: Mar 1, 2004, Language: Dutch
+ID: 11205, Title: 20.000 Mijlen onder Zee: Oostelijk Halfrond, Author: Jules Verne, Release Date: Feb 1, 2004, Language: Dutch
+ID: 3672, Title: The 2000 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 2003, Language: English
+ID: 27638, Title: The 2001 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 27, 2008, Language: English
+ID: 6344, Title: The 2002 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Aug 1, 2004, Language: English
+ID: 27558, Title: The 2003 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27509, Title: The 2006 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 12, 2008, Language: English
+ID: 27559, Title: The 2004 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27348, Title: The 2007 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 28, 2008, Language: English
+ID: 27560, Title: The 2005 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 29233, Title: The 2008 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 25, 2009, Language: English
+ID: 29, Title: The 1990 United States Census, Author: United States. Bureau of the Census, Release Date: Apr 1, 1992, Language: English
+ID: 251, Title: 1995 United States Congressional Address Book, Author: United States, Release Date: Apr 1, 1995, Language: English
+ID: 37, Title: The 1990 United States Census [2nd], Author: United States. Bureau of the Census, Release Date: Aug 1, 1992, Language: English
+ID: 1662, Title: The 1997 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Mar 1, 1999, Language: English
+ID: 25, Title: The 1991 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Feb 1, 1992, Language: English
+ID: 180, Title: The 1994 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 1, 1994, Language: English
+ID: 571, Title: The 1995 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 1, 1996, Language: English
+ID: 87, Title: The 1993 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Oct 1, 1993, Language: English
+ID: 48, Title: The 1992 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 1993, Language: English
+ID: 27675, Title: The 1996 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 27676, Title: The 1999 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 11393, Title: 20.000 Mijlen onder Zee: Westelijk Halfrond, Author: Jules Verne, Release Date: Mar 1, 2004, Language: Dutch
+ID: 67189, Title: El 19 de marzo y el 2 de mayo, Author: Benito Pérez Galdós, Release Date: Jan 17, 2022, Language: Spanish
+ID: 2016, Title: The 1998 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 1, 1999, Language: English
+ID: 11205, Title: 20.000 Mijlen onder Zee: Oostelijk Halfrond, Author: Jules Verne, Release Date: Feb 1, 2004, Language: Dutch
+ID: 27638, Title: The 2001 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 27, 2008, Language: English
+ID: 3672, Title: The 2000 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 2003, Language: English
+ID: 6344, Title: The 2002 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Aug 1, 2004, Language: English
+ID: 27558, Title: The 2003 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27559, Title: The 2004 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27348, Title: The 2007 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 28, 2008, Language: English
+ID: 27560, Title: The 2005 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27509, Title: The 2006 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 12, 2008, Language: English
+ID: 29233, Title: The 2008 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 25, 2009, Language: English
+ID: 23659, Title: 21, Author: Frank Crane, Release Date: Nov 29, 2007, Language: English
+ID: 35829, Title: The 2009 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 11, 2011, Language: English
+ID: 74374, Title: Unknown, Author: Unknown, Release Date: Sep 5, 2024, Language: English
+ID: 73448, Title: Unknown, Author: Unknown, Release Date: Apr 23, 2024, Language: English
+ID: 68883, Title: 21 Jahre in Indien. Dritter Theil: Sumatra., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 58103, Title: 20 poemas para ser leídos en el tranvía, Author: Oliverio Girondo, Release Date: Oct 15, 2018, Language: Spanish
+ID: 57361, Title: Unknown, Author: Unknown, Release Date: Jun 20, 2018, Language: English
+ID: 68881, Title: 21 Jahre in Indien. Erster Theil: Borneo., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 20377, Title: The 23rd (Service) Battalion Royal Fusiliers (First Sportsman's), Author: Fred W. Ward, Release Date: Jan 15, 2007, Language: English
+ID: 68882, Title: 21 Jahre in Indien. Zweiter Theil: Java., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 35830, Title: The 2010 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 11, 2011, Language: English
+ID: 15993, Title: 25 vuotta, Author: Kasimir Leino, Release Date: Jun 6, 2005, Language: Unknown
+ID: 21279, Title: 2 B R 0 2 B, Author: Kurt Vonnegut, Release Date: May 3, 2007, Language: English
+ID: 56268, Title: 25 Billeder for Børn, Author: Christian Winther, Release Date: Dec 30, 2017, Language: Unknown
+ID: 25341, Title: Unknown, Author: Unknown, Release Date: May 5, 2008, Language: English
+ID: 19978, Title: 35 Sonnets, Author: Fernando Pessoa, Release Date: Nov 30, 2006, Language: English
+ID: 65562, Title: 30 Tempting Spaghetti Meals: Easy, Economical, Delicious, Author: Campbell Soup Company, Release Date: Jun 7, 2021, Language: English
+ID: 73375, Title: 30-day wonder, Author: Richard Wilson, Release Date: Apr 10, 2024, Language: English
+ID: 35275, Title: 30,000 locked out : the great strike of the building trades in Chicago, Author: Beeks, Release Date: Feb 14, 2011, Language: English
+ID: 10011, Title: 365 Foreign Dishes, Author: Unknown, Release Date: Nov 1, 2003, Language: English
+ID: 66573, Title: 3½ Monate Fabrik-Arbeiterin, Author: Minna Wettstein-Adelt, Release Date: Oct 20, 2021, Language: German
+ID: 22781, Title: 32 Caliber, Author: Donald McGibeny, Release Date: Sep 27, 2007, Language: English
+ID: 69, Title: The 32nd Mersenne Prime, Author: David Slowinski, Release Date: Jun 1, 1993, Language: English
+ID: 69225, Title: 365 bedtime stories, Author: Mary Graham Bonner, Release Date: Oct 24, 2022, Language: English

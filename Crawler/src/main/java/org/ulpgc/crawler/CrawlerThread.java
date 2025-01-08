@@ -1,6 +1,7 @@
 package org.ulpgc.crawler;
 
 import java.io.*;
+import java.util.Objects;
 import java.util.concurrent.*;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -12,19 +13,22 @@ import java.util.regex.Pattern;
 
 public class CrawlerThread implements ICrawler {
     private final String baseUrl = "https://www.gutenberg.org";
-    private final String outputDir = "gutenberg_books";
-    private final ExecutorService executor;
+    private ExecutorService executor;
 
     public CrawlerThread() {
-        this.executor = Executors.newFixedThreadPool(10);
-        createOutputDirectory(outputDir);
+        this.executor = create_Executors();
+        createOutputDirectory();
     }
 
-    private void createOutputDirectory(String dir) {
-        File directory = new File(dir);
+    private void createOutputDirectory() {
+        File directory = new File("gutenberg_books");
         if (!directory.exists()) {
             directory.mkdir();
         }
+    }
+
+    private ExecutorService create_Executors(){
+        return Executors.newFixedThreadPool(10);
     }
 
     private void downloadBookContent(String downloadLink, String bookFileName) {
@@ -60,7 +64,7 @@ public class CrawlerThread implements ICrawler {
     private void downloadBook(String bookLink) {
         try {
             Document bookPage = Jsoup.connect(baseUrl + bookLink).get();
-            String fullTitle = bookPage.selectFirst("h1").text();
+            String fullTitle = Objects.requireNonNull(bookPage.selectFirst("h1")).text();
 
             String title = extractMetadata(fullTitle, "Title");
             String author = extractMetadata(fullTitle, "Author");
@@ -85,6 +89,7 @@ public class CrawlerThread implements ICrawler {
                 }
 
                 String id = bookLink.split("/")[2];
+                String outputDir = "gutenberg_books";
                 String bookFileName = outputDir + "/" + id + ".txt";
 
                 downloadBookContent(downloadLink, bookFileName);
@@ -121,28 +126,46 @@ public class CrawlerThread implements ICrawler {
     }
 
     @Override
-    public void fetchBooks(int n) {
+    public void fetchBooks(int page) {
+        this.executor = create_Executors();
+        String nextPage = baseUrl + "/ebooks/search/?sort_order=title&start_index=" + page;
+        CompletionService<Void> completionService = new ExecutorCompletionService<>(executor);
+
         try {
-            Document searchPage = Jsoup.connect(baseUrl + "/ebooks/search/?sort_order=downloads").get();
-            Elements bookLinks = searchPage.select("li.booklink a");
+            System.out.println("Fetching from: " + nextPage);
+            Document searchPage = Jsoup.connect(nextPage).timeout(10000).get();
 
-            int count = 0;
+            Elements bookLinks = searchPage.select("li.booklink a[href^='/ebooks/']");
+            System.out.println("Books found on page: " + bookLinks.size());
+
+            if (bookLinks.isEmpty()) {
+                System.err.println("No books found on page, stopping...");
+            }
+
             for (Element link : bookLinks) {
-                if (count >= n) break;
-
                 String bookLink = link.attr("href");
-                executor.submit(() -> downloadBook(bookLink));
+                completionService.submit(() -> {
+                    downloadBook(bookLink);
+                    return null;
+                });
+            }
 
-                count++;
+            for (int i = 0; i < bookLinks.size(); i++) {
+                try {
+                    completionService.take();
+                } catch (InterruptedException e) {
+                    System.err.println("Task interrupted while waiting: " + e.getMessage());
+                    Thread.currentThread().interrupt();
+                }
             }
         } catch (IOException e) {
             System.err.println("Error fetching book list: " + e.getMessage());
-        } finally {
-            shutdownExecutor();
+            Thread.currentThread().interrupt();
         }
+
     }
 
-    private void shutdownExecutor() {
+    public void shutdownExecutor() {
         executor.shutdown();
         try {
             if (!executor.awaitTermination(60, TimeUnit.SECONDS)) {
