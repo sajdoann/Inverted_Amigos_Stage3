@@ -134,6 +134,7 @@ public class CrawlerThread implements ICrawler {
 
     @Override
     public void fetchBooks(int page) {
+        createOutputDirectory();
         this.executor = create_Executors();
         String nextPage = baseUrl + "/ebooks/search/?sort_order=title&start_index=" + page;
         CompletionService<Void> completionService = new ExecutorCompletionService<>(executor);
@@ -182,5 +183,11 @@ public class CrawlerThread implements ICrawler {
             executor.shutdownNow();
             Thread.currentThread().interrupt();
         }
+    }
+
+    public static void main(String[] args) {
+        CrawlerThread crawlerThread = new CrawlerThread();
+        crawlerThread.fetchBooks(25);
+        crawlerThread.shutdownExecutor();
     }
 }

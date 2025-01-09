@@ -45,7 +45,7 @@ public class MainCrawler {
             crawler.shutdownExecutor();
 
             // Indexar los libros descargados
-            indexer.indexAll();
+            //indexer.indexAll();
 
             System.out.println("Página procesada: " + pageToProcess);
 
