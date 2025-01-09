@@ -5,8 +5,10 @@ import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.multimap.MultiMap;
 import com.hazelcast.map.IMap;
+import org.ulpgc.inverted_index.apps.ResponseList;
 import org.ulpgc.inverted_index.implementations.GutenbergTokenizer;
 
+import java.util.concurrent.BlockingQueue;
 import java.io.*;
 import java.util.*;
 
@@ -19,6 +21,8 @@ public class FilePerWordInvertedIndexHazelcast {
     private final MultiMap<String, Integer> wordToBookMap; // word -> bookId
     private final MultiMap<String, Integer> wordBookToPositionsMap; // word|bookId -> positions
 
+    private final BlockingQueue<String> bookQueue; // Hazelcast Queue for books
+
     public FilePerWordInvertedIndexHazelcast(String books, GutenbergTokenizer tokenizer) {
         this.books = new File(books);
         this.tokenizer = tokenizer;
@@ -30,24 +34,16 @@ public class FilePerWordInvertedIndexHazelcast {
                 .addMember("10.193.36.90")
                 .addMember("10.193.132.48");
 
-
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
 
         this.indexedMap = hazelcastInstance.getMap("indexedMap");
         this.wordToBookMap = hazelcastInstance.getMultiMap("wordToBookMap");
         this.wordBookToPositionsMap = hazelcastInstance.getMultiMap("wordBookToPositionsMap");
+        this.bookQueue = hazelcastInstance.getQueue("bookQueue");
 
         if (indexedMap.isEmpty()) {
             System.out.println("Indexed Map is empty, ready to index books.");
         }
-    }
-
-    public FilePerWordInvertedIndexHazelcast(File books, GutenbergTokenizer tokenizer, IMap<String, Boolean> indexedMap, MultiMap<String, Integer> wordToBookMap, MultiMap<String, Integer> wordBookToPositionsMap) {
-        this.books = books;
-        this.tokenizer = tokenizer;
-        this.indexedMap = indexedMap;
-        this.wordToBookMap = wordToBookMap;
-        this.wordBookToPositionsMap = wordBookToPositionsMap;
     }
 
     public List<String> listBooks() {
@@ -73,12 +69,37 @@ public class FilePerWordInvertedIndexHazelcast {
         return false;
     }
 
-    public void indexAll() {
+    public void addBooksToQueue() {
         List<String> books = this.listBooks();
         for (String book : books) {
-            this.index(book);
+            bookQueue.offer(book);  // Add each book to the Hazelcast queue
+        }
+        System.out.println("Books have been added to the queue.");
+    }
+
+    public void processBooks() {
+    // This method should be invoked by multiple consumers
+    while (true) {
+        String book = bookQueue.poll();
+        if (book != null) {
+            index(book);  // Process the book (index it)
+        } else {
+            // If the queue is empty, break the loop after a small delay to avoid high CPU usage
+            if (bookQueue.isEmpty()) {
+                System.out.println("Queue is empty. All books processed.");
+                break;
+            }
+            try {
+                // Sleep for a brief moment to avoid busy-waiting
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt(); // Restore the interrupt status
+                break;
+            }
         }
     }
+}
+
 
     public void index(String file) {
         String id = new File(file).getName().replaceAll("\\D", "");
@@ -98,6 +119,11 @@ public class FilePerWordInvertedIndexHazelcast {
 
         // Agregar el ID al Map de Hazelcast después de indexar
         indexedMap.put(id, true);
+    }
+
+    public void indexAll() {
+        addBooksToQueue();
+        processBooks();
     }
 
     private void updateHazelcast(Map<String, ResponseList> index, int bookId) {
@@ -120,6 +146,9 @@ public class FilePerWordInvertedIndexHazelcast {
 
         FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast(booksDirectory, tokenizer);
 
-        indexer.indexAll();
+        indexer.addBooksToQueue();
+
+        // Assuming consumers will be started to process the books
+        indexer.processBooks();
     }
 }
