@@ -21,18 +21,18 @@ public class SearchEngineController implements SearchEngineControllerInterface {
     public SearchEngineController() throws InterruptedException {
         this.searchEngine = new HazelQueryEngine();
 
-        String[] args2 = new String[] {"aa", "bb"};
-        MainCrawler.main(args2);
-        System.out.println("Crawled some books");
+        //String[] args2 = new String[] {"aa", "bb"};
+        //MainCrawler.main(args2);
+        //System.out.println("Crawled some books");
 
-        String booksDirectory = "gutenberg_books";
+        //String booksDirectory = "gutenberg_books";
 
-        GutenbergTokenizer tokenizer = new GutenbergTokenizer("InvertedIndex/stopwords.txt");
+        //GutenbergTokenizer tokenizer = new GutenbergTokenizer("InvertedIndex/stopwords.txt");
 
-        FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast(booksDirectory, tokenizer);
+        //FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast(booksDirectory, tokenizer);
 
-        indexer.indexAll();
-        System.out.println("Loaded data into the memory");
+        //indexer.indexAll();
+        //System.out.println("Loaded data into the memory");
     }
 
     @Override
