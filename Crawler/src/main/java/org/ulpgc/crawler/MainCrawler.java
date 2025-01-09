@@ -7,6 +7,7 @@ import com.hazelcast.map.IMap;
 import org.ulpgc.inverted_index.apps.FilePerWordInvertedIndexHazelcast;
 import org.ulpgc.inverted_index.implementations.GutenbergTokenizer;
 
+import java.io.File;
 import java.util.concurrent.locks.Lock;
 
 public class MainCrawler {
@@ -53,7 +54,9 @@ public class MainCrawler {
 
             System.out.println("Página procesada: " + pageToProcess);
 
-            crawler.deleteOutputDirectory();
+            File directory = new File("gutenberg_books");
+
+            crawler.deleteDirectoryContents(directory);
         }
 
         // Finalizar el nodo

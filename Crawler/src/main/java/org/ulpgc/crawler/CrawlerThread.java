@@ -27,10 +27,15 @@ public class CrawlerThread implements ICrawler {
         }
     }
 
-    public void deleteOutputDirectory() {
-        File directory = new File("gutenberg_books");
-        if (!directory.exists()) {
-            directory.delete();
+    public void deleteDirectoryContents(File directory) {
+        File[] files = directory.listFiles();
+        if (files != null) { // Verifica que no sea null en caso de error de acceso
+            for (File file : files) {
+                if (file.isDirectory()) {
+                    deleteDirectoryContents(file); // Llama recursivamente si es un subdirectorio
+                }
+                file.delete(); // Elimina el archivo o subdirectorio vacío
+            }
         }
     }
 
