@@ -35,6 +35,7 @@ public class FilePerWordInvertedIndexHazelcast {
         Config config = new Config();
         config.getNetworkConfig().getJoin().getTcpIpConfig().setEnabled(true)
                 .addMember("10.193.36.90")
+                .addMember("10.193.135.125")
                 .addMember("10.193.132.48");
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
 

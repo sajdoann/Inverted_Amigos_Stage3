@@ -33,6 +33,7 @@ public class HazelQueryEngine implements SearchEngineInterface {
         config.getNetworkConfig().getJoin().getTcpIpConfig()
                 .setEnabled(true)
                 .addMember("10.193.36.90")
+                .addMember("10.193.135.125")
                 .addMember("10.193.132.48");
 
         this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);

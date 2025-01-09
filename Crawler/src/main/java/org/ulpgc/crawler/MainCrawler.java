@@ -10,13 +10,14 @@ import org.ulpgc.inverted_index.implementations.GutenbergTokenizer;
 import java.util.concurrent.locks.Lock;
 
 public class MainCrawler {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         // Configuración de Hazelcast
         Config config = new Config();
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
         config.getNetworkConfig().getJoin().getTcpIpConfig()
                 .setEnabled(true)
                 .addMember("10.193.36.90")
+                .addMember("10.193.135.125")
                 .addMember("10.193.132.48");
 
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
@@ -40,12 +41,11 @@ public class MainCrawler {
 
             System.out.println("Nodo procesando página: " + pageToProcess);
 
-            // Realizar el scrapping
             crawler.fetchBooks(pageToProcess);
             crawler.shutdownExecutor();
 
             // Indexar los libros descargados
-            //indexer.indexAll();
+            indexer.indexAll();
 
             System.out.println("Página procesada: " + pageToProcess);
 
