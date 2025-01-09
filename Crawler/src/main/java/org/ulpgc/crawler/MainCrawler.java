@@ -48,6 +48,8 @@ public class MainCrawler {
             indexer.indexAll();
 
             System.out.println("Página procesada: " + pageToProcess);
+
+            crawler.deleteOutputDirectory();
         }
 
         // Finalizar el nodo

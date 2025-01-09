@@ -27,6 +27,13 @@ public class CrawlerThread implements ICrawler {
         }
     }
 
+    public void deleteOutputDirectory() {
+        File directory = new File("gutenberg_books");
+        if (!directory.exists()) {
+            directory.delete();
+        }
+    }
+
     private ExecutorService create_Executors(){
         return Executors.newFixedThreadPool(10);
     }
