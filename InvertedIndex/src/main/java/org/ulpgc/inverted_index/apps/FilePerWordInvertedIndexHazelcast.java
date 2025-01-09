@@ -24,10 +24,12 @@ public class FilePerWordInvertedIndexHazelcast {
         this.tokenizer = tokenizer;
 
         Config config = new Config();
-        config.getNetworkConfig().getInterfaces()
+        config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
+        config.getNetworkConfig().getJoin().getTcpIpConfig()
                 .setEnabled(true)
-                .addInterface("192.168.191.*"); // Ajustar IP para entorno de laboratorio
-        config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(true);
+                .addMember("10.193.36.90")
+                .addMember("10.193.132.48");
+
 
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
 

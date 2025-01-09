@@ -8,8 +8,8 @@ public class MainCrawler {
         CrawlerThread crawlerThread = new CrawlerThread();
         crawlerThread.fetchBooks(50);
         crawlerThread.shutdownExecutor();
-        crawlerThread.fetchBooks(75);
-        crawlerThread.shutdownExecutor();
+        //crawlerThread.fetchBooks(75);
+        //crawlerThread.shutdownExecutor();
 
     }
 }

@@ -452,3 +452,75 @@ ID: 66573, Title: 3½ Monate Fabrik-Arbeiterin, Author: Minna Wettstein-Adelt, R
 ID: 22781, Title: 32 Caliber, Author: Donald McGibeny, Release Date: Sep 27, 2007, Language: English
 ID: 69, Title: The 32nd Mersenne Prime, Author: David Slowinski, Release Date: Jun 1, 1993, Language: English
 ID: 69225, Title: 365 bedtime stories, Author: Mary Graham Bonner, Release Date: Oct 24, 2022, Language: English
+ID: 29, Title: The 1990 United States Census, Author: United States. Bureau of the Census, Release Date: Apr 1, 1992, Language: English
+ID: 251, Title: 1995 United States Congressional Address Book, Author: United States, Release Date: Apr 1, 1995, Language: English
+ID: 25, Title: The 1991 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Feb 1, 1992, Language: English
+ID: 37, Title: The 1990 United States Census [2nd], Author: United States. Bureau of the Census, Release Date: Aug 1, 1992, Language: English
+ID: 571, Title: The 1995 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 1, 1996, Language: English
+ID: 1662, Title: The 1997 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Mar 1, 1999, Language: English
+ID: 27675, Title: The 1996 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 180, Title: The 1994 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 1, 1994, Language: English
+ID: 2016, Title: The 1998 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 1, 1999, Language: English
+ID: 27676, Title: The 1999 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 48, Title: The 1992 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 1993, Language: English
+ID: 87, Title: The 1993 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Oct 1, 1993, Language: English
+ID: 67189, Title: El 19 de marzo y el 2 de mayo, Author: Benito Pérez Galdós, Release Date: Jan 17, 2022, Language: Spanish
+ID: 11205, Title: 20.000 Mijlen onder Zee: Oostelijk Halfrond, Author: Jules Verne, Release Date: Feb 1, 2004, Language: Dutch
+ID: 11393, Title: 20.000 Mijlen onder Zee: Westelijk Halfrond, Author: Jules Verne, Release Date: Mar 1, 2004, Language: Dutch
+ID: 6344, Title: The 2002 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Aug 1, 2004, Language: English
+ID: 27560, Title: The 2005 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27558, Title: The 2003 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27638, Title: The 2001 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 27, 2008, Language: English
+ID: 3672, Title: The 2000 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 2003, Language: English
+ID: 27509, Title: The 2006 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 12, 2008, Language: English
+ID: 27559, Title: The 2004 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27348, Title: The 2007 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 28, 2008, Language: English
+ID: 29233, Title: The 2008 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 25, 2009, Language: English
+ID: 74374, Title: Unknown, Author: Unknown, Release Date: Sep 5, 2024, Language: English
+ID: 23659, Title: 21, Author: Frank Crane, Release Date: Nov 29, 2007, Language: English
+ID: 58103, Title: 20 poemas para ser leídos en el tranvía, Author: Oliverio Girondo, Release Date: Oct 15, 2018, Language: Spanish
+ID: 73448, Title: Unknown, Author: Unknown, Release Date: Apr 23, 2024, Language: English
+ID: 57361, Title: Unknown, Author: Unknown, Release Date: Jun 20, 2018, Language: English
+ID: 68882, Title: 21 Jahre in Indien. Zweiter Theil: Java., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 68881, Title: 21 Jahre in Indien. Erster Theil: Borneo., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 20377, Title: The 23rd (Service) Battalion Royal Fusiliers (First Sportsman's), Author: Fred W. Ward, Release Date: Jan 15, 2007, Language: English
+ID: 68883, Title: 21 Jahre in Indien. Dritter Theil: Sumatra., Author: Heinrich Breitenstein, Release Date: Aug 31, 2022, Language: German
+ID: 56268, Title: 25 Billeder for Børn, Author: Christian Winther, Release Date: Dec 30, 2017, Language: Unknown
+ID: 35829, Title: The 2009 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 11, 2011, Language: English
+ID: 21279, Title: 2 B R 0 2 B, Author: Kurt Vonnegut, Release Date: May 3, 2007, Language: English
+ID: 25341, Title: Unknown, Author: Unknown, Release Date: May 5, 2008, Language: English
+ID: 35830, Title: The 2010 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 11, 2011, Language: English
+ID: 65562, Title: 30 Tempting Spaghetti Meals: Easy, Economical, Delicious, Author: Campbell Soup Company, Release Date: Jun 7, 2021, Language: English
+ID: 35275, Title: 30,000 locked out : the great strike of the building trades in Chicago, Author: Beeks, Release Date: Feb 14, 2011, Language: English
+ID: 73375, Title: 30-day wonder, Author: Richard Wilson, Release Date: Apr 10, 2024, Language: English
+ID: 66573, Title: 3½ Monate Fabrik-Arbeiterin, Author: Minna Wettstein-Adelt, Release Date: Oct 20, 2021, Language: German
+ID: 19978, Title: 35 Sonnets, Author: Fernando Pessoa, Release Date: Nov 30, 2006, Language: English
+ID: 69225, Title: 365 bedtime stories, Author: Mary Graham Bonner, Release Date: Oct 24, 2022, Language: English
+ID: 69, Title: The 32nd Mersenne Prime, Author: David Slowinski, Release Date: Jun 1, 1993, Language: English
+ID: 15993, Title: 25 vuotta, Author: Kasimir Leino, Release Date: Jun 6, 2005, Language: Unknown
+ID: 10011, Title: 365 Foreign Dishes, Author: Unknown, Release Date: Nov 1, 2003, Language: English
+ID: 22781, Title: 32 Caliber, Author: Donald McGibeny, Release Date: Sep 27, 2007, Language: English
+ID: 251, Title: 1995 United States Congressional Address Book, Author: United States, Release Date: Apr 1, 1995, Language: English
+ID: 87, Title: The 1993 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Oct 1, 1993, Language: English
+ID: 180, Title: The 1994 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 1, 1994, Language: English
+ID: 29, Title: The 1990 United States Census, Author: United States. Bureau of the Census, Release Date: Apr 1, 1992, Language: English
+ID: 27675, Title: The 1996 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 48, Title: The 1992 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 1993, Language: English
+ID: 571, Title: The 1995 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 1, 1996, Language: English
+ID: 11393, Title: 20.000 Mijlen onder Zee: Westelijk Halfrond, Author: Jules Verne, Release Date: Mar 1, 2004, Language: Dutch
+ID: 67189, Title: El 19 de marzo y el 2 de mayo, Author: Benito Pérez Galdós, Release Date: Jan 17, 2022, Language: Spanish
+ID: 37, Title: The 1990 United States Census [2nd], Author: United States. Bureau of the Census, Release Date: Aug 1, 1992, Language: English
+ID: 2016, Title: The 1998 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 1, 1999, Language: English
+ID: 27676, Title: The 1999 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 31, 2008, Language: English
+ID: 6344, Title: The 2002 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Aug 1, 2004, Language: English
+ID: 27558, Title: The 2003 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27638, Title: The 2001 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 27, 2008, Language: English
+ID: 3672, Title: The 2000 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jan 1, 2003, Language: English
+ID: 11205, Title: 20.000 Mijlen onder Zee: Oostelijk Halfrond, Author: Jules Verne, Release Date: Feb 1, 2004, Language: Dutch
+ID: 27559, Title: The 2004 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27560, Title: The 2005 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 18, 2008, Language: English
+ID: 27509, Title: The 2006 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Dec 12, 2008, Language: English
+ID: 25, Title: The 1991 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Feb 1, 1992, Language: English
+ID: 1662, Title: The 1997 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Mar 1, 1999, Language: English
+ID: 29233, Title: The 2008 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Jun 25, 2009, Language: English
+ID: 27348, Title: The 2007 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Nov 28, 2008, Language: English
