@@ -6,8 +6,10 @@ import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.map.IMap;
 import org.ulpgc.inverted_index.apps.FilePerWordInvertedIndexHazelcast;
 import org.ulpgc.inverted_index.implementations.GutenbergTokenizer;
+import org.ulpgc.api.ApiApplication;
 
 import java.io.File;
+import java.util.Map;
 import java.util.concurrent.locks.Lock;
 
 public class MainCrawler {
@@ -27,6 +29,7 @@ public class MainCrawler {
 
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
         IMap<Integer, Boolean> pagesMap = hazelcastInstance.getMap("pagesMap");
+        IMap<Integer, Map<String, String>> metadata = hazelcastInstance.getMap("metadata");
 
         // Inicializar el mapa de páginas si está vacío
         initializePagesMap(hazelcastInstance, pagesMap);
@@ -59,8 +62,14 @@ public class MainCrawler {
             crawler.deleteDirectoryContents(directory);
         }
 
+        File metadataFile = new File("gutenberg_data.txt");
+
+        crawler.loadMetadataFromFile(metadataFile, metadata);
+
+        ApiApplication.main(args);
+
         // Finalizar el nodo
-        hazelcastInstance.shutdown();
+//        hazelcastInstance.shutdown();
     }
 
     private static void initializePagesMap(HazelcastInstance hazelcastInstance, IMap<Integer, Boolean> pagesMap) {

@@ -1,8 +1,12 @@
 package org.ulpgc.crawler;
 
 import java.io.*;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 import java.util.concurrent.*;
+
+import com.hazelcast.map.IMap;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -135,6 +139,30 @@ public class CrawlerThread implements ICrawler {
             }
         }
         return "Unknown";
+    }
+
+    public void loadMetadataFromFile(File metadataFile, IMap metadata) {
+        Pattern pattern = Pattern.compile("(\\w+)\\s*:\\s*((?:\\w+\\s+\\d{1,2},\\s+\\d{4})|[^,]+)");
+        try (BufferedReader reader = new BufferedReader(new FileReader(metadataFile))) {
+            String line;
+
+            while ((line = reader.readLine()) != null) {
+                Map<String, String> bookData = new HashMap<>();
+                Matcher matcher = pattern.matcher(line);
+                int bookId = -1;
+
+                while (matcher.find()) {
+                    String key = matcher.group(1);
+                    String value = matcher.group(2);
+                    if (key.equals("ID")) bookId = Integer.parseInt(value);
+                    else bookData.put(key, value);
+                }
+
+                metadata.put(bookId, bookData);
+            }
+        } catch (IOException e) {
+            System.err.println("Error reading metadata file: " + e.getMessage());
+        }
     }
 
     @Override
