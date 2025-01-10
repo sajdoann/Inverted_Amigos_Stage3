@@ -194,5 +194,9 @@ public class HazelQueryEngine implements SearchEngineInterface {
     public IMap<String, Boolean> getIndexedMap() {
         return this.indexedMap;
     }
+
+    public int getNumberOfBooks() {
+        return this.indexedMap.size();
+    }
 }
 

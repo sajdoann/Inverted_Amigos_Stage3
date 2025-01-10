@@ -55,4 +55,8 @@ public class SearchEngineController implements SearchEngineControllerInterface {
         System.out.println(Arrays.toString(words));
         return searchEngine.searchForMultiplewithCriteria(words, title, author, from, to, language);
     }
+
+    @GetMapping("nbooks") int getNumberOfBooks(){
+        return searchEngine.getNumberOfBooks();
+    }
 }
