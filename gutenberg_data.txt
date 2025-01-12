@@ -71,3 +71,68 @@ ID: 31171, Title: 1931: A Glance at the Twentieth Century, Author: Henry Hartsho
 ID: 63980, Title: 1970: A Vision of the Coming Age, Author: John Collins, Release Date: Dec 7, 2020, Language: English
 ID: 24538, Title: 1914, Author: Earl of Ypres John Denton Pinkstone French, Release Date: Feb 6, 2008, Language: English
 ID: 14, Title: The 1990 CIA World Factbook, Author: United States. Central Intelligence Agency, Release Date: Apr 1, 1991, Language: English
+ID: 56341, Title: The American Missionary — Volume 35, No. 12, December, 1881, Author: Various, Release Date: Jan 9, 2018, Language: English
+ID: 55095, Title: The American Missionary — Volume 35, No. 1, January, 1881, Author: Various, Release Date: Jul 12, 2017, Language: English
+ID: 55273, Title: The American Missionary — Volume 35, No. 2, February, 1881, Author: Various, Release Date: Aug 6, 2017, Language: English
+ID: 56587, Title: The American Missionary — Volume 35, No. 10, October, 1881, Author: Various, Release Date: Feb 17, 2018, Language: English
+ID: 55365, Title: The American Missionary — Volume 35, No. 4, April, 1881, Author: Various, Release Date: Aug 16, 2017, Language: English
+ID: 55486, Title: The American Missionary — Volume 35, No. 5, May, 1881, Author: Various, Release Date: Sep 4, 2017, Language: English
+ID: 56150, Title: The American Missionary — Volume 35, No. 11, November, 1881, Author: Various, Release Date: Dec 9, 2017, Language: English
+ID: 55433, Title: The American Missionary — Volume 34, No. 8, August, 1880, Author: Various, Release Date: Aug 26, 2017, Language: English
+ID: 55224, Title: The American Missionary — Volume 34, No. 7, July, 1880, Author: Various, Release Date: Jul 29, 2017, Language: English
+ID: 55385, Title: The American Missionary — Volume 35, No. 3, March 1881, Author: Various, Release Date: Aug 19, 2017, Language: English
+ID: 55612, Title: The American Missionary — Volume 35, No. 7, July, 1881, Author: Various, Release Date: Sep 24, 2017, Language: English
+ID: 55613, Title: The American Missionary — Volume 35, No. 8, August, 1881, Author: Various, Release Date: Sep 24, 2017, Language: English
+ID: 55551, Title: The American Missionary — Volume 35, No. 6, June, 1881, Author: Various, Release Date: Sep 15, 2017, Language: English
+ID: 57510, Title: The American Missionary — Volume 36, No. 3, March, 1882, Author: Various, Release Date: Jul 15, 2018, Language: English
+ID: 58126, Title: The American Missionary — Volume 36, No. 10, October, 1882, Author: Various, Release Date: Oct 18, 2018, Language: English
+ID: 56102, Title: The American Missionary — Volume 35, No. 9, September, 1881, Author: Various, Release Date: Dec 2, 2017, Language: English
+ID: 57446, Title: The American Missionary — Volume 36, No. 2, February, 1882, Author: Various, Release Date: Jul 5, 2018, Language: English
+ID: 57591, Title: The American Missionary — Volume 36, No. 4, April, 1882, Author: Various, Release Date: Jul 29, 2018, Language: English
+ID: 58128, Title: The American Missionary — Volume 36, No. 12, December, 1882, Author: Various, Release Date: Oct 18, 2018, Language: English
+ID: 58127, Title: The American Missionary — Volume 36, No. 11, November, 1882, Author: Various, Release Date: Oct 18, 2018, Language: English
+ID: 57859, Title: The American Missionary — Volume 36, No. 5, May, 1882, Author: Various, Release Date: Sep 7, 2018, Language: English
+ID: 57974, Title: The American Missionary — Volume 36, No. 6, June, 1882, Author: Various, Release Date: Sep 25, 2018, Language: English
+ID: 57445, Title: The American Missionary — Volume 36, No. 1, January, 1882, Author: Various, Release Date: Jul 5, 2018, Language: English
+ID: 58050, Title: The American Missionary — Volume 36, No. 8, August 1882, Author: Various, Release Date: Oct 7, 2018, Language: English
+ID: 58038, Title: The American Missionary — Volume 36, No. 7, July, 1882, Author: Various, Release Date: Oct 6, 2018, Language: English
+ID: 51811, Title: Unknown, Author: Unknown, Release Date: Apr 20, 2016, Language: English
+ID: 18543, Title: Unknown, Author: Unknown, Release Date: Jun 9, 2006, Language: French
+ID: 38258, Title: Abrégé de l'Histoire Générale des Voyages (Tome 5), Author: Jean-François de La Harpe, Release Date: Dec 9, 2011, Language: French
+ID: 42635, Title: Abrégé de l'Histoire Générale des Voyages (Tome 6), Author: Jean-François de La Harpe, Release Date: May 3, 2013, Language: French
+ID: 27877, Title: An Abridgment of the Architecture of Vitruvius, Author: Vitruvius Pollio, Release Date: Jan 24, 2009, Language: English
+ID: 38257, Title: Abrégé de l'Histoire Générale des Voyages (Tome 4), Author: Jean-François de La Harpe, Release Date: Dec 9, 2011, Language: French
+ID: 23460, Title: Abroad, Author: Thomas Crane and Ellen Elizabeth Houghton, Release Date: Nov 12, 2007, Language: English
+ID: 40851, Title: Unknown, Author: Unknown, Release Date: Sep 23, 2012, Language: English
+ID: 40499, Title: Unknown, Author: Unknown, Release Date: Aug 14, 2012, Language: English
+ID: 74514, Title: Abroad with Mark Twain and Eugene Field : Tales told, Author: a fellow correspondent, Release Date: Oct 4, 2024, Language: English
+ID: 51619, Title: Absalomin tukka, Author: Bjørnstjerne Bjørnson, Release Date: Apr 1, 2016, Language: Unknown
+ID: 12184, Title: Abroad with the Jimmies, Author: Lilian Bell, Release Date: Apr 1, 2004, Language: English
+ID: 47289, Title: Unknown, Author: Unknown, Release Date: Nov 4, 2014, Language: English
+ID: 35965, Title: Unknown, Author: Unknown, Release Date: Apr 25, 2011, Language: English
+ID: 53924, Title: Abroad and at Home; Practical Hints for Tourists, Author: Morris Phillips, Release Date: Jan 8, 2017, Language: English
+ID: 56341, Title: The American Missionary — Volume 35, No. 12, December, 1881, Author: Various, Release Date: Jan 9, 2018, Language: English
+ID: 55486, Title: The American Missionary — Volume 35, No. 5, May, 1881, Author: Various, Release Date: Sep 4, 2017, Language: English
+ID: 55095, Title: The American Missionary — Volume 35, No. 1, January, 1881, Author: Various, Release Date: Jul 12, 2017, Language: English
+ID: 56150, Title: The American Missionary — Volume 35, No. 11, November, 1881, Author: Various, Release Date: Dec 9, 2017, Language: English
+ID: 55273, Title: The American Missionary — Volume 35, No. 2, February, 1881, Author: Various, Release Date: Aug 6, 2017, Language: English
+ID: 56587, Title: The American Missionary — Volume 35, No. 10, October, 1881, Author: Various, Release Date: Feb 17, 2018, Language: English
+ID: 55385, Title: The American Missionary — Volume 35, No. 3, March 1881, Author: Various, Release Date: Aug 19, 2017, Language: English
+ID: 55365, Title: The American Missionary — Volume 35, No. 4, April, 1881, Author: Various, Release Date: Aug 16, 2017, Language: English
+ID: 55224, Title: The American Missionary — Volume 34, No. 7, July, 1880, Author: Various, Release Date: Jul 29, 2017, Language: English
+ID: 55433, Title: The American Missionary — Volume 34, No. 8, August, 1880, Author: Various, Release Date: Aug 26, 2017, Language: English
+ID: 55551, Title: The American Missionary — Volume 35, No. 6, June, 1881, Author: Various, Release Date: Sep 15, 2017, Language: English
+ID: 58127, Title: The American Missionary — Volume 36, No. 11, November, 1882, Author: Various, Release Date: Oct 18, 2018, Language: English
+ID: 55612, Title: The American Missionary — Volume 35, No. 7, July, 1881, Author: Various, Release Date: Sep 24, 2017, Language: English
+ID: 55613, Title: The American Missionary — Volume 35, No. 8, August, 1881, Author: Various, Release Date: Sep 24, 2017, Language: English
+ID: 56102, Title: The American Missionary — Volume 35, No. 9, September, 1881, Author: Various, Release Date: Dec 2, 2017, Language: English
+ID: 58126, Title: The American Missionary — Volume 36, No. 10, October, 1882, Author: Various, Release Date: Oct 18, 2018, Language: English
+ID: 57445, Title: The American Missionary — Volume 36, No. 1, January, 1882, Author: Various, Release Date: Jul 5, 2018, Language: English
+ID: 57510, Title: The American Missionary — Volume 36, No. 3, March, 1882, Author: Various, Release Date: Jul 15, 2018, Language: English
+ID: 58128, Title: The American Missionary — Volume 36, No. 12, December, 1882, Author: Various, Release Date: Oct 18, 2018, Language: English
+ID: 57859, Title: The American Missionary — Volume 36, No. 5, May, 1882, Author: Various, Release Date: Sep 7, 2018, Language: English
+ID: 57974, Title: The American Missionary — Volume 36, No. 6, June, 1882, Author: Various, Release Date: Sep 25, 2018, Language: English
+ID: 57591, Title: The American Missionary — Volume 36, No. 4, April, 1882, Author: Various, Release Date: Jul 29, 2018, Language: English
+ID: 58038, Title: The American Missionary — Volume 36, No. 7, July, 1882, Author: Various, Release Date: Oct 6, 2018, Language: English
+ID: 58050, Title: The American Missionary — Volume 36, No. 8, August 1882, Author: Various, Release Date: Oct 7, 2018, Language: English
+ID: 57446, Title: The American Missionary — Volume 36, No. 2, February, 1882, Author: Various, Release Date: Jul 5, 2018, Language: English

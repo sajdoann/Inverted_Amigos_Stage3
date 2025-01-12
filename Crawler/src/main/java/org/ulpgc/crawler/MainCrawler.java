@@ -19,13 +19,14 @@ public class MainCrawler {
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
         config.getNetworkConfig().getJoin().getTcpIpConfig()
                 .setEnabled(true)
-                .addMember("10.26.14.210")
+                .addMember("192.168.1.39");
+                /*.addMember("10.26.14.210")
                 .addMember("10.26.14.211")
                 .addMember("10.26.14.212")
                 .addMember("10.26.14.213")
                 .addMember("10.26.14.214")
                 .addMember("10.26.14.215")
-                .addMember("10.26.14.216");
+                .addMember("10.26.14.216");*/
 
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
         IMap<Integer, Boolean> pagesMap = hazelcastInstance.getMap("pagesMap");
@@ -36,7 +37,7 @@ public class MainCrawler {
 
         // Crear instancias del crawler y del indexador
         CrawlerThread crawler = new CrawlerThread();
-        GutenbergTokenizer tokenizer = new GutenbergTokenizer("InvertedIndex/stopwords.txt");
+        GutenbergTokenizer tokenizer = new GutenbergTokenizer("stopwords.txt");
         FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast("gutenberg_books", tokenizer);
 
         // Procesar las páginas

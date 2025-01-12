@@ -2,7 +2,10 @@ package org.ulpgc.inverted_index.implementations;
 import org.ulpgc.inverted_index.apps.ResponseList;
 import org.ulpgc.inverted_index.ports.Tokenizer;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
@@ -28,10 +31,21 @@ public class GutenbergTokenizer implements Tokenizer {
     }
 
     private Set<String> readStopwords(String stopwordsFile) throws IOException {
-        return Files.lines(Paths.get(stopwordsFile))
-                .map(String::trim)
-                .map(String::toLowerCase)
-                .collect(Collectors.toSet());
+        // Obtén el InputStream del archivo dentro del JAR
+        InputStream inputStream = getClass().getClassLoader().getResourceAsStream(stopwordsFile);
+
+        // Asegúrate de que el archivo fue encontrado
+        if (inputStream == null) {
+            throw new IOException("El archivo de stopwords no fue encontrado: " + stopwordsFile);
+        }
+
+        // Lee las líneas del InputStream y crea el Set<String> de stopwords
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream))) {
+            return reader.lines()
+                    .map(String::trim)
+                    .map(String::toLowerCase)
+                    .collect(Collectors.toSet());
+        }
     }
 
     private Map<String, ResponseList> processText(String book, Set<String> stopwords, int bookID) throws IOException {

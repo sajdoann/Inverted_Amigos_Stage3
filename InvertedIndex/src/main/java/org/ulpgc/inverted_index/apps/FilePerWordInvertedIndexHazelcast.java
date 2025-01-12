@@ -33,14 +33,16 @@ public class FilePerWordInvertedIndexHazelcast {
                 .addInterface("192.168.191.*"); // Ajustar IP para entorno de laboratorio
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(true);*/
         Config config = new Config();
-        config.getNetworkConfig().getJoin().getTcpIpConfig().setEnabled(true)
-                .addMember("10.26.14.210")
+        config.getNetworkConfig().getJoin().getTcpIpConfig()
+                .setEnabled(true)
+                .addMember("192.168.1.39");
+                /*.addMember("10.26.14.210")
                 .addMember("10.26.14.211")
                 .addMember("10.26.14.212")
                 .addMember("10.26.14.213")
                 .addMember("10.26.14.214")
                 .addMember("10.26.14.215")
-                .addMember("10.26.14.216");
+                .addMember("10.26.14.216");*/
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
 
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
@@ -176,7 +178,7 @@ public class FilePerWordInvertedIndexHazelcast {
     public static void main(String[] args) throws InterruptedException, IOException {
         String booksDirectory = "gutenberg_books";
 
-        GutenbergTokenizer tokenizer = new GutenbergTokenizer("InvertedIndex/stopwords.txt");
+        GutenbergTokenizer tokenizer = new GutenbergTokenizer("stopwords.txt");
 
         FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast(booksDirectory, tokenizer);
 
