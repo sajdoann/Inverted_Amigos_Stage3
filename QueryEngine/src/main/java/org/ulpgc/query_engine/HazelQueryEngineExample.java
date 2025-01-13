@@ -11,24 +11,24 @@ public class HazelQueryEngineExample {
         queryEngine.maps_size();
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Bienvenido al motor de búsqueda interactivo. Escribe 'salir' para terminar.");
+        System.out.println("Welcome to the interactive search engine. Type ‘exit’ to finish.");
 
         while (true) {
-            System.out.print("Introduce palabras para buscar (separadas por comas): ");
+            System.out.print("Enter words to search for (separated by commas): ");
             String input = scanner.nextLine();
 
-            if (input.equalsIgnoreCase("salir")) {
-                System.out.println("Saliendo...");
+            if (input.equalsIgnoreCase("Leave")) {
+                System.out.println("Leaving...");
                 break;
             }
 
             String[] searchWords = input.split(",");
 
-            System.out.println("Buscando palabras: " + String.join(", ", searchWords));
+            System.out.println("Searching for words: " + String.join(", ", searchWords));
             MultipleWordsResponseList results = queryEngine.searchForMultiplewithCriteria(searchWords, null, null, null, null, null);
 
             if (results.getResults().isEmpty()) {
-                System.out.println("No se encontraron resultados para las palabras especificadas.");
+                System.out.println("No results were found for the specified words.");
             } else {
                 results.getResults().forEach(result -> {
                     System.out.println("Book ID: " + result.getBookId());
@@ -36,7 +36,7 @@ public class HazelQueryEngineExample {
                 });
             }
 
-            System.out.println(); // Línea en blanco para separar búsquedas
+            System.out.println();
         }
         scanner.close();
     }

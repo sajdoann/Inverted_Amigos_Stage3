@@ -12,7 +12,7 @@ import java.util.concurrent.locks.Lock;
 
 public class MainCrawler {
     public static void main(String[] args) throws InterruptedException {
-        // Configuración de Hazelcast
+        // Configuration of Hazelcast
         Config config = new Config();
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
         config.getNetworkConfig().getJoin().getTcpIpConfig()
@@ -28,38 +28,38 @@ public class MainCrawler {
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
         IMap<Integer, Boolean> pagesMap = hazelcastInstance.getMap("pagesMap");
 
-        // Inicializar el mapa de páginas si está vacío
+        // Initialise the page map if it is empty
         initializePagesMap(hazelcastInstance, pagesMap);
 
-        // Crear instancias del crawler y del indexador
+        // Creating instances of the crawler and indexer
         CrawlerThread crawler = new CrawlerThread();
         GutenbergTokenizer tokenizer = new GutenbergTokenizer("InvertedIndex/stopwords.txt");
         FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast("gutenberg_books", tokenizer);
 
-        // Procesar las páginas
+        // Process the pages
         while (true) {
             Integer pageToProcess = getNextPage(hazelcastInstance, pagesMap);
             if (pageToProcess == null) {
-                System.out.println("No quedan páginas por procesar. Finalizando nodo...");
+                System.out.println("There are no pages left to process. Terminating the node...");
                 break;
             }
 
-            System.out.println("Nodo procesando página: " + pageToProcess);
+            System.out.println("Node processing page: " + pageToProcess);
 
             crawler.fetchBooks(pageToProcess);
             crawler.shutdownExecutor();
 
-            // Indexar los libros descargados
+            // Index downloaded books
             indexer.indexAll();
 
-            System.out.println("Página procesada: " + pageToProcess);
+            System.out.println("Processed page: " + pageToProcess);
 
             File directory = new File("gutenberg_books");
 
             crawler.deleteDirectoryContents(directory);
         }
 
-        // Finalizar el nodo
+        // Terminating the node
         hazelcastInstance.shutdown();
     }
 
@@ -68,12 +68,12 @@ public class MainCrawler {
         lock.lock();
         try {
             if (pagesMap.isEmpty()) {
-                System.out.println("Inicializando mapa de páginas...");
+                System.out.println("Initialising map with pages ...");
                 for (int i = 0; i <= 2025; i += 25) {
-                    pagesMap.put(i, false); // false indica que la página no ha sido procesada
+                    pagesMap.put(i, false); // false indicates that the page has not been processed.
                 }
             } else {
-                System.out.println("Mapa de páginas ya inicializado.");
+                System.out.println("Map with the pages already initialised.");
             }
         } finally {
             lock.unlock();
@@ -82,12 +82,12 @@ public class MainCrawler {
 
     private static Integer getNextPage(HazelcastInstance hazelcastInstance, IMap<Integer, Boolean> pagesMap) {
         for (Integer page : pagesMap.keySet()) {
-            if (!pagesMap.get(page)) { // Verificar si la página no ha sido procesada
+            if (!pagesMap.get(page)) { // Check if the page has not been processed
                 Lock lock = hazelcastInstance.getCPSubsystem().getLock("pageLock-" + page);
                 lock.lock();
                 try {
                     if (!pagesMap.get(page)) {
-                        pagesMap.put(page, true); // Marcar la página como procesada
+                        pagesMap.put(page, true); // Mark the page as processed
                         return page;
                     }
                 } finally {
@@ -95,7 +95,7 @@ public class MainCrawler {
                 }
             }
         }
-        return null; // No quedan páginas por procesar
+        return null; // There are no pages left to process
     }
 }
 
