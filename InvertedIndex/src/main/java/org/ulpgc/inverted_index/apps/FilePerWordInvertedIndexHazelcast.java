@@ -43,7 +43,7 @@ public class FilePerWordInvertedIndexHazelcast {
                 .addMember("10.26.14.240")
                 .addMember("10.26.14.241");
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
-        config.getNetworkConfig().setPublicAddress(args[0]+":5701");
+        config.getNetworkConfig().setPublicAddress(args[0]+":5703");
 
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
 
