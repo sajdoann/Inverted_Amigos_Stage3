@@ -27,6 +27,8 @@ public class MainCrawler {
                 .addMember("10.26.14.240")
                 .addMember("10.26.14.241");
 
+        config.getNetworkConfig().setPublicAddress(args[0]+":5701");
+
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
         IMap<Integer, Boolean> pagesMap = hazelcastInstance.getMap("pagesMap");
         IMap<Integer, Map<String, String>> metadata = hazelcastInstance.getMap("metadata");
@@ -37,7 +39,7 @@ public class MainCrawler {
         // Crear instancias del crawler y del indexador
         CrawlerThread crawler = new CrawlerThread();
         GutenbergTokenizer tokenizer = new GutenbergTokenizer("stopwords.txt");
-        FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast("gutenberg_books", tokenizer);
+        FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast("gutenberg_books", tokenizer, args);
 
         // Procesar las páginas
         while (true) {

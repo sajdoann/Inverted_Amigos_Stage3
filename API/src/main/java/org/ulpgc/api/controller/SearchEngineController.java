@@ -18,8 +18,8 @@ public class SearchEngineController implements SearchEngineControllerInterface {
 
     private final HazelQueryEngine searchEngine;
 
-    public SearchEngineController() throws InterruptedException {
-        this.searchEngine = new HazelQueryEngine();
+    public SearchEngineController(String[] args) throws InterruptedException {
+        this.searchEngine = new HazelQueryEngine(args);
 
         //String[] args2 = new String[] {"aa", "bb"};
         //MainCrawler.main(args2);

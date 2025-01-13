@@ -27,7 +27,7 @@ public class HazelQueryEngine implements SearchEngineInterface {
 
     private static final String PATH_TO_METADATA = "gutenberg_data.txt";
 
-    public HazelQueryEngine() {
+    public HazelQueryEngine(String[] args) {
         Config config = new Config();
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
         config.getNetworkConfig().getJoin().getTcpIpConfig()
@@ -39,6 +39,8 @@ public class HazelQueryEngine implements SearchEngineInterface {
                 .addMember("10.26.14.239")
                 .addMember("10.26.14.240")
                 .addMember("10.26.14.241");
+
+        config.getNetworkConfig().setPublicAddress(args[0]+":5701");
 
         this.hazelcastInstance = Hazelcast.newHazelcastInstance(config);
 

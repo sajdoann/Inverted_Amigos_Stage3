@@ -2,6 +2,7 @@ package org.ulpgc.query_engine;
 
 import org.openjdk.jmh.annotations.*;
 
+import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
 @BenchmarkMode(Mode.AverageTime)
@@ -18,8 +19,6 @@ public class GetTextFragmentBenchmark {
 
     @Setup(Level.Trial)
     public void setup() {
-        text_id = 100;
-        searchEngine = new HazelQueryEngine();
     }
 
     @Benchmark

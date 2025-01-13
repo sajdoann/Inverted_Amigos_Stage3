@@ -23,7 +23,7 @@ public class FilePerWordInvertedIndexHazelcast {
     private final ISemaphore semaphoreWTB;
     private final ISemaphore semaphoreBTP;
 
-    public FilePerWordInvertedIndexHazelcast(String books, GutenbergTokenizer tokenizer) {
+    public FilePerWordInvertedIndexHazelcast(String books, GutenbergTokenizer tokenizer, String[] args) {
         this.books = new File(books);
         this.tokenizer = tokenizer;
 
@@ -43,6 +43,7 @@ public class FilePerWordInvertedIndexHazelcast {
                 .addMember("10.26.14.240")
                 .addMember("10.26.14.241");
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
+        config.getNetworkConfig().setPublicAddress(args[0]+":5701");
 
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
 
@@ -179,7 +180,7 @@ public class FilePerWordInvertedIndexHazelcast {
 
         GutenbergTokenizer tokenizer = new GutenbergTokenizer("stopwords.txt");
 
-        FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast(booksDirectory, tokenizer);
+        FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast(booksDirectory, tokenizer, args);
 
         System.out.println("waking up");
 

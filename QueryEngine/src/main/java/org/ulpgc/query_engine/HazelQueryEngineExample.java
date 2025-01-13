@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class HazelQueryEngineExample {
 
     public static void main(String[] args) {
-        HazelQueryEngine queryEngine = new HazelQueryEngine();
+        HazelQueryEngine queryEngine = new HazelQueryEngine(args);
 
         queryEngine.maps_size();
 

@@ -19,14 +19,6 @@ public class SearchEngineBenchmark {
 
     @Setup(Level.Trial)
     public void setup() {
-        searchEngine = new HazelQueryEngine();
-        words1 = new String[1];
-        words1[0] = "love";
-        words2 = new String[2];
-        words2[0] = "summer";
-        words2[1] = "winter";
-        author = "William";
-        language = "English";
     }
 
     @Benchmark
