@@ -35,13 +35,13 @@ public class FilePerWordInvertedIndexHazelcast {
         Config config = new Config();
         config.getNetworkConfig().getJoin().getTcpIpConfig()
                 .setEnabled(true)
-                .addMember("10.26.14.210")
-                .addMember("10.26.14.211")
-                .addMember("10.26.14.212")
-                .addMember("10.26.14.213")
-                .addMember("10.26.14.214")
-                .addMember("10.26.14.215")
-                .addMember("10.26.14.216");
+                .addMember("10.26.14.225")
+                .addMember("10.26.14.226")
+                .addMember("10.26.14.227")
+                //.addMember("10.26.14.228")
+                .addMember("10.26.14.239")
+                .addMember("10.26.14.240")
+                .addMember("10.26.14.241");
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
 
         HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
