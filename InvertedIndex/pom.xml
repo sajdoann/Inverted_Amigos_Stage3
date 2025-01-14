@@ -47,7 +47,7 @@
             <!-- https://mvnrepository.com/artifact/com.hazelcast/hazelcast -->
             <groupId>com.hazelcast</groupId>
             <artifactId>hazelcast</artifactId>
-            <version>5.3.4</version>
+            <version>5.4.0</version>
         </dependency>
 
     </dependencies>

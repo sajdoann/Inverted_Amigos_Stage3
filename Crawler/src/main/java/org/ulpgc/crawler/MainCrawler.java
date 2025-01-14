@@ -80,7 +80,7 @@ public class MainCrawler {
         try {
             if (pagesMap.isEmpty()) {
                 System.out.println("Inicializando mapa de páginas...");
-                for (int i = 0; i <= 2025; i += 25) {
+                for (int i = 0; i <= 250; i += 25) {
                     pagesMap.put(i, false); // false indica que la página no ha sido procesada
                 }
             } else {

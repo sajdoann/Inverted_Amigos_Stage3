@@ -4,6 +4,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.beans.factory.annotation.Autowired;
 //import org.ulpgc.crawler.MainCrawler;
 //import org.ulpgc.inverted_index.apps.FilePerWordInvertedIndexHazelcast;
 //import org.ulpgc.inverted_index.implementations.GutenbergTokenizer;
@@ -18,8 +19,10 @@ public class SearchEngineController implements SearchEngineControllerInterface {
 
     private final HazelQueryEngine searchEngine;
 
-    public SearchEngineController(String[] args) throws InterruptedException {
-        this.searchEngine = new HazelQueryEngine(args);
+
+    @Autowired
+    public SearchEngineController(String[] applicationArguments) throws InterruptedException {
+        this.searchEngine = new HazelQueryEngine(applicationArguments);
 
         //String[] args2 = new String[] {"aa", "bb"};
         //MainCrawler.main(args2);
