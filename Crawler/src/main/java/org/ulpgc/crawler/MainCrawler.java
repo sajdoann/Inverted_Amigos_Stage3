@@ -19,13 +19,19 @@ public class MainCrawler {
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
         config.getNetworkConfig().getJoin().getTcpIpConfig()
                 .setEnabled(true)
-                .addMember("10.26.14.225")
-                .addMember("10.26.14.226")
-                .addMember("10.26.14.227")
-                //.addMember("10.26.14.228")
-                .addMember("10.26.14.239")
-                .addMember("10.26.14.240")
-                .addMember("10.26.14.241");
+                .addMember("10.26.14.211")
+                .addMember("10.26.14.212")
+                .addMember("10.26.14.213")
+                .addMember("10.26.14.214")
+                .addMember("10.26.14.215")
+                .addMember("10.26.14.216")
+                .addMember("10.26.14.217")
+                .addMember("10.26.14.218")
+                .addMember("10.26.14.219")
+                .addMember("10.26.14.220")
+                .addMember("10.26.14.221")
+                .addMember("10.26.14.222")
+                .addMember("10.26.14.223");
 
         config.getNetworkConfig().setPublicAddress(args[0]+":5701");
 
