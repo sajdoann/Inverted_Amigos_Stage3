@@ -19,6 +19,17 @@ public class MainCrawler {
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
         config.getNetworkConfig().getJoin().getTcpIpConfig()
                 .setEnabled(true)
+                .addMember("10.26.14.200")
+                .addMember("10.26.14.201")
+                .addMember("10.26.14.202")
+                .addMember("10.26.14.203")
+                .addMember("10.26.14.204")
+                .addMember("10.26.14.205")
+                .addMember("10.26.14.206")
+                .addMember("10.26.14.207")
+                .addMember("10.26.14.208")
+                .addMember("10.26.14.209")
+                .addMember("10.26.14.210")
                 .addMember("10.26.14.211")
                 .addMember("10.26.14.212")
                 .addMember("10.26.14.213")
@@ -86,7 +97,7 @@ public class MainCrawler {
         try {
             if (pagesMap.isEmpty()) {
                 System.out.println("Inicializando mapa de páginas...");
-                for (int i = 0; i <= 250; i += 25) {
+                for (int i = 0; i <= 2100; i += 25) {
                     pagesMap.put(i, false); // false indica que la página no ha sido procesada
                 }
             } else {
