@@ -107,7 +107,7 @@ public class FilePerWordInvertedIndexHazelcast {
     public boolean isIndexed(String file) {
         String id = new File(file).getName().replaceAll("\\D", "");
         if (!id.isEmpty()) {
-            return indexedMap.containsKey(id);  // Consultamos el Map de Hazelcast
+            return indexedMap.containsKey(id);
         }
         return false;
     }
@@ -135,56 +135,43 @@ public class FilePerWordInvertedIndexHazelcast {
         Map<String, ResponseList> index = this.tokenizer.tokenize(file, Integer.parseInt(id));
         updateHazelcast(index, Integer.parseInt(id));
 
-        // Agregar el ID al Map de Hazelcast después de indexar
         indexedMap.put(id, true);
     }
 
     private void updateHazelcast(Map<String, ResponseList> index, int bookId) throws InterruptedException {
-        // Crear los mapas temporales para todas las actualizaciones
         Map<String, Collection<Integer>> wordToBookMapTemp = new HashMap<>();
         Map<String, Collection<Integer>> wordBookToPositionsMapTemp = new HashMap<>();
 
-        // Recolectar todas las entradas para wordToBookMap y wordBookToPositionsMap
         for (Map.Entry<String, ResponseList> entry : index.entrySet()) {
             String word = entry.getKey();
             ResponseList responseList = entry.getValue();
 
-            // Crear una clave compuesta como word + "|" + bookId
             String key = word + "|" + bookId;
 
-            // Agregar la clave (combinación de word + bookId) a wordToBookMap
             Collection<Integer> books = wordToBookMapTemp.computeIfAbsent(word, k -> new ArrayList<>());
-            books.add(bookId);  // Agregar la clave a la lista de libros para esa palabra
+            books.add(bookId);
 
-            // Obtener las posiciones desde responseList
             Collection<Integer> responsePositions = responseList.getPositions();
 
-            // Agregar las posiciones para wordBookToPositionsMap (debe ser una colección de posiciones)
             Collection<Integer> positions = wordBookToPositionsMapTemp.computeIfAbsent(key, k -> new HashSet<>());
 
-            // Asegurarnos de que las posiciones se agregan correctamente
             if (responsePositions != null && !responsePositions.isEmpty()) {
                 positions.addAll(responsePositions);  // Agregar las posiciones de la lista
             }
 
-            // Verificar el estado de la colección de posiciones antes de subirlo a Hazelcast
         }
 
 
-        // Adquirir semáforo para el acceso a wordToBookMap
         semaphoreWTB.acquire();
         try {
-            // Hacer el cast adecuado para el tipo y agregar todas las entradas a la vez en wordToBookMap
             Map<? extends String, ? extends Collection<? extends Integer>> castedWordToBookMap = wordToBookMapTemp;
             wordToBookMap.putAllAsync((Map<? extends String, Collection<? extends Integer>>) castedWordToBookMap);
         } finally {
             semaphoreWTB.release();
         }
 
-        // Adquirir semáforo para el acceso a wordBookToPositionsMap
         semaphoreBTP.acquire();
         try {
-            // Hacer el cast adecuado para el tipo y agregar todas las entradas a la vez en wordBookToPositionsMap
             Map<? extends String, ? extends Collection<? extends Integer>> castedWordBookToPositionsMap = wordBookToPositionsMapTemp;
             wordBookToPositionsMap.putAllAsync((Map<? extends String, Collection<? extends Integer>>) castedWordBookToPositionsMap);
         } finally {

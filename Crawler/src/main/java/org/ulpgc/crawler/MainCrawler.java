@@ -14,7 +14,6 @@ import java.util.concurrent.locks.Lock;
 
 public class MainCrawler {
     public static void main(String[] args) throws InterruptedException {
-        // Configuración de Hazelcast
         Config config = new Config();
         config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
         config.getNetworkConfig().getJoin().getTcpIpConfig()
@@ -50,15 +49,12 @@ public class MainCrawler {
         IMap<Integer, Boolean> pagesMap = hazelcastInstance.getMap("pagesMap");
         IMap<Integer, Map<String, String>> metadata = hazelcastInstance.getMap("metadata");
 
-        // Inicializar el mapa de páginas si está vacío
         initializePagesMap(hazelcastInstance, pagesMap);
 
-        // Crear instancias del crawler y del indexador
         CrawlerThread crawler = new CrawlerThread();
         GutenbergTokenizer tokenizer = new GutenbergTokenizer("stopwords.txt");
         FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast("gutenberg_books", tokenizer, args);
 
-        // Procesar las páginas
         while (true) {
             Integer pageToProcess = getNextPage(hazelcastInstance, pagesMap);
             if (pageToProcess == null) {
@@ -71,7 +67,6 @@ public class MainCrawler {
             crawler.fetchBooks(pageToProcess);
             crawler.shutdownExecutor();
 
-            // Indexar los libros descargados
             indexer.indexAll();
 
             System.out.println("Página procesada: " + pageToProcess);
@@ -87,7 +82,6 @@ public class MainCrawler {
 
         ApiApplication.main(args);
 
-        // Finalizar el nodo
 //        hazelcastInstance.shutdown();
     }
 
@@ -96,12 +90,12 @@ public class MainCrawler {
         lock.lock();
         try {
             if (pagesMap.isEmpty()) {
-                System.out.println("Inicializando mapa de páginas...");
+                System.out.println("Creating Pages Map");
                 for (int i = 0; i <= 2100; i += 25) {
-                    pagesMap.put(i, false); // false indica que la página no ha sido procesada
+                    pagesMap.put(i, false);
                 }
             } else {
-                System.out.println("Mapa de páginas ya inicializado.");
+                System.out.println("Map already initialized");
             }
         } finally {
             lock.unlock();
@@ -110,12 +104,12 @@ public class MainCrawler {
 
     private static Integer getNextPage(HazelcastInstance hazelcastInstance, IMap<Integer, Boolean> pagesMap) {
         for (Integer page : pagesMap.keySet()) {
-            if (!pagesMap.get(page)) { // Verificar si la página no ha sido procesada
+            if (!pagesMap.get(page)) {
                 Lock lock = hazelcastInstance.getCPSubsystem().getLock("pageLock-" + page);
                 lock.lock();
                 try {
                     if (!pagesMap.get(page)) {
-                        pagesMap.put(page, true); // Marcar la página como procesada
+                        pagesMap.put(page, true);
                         return page;
                     }
                 } finally {
@@ -123,6 +117,6 @@ public class MainCrawler {
                 }
             }
         }
-        return null; // No quedan páginas por procesar
+        return null;
     }
 }

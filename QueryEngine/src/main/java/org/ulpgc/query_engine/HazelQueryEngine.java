@@ -86,19 +86,15 @@ public class HazelQueryEngine implements SearchEngineInterface {
         Map<Integer, Map<String, List<Integer>>> bookWordPositionsMap = new HashMap<>();
 
         for (String word : words) {
-            // Obtener todos los libros que contienen la palabra
             Collection<Integer> bookIds = wordToBookMap.get(word);
             if (bookIds != null) {
                 for (Integer bookId : bookIds) {
-                    // Construir la clave para wordBookToPositionsMap
                     String key = word + "|" + bookId;
 
                     Collection<Integer> positions = wordBookToPositionsMap.get(key);
                     if (positions != null) {
-                        // Convertir las posiciones en lista
                         List<Integer> positionList = new ArrayList<>(positions);
 
-                        // Obtener o crear el mapa de posiciones por palabra para el libro
                         bookWordPositionsMap.computeIfAbsent(bookId, k -> new HashMap<>())
                                 .put(word, positionList);
                     }

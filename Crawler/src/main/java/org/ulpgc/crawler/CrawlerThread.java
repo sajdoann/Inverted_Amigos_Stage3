@@ -33,12 +33,12 @@ public class CrawlerThread implements ICrawler {
 
     public void deleteDirectoryContents(File directory) {
         File[] files = directory.listFiles();
-        if (files != null) { // Verifica que no sea null en caso de error de acceso
+        if (files != null) {
             for (File file : files) {
                 if (file.isDirectory()) {
-                    deleteDirectoryContents(file); // Llama recursivamente si es un subdirectorio
+                    deleteDirectoryContents(file);
                 }
-                file.delete(); // Elimina el archivo o subdirectorio vacío
+                file.delete();
             }
         }
     }
