@@ -1,33 +1,128 @@
 package org.ulpgc.crawler;
 
+import com.hazelcast.config.Config;
+import com.hazelcast.core.Hazelcast;
+import com.hazelcast.core.HazelcastInstance;
+import com.hazelcast.map.IMap;
+import org.ulpgc.inverted_index.apps.FilePerWordInvertedIndexHazelcast;
+import org.ulpgc.inverted_index.implementations.GutenbergTokenizer;
+import org.ulpgc.api.ApiApplication;
+
+import java.io.File;
+import java.util.Map;
+import java.util.concurrent.locks.Lock;
+
 public class MainCrawler {
-    public static void main(String[] args) {
-        int[] bookCounts = {60};
-        double[][] results = new double[bookCounts.length][2];
+    public static void main(String[] args) throws InterruptedException {
+        // Configuración de Hazelcast
+        Config config = new Config();
+        config.getNetworkConfig().getJoin().getMulticastConfig().setEnabled(false);
+        config.getNetworkConfig().getJoin().getTcpIpConfig()
+                .setEnabled(true)
+                .addMember("10.26.14.200")
+                .addMember("10.26.14.201")
+                .addMember("10.26.14.202")
+                .addMember("10.26.14.203")
+                .addMember("10.26.14.204")
+                .addMember("10.26.14.205")
+                .addMember("10.26.14.206")
+                .addMember("10.26.14.207")
+                .addMember("10.26.14.208")
+                .addMember("10.26.14.209")
+                .addMember("10.26.14.210")
+                .addMember("10.26.14.211")
+                .addMember("10.26.14.212")
+                .addMember("10.26.14.213")
+                .addMember("10.26.14.214")
+                .addMember("10.26.14.215")
+                .addMember("10.26.14.216")
+                .addMember("10.26.14.217")
+                .addMember("10.26.14.218")
+                .addMember("10.26.14.219")
+                .addMember("10.26.14.220")
+                .addMember("10.26.14.221")
+                .addMember("10.26.14.222")
+                .addMember("10.26.14.223");
 
-        for (int i = 0; i < bookCounts.length; i++) {
-            int n = bookCounts[i];
+        config.getNetworkConfig().setPublicAddress(args[0]+":5701");
 
-            CrawlerThread crawlerThread = new CrawlerThread();
-            long startThread = System.nanoTime();
-            crawlerThread.fetchBooks(n);
-            long endThread = System.nanoTime();
-            results[i][0] = (endThread - startThread) / 1_000_000_000.0;
+        HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance(config);
+        IMap<Integer, Boolean> pagesMap = hazelcastInstance.getMap("pagesMap");
+        IMap<Integer, Map<String, String>> metadata = hazelcastInstance.getMap("metadata");
 
-//            CrawlerSerial crawlerSerial = new CrawlerSerial();
-            long startSerial = System.nanoTime();
-//            crawlerSerial.fetchBooks(n);
-            long endSerial = System.nanoTime();
-            results[i][1] = (endSerial - startSerial) / 1_000_000_000.0;
+        // Inicializar el mapa de páginas si está vacío
+        initializePagesMap(hazelcastInstance, pagesMap);
+
+        // Crear instancias del crawler y del indexador
+        CrawlerThread crawler = new CrawlerThread();
+        GutenbergTokenizer tokenizer = new GutenbergTokenizer("stopwords.txt");
+        FilePerWordInvertedIndexHazelcast indexer = new FilePerWordInvertedIndexHazelcast("gutenberg_books", tokenizer, args);
+
+        // Procesar las páginas
+        while (true) {
+            Integer pageToProcess = getNextPage(hazelcastInstance, pagesMap);
+            if (pageToProcess == null) {
+                System.out.println("No quedan páginas por procesar. Finalizando nodo...");
+                break;
+            }
+
+            System.out.println("Nodo procesando página: " + pageToProcess);
+
+            crawler.fetchBooks(pageToProcess);
+            crawler.shutdownExecutor();
+
+            // Indexar los libros descargados
+            indexer.indexAll();
+
+            System.out.println("Página procesada: " + pageToProcess);
+
+            File directory = new File("gutenberg_books");
+
+            crawler.deleteDirectoryContents(directory);
         }
 
-        System.out.println("======================================");
-        System.out.println("| Libros | CrawlerThread | CrawlerSerial |");
-        System.out.println("======================================");
-        for (int i = 0; i < bookCounts.length; i++) {
-            System.out.printf("|   %3d  |     %.2f s    |     %.2f s     |%n",
-                    bookCounts[i], results[i][0], results[i][1]);
+        File metadataFile = new File("gutenberg_data.txt");
+
+        crawler.loadMetadataFromFile(metadataFile, metadata);
+
+        ApiApplication.main(args);
+
+        // Finalizar el nodo
+//        hazelcastInstance.shutdown();
+    }
+
+    private static void initializePagesMap(HazelcastInstance hazelcastInstance, IMap<Integer, Boolean> pagesMap) {
+        Lock lock = hazelcastInstance.getCPSubsystem().getLock("initializationLock");
+        lock.lock();
+        try {
+            if (pagesMap.isEmpty()) {
+                System.out.println("Inicializando mapa de páginas...");
+                for (int i = 0; i <= 2100; i += 25) {
+                    pagesMap.put(i, false); // false indica que la página no ha sido procesada
+                }
+            } else {
+                System.out.println("Mapa de páginas ya inicializado.");
+            }
+        } finally {
+            lock.unlock();
         }
-        System.out.println("======================================");
+    }
+
+    private static Integer getNextPage(HazelcastInstance hazelcastInstance, IMap<Integer, Boolean> pagesMap) {
+        for (Integer page : pagesMap.keySet()) {
+            if (!pagesMap.get(page)) { // Verificar si la página no ha sido procesada
+                Lock lock = hazelcastInstance.getCPSubsystem().getLock("pageLock-" + page);
+                lock.lock();
+                try {
+                    if (!pagesMap.get(page)) {
+                        pagesMap.put(page, true); // Marcar la página como procesada
+                        return page;
+                    }
+                } finally {
+                    lock.unlock();
+                }
+            }
+        }
+        return null; // No quedan páginas por procesar
     }
 }

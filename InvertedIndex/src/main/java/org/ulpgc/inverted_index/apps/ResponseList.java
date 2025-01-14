@@ -25,4 +25,11 @@ public class ResponseList implements Serializable {
     public void addResult(Map.Entry<Integer, List<Integer>> result) {
         this.results.add(result);
     }
+    public List<Integer> getPositions() {
+        List<Integer> positions = new ArrayList<>();
+        for (Map.Entry<Integer, List<Integer>> entry : results) {
+            positions.addAll(entry.getValue());
+        }
+        return positions;
+    }
 }

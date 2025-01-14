@@ -20,6 +20,6 @@ public interface SearchEngineInterface {
         }
     }
 
-    public TextFragment getPartOfBookWithWord(Integer bookId, Integer wordId);
     public MultipleWordsResponseList searchForMultiplewithCriteria(String[] words, String title, String author, String from, String to, String language);
+    public TextFragment getPartOfBookWithWord(Integer bookId, Integer wordId);
 }

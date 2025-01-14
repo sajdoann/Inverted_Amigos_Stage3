@@ -1,7 +1,12 @@
 package org.ulpgc.crawler;
 
 import java.io.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Objects;
 import java.util.concurrent.*;
+
+import com.hazelcast.map.IMap;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -12,19 +17,34 @@ import java.util.regex.Pattern;
 
 public class CrawlerThread implements ICrawler {
     private final String baseUrl = "https://www.gutenberg.org";
-    private final String outputDir = "gutenberg_books";
-    private final ExecutorService executor; // Pool de hilos
+    private ExecutorService executor;
 
     public CrawlerThread() {
-        this.executor = Executors.newFixedThreadPool(10); // Crea un pool con 10 hilos
-        createOutputDirectory(outputDir);
+        this.executor = create_Executors();
+        createOutputDirectory();
     }
 
-    private void createOutputDirectory(String dir) {
-        File directory = new File(dir);
+    private void createOutputDirectory() {
+        File directory = new File("gutenberg_books");
         if (!directory.exists()) {
             directory.mkdir();
         }
+    }
+
+    public void deleteDirectoryContents(File directory) {
+        File[] files = directory.listFiles();
+        if (files != null) { // Verifica que no sea null en caso de error de acceso
+            for (File file : files) {
+                if (file.isDirectory()) {
+                    deleteDirectoryContents(file); // Llama recursivamente si es un subdirectorio
+                }
+                file.delete(); // Elimina el archivo o subdirectorio vacío
+            }
+        }
+    }
+
+    private ExecutorService create_Executors(){
+        return Executors.newFixedThreadPool(10);
     }
 
     private void downloadBookContent(String downloadLink, String bookFileName) {
@@ -47,7 +67,7 @@ public class CrawlerThread implements ICrawler {
     }
 
     private void saveMetadata(String id, String title, String author, String releaseDate, String language) {
-        synchronized (this) { // Sincronización para evitar conflictos al escribir en el archivo
+        synchronized (this) {
             try (BufferedWriter writer = new BufferedWriter(new FileWriter("gutenberg_data.txt", true))) {
                 writer.write("ID: " + id + ", Title: " + title + ", Author: " + author +
                         ", Release Date: " + releaseDate + ", Language: " + language + "\n");
@@ -60,7 +80,7 @@ public class CrawlerThread implements ICrawler {
     private void downloadBook(String bookLink) {
         try {
             Document bookPage = Jsoup.connect(baseUrl + bookLink).get();
-            String fullTitle = bookPage.selectFirst("h1").text();
+            String fullTitle = Objects.requireNonNull(bookPage.selectFirst("h1")).text();
 
             String title = extractMetadata(fullTitle, "Title");
             String author = extractMetadata(fullTitle, "Author");
@@ -85,6 +105,7 @@ public class CrawlerThread implements ICrawler {
                 }
 
                 String id = bookLink.split("/")[2];
+                String outputDir = "gutenberg_books";
                 String bookFileName = outputDir + "/" + id + ".txt";
 
                 downloadBookContent(downloadLink, bookFileName);
@@ -120,30 +141,72 @@ public class CrawlerThread implements ICrawler {
         return "Unknown";
     }
 
-    @Override
-    public void fetchBooks(int n) {
-        try {
-            Document searchPage = Jsoup.connect(baseUrl + "/ebooks/search/?sort_order=downloads").get();
-            Elements bookLinks = searchPage.select("li.booklink a");
+    public void loadMetadataFromFile(File metadataFile, IMap metadata) {
+        Pattern pattern = Pattern.compile("(\\w+)\\s*:\\s*((?:\\w+\\s+\\d{1,2},\\s+\\d{4})|[^,]+)");
+        try (BufferedReader reader = new BufferedReader(new FileReader(metadataFile))) {
+            String line;
 
-            int count = 0;
-            for (Element link : bookLinks) {
-                if (count >= n) break;
+            while ((line = reader.readLine()) != null) {
+                Map<String, String> bookData = new HashMap<>();
+                Matcher matcher = pattern.matcher(line);
+                int bookId = -1;
 
-                // Ejecutar cada descarga en un hilo del pool
-                String bookLink = link.attr("href");
-                executor.submit(() -> downloadBook(bookLink));
+                while (matcher.find()) {
+                    String key = matcher.group(1);
+                    String value = matcher.group(2);
+                    if (key.equals("ID")) bookId = Integer.parseInt(value);
+                    else bookData.put(key, value);
+                }
 
-                count++;
+                metadata.put(bookId, bookData);
             }
         } catch (IOException e) {
-            System.err.println("Error fetching book list: " + e.getMessage());
-        } finally {
-            shutdownExecutor();
+            System.err.println("Error reading metadata file: " + e.getMessage());
         }
     }
 
-    private void shutdownExecutor() {
+    @Override
+    public void fetchBooks(int page) {
+        createOutputDirectory();
+        this.executor = create_Executors();
+        String nextPage = baseUrl + "/ebooks/search/?sort_order=title&start_index=" + page;
+        CompletionService<Void> completionService = new ExecutorCompletionService<>(executor);
+
+        try {
+            System.out.println("Fetching from: " + nextPage);
+            Document searchPage = Jsoup.connect(nextPage).timeout(10000).get();
+
+            Elements bookLinks = searchPage.select("li.booklink a[href^='/ebooks/']");
+            System.out.println("Books found on page: " + bookLinks.size());
+
+            if (bookLinks.isEmpty()) {
+                System.err.println("No books found on page, stopping...");
+            }
+
+            for (Element link : bookLinks) {
+                String bookLink = link.attr("href");
+                completionService.submit(() -> {
+                    downloadBook(bookLink);
+                    return null;
+                });
+            }
+
+            for (int i = 0; i < bookLinks.size(); i++) {
+                try {
+                    completionService.take();
+                } catch (InterruptedException e) {
+                    System.err.println("Task interrupted while waiting: " + e.getMessage());
+                    Thread.currentThread().interrupt();
+                }
+            }
+        } catch (IOException e) {
+            System.err.println("Error fetching book list: " + e.getMessage());
+            Thread.currentThread().interrupt();
+        }
+
+    }
+
+    public void shutdownExecutor() {
         executor.shutdown();
         try {
             if (!executor.awaitTermination(60, TimeUnit.SECONDS)) {
@@ -153,5 +216,11 @@ public class CrawlerThread implements ICrawler {
             executor.shutdownNow();
             Thread.currentThread().interrupt();
         }
+    }
+
+    public static void main(String[] args) {
+        CrawlerThread crawlerThread = new CrawlerThread();
+        crawlerThread.fetchBooks(25);
+        crawlerThread.shutdownExecutor();
     }
 }

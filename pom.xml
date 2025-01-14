@@ -19,7 +19,7 @@
         <module>Crawler</module>
         <module>InvertedIndex</module>
         <module>QueryEngine</module>
-        <module>API2</module>
+        <module>API</module>
     </modules>
 
     <dependencies>

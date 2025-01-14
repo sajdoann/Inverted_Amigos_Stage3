@@ -2,5 +2,5 @@ package org.ulpgc.crawler;
 
 
 public interface ICrawler {
-    void fetchBooks(int n);
+    void fetchBooks(int page);
 }
